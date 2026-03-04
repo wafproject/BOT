@@ -1740,6 +1740,16 @@
       "descShort": " Garansi 5 Hari ",
       "snk": " Garansi 5 hari",
       "items": []
+    },
+    {
+      "code": "ZOOM",
+      "name": "Zoom Pro 14 Hari",
+      "category": "zoom pro",
+      "type": "akun",
+      "price": 3000,
+      "descShort": " Garansi 5 Hari ",
+      "snk": " Garansi 5 Hari",
+      "items": []
     }
   ]
 }
