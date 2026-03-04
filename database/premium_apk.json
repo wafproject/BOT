@@ -79,6 +79,16 @@
       "snk": "",
       "desc": "Garansi 5 Hari",
       "items": []
+    },
+    {
+      "code": "CC1B",
+      "name": "Capcut Pro 1 Bulan",
+      "price": 7000,
+      "stock": 0,
+      "descShort": "Full Garansi 25 Hari",
+      "snk": "",
+      "desc": "Full Garansi 25 Hari",
+      "items": []
     }
   ]
 }
