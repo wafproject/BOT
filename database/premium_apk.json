@@ -1,3 +1,14 @@
 {
-  "products": []
+  "products": [
+    {
+      "code": "CAN1B",
+      "name": "Canva Pro Member 1 Bulan",
+      "price": 1000,
+      "stock": 0,
+      "descShort": "Via invite Email",
+      "snk": "",
+      "desc": "Via invite Email",
+      "items": []
+    }
+  ]
 }
