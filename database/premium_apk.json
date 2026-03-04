@@ -88,6 +88,16 @@
       "descShort": "Full Garansi",
       "snk": "SILAHKAN KIRIM EMAIL KE ADMIN wa.me/6287731282876 | @enziwaf",
       "items": []
+    },
+    {
+      "code": "GPHEAD",
+      "name": "ChatGPT Head 1 Bulan",
+      "category": "ai chatgpt",
+      "type": "akun",
+      "price": 10000,
+      "descShort": "Garansi 25 Hari",
+      "snk": "* Maximum member 5 email (sudah termasuk head) * Garansi tidak berlaku jika akun terkena banned karena pelanggaran",
+      "items": []
     }
   ]
 }
