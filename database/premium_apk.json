@@ -19,6 +19,16 @@
       "snk": "",
       "desc": "Akun seller",
       "items": []
+    },
+    {
+      "code": "GPTEAM",
+      "name": "ChatGPT Bussines Head 1 Bulan",
+      "price": 10000,
+      "stock": 0,
+      "descShort": "Akun seller",
+      "snk": "",
+      "desc": "Akun seller",
+      "items": []
     }
   ]
 }
