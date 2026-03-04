@@ -128,6 +128,16 @@
       "descShort": " Full Garansi ",
       "snk": " * Full Garansi 25 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
       "items": []
+    },
+    {
+      "code": "APMEMBER",
+      "name": "Apple Music Member 1 Bulan",
+      "category": "apple music",
+      "type": "info",
+      "price": 3500,
+      "descShort": " Garansi 25 Hari ",
+      "snk": " SILAHKAN KIRIM EMAIL KE ADMIN wa.me/6287731282876 | @enziwaf",
+      "items": []
     }
   ]
 }
