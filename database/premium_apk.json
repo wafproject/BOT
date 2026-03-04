@@ -4,5 +4,16 @@
       "name": "ai chatgpt"
     }
   ],
-  "products": []
+  "products": [
+    {
+      "code": "GPHEAD",
+      "name": "ChatGPT Bussines Head 1 Bulan",
+      "category": "ai chatgpt",
+      "type": "akun",
+      "price": 10000,
+      "descShort": "No Garansi",
+      "snk": "",
+      "items": []
+    }
+  ]
 }
