@@ -1929,6 +1929,16 @@
         }
       ],
       "stock": 1
+    },
+    {
+      "code": "AM",
+      "name": "Alight Motion 1 Tahun",
+      "category": "alight motion",
+      "type": "email",
+      "price": 500,
+      "descShort": " Durasi Random 5-12 Bulan ",
+      "snk": " Akses Email https://generator.email/",
+      "items": []
     }
   ]
 }
