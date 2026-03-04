@@ -29,6 +29,16 @@
       "snk": "",
       "desc": "Akun seller",
       "items": []
+    },
+    {
+      "code": "GPHEAD",
+      "name": "ChatGPT Bussines Head 1 Bulan",
+      "price": 10000,
+      "stock": 0,
+      "descShort": "No Garansi",
+      "snk": "",
+      "desc": "No Garansi",
+      "items": []
     }
   ]
 }
