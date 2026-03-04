@@ -34,11 +34,48 @@
       "code": "GPHEAD",
       "name": "ChatGPT Bussines Head 1 Bulan",
       "price": 10000,
-      "stock": 0,
+      "stock": 6,
       "descShort": "No Garansi",
       "snk": "",
       "desc": "No Garansi",
-      "items": []
+      "items": [
+        {
+          "email": "cheb10506@topupgg.app",
+          "password": "premiummin123",
+          "desc": "",
+          "addedAt": 1772624651214
+        },
+        {
+          "email": "klkl03@25sas.help",
+          "password": "premiummin123",
+          "desc": "",
+          "addedAt": 1772624651214
+        },
+        {
+          "email": "18jack@cetgpt.com",
+          "password": "premiummin123",
+          "desc": "",
+          "addedAt": 1772624651214
+        },
+        {
+          "email": "diehard5000@egsouq.shop",
+          "password": "premiummin123",
+          "desc": "",
+          "addedAt": 1772624651214
+        },
+        {
+          "email": "grazjeg@shiita12.com",
+          "password": "premiummin123",
+          "desc": "",
+          "addedAt": 1772624651214
+        },
+        {
+          "email": "reptyle@pickuplanet.com",
+          "password": "premiummin123",
+          "desc": "",
+          "addedAt": 1772624651214
+        }
+      ]
     },
     {
       "code": "GPTEAM7",
