@@ -9,6 +9,16 @@
       "snk": "",
       "desc": "Via invite Email",
       "items": []
+    },
+    {
+      "code": "CANHEAD",
+      "name": "Canva Pro Head 1 Bulan",
+      "price": 3500,
+      "stock": 0,
+      "descShort": "Akun seller",
+      "snk": "",
+      "desc": "Akun seller",
+      "items": []
     }
   ]
 }
