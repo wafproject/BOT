@@ -131,11 +131,24 @@
       "code": "WINK7D",
       "name": "Wink VIP 7 Hari",
       "price": 3000,
-      "stock": 0,
+      "stock": 2,
       "descShort": "Garansi 5 Hari",
       "snk": "",
       "desc": "Garansi 5 Hari",
-      "items": []
+      "items": [
+        {
+          "email": "sosefolo@mgsuite.click",
+          "password": "qweqweqwe",
+          "desc": "",
+          "addedAt": 1772626015627
+        },
+        {
+          "email": "sosefolo@mgsuite.click",
+          "password": "qweqweqwe",
+          "desc": "",
+          "addedAt": 1772626015627
+        }
+      ]
     },
     {
       "code": "ZOOM14D",
