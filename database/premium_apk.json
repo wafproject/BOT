@@ -48,6 +48,16 @@
       "descShort": "No Garansi",
       "snk": "* Akun head bisa invite max 100 member * No Garansi * Akses email https://generator.email/ , kalau bingunh tanya ke admin",
       "items": []
+    },
+    {
+      "code": "CANADMIN",
+      "name": "Canva Pro Admin 1 Bulan",
+      "category": "canva pro",
+      "type": "info",
+      "price": 2500,
+      "descShort": "Via invite email",
+      "snk": "SILAHKAN KIRIM EMAIL KE ADMIN wa.me/6287731282876 | @enziwaf",
+      "items": []
     }
   ]
 }
