@@ -363,7 +363,7 @@
         }
       ],
       "stock": 1,
-      "sold": 0
+      "sold": 254
     },
     {
       "code": "CANADMIN",
@@ -544,7 +544,7 @@
         }
       ],
       "stock": 56,
-      "sold": 0
+      "sold": 149
     },
     {
       "code": "CANEDU",
@@ -953,7 +953,7 @@
         }
       ],
       "stock": 132,
-      "sold": 0
+      "sold": 94
     },
     {
       "code": "GPTEAM",
@@ -1362,7 +1362,7 @@
         }
       ],
       "stock": 132,
-      "sold": 0
+      "sold": 487
     },
     {
       "code": "GPTEAMFULL",
@@ -1726,7 +1726,7 @@
         }
       ],
       "stock": 117,
-      "sold": 0
+      "sold": 512
     },
     {
       "code": "GPHEAD",
@@ -1763,7 +1763,7 @@
         }
       ],
       "stock": 6,
-      "sold": 0
+      "sold": 166
     },
     {
       "code": "GPTPLUS",
@@ -1775,7 +1775,7 @@
       "snk": "* Garansi 14 Hari * Garansi tidak berlaku jika akun terkena banned karena pelanggaran * Akses email https://generator.email/ , tanya ke admin jika bingung",
       "items": [],
       "sold": 0,
-      "stock": 0
+      "stock": 58
     },
     {
       "code": "CAPCUT7D",
@@ -1787,7 +1787,7 @@
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
       "items": [],
       "sold": 0,
-      "stock": 0
+      "stock": 254
     },
     {
       "code": "CAPCUT1B",
@@ -1799,7 +1799,7 @@
       "snk": " * Full Garansi 25 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
       "items": [],
       "sold": 0,
-      "stock": 0
+      "stock": 135
     },
     {
       "code": "APMEMBER",
@@ -1811,7 +1811,7 @@
       "snk": " SILAHKAN KIRIM EMAIL KE ADMIN wa.me/6287731282876 | @enziwaf",
       "items": [],
       "sold": 0,
-      "stock": 0
+      "stock": 65
     },
     {
       "code": "APHEAD",
@@ -1823,7 +1823,7 @@
       "snk": " * No Garansi * Bisa invite 6 anggota * Login hanya di android",
       "items": [],
       "sold": 0,
-      "stock": 0
+      "stock": 55
     },
     {
       "code": "WINK7D",
@@ -1848,7 +1848,7 @@
         }
       ],
       "stock": 3,
-      "sold": 0
+      "sold": 78
     },
     {
       "code": "WINK1B",
@@ -1860,7 +1860,7 @@
       "snk": " 📌 *GARANSI* • Garansi 1x ganti akun jika saat proses premium gagal/tidak bisa digunakan. • Tidak ada pergantian akun kembali setelah 1x penggantian. 💓 *CARA MENGAKTIFKAN PREMIUM WINK* ❗ *WAJIB:* • Uninstall aplikasi Wink jika sudah terpasang. • Restart perangkat sebelum memulai proses premium. • Jangan login akun di aplikasi Wink. Gmail hanya untuk mengaktifkan premium, bukan untuk login akun di aplikasi. *Langkah-langkah:* 1. Login ke Play Store menggunakan email dan password di atas. 2. Download aplikasi Wink melalui akun tersebut di Play Store. 3. Buka aplikasi Wink, masuk ke menu VIP. 4. Klik VIP lalu pilih \"Pulihkan Pembelian\" di pojok kanan bawah. 5. Jika berhasil, premium akan otomatis aktif. ❗ *SYARAT & KETENTUAN* - Dilarang mengganti email & password. - Dilarang mengubah detail billing. - Berlaku untuk 1 device (jika ingin mencoba di device lain, beri jeda sebelum pulihkan pembelian). - Wajib kirim bukti login maksimal 24 jam untuk mengaktifkan garansi. 💙 *TERIMA KASIH* 💙",
       "items": [],
       "sold": 0,
-      "stock": 0
+      "stock": 49
     },
     {
       "code": "MEITU7D",
@@ -1885,7 +1885,7 @@
         }
       ],
       "stock": 3,
-      "sold": 0
+      "sold": 59
     },
     {
       "code": "SCRIBD",
@@ -1897,7 +1897,7 @@
       "snk": " Garansi 20 Hari",
       "items": [],
       "sold": 0,
-      "stock": 0
+      "stock": 78
     },
     {
       "code": "IBISP",
@@ -1926,7 +1926,7 @@
         }
       ],
       "stock": 4,
-      "sold": 0
+      "sold": 26
     },
     {
       "code": "PICS",
@@ -1938,7 +1938,7 @@
       "snk": " Garansi 5 hari",
       "items": [],
       "sold": 0,
-      "stock": 0
+      "stock": 46
     },
     {
       "code": "ZOOM",
@@ -1955,7 +1955,7 @@
         }
       ],
       "stock": 1,
-      "sold": 0
+      "sold": 23
     },
     {
       "code": "AM",
@@ -1992,7 +1992,7 @@
         }
       ],
       "stock": 8,
-      "sold": 0
+      "sold": 412
     },
     {
       "code": "VIU",
@@ -2045,7 +2045,7 @@
         }
       ],
       "stock": 10,
-      "sold": 0
+      "sold": 265
     }
   ],
   "meta": {
