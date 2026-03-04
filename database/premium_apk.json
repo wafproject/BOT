@@ -109,6 +109,16 @@
       "snk": "",
       "desc": "Garansi 7 Hari",
       "items": []
+    },
+    {
+      "code": "AM",
+      "name": "Alight Motion 1 Tahun",
+      "price": 500,
+      "stock": 0,
+      "descShort": "Akun seller",
+      "snk": "",
+      "desc": "Akun seller",
+      "items": []
     }
   ]
 }
