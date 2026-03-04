@@ -1977,7 +1977,49 @@
       "price": 1000,
       "descShort": " Email dari seller ",
       "snk": " • Viu private disarankan tetap 1 device / max 2 device • Garansi 1 bulan • Akun terblokir = NOGAR • Dilarang ubah pass / DENDA 5x lipat • Akun tidak include paket viu+",
-      "items": []
+      "items": [
+        {
+          "email": "nainggolanwahyu1571@yopmail.com",
+          "password": "masuk12345"
+        },
+        {
+          "email": "estiono311095@yopmail.com",
+          "password": "masuk12345"
+        },
+        {
+          "email": "hnuraini9468@yopmail.com",
+          "password": "masuk12345"
+        },
+        {
+          "email": "gangsawahyudin9900@yopmail.com",
+          "password": "masuk12345"
+        },
+        {
+          "email": "permadiyulia3958@yopmail.com",
+          "password": "masuk12345"
+        },
+        {
+          "email": "salwa527430@yopmail.com",
+          "password": "masuk12345"
+        },
+        {
+          "email": "indahwinarno2612@yopmail.com",
+          "password": "masuk12345"
+        },
+        {
+          "email": "safitrijefri6014@yopmail.com",
+          "password": "masuk12345"
+        },
+        {
+          "email": "ezulkarnain2093@yopmail.com",
+          "password": "masuk12345"
+        },
+        {
+          "email": "waluyogamani9875@yopmail.com",
+          "password": "masuk12345"
+        }
+      ],
+      "stock": 10
     }
   ]
 }
