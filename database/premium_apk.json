@@ -141,11 +141,18 @@
       "code": "ZOOM14D",
       "name": "Zoom Pro 14 Hari",
       "price": 5000,
-      "stock": 0,
+      "stock": 1,
       "descShort": "Garansi 7 Hari",
       "snk": "",
       "desc": "Garansi 7 Hari",
-      "items": []
+      "items": [
+        {
+          "email": "flouisa@icbr.us",
+          "password": "Masuk123",
+          "desc": "",
+          "addedAt": 1772625973141
+        }
+      ]
     },
     {
       "code": "AM",
