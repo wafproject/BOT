@@ -89,6 +89,16 @@
       "snk": "",
       "desc": "Full Garansi 25 Hari",
       "items": []
+    },
+    {
+      "code": "WINK7D",
+      "name": "Wink VIP 7 Hari",
+      "price": 3000,
+      "stock": 0,
+      "descShort": "Garansi 5 Hari",
+      "snk": "",
+      "desc": "Garansi 5 Hari",
+      "items": []
     }
   ]
 }
