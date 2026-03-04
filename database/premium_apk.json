@@ -191,11 +191,24 @@
       "code": "MEITU7D",
       "name": "Meitu Premium 7 Hari",
       "price": 3000,
-      "stock": 0,
+      "stock": 2,
       "descShort": "Akun seller",
       "snk": "",
       "desc": "Akun seller",
-      "items": []
+      "items": [
+        {
+          "email": "sosefolo@mgsuite.click",
+          "password": "qweqweqwe",
+          "desc": "",
+          "addedAt": 1772626095524
+        },
+        {
+          "email": "sosefolo@mgsuite.click",
+          "password": "qweqweqwe",
+          "desc": "",
+          "addedAt": 1772626095524
+        }
+      ]
     }
   ]
 }
