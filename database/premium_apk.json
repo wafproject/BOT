@@ -69,6 +69,16 @@
       "snk": "",
       "desc": "Only android",
       "items": []
+    },
+    {
+      "code": "CC7D",
+      "name": "Capcut Pro 7 Hari",
+      "price": 3000,
+      "stock": 0,
+      "descShort": "Garansi 5 Hari",
+      "snk": "",
+      "desc": "Garansi 5 Hari",
+      "items": []
     }
   ]
 }
