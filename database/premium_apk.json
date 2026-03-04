@@ -39,6 +39,16 @@
       "snk": "",
       "desc": "No Garansi",
       "items": []
+    },
+    {
+      "code": "GPTEAM7",
+      "name": "ChatGPT Member 1 Bulan Gar7D",
+      "price": 5000,
+      "stock": 0,
+      "descShort": "Via invite email",
+      "snk": "",
+      "desc": "Via invite email",
+      "items": []
     }
   ]
 }
