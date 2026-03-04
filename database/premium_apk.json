@@ -99,6 +99,16 @@
       "snk": "",
       "desc": "Garansi 5 Hari",
       "items": []
+    },
+    {
+      "code": "ZOOM14D",
+      "name": "Zoom Pro 14 Hari",
+      "price": 5000,
+      "stock": 0,
+      "descShort": "Garansi 7 Hari",
+      "snk": "",
+      "desc": "Garansi 7 Hari",
+      "items": []
     }
   ]
 }
