@@ -119,6 +119,16 @@
       "snk": "",
       "desc": "Akun seller",
       "items": []
+    },
+    {
+      "code": "VIU",
+      "name": "Viu 1 Tahun",
+      "price": 1000,
+      "stock": 0,
+      "descShort": "Akun seller",
+      "snk": "",
+      "desc": "Akun seller",
+      "items": []
     }
   ]
 }
