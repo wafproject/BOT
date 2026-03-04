@@ -343,12 +343,10 @@
         },
         {
           "link": "https://www.canva.com/brand/join?token=9Fj5X6vZZwJDnQkVfKCPYQ&referrer=team-invite"
-        },
-        {
-          "link": "https://www.canva.com/brand/join?token=9Fj5X6vZZwJDnQkVfKCPYQ&referrer=team-invite"
         }
       ],
-      "stock": 100
+      "stock": 99,
+      "sold": 1
     },
     {
       "code": "CANHEAD",
@@ -364,7 +362,8 @@
           "password": "CanvaPro123"
         }
       ],
-      "stock": 1
+      "stock": 1,
+      "sold": 0
     },
     {
       "code": "CANADMIN",
@@ -544,7 +543,8 @@
           "text": "Via invite Email"
         }
       ],
-      "stock": 56
+      "stock": 56,
+      "sold": 0
     },
     {
       "code": "CANEDU",
@@ -952,7 +952,8 @@
           "text": "Via Invite Email"
         }
       ],
-      "stock": 132
+      "stock": 132,
+      "sold": 0
     },
     {
       "code": "GPTEAM",
@@ -1360,7 +1361,8 @@
           "text": "Via Invite Email"
         }
       ],
-      "stock": 132
+      "stock": 132,
+      "sold": 0
     },
     {
       "code": "GPTEAMFULL",
@@ -1723,7 +1725,8 @@
           "text": "Via Invite Email"
         }
       ],
-      "stock": 117
+      "stock": 117,
+      "sold": 0
     },
     {
       "code": "GPHEAD",
@@ -1759,7 +1762,8 @@
           "password": "premiummin123"
         }
       ],
-      "stock": 6
+      "stock": 6,
+      "sold": 0
     },
     {
       "code": "GPTPLUS",
@@ -1769,7 +1773,9 @@
       "price": 5000,
       "descShort": "Garansi 14 Hari",
       "snk": "* Garansi 14 Hari * Garansi tidak berlaku jika akun terkena banned karena pelanggaran * Akses email https://generator.email/ , tanya ke admin jika bingung",
-      "items": []
+      "items": [],
+      "sold": 0,
+      "stock": 0
     },
     {
       "code": "CAPCUT7D",
@@ -1779,7 +1785,9 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
-      "items": []
+      "items": [],
+      "sold": 0,
+      "stock": 0
     },
     {
       "code": "CAPCUT1B",
@@ -1789,7 +1797,9 @@
       "price": 7000,
       "descShort": " Full Garansi ",
       "snk": " * Full Garansi 25 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
-      "items": []
+      "items": [],
+      "sold": 0,
+      "stock": 0
     },
     {
       "code": "APMEMBER",
@@ -1799,7 +1809,9 @@
       "price": 3500,
       "descShort": " Garansi 25 Hari ",
       "snk": " SILAHKAN KIRIM EMAIL KE ADMIN wa.me/6287731282876 | @enziwaf",
-      "items": []
+      "items": [],
+      "sold": 0,
+      "stock": 0
     },
     {
       "code": "APHEAD",
@@ -1809,7 +1821,9 @@
       "price": 10000,
       "descShort": " Only Android ",
       "snk": " * No Garansi * Bisa invite 6 anggota * Login hanya di android",
-      "items": []
+      "items": [],
+      "sold": 0,
+      "stock": 0
     },
     {
       "code": "WINK7D",
@@ -1833,7 +1847,8 @@
           "password": "qweqweqwe"
         }
       ],
-      "stock": 3
+      "stock": 3,
+      "sold": 0
     },
     {
       "code": "WINK1B",
@@ -1843,7 +1858,9 @@
       "price": 12000,
       "descShort": " Renewal ",
       "snk": " 📌 *GARANSI* • Garansi 1x ganti akun jika saat proses premium gagal/tidak bisa digunakan. • Tidak ada pergantian akun kembali setelah 1x penggantian. 💓 *CARA MENGAKTIFKAN PREMIUM WINK* ❗ *WAJIB:* • Uninstall aplikasi Wink jika sudah terpasang. • Restart perangkat sebelum memulai proses premium. • Jangan login akun di aplikasi Wink. Gmail hanya untuk mengaktifkan premium, bukan untuk login akun di aplikasi. *Langkah-langkah:* 1. Login ke Play Store menggunakan email dan password di atas. 2. Download aplikasi Wink melalui akun tersebut di Play Store. 3. Buka aplikasi Wink, masuk ke menu VIP. 4. Klik VIP lalu pilih \"Pulihkan Pembelian\" di pojok kanan bawah. 5. Jika berhasil, premium akan otomatis aktif. ❗ *SYARAT & KETENTUAN* - Dilarang mengganti email & password. - Dilarang mengubah detail billing. - Berlaku untuk 1 device (jika ingin mencoba di device lain, beri jeda sebelum pulihkan pembelian). - Wajib kirim bukti login maksimal 24 jam untuk mengaktifkan garansi. 💙 *TERIMA KASIH* 💙",
-      "items": []
+      "items": [],
+      "sold": 0,
+      "stock": 0
     },
     {
       "code": "MEITU7D",
@@ -1867,7 +1884,8 @@
           "password": "qweqweqwe"
         }
       ],
-      "stock": 3
+      "stock": 3,
+      "sold": 0
     },
     {
       "code": "SCRIBD",
@@ -1877,7 +1895,9 @@
       "price": 3000,
       "descShort": " Garansi 20 hari",
       "snk": " Garansi 20 Hari",
-      "items": []
+      "items": [],
+      "sold": 0,
+      "stock": 0
     },
     {
       "code": "IBISP",
@@ -1905,7 +1925,8 @@
           "password": "qweqweqwe"
         }
       ],
-      "stock": 4
+      "stock": 4,
+      "sold": 0
     },
     {
       "code": "PICS",
@@ -1915,7 +1936,9 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": " Garansi 5 hari",
-      "items": []
+      "items": [],
+      "sold": 0,
+      "stock": 0
     },
     {
       "code": "ZOOM",
@@ -1931,7 +1954,8 @@
           "password": "Masuk123"
         }
       ],
-      "stock": 1
+      "stock": 1,
+      "sold": 0
     },
     {
       "code": "AM",
@@ -1967,7 +1991,8 @@
           "email": "gorcovka@pawgpt.nl"
         }
       ],
-      "stock": 8
+      "stock": 8,
+      "sold": 0
     },
     {
       "code": "VIU",
@@ -2019,7 +2044,12 @@
           "password": "masuk12345"
         }
       ],
-      "stock": 10
+      "stock": 10,
+      "sold": 0
     }
-  ]
+  ],
+  "meta": {
+    "version": 1,
+    "updated_at": "2026-03-04T18:20:26.523Z"
+  }
 }
