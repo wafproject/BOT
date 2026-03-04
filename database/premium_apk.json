@@ -14,11 +14,18 @@
       "code": "CANHEAD",
       "name": "Canva Pro Head 1 Bulan",
       "price": 3500,
-      "stock": 0,
+      "stock": 1,
       "descShort": "Akun seller",
       "snk": "",
       "desc": "Akun seller",
-      "items": []
+      "items": [
+        {
+          "email": "hubyt0802@gmail.com",
+          "password": "CanvaPro123",
+          "desc": "",
+          "addedAt": 1772626207417
+        }
+      ]
     },
     {
       "code": "GPTEAM",
