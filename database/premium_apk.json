@@ -78,6 +78,16 @@
       "descShort": "Garansi 7 Hari",
       "snk": "SILAHKAN KIRIM EMAIL KE ADMIN wa.me/6287731282876 | @enziwaf",
       "items": []
+    },
+    {
+      "code": "GPTEAMFULL",
+      "name": "ChatGPT Member 1 Bulan",
+      "category": "ai chatgpt",
+      "type": "info",
+      "price": 5000,
+      "descShort": "Full Garansi",
+      "snk": "SILAHKAN KIRIM EMAIL KE ADMIN wa.me/6287731282876 | @enziwaf",
+      "items": []
     }
   ]
 }
