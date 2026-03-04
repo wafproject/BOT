@@ -14,6 +14,16 @@
       "descShort": "No Garansi",
       "snk": "",
       "items": []
+    },
+    {
+      "code": "GPTEAM",
+      "name": "ChatGPT Bussines Member 1 Bulan",
+      "category": "ai chatgpt",
+      "type": "info",
+      "price": 10000,
+      "descShort": "Full Garansi",
+      "snk": "",
+      "items": []
     }
   ]
 }
