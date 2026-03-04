@@ -118,6 +118,16 @@
       "descShort": " Garansi 5 Hari ",
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
       "items": []
+    },
+    {
+      "code": "CAPCUT1B",
+      "name": "Capcut Pro 1 Bulan",
+      "category": "capcut pro",
+      "type": "akun",
+      "price": 7000,
+      "descShort": " Full Garansi ",
+      "snk": " * Full Garansi 25 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
+      "items": []
     }
   ]
 }
