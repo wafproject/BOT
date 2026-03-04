@@ -186,6 +186,16 @@
       "snk": "",
       "desc": "Akun seller",
       "items": []
+    },
+    {
+      "code": "MEITU7D",
+      "name": "Meitu Premium 7 Hari",
+      "price": 3000,
+      "stock": 0,
+      "descShort": "Akun seller",
+      "snk": "",
+      "desc": "Akun seller",
+      "items": []
     }
   ]
 }
