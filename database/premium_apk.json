@@ -1766,9 +1766,26 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
-      "items": [],
+      "items": [
+        {
+          "email": "g6z3jogk@5e3q.suitenulla.my.id",
+          "password": "masuk123"
+        },
+        {
+          "email": "nxrdgknv@u1dn.suitenulla.my.id",
+          "password": "masuk123"
+        },
+        {
+          "email": "jgfdycgu@lrvr.suitenulla.my.id",
+          "password": "masuk123"
+        },
+        {
+          "email": "oi9y28lq@mama.suitenulla.my.id",
+          "password": "masuk123"
+        }
+      ],
       "sold": 254,
-      "stock": 0
+      "stock": 4
     },
     {
       "code": "CAPCUT1B",
