@@ -1862,14 +1862,10 @@
         {
           "email": "sosefolo@mgsuite.click",
           "password": "qweqweqwe"
-        },
-        {
-          "email": "sosefolo@mgsuite.click",
-          "password": "qweqweqwe"
         }
       ],
-      "stock": 3,
-      "sold": 59
+      "stock": 2,
+      "sold": 60
     },
     {
       "code": "SCRIBD",
