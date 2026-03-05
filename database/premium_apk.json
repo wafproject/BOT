@@ -2023,6 +2023,16 @@
       ],
       "stock": 10,
       "sold": 265
+    },
+    {
+      "code": "CANJASPAY",
+      "name": "Canva Head Jaspay 1 Bulan",
+      "category": "canva pro",
+      "type": "info",
+      "price": 3000,
+      "descShort": " Wajib email fresh ",
+      "snk": " * Akun Buyer * Wajib email fresh * ⁠No Garansi",
+      "items": []
     }
   ],
   "meta": {
