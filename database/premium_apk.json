@@ -1964,9 +1964,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "kolerobeast@gptpremapp.me"
-        },
-        {
           "email": "rhudeza@muvilo.net"
         },
         {
@@ -1988,8 +1985,8 @@
           "email": "gorcovka@pawgpt.nl"
         }
       ],
-      "stock": 8,
-      "sold": 412
+      "stock": 7,
+      "sold": 413
     },
     {
       "code": "VIU",
@@ -2235,7 +2232,8 @@
           "text": "KIRIM SCREENSHOT BUKTI ORDER KE ADMIN, AKUN AKAN DI PROSES SETELAH KIRIM BUKTI ORDER. WA : wa.me/6287731282876 Tele : @enziwaf"
         }
       ],
-      "stock": 23
+      "stock": 23,
+      "sold": 0
     },
     {
       "code": "SPO1BFULLGAR",
@@ -2316,7 +2314,8 @@
           "text": "KIRIM SCREENSHOT BUKTI ORDER KE ADMIN, AKUN AKAN DI PROSES SETELAH KIRIM BUKTI ORDER. WA : wa.me/6287731282876 Tele : @enziwaf"
         }
       ],
-      "stock": 23
+      "stock": 23,
+      "sold": 0
     },
     {
       "code": "REMINI",
@@ -2336,7 +2335,8 @@
           "password": "qweqweqwe"
         }
       ],
-      "stock": 2
+      "stock": 2,
+      "sold": 0
     },
     {
       "code": "YTJASPAY",
@@ -2408,7 +2408,8 @@
           "text": "Kirim data ke admin wa/6287731282876 / @enziwaf"
         }
       ],
-      "stock": 20
+      "stock": 20,
+      "sold": 0
     }
   ],
   "meta": {
