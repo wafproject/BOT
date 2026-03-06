@@ -1838,9 +1838,17 @@
         {
           "email": "sidatahu@mgsuite.vip",
           "password": "qweqweqwe"
+        },
+        {
+          "email": "sidatahu@mgsuite.vip",
+          "password": "qweqweqwe"
+        },
+        {
+          "email": "sidatahu@mgsuite.vip",
+          "password": "qweqweqwe"
         }
       ],
-      "stock": 2,
+      "stock": 4,
       "sold": 78
     },
     {
