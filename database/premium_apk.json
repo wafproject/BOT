@@ -1982,13 +1982,8 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": " Garansi 5 Hari",
-      "items": [
-        {
-          "email": "flouisa@icbr.us",
-          "password": "Masuk123"
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 23
     },
     {
