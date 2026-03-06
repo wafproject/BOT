@@ -1765,9 +1765,14 @@
       "price": 5000,
       "descShort": "Garansi 14 Hari",
       "snk": "* Garansi 14 Hari * Garansi tidak berlaku jika akun terkena banned karena pelanggaran * Akses email https://generator.email/ , tanya ke admin jika bingung",
-      "items": [],
+      "items": [
+        {
+          "email": "mchptriumf1@fitbuybid.com",
+          "password": "premiummin123"
+        }
+      ],
       "sold": 58,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "CAPCUT7D",
