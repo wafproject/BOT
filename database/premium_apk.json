@@ -1809,9 +1809,22 @@
       "price": 3500,
       "descShort": " Garansi 25 Hari ",
       "snk": " SILAHKAN KIRIM EMAIL KE ADMIN wa.me/6287731282876 | @enziwaf",
-      "items": [],
+      "items": [
+        {
+          "text": "Kirim email ke admin wa/6287731282876 / @enziwaf"
+        },
+        {
+          "text": "Kirim email ke admin wa/6287731282876 / @enziwaf"
+        },
+        {
+          "text": "Kirim email ke admin wa/6287731282876 / @enziwaf"
+        },
+        {
+          "text": "Kirim email ke admin wa/6287731282876 / @enziwaf"
+        }
+      ],
       "sold": 65,
-      "stock": 0
+      "stock": 4
     },
     {
       "code": "APHEAD",
