@@ -344,8 +344,13 @@
       "price": 3500,
       "descShort": "No Garansi",
       "snk": "* Akun head bisa invite max 100 member * No Garansi * Akses email https://generator.email/ , kalau bingunh tanya ke admin",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "kumahabarudakatuh@gmail.com",
+          "password": "Masuk123"
+        }
+      ],
+      "stock": 1,
       "sold": 255
     },
     {
