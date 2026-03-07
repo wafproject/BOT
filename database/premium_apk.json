@@ -2009,9 +2009,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "rhudeza@muvilo.net"
-        },
-        {
           "email": "davepri@cooljump.org"
         },
         {
@@ -2030,8 +2027,8 @@
           "email": "gorcovka@pawgpt.nl"
         }
       ],
-      "stock": 7,
-      "sold": 413
+      "stock": 6,
+      "sold": 414
     },
     {
       "code": "VIU",
@@ -2470,7 +2467,8 @@
           "password": "masuk123"
         }
       ],
-      "stock": 1
+      "stock": 1,
+      "sold": 0
     }
   ],
   "meta": {
