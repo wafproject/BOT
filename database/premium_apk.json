@@ -1927,14 +1927,9 @@
       "price": 3000,
       "descShort": " Garansi 20 hari",
       "snk": " Garansi 20 Hari",
-      "items": [
-        {
-          "email": "bezniucoleg@dudscc.com",
-          "password": "Masuk12345"
-        }
-      ],
-      "sold": 78,
-      "stock": 1
+      "items": [],
+      "sold": 79,
+      "stock": 0
     },
     {
       "code": "IBISP",
