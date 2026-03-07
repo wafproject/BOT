@@ -1887,14 +1887,10 @@
         {
           "email": "ziheroja@mgsuite.vip",
           "password": "qweqweqwe"
-        },
-        {
-          "email": "ziheroja@mgsuite.vip",
-          "password": "qweqweqwe"
         }
       ],
-      "stock": 2,
-      "sold": 78
+      "stock": 1,
+      "sold": 79
     },
     {
       "code": "WINK1B",
