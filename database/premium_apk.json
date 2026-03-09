@@ -1717,10 +1717,6 @@
       "snk": "* Maximum member 5 email (sudah termasuk head) * Garansi tidak berlaku jika akun terkena banned karena pelanggaran",
       "items": [
         {
-          "email": "18jack@cetgpt.com",
-          "password": "premiummin123"
-        },
-        {
           "email": "pdscolt45@eastmm.cc",
           "password": "premiummin123"
         },
@@ -1733,7 +1729,7 @@
           "password": "premiummin123"
         }
       ],
-      "stock": 4,
+      "stock": 3,
       "sold": 166
     },
     {
