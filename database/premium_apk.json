@@ -2281,7 +2281,7 @@
         }
       ],
       "stock": 23,
-      "sold": 0
+      "sold": 245
     },
     {
       "code": "SPO1BFULLGAR",
@@ -2363,7 +2363,7 @@
         }
       ],
       "stock": 23,
-      "sold": 0
+      "sold": 147
     },
     {
       "code": "REMINI",
@@ -2384,7 +2384,7 @@
         }
       ],
       "stock": 2,
-      "sold": 0
+      "sold": 54
     },
     {
       "code": "YTJASPAY",
@@ -2474,7 +2474,7 @@
         }
       ],
       "stock": 1,
-      "sold": 0
+      "sold": 15
     },
     {
       "code": "CRUNC",
@@ -2491,7 +2491,7 @@
         }
       ],
       "stock": 1,
-      "sold": 0
+      "sold": 42
     }
   ],
   "meta": {
