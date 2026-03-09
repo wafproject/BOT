@@ -2491,6 +2491,18 @@
       ],
       "stock": 1,
       "sold": 42
+    },
+    {
+      "code": "VISION",
+      "name": "Vision Plus 1 Bulan",
+      "category": "Vision+",
+      "type": "akun",
+      "price": 8000,
+      "descShort": "",
+      "snk": "* Akun private bukan sharing\n* No Garansi (Pasti awet)\n* 20 - 30 hari terhitung 1 Bulan\n* Setelah login langsung cek durasi jika kurang dari 20 hari bisa hub admin @enziwaf | wa.me/6287731282876",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
