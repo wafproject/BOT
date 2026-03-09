@@ -1903,14 +1903,10 @@
         {
           "email": "pevoceka@mgsuite.live",
           "password": "qweqweqwe"
-        },
-        {
-          "email": "pevoceka@mgsuite.live",
-          "password": "qweqweqwe"
         }
       ],
-      "stock": 2,
-      "sold": 60
+      "stock": 1,
+      "sold": 61
     },
     {
       "code": "SCRIBD",
