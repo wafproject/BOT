@@ -1780,10 +1780,15 @@
           "email": "kolamif4@drizz.pro",
           "password": "masuk123",
           "addedAt": 1773066140726
+        },
+        {
+          "email": "gnee59@peakpoppro.com",
+          "password": "masuk123",
+          "addedAt": 1773066142811
         }
       ],
       "sold": 255,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "CAPCUT1B",
