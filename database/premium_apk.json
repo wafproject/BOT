@@ -1770,9 +1770,15 @@
       "price": 2000,
       "descShort": " Garansi 5 Hari ",
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
-      "items": [],
+      "items": [
+        {
+          "email": "kseniyakononova@binancepools.cloud",
+          "password": "masuk123",
+          "addedAt": 1773066109480
+        }
+      ],
       "sold": 255,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "CAPCUT1B",
@@ -2474,7 +2480,8 @@
           "password": "masuk123"
         }
       ],
-      "stock": 1
+      "stock": 1,
+      "sold": 0
     }
   ],
   "meta": {
