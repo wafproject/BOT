@@ -1942,9 +1942,14 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": " Garansi 5 hari",
-      "items": [],
+      "items": [
+        {
+          "email": "adski1@bucols.org",
+          "password": "masuk123"
+        }
+      ],
       "sold": 46,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "ZOOM",
