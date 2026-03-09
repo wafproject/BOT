@@ -2459,6 +2459,16 @@
       ],
       "stock": 1,
       "sold": 0
+    },
+    {
+      "code": "CRUNC",
+      "name": "Crunchyroll Mega Fan 7D",
+      "category": "Crunchyroll",
+      "type": "akun",
+      "price": 3000,
+      "descShort": " Garansi 3 Hari ",
+      "snk": " Garansi 3D",
+      "items": []
     }
   ],
   "meta": {
