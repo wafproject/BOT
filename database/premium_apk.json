@@ -1775,10 +1775,15 @@
           "email": "kseniyakononova@binancepools.cloud",
           "password": "masuk123",
           "addedAt": 1773066109480
+        },
+        {
+          "email": "kolamif4@drizz.pro",
+          "password": "masuk123",
+          "addedAt": 1773066140726
         }
       ],
       "sold": 255,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "CAPCUT1B",
