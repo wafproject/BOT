@@ -1772,10 +1772,15 @@
           "email": "gnee59@peakpoppro.com",
           "password": "masuk123",
           "addedAt": 1773066142811
+        },
+        {
+          "email": "smorodinov1986@izhowto.com",
+          "password": "masuk123",
+          "addedAt": 1773089154746
         }
       ],
       "sold": 255,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "CAPCUT1B",
