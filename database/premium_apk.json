@@ -1954,8 +1954,14 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": " Garansi 5 Hari",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "7dhljhzlehj@kakaoemail.kr",
+          "password": "Masuk123",
+          "addedAt": 1773137473427
+        }
+      ],
+      "stock": 1,
       "sold": 23
     },
     {
