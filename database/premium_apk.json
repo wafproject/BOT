@@ -2478,10 +2478,15 @@
           "email": "9195421236@nihennaisi188.cc",
           "password": "masuk1234567",
           "addedAt": 1773386501946
+        },
+        {
+          "email": "484@careandvital.com",
+          "password": "masuk1234567",
+          "addedAt": 1773386502958
         }
       ],
       "sold": 0,
-      "stock": 2
+      "stock": 3
     }
   ],
   "meta": {
