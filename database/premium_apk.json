@@ -1724,14 +1724,9 @@
       "price": 5000,
       "descShort": "Garansi 14 Hari",
       "snk": "* Garansi 14 Hari * Garansi tidak berlaku jika akun terkena banned karena pelanggaran * Akses email https://generator.email/ , tanya ke admin jika bingung",
-      "items": [
-        {
-          "email": "bcw01@clonekhoe.com",
-          "password": "premiummin123"
-        }
-      ],
-      "sold": 59,
-      "stock": 1
+      "items": [],
+      "sold": 60,
+      "stock": 0
     },
     {
       "code": "CAPCUT7D",
