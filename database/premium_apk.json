@@ -1704,7 +1704,7 @@
     {
       "code": "GPHEADFULL",
       "name": "ChatGPT Head 1B Fullgar",
-      "category": "ai chatgpt",
+      "category": "ai chatgpt head",
       "type": "akun",
       "price": 10000,
       "descShort": "Full Garansi",
