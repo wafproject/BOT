@@ -1711,18 +1711,13 @@
       "snk": "• Maximum member 5 email (sudah termasuk head)\n• Garansi tidak berlaku jika akun terkena banned karena pelanggaran\n\nAkses Email :\nhttps://generator.email/\n\nTutor Login :\nhttps://t.me/premiummintutorlogin/4",
       "items": [
         {
-          "email": "zajchik@fmuss.com",
-          "password": "masuk1234567",
-          "addedAt": 1773424836493
-        },
-        {
           "email": "irinaretkova@care-breath.com",
           "password": "masuk1234567",
           "addedAt": 1773424837549
         }
       ],
-      "stock": 2,
-      "sold": 169
+      "stock": 1,
+      "sold": 170
     },
     {
       "code": "GPTPLUS",
