@@ -1744,9 +1744,15 @@
       "price": 1000,
       "descShort": " Garansi 5 Hari ",
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
-      "items": [],
+      "items": [
+        {
+          "email": "juliannab83@otpku.com",
+          "password": "masuk123",
+          "addedAt": 1773424883011
+        }
+      ],
       "sold": 256,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "CAPCUT1B",
