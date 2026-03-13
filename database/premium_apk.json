@@ -1709,20 +1709,9 @@
       "price": 10000,
       "descShort": "Full Garansi",
       "snk": "• Maximum member 5 email (sudah termasuk head)\n• Garansi tidak berlaku jika akun terkena banned karena pelanggaran\n\nAkses Email :\nhttps://generator.email/\n\nTutor Login :\nhttps://t.me/premiummintutorlogin/4",
-      "items": [
-        {
-          "email": "makkkksi@trucdaischool.us",
-          "password": "premiummin123",
-          "addedAt": 1773378711564
-        },
-        {
-          "email": "joachimlemonnier@mind2note.com",
-          "password": "masuk1234567 \nmayasah20@deskz.bar",
-          "addedAt": 1773391558529
-        }
-      ],
-      "stock": 2,
-      "sold": 167
+      "items": [],
+      "stock": 0,
+      "sold": 169
     },
     {
       "code": "GPTPLUS",
