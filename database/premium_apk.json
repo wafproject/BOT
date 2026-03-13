@@ -2471,6 +2471,18 @@
       "items": [],
       "sold": 0,
       "stock": 0
+    },
+    {
+      "code": "GPHEADNG",
+      "name": "ChatGPT Bussines Head Nogar",
+      "category": "ai chatgpt",
+      "type": "akun",
+      "price": 3000,
+      "descShort": "",
+      "snk": "• Bisa Invite 4 Member (5 sama akun head)\n• No Garansi!\n• Garansi Login 4 jam setelah akun di drop\n\nAkses email :\nhttps://generator.email/\n\nTutorial Login :\nhttps://t.me/premiummintutorlogin/4",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
