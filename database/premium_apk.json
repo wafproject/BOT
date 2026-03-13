@@ -1714,9 +1714,14 @@
           "email": "zajchik@fmuss.com",
           "password": "masuk1234567",
           "addedAt": 1773425125655
+        },
+        {
+          "email": "irinaretkova@care-breath.com",
+          "password": "masuk1234567",
+          "addedAt": 1773425127308
         }
       ],
-      "stock": 1,
+      "stock": 2,
       "sold": 172
     },
     {
