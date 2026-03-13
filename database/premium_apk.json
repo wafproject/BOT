@@ -1706,8 +1706,14 @@
       "price": 10000,
       "descShort": "Garansi 25 Hari",
       "snk": "* Maximum member 5 email (sudah termasuk head) * Garansi tidak berlaku jika akun terkena banned karena pelanggaran",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "makkkksi@trucdaischool.us",
+          "password": "premiummin123",
+          "addedAt": 1773378711564
+        }
+      ],
+      "stock": 1,
       "sold": 167
     },
     {
