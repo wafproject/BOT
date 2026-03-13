@@ -2468,9 +2468,15 @@
       "price": 3000,
       "descShort": "No Garansi",
       "snk": "• Bisa Invite 4 Member (5 sama akun head)\n• No Garansi!\n• Garansi Login 4 jam setelah akun di drop\n\nAkses email :\nhttps://generator.email/\n\nTutorial Login :\nhttps://t.me/premiummintutorlogin/4",
-      "items": [],
+      "items": [
+        {
+          "email": "universalbassein@nladsgiare.shop",
+          "password": "masuk1234567",
+          "addedAt": 1773386500970
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 1
     }
   ],
   "meta": {
