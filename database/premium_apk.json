@@ -1702,7 +1702,7 @@
       "sold": 512
     },
     {
-      "code": "GPHEAD",
+      "code": "GPHEADFULL",
       "name": "ChatGPT Head 1B Fullgar",
       "category": "ai chatgpt",
       "type": "akun",
