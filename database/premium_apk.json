@@ -1754,10 +1754,15 @@
           "email": "drewdomep6p@putameda.com",
           "password": "masuk123",
           "addedAt": 1773424885318
+        },
+        {
+          "email": "japjordan@primejetnet.com",
+          "password": "masuk123",
+          "addedAt": 1773424894162
         }
       ],
       "sold": 256,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "CAPCUT1B",
