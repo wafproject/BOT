@@ -1708,10 +1708,6 @@
       "snk": "* Maximum member 5 email (sudah termasuk head) * Garansi tidak berlaku jika akun terkena banned karena pelanggaran",
       "items": [
         {
-          "email": "pdscolt45@eastmm.cc",
-          "password": "premiummin123"
-        },
-        {
           "email": "makkkksi@trucdaischool.us",
           "password": "premiummin123"
         },
@@ -1720,8 +1716,8 @@
           "password": "premiummin123"
         }
       ],
-      "stock": 3,
-      "sold": 166
+      "stock": 2,
+      "sold": 167
     },
     {
       "code": "GPTPLUS",
