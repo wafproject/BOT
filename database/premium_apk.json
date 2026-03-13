@@ -1749,10 +1749,15 @@
           "email": "juliannab83@otpku.com",
           "password": "masuk123",
           "addedAt": 1773424883011
+        },
+        {
+          "email": "drewdomep6p@putameda.com",
+          "password": "masuk123",
+          "addedAt": 1773424885318
         }
       ],
       "sold": 256,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "CAPCUT1B",
