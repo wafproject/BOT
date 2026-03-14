@@ -1834,9 +1834,14 @@
           "email": "wifadofu@mgsuite.vip",
           "password": "qweqweqwe",
           "addedAt": 1773486159777
+        },
+        {
+          "email": "wifadofu@mgsuite.vip",
+          "password": "qweqweqwe",
+          "addedAt": 1773486161459
         }
       ],
-      "stock": 1,
+      "stock": 2,
       "sold": 79
     },
     {
