@@ -1702,14 +1702,9 @@
           "email": "shadyboarder@veronicamira.info",
           "password": "masuk1234567",
           "addedAt": 1773553162615
-        },
-        {
-          "email": "dukez8@abyis.com",
-          "password": "masuk1234567",
-          "addedAt": 1773556171444
         }
       ],
-      "stock": 2,
+      "stock": 1,
       "sold": 175
     },
     {
