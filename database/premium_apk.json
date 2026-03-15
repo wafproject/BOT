@@ -1707,9 +1707,14 @@
           "email": "kui2@hotmeil.net",
           "password": "masuk1234567",
           "addedAt": 1773567101719
+        },
+        {
+          "email": "ggroovyy@caosusaoviet.vn",
+          "password": "masuk1234567",
+          "addedAt": 1773567102831
         }
       ],
-      "stock": 2,
+      "stock": 3,
       "sold": 175
     },
     {
