@@ -1702,9 +1702,14 @@
           "email": "fannie663@tritunggalmail.com",
           "password": "masuk1234567",
           "addedAt": 1773553161607
+        },
+        {
+          "email": "shadyboarder@veronicamira.info",
+          "password": "masuk1234567",
+          "addedAt": 1773553162615
         }
       ],
-      "stock": 1,
+      "stock": 2,
       "sold": 174
     },
     {
