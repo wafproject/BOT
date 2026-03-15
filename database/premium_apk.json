@@ -1723,11 +1723,6 @@
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
       "items": [
         {
-          "email": "juliannab83@otpku.com",
-          "password": "masuk123",
-          "addedAt": 1773424883011
-        },
-        {
           "email": "drewdomep6p@putameda.com",
           "password": "masuk123",
           "addedAt": 1773424885318
@@ -1738,8 +1733,8 @@
           "addedAt": 1773424894162
         }
       ],
-      "sold": 256,
-      "stock": 3
+      "sold": 257,
+      "stock": 2
     },
     {
       "code": "CAPCUT1B",
