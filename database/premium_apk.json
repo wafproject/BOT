@@ -1702,9 +1702,14 @@
           "email": "dukez8@abyis.com",
           "password": "masuk1234567",
           "addedAt": 1773567100480
+        },
+        {
+          "email": "kui2@hotmeil.net",
+          "password": "masuk1234567",
+          "addedAt": 1773567101719
         }
       ],
-      "stock": 1,
+      "stock": 2,
       "sold": 175
     },
     {
