@@ -1747,15 +1747,9 @@
       "price": 1000,
       "descShort": " Garansi 5 Hari ",
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
-      "items": [
-        {
-          "email": "drewdomep6p@putameda.com",
-          "password": "masuk123",
-          "addedAt": 1773424885318
-        }
-      ],
+      "items": [],
       "sold": 257,
-      "stock": 1
+      "stock": 0
     },
     {
       "code": "CAPCUT1B",
