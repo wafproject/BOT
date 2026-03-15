@@ -1712,9 +1712,14 @@
           "email": "ggroovyy@caosusaoviet.vn",
           "password": "masuk1234567",
           "addedAt": 1773567102831
+        },
+        {
+          "email": "alzius@namenan.me",
+          "password": "masuk1234567",
+          "addedAt": 1773567104624
         }
       ],
-      "stock": 3,
+      "stock": 4,
       "sold": 175
     },
     {
