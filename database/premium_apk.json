@@ -1699,11 +1699,6 @@
       "snk": "* Bisa invite hingga 4 user\n* Akun private dari seller\n* Full garansi 25 hari\n* Tidak ada refund setelah akun dikirim\n* Garansi tidak berlaku jika akun terkena banned / suspend karena pelanggaran\n* Dilarang menggunakan akun untuk aktivitas ilegal atau melanggar kebijakan OpenAI\n\nAkses email via: https://generator.email\n\nMembeli = setuju dengan semua ketentuan di atas.",
       "items": [
         {
-          "email": "fannie663@tritunggalmail.com",
-          "password": "masuk1234567",
-          "addedAt": 1773553161607
-        },
-        {
           "email": "shadyboarder@veronicamira.info",
           "password": "masuk1234567",
           "addedAt": 1773553162615
@@ -1734,8 +1729,8 @@
           "addedAt": 1773556208470
         }
       ],
-      "stock": 7,
-      "sold": 174
+      "stock": 6,
+      "sold": 175
     },
     {
       "code": "GPTPLUS",
