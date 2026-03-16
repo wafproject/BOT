@@ -1984,10 +1984,6 @@
       "snk": " • Viu private disarankan tetap 1 device / max 2 device • Garansi 1 bulan • Akun terblokir = NOGAR • Dilarang ubah pass / DENDA 5x lipat • Akun tidak include paket viu+",
       "items": [
         {
-          "email": "gangsawahyudin9900@yopmail.com",
-          "password": "masuk12345"
-        },
-        {
           "email": "permadiyulia3958@yopmail.com",
           "password": "masuk12345"
         },
@@ -2012,8 +2008,8 @@
           "password": "masuk12345"
         }
       ],
-      "stock": 7,
-      "sold": 268
+      "stock": 6,
+      "sold": 269
     },
     {
       "code": "CANJASPAY",
