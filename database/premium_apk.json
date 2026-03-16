@@ -1696,11 +1696,6 @@
       "snk": "* Bisa invite hingga 4 user\n* Akun private dari seller\n* Full garansi 25 hari\n* Tidak ada refund setelah akun dikirim\n* Garansi tidak berlaku jika akun terkena banned / suspend karena pelanggaran\n* Dilarang menggunakan akun untuk aktivitas ilegal atau melanggar kebijakan OpenAI\n\nAkses email via: https://generator.email\n\nMembeli = setuju dengan semua ketentuan di atas.",
       "items": [
         {
-          "email": "dukez8@abyis.com",
-          "password": "masuk1234567",
-          "addedAt": 1773567100480
-        },
-        {
           "email": "kui2@hotmeil.net",
           "password": "masuk1234567",
           "addedAt": 1773567101719
@@ -1721,8 +1716,8 @@
           "addedAt": 1773567105419
         }
       ],
-      "stock": 5,
-      "sold": 175
+      "stock": 4,
+      "sold": 176
     },
     {
       "code": "GPTPLUS",
