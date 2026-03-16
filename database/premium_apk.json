@@ -1714,9 +1714,14 @@
           "email": "papahudjlk5@bodelapen.ovh",
           "password": "masuk1234567",
           "addedAt": 1773567105419
+        },
+        {
+          "email": "dukez8@abyis.com",
+          "password": "masuk1234567",
+          "addedAt": 1773635179420
         }
       ],
-      "stock": 4,
+      "stock": 5,
       "sold": 176
     },
     {
