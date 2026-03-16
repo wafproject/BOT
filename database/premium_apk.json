@@ -2392,13 +2392,8 @@
       "price": 3000,
       "descShort": " Garansi 3 Hari ",
       "snk": " Garansi 3D",
-      "items": [
-        {
-          "email": "pevoceka@mgsuite.live",
-          "password": "masuk123"
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 42
     },
     {
