@@ -1734,9 +1734,15 @@
       "price": 1000,
       "descShort": " Garansi 5 Hari ",
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
-      "items": [],
+      "items": [
+        {
+          "email": "1984harley@xazo.xyz",
+          "password": "masuk123",
+          "addedAt": 1773745704862
+        }
+      ],
       "sold": 257,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "CAPCUT1B",
