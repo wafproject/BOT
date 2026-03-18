@@ -1892,8 +1892,14 @@
       "price": 2000,
       "descShort": " Garansi 5 Hari ",
       "snk": " Garansi 5 Hari",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "gadgad70@streamingku.live",
+          "password": "Masuk123",
+          "addedAt": 1773805348679
+        }
+      ],
+      "stock": 1,
       "sold": 24
     },
     {
