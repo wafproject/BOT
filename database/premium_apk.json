@@ -1704,9 +1704,14 @@
           "email": "kbilly@rentproxy.xyz",
           "password": "masuk1234567",
           "addedAt": 1773867022577
+        },
+        {
+          "email": "got2gov8@emailkp.com",
+          "password": "masuk1234567",
+          "addedAt": 1773867023745
         }
       ],
-      "stock": 2,
+      "stock": 3,
       "sold": 178
     },
     {
