@@ -1888,18 +1888,13 @@
       "snk": " Garansi 5 Hari",
       "items": [
         {
-          "email": "gadgad70@streamingku.live",
-          "password": "Masuk123",
-          "addedAt": 1773805348679
-        },
-        {
           "email": "emagamma@tiredecalz.com",
           "password": "Masuk123",
           "addedAt": 1773805349580
         }
       ],
-      "stock": 2,
-      "sold": 24
+      "stock": 1,
+      "sold": 25
     },
     {
       "code": "AM",
