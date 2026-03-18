@@ -2421,10 +2421,15 @@
           "email": "dukez8@abyis.com",
           "password": "masuk1234567",
           "addedAt": 1773866961533
+        },
+        {
+          "email": "alzius@namenan.me",
+          "password": "masuk1234567",
+          "addedAt": 1773866962617
         }
       ],
       "sold": 49,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
