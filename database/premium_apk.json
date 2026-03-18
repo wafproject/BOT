@@ -1699,9 +1699,14 @@
           "email": "ronanl401@navermail.kr",
           "password": "masuk1234567",
           "addedAt": 1773867021372
+        },
+        {
+          "email": "kbilly@rentproxy.xyz",
+          "password": "masuk1234567",
+          "addedAt": 1773867022577
         }
       ],
-      "stock": 1,
+      "stock": 2,
       "sold": 178
     },
     {
