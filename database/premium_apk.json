@@ -2416,9 +2416,15 @@
       "price": 10000,
       "descShort": "Garansi 14 Hari",
       "snk": "* Bisa invite hingga 4 user\n* Akun private dari seller\n* Full garansi 25 hari\n* Tidak ada refund setelah akun dikirim\n* Garansi tidak berlaku jika akun terkena banned / suspend karena pelanggaran\n* Dilarang menggunakan akun untuk aktivitas ilegal atau melanggar kebijakan OpenAI\n\nAkses email via: https://generator.email\n\nMembeli = setuju dengan semua ketentuan di atas.",
-      "items": [],
+      "items": [
+        {
+          "email": "dukez8@abyis.com",
+          "password": "masuk1234567",
+          "addedAt": 1773866961533
+        }
+      ],
       "sold": 49,
-      "stock": 0
+      "stock": 1
     }
   ],
   "meta": {
