@@ -1777,10 +1777,15 @@
           "email": "nastaducnenko@konterkulo.com",
           "password": "masuk123",
           "addedAt": 1773900842658
+        },
+        {
+          "email": "arcadayn@bussinesa.app",
+          "password": "masuk123",
+          "addedAt": 1773900843935
         }
       ],
       "sold": 135,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "APMEMBER",
