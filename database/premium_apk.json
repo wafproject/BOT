@@ -2547,15 +2547,10 @@
           "email": "alzius@namenan.me",
           "password": "masuk1234567",
           "addedAt": 1773866962617
-        },
-        {
-          "email": "papahudjlk5@bodelapen.ovh",
-          "password": "masuk1234567",
-          "addedAt": 1773866963761
         }
       ],
       "sold": 50,
-      "stock": 2
+      "stock": 1
     }
   ],
   "meta": {
