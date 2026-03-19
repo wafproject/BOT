@@ -1802,10 +1802,15 @@
           "email": "allan4801@musiku.studio",
           "password": "masuk123",
           "addedAt": 1773900848153
+        },
+        {
+          "email": "alvaco@infoisp.me",
+          "password": "masuk123",
+          "addedAt": 1773900849108
         }
       ],
       "sold": 135,
-      "stock": 9
+      "stock": 10
     },
     {
       "code": "APMEMBER",
