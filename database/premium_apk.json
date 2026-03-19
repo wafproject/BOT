@@ -1782,10 +1782,15 @@
           "email": "arcadayn@bussinesa.app",
           "password": "masuk123",
           "addedAt": 1773900843935
+        },
+        {
+          "email": "lyudmiladzingan@comexa.uk",
+          "password": "masuk123",
+          "addedAt": 1773900845041
         }
       ],
       "sold": 135,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "APMEMBER",
