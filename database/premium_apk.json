@@ -2544,11 +2544,6 @@
       "snk": "* Bisa invite hingga 4 user\n* Akun private dari seller\n* Full garansi 25 hari\n* Tidak ada refund setelah akun dikirim\n* Garansi tidak berlaku jika akun terkena banned / suspend karena pelanggaran\n* Dilarang menggunakan akun untuk aktivitas ilegal atau melanggar kebijakan OpenAI\n\nAkses email via: https://generator.email\n\nMembeli = setuju dengan semua ketentuan di atas.",
       "items": [
         {
-          "email": "dukez8@abyis.com",
-          "password": "masuk1234567",
-          "addedAt": 1773866961533
-        },
-        {
           "email": "alzius@namenan.me",
           "password": "masuk1234567",
           "addedAt": 1773866962617
@@ -2559,8 +2554,8 @@
           "addedAt": 1773866963761
         }
       ],
-      "sold": 49,
-      "stock": 3
+      "sold": 50,
+      "stock": 2
     }
   ],
   "meta": {
