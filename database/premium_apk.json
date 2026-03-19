@@ -1787,10 +1787,15 @@
           "email": "lyudmiladzingan@comexa.uk",
           "password": "masuk123",
           "addedAt": 1773900845041
+        },
+        {
+          "email": "barbarahart22@hieuclone.com",
+          "password": "masuk123",
+          "addedAt": 1773900845941
         }
       ],
       "sold": 135,
-      "stock": 6
+      "stock": 7
     },
     {
       "code": "APMEMBER",
