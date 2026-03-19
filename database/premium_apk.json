@@ -1757,9 +1757,15 @@
       "price": 8000,
       "descShort": " Full Garansi ",
       "snk": " * Full Garansi 25 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
-      "items": [],
+      "items": [
+        {
+          "email": "thored@corefitrun.com",
+          "password": "masuk123",
+          "addedAt": 1773900839512
+        }
+      ],
       "sold": 135,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "APMEMBER",
