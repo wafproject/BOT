@@ -1772,10 +1772,15 @@
           "email": "abguybachman@konterkulo.com",
           "password": "masuk123",
           "addedAt": 1773900841550
+        },
+        {
+          "email": "nastaducnenko@konterkulo.com",
+          "password": "masuk123",
+          "addedAt": 1773900842658
         }
       ],
       "sold": 135,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "APMEMBER",
