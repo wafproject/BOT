@@ -1762,10 +1762,15 @@
           "email": "thored@corefitrun.com",
           "password": "masuk123",
           "addedAt": 1773900839512
+        },
+        {
+          "email": "timn7161@leoparali.icu",
+          "password": "masuk123",
+          "addedAt": 1773900840625
         }
       ],
       "sold": 135,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "APMEMBER",
