@@ -1739,9 +1739,14 @@
       "price": 1000,
       "descShort": " Garansi 5 Hari ",
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
-      "items": [],
+      "items": [
+        {
+          "link": "https://www.capcut.com/sv2/ZS9RAdDhMEq11-2qhVy/",
+          "addedAt": 1773907381684
+        }
+      ],
       "sold": 259,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "CAPCUT1B",
