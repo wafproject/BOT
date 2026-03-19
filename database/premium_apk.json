@@ -1709,14 +1709,9 @@
           "email": "got2gov8@emailkp.com",
           "password": "masuk1234567",
           "addedAt": 1773867023745
-        },
-        {
-          "email": "steakout@smakit.vn",
-          "password": "masuk1234567",
-          "addedAt": 1773867025525
         }
       ],
-      "stock": 4,
+      "stock": 3,
       "sold": 178
     },
     {
