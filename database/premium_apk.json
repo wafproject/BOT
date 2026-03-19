@@ -1792,10 +1792,15 @@
           "email": "barbarahart22@hieuclone.com",
           "password": "masuk123",
           "addedAt": 1773900845941
+        },
+        {
+          "email": "laconic70@mailswing.forum",
+          "password": "masuk123",
+          "addedAt": 1773900847278
         }
       ],
       "sold": 135,
-      "stock": 7
+      "stock": 8
     },
     {
       "code": "APMEMBER",
