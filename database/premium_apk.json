@@ -2191,10 +2191,15 @@
           "email": "hvhieg634@gmail.com",
           "password": "asede123",
           "addedAt": 1774042821877
+        },
+        {
+          "email": "bdmamt52@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042822809
         }
       ],
       "sold": 0,
-      "stock": 18
+      "stock": 19
     }
   ],
   "meta": {
