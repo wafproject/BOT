@@ -2201,10 +2201,15 @@
           "email": "roixks026@gmail.com",
           "password": "asede123",
           "addedAt": 1774042823727
+        },
+        {
+          "email": "lpahuc685@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042825377
         }
       ],
       "sold": 0,
-      "stock": 20
+      "stock": 21
     }
   ],
   "meta": {
