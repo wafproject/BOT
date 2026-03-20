@@ -2276,10 +2276,15 @@
           "email": "eruadf53@gmail.com",
           "password": "asede123",
           "addedAt": 1774042839131
+        },
+        {
+          "email": "xxowyq941@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042840212
         }
       ],
       "sold": 0,
-      "stock": 35
+      "stock": 36
     }
   ],
   "meta": {
