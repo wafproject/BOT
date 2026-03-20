@@ -2591,10 +2591,15 @@
           "email": "wjvdjh10@gmail.com",
           "password": "asede123",
           "addedAt": 1774042904227
+        },
+        {
+          "email": "fhzhqn84@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042905090
         }
       ],
       "sold": 0,
-      "stock": 98
+      "stock": 99
     }
   ],
   "meta": {
