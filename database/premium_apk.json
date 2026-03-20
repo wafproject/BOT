@@ -2501,10 +2501,15 @@
           "email": "ljvvns708@gmail.com",
           "password": "asede123",
           "addedAt": 1774042885486
+        },
+        {
+          "email": "twpujo643@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042886593
         }
       ],
       "sold": 0,
-      "stock": 80
+      "stock": 81
     }
   ],
   "meta": {
