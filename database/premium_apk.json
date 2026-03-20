@@ -2286,10 +2286,15 @@
           "email": "dujgho969@gmail.com",
           "password": "asede123",
           "addedAt": 1774042841148
+        },
+        {
+          "email": "bkatzz423@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042842160
         }
       ],
       "sold": 0,
-      "stock": 37
+      "stock": 38
     }
   ],
   "meta": {
