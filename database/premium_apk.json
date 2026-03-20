@@ -2531,10 +2531,15 @@
           "email": "zodiac06@gmail.com",
           "password": "asede123",
           "addedAt": 1774042891437
+        },
+        {
+          "email": "ssjbok763@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042892380
         }
       ],
       "sold": 0,
-      "stock": 86
+      "stock": 87
     }
   ],
   "meta": {
