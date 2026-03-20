@@ -2196,10 +2196,15 @@
           "email": "bdmamt52@gmail.com",
           "password": "asede123",
           "addedAt": 1774042822809
+        },
+        {
+          "email": "roixks026@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042823727
         }
       ],
       "sold": 0,
-      "stock": 19
+      "stock": 20
     }
   ],
   "meta": {
