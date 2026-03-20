@@ -2111,10 +2111,15 @@
           "email": "tgrqjz82@gmail.com",
           "password": "asede123",
           "addedAt": 1774042804604
+        },
+        {
+          "email": "qmjfcy717@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042806361
         }
       ],
       "sold": 0,
-      "stock": 2
+      "stock": 3
     }
   ],
   "meta": {
