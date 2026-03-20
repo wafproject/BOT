@@ -2491,10 +2491,15 @@
           "email": "skvfcm67@gmail.com",
           "password": "asede123",
           "addedAt": 1774042883141
+        },
+        {
+          "email": "uvhlzc53@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042884229
         }
       ],
       "sold": 0,
-      "stock": 78
+      "stock": 79
     }
   ],
   "meta": {
