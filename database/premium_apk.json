@@ -2396,10 +2396,15 @@
           "email": "gswedy65@gmail.com",
           "password": "asede123",
           "addedAt": 1774042862399
+        },
+        {
+          "email": "wiwrjr649@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042863510
         }
       ],
       "sold": 0,
-      "stock": 59
+      "stock": 60
     }
   ],
   "meta": {
