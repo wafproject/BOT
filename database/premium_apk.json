@@ -2331,10 +2331,15 @@
           "email": "tmekli87@gmail.com",
           "password": "asede123",
           "addedAt": 1774042850061
+        },
+        {
+          "email": "lpyxyz161@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042850857
         }
       ],
       "sold": 0,
-      "stock": 46
+      "stock": 47
     }
   ],
   "meta": {
