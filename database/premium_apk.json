@@ -2226,10 +2226,15 @@
           "email": "sipkgu79@gmail.com",
           "password": "asede123",
           "addedAt": 1774042829116
+        },
+        {
+          "email": "mjsjlj667@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042830138
         }
       ],
       "sold": 0,
-      "stock": 25
+      "stock": 26
     }
   ],
   "meta": {
