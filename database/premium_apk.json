@@ -2426,10 +2426,15 @@
           "email": "gvcjuq585@gmail.com",
           "password": "asede123",
           "addedAt": 1774042868808
+        },
+        {
+          "email": "wwidea255@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042869902
         }
       ],
       "sold": 0,
-      "stock": 65
+      "stock": 66
     }
   ],
   "meta": {
