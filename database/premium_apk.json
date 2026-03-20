@@ -2246,10 +2246,15 @@
           "email": "vammkf38@gmail.com",
           "password": "asede123",
           "addedAt": 1774042833267
+        },
+        {
+          "email": "bernrk364@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042834356
         }
       ],
       "sold": 0,
-      "stock": 29
+      "stock": 30
     }
   ],
   "meta": {
