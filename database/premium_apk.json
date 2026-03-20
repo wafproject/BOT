@@ -2146,10 +2146,15 @@
           "email": "ucescx526@gmail.com",
           "password": "asede123",
           "addedAt": 1774042812416
+        },
+        {
+          "email": "fgrhow05@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042813231
         }
       ],
       "sold": 0,
-      "stock": 9
+      "stock": 10
     }
   ],
   "meta": {
