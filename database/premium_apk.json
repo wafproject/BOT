@@ -2346,10 +2346,15 @@
           "email": "ggztkd57@gmail.com",
           "password": "asede123",
           "addedAt": 1774042852631
+        },
+        {
+          "email": "lxjlcy42@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042853757
         }
       ],
       "sold": 0,
-      "stock": 49
+      "stock": 50
     }
   ],
   "meta": {
