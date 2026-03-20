@@ -2516,10 +2516,15 @@
           "email": "ezkqme932@gmail.com",
           "password": "asede123",
           "addedAt": 1774042888539
+        },
+        {
+          "email": "croxyj05@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042889697
         }
       ],
       "sold": 0,
-      "stock": 83
+      "stock": 84
     }
   ],
   "meta": {
