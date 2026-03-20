@@ -2101,9 +2101,15 @@
       "price": 1500,
       "descShort": "Garansi Login 1 Bulan",
       "snk": "— Khusus TV Only\n— Garansi login\n— Akun Private\n— Hanya support tayangan tv nasional\n— Bisa nonton liga 1",
-      "items": [],
+      "items": [
+        {
+          "email": "zkouzy690@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042802911
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 1
     }
   ],
   "meta": {
