@@ -2221,10 +2221,15 @@
           "email": "cwqykv78@gmail.com",
           "password": "asede123",
           "addedAt": 1774042828110
+        },
+        {
+          "email": "sipkgu79@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042829116
         }
       ],
       "sold": 0,
-      "stock": 24
+      "stock": 25
     }
   ],
   "meta": {
