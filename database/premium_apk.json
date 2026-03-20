@@ -2366,10 +2366,15 @@
           "email": "qwmoiv56@gmail.com",
           "password": "asede123",
           "addedAt": 1774042856190
+        },
+        {
+          "email": "svzaoc24@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042857201
         }
       ],
       "sold": 0,
-      "stock": 53
+      "stock": 54
     }
   ],
   "meta": {
