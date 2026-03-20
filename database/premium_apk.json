@@ -2186,10 +2186,15 @@
           "email": "dehwub093@gmail.com",
           "password": "asede123",
           "addedAt": 1774042820867
+        },
+        {
+          "email": "hvhieg634@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042821877
         }
       ],
       "sold": 0,
-      "stock": 17
+      "stock": 18
     }
   ],
   "meta": {
