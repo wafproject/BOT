@@ -2106,10 +2106,15 @@
           "email": "zkouzy690@gmail.com",
           "password": "asede123",
           "addedAt": 1774042802911
+        },
+        {
+          "email": "tgrqjz82@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042804604
         }
       ],
       "sold": 0,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
