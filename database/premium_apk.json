@@ -2281,10 +2281,15 @@
           "email": "xxowyq941@gmail.com",
           "password": "asede123",
           "addedAt": 1774042840212
+        },
+        {
+          "email": "dujgho969@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042841148
         }
       ],
       "sold": 0,
-      "stock": 36
+      "stock": 37
     }
   ],
   "meta": {
