@@ -2121,10 +2121,15 @@
           "email": "kyvfqd02@gmail.com",
           "password": "asede123",
           "addedAt": 1774042807458
+        },
+        {
+          "email": "lzpcjw303@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042808548
         }
       ],
       "sold": 0,
-      "stock": 4
+      "stock": 5
     }
   ],
   "meta": {
