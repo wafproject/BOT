@@ -2361,10 +2361,15 @@
           "email": "igcuzv14@gmail.com",
           "password": "asede123",
           "addedAt": 1774042855523
+        },
+        {
+          "email": "qwmoiv56@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042856190
         }
       ],
       "sold": 0,
-      "stock": 52
+      "stock": 53
     }
   ],
   "meta": {
