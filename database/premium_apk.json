@@ -2236,10 +2236,15 @@
           "email": "klxfoq50@gmail.com",
           "password": "asede123",
           "addedAt": 1774042831123
+        },
+        {
+          "email": "xvqckb63@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042832162
         }
       ],
       "sold": 0,
-      "stock": 27
+      "stock": 28
     }
   ],
   "meta": {
