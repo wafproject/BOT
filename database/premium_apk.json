@@ -2126,10 +2126,15 @@
           "email": "lzpcjw303@gmail.com",
           "password": "asede123",
           "addedAt": 1774042808548
+        },
+        {
+          "email": "mjlbbj95@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042809461
         }
       ],
       "sold": 0,
-      "stock": 5
+      "stock": 6
     }
   ],
   "meta": {
