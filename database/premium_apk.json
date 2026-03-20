@@ -2561,10 +2561,15 @@
           "email": "mpnclk74@gmail.com",
           "password": "asede123",
           "addedAt": 1774042897758
+        },
+        {
+          "email": "flrsth169@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042898899
         }
       ],
       "sold": 0,
-      "stock": 92
+      "stock": 93
     }
   ],
   "meta": {
