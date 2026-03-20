@@ -2306,10 +2306,15 @@
           "email": "nhcxou306@gmail.com",
           "password": "asede123",
           "addedAt": 1774042844837
+        },
+        {
+          "email": "bhjeuc70@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042845902
         }
       ],
       "sold": 0,
-      "stock": 41
+      "stock": 42
     }
   ],
   "meta": {
