@@ -2481,10 +2481,15 @@
           "email": "tddkib257@gmail.com",
           "password": "asede123",
           "addedAt": 1774042881083
+        },
+        {
+          "email": "qsoppa221@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042882231
         }
       ],
       "sold": 0,
-      "stock": 76
+      "stock": 77
     }
   ],
   "meta": {
