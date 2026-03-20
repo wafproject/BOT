@@ -2441,10 +2441,15 @@
           "email": "etozkj246@gmail.com",
           "password": "asede123",
           "addedAt": 1774042872270
+        },
+        {
+          "email": "drdpkk94@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042873195
         }
       ],
       "sold": 0,
-      "stock": 68
+      "stock": 69
     }
   ],
   "meta": {
