@@ -2256,10 +2256,15 @@
           "email": "cmkplk504@gmail.com",
           "password": "asede123",
           "addedAt": 1774042835235
+        },
+        {
+          "email": "sopccq591@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042836085
         }
       ],
       "sold": 0,
-      "stock": 31
+      "stock": 32
     }
   ],
   "meta": {
