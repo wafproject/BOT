@@ -924,12 +924,8 @@
       "price": 8000,
       "descShort": "Garansi 7 Hari",
       "snk": "SILAHKAN KIRIM EMAIL KE ADMIN wa.me/6287731282876 | @enziwaf",
-      "items": [
-        {
-          "text": "Via Invite Email"
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 488
     },
     {
