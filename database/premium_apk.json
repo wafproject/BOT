@@ -2231,10 +2231,15 @@
           "email": "mjsjlj667@gmail.com",
           "password": "asede123",
           "addedAt": 1774042830138
+        },
+        {
+          "email": "klxfoq50@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042831123
         }
       ],
       "sold": 0,
-      "stock": 26
+      "stock": 27
     }
   ],
   "meta": {
