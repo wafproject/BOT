@@ -2581,10 +2581,15 @@
           "email": "eakfjk482@gmail.com",
           "password": "asede123",
           "addedAt": 1774042902292
+        },
+        {
+          "email": "owtpbt129@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042903409
         }
       ],
       "sold": 0,
-      "stock": 96
+      "stock": 97
     }
   ],
   "meta": {
