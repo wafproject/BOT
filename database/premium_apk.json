@@ -2546,10 +2546,15 @@
           "email": "imodbd372@gmail.com",
           "password": "asede123",
           "addedAt": 1774042894741
+        },
+        {
+          "email": "eskned72@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042895917
         }
       ],
       "sold": 0,
-      "stock": 89
+      "stock": 90
     }
   ],
   "meta": {
