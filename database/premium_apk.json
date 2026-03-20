@@ -2371,10 +2371,15 @@
           "email": "svzaoc24@gmail.com",
           "password": "asede123",
           "addedAt": 1774042857201
+        },
+        {
+          "email": "ikahed830@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042858158
         }
       ],
       "sold": 0,
-      "stock": 54
+      "stock": 55
     }
   ],
   "meta": {
