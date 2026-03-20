@@ -2181,10 +2181,15 @@
           "email": "ksvish12@gmail.com",
           "password": "asede123",
           "addedAt": 1774042819780
+        },
+        {
+          "email": "dehwub093@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042820867
         }
       ],
       "sold": 0,
-      "stock": 16
+      "stock": 17
     }
   ],
   "meta": {
