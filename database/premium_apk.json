@@ -2456,10 +2456,15 @@
           "email": "hhlewi800@gmail.com",
           "password": "asede123",
           "addedAt": 1774042875089
+        },
+        {
+          "email": "qpbqwd982@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042876211
         }
       ],
       "sold": 0,
-      "stock": 71
+      "stock": 72
     }
   ],
   "meta": {
