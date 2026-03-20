@@ -2486,10 +2486,15 @@
           "email": "qsoppa221@gmail.com",
           "password": "asede123",
           "addedAt": 1774042882231
+        },
+        {
+          "email": "skvfcm67@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042883141
         }
       ],
       "sold": 0,
-      "stock": 77
+      "stock": 78
     }
   ],
   "meta": {
