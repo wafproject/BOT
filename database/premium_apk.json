@@ -2176,10 +2176,15 @@
           "email": "lgffne697@gmail.com",
           "password": "asede123",
           "addedAt": 1774042818867
+        },
+        {
+          "email": "ksvish12@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042819780
         }
       ],
       "sold": 0,
-      "stock": 15
+      "stock": 16
     }
   ],
   "meta": {
