@@ -2381,10 +2381,15 @@
           "email": "nnsyeo22@gmail.com",
           "password": "asede123",
           "addedAt": 1774042859374
+        },
+        {
+          "email": "pqjhhp09@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042860196
         }
       ],
       "sold": 0,
-      "stock": 56
+      "stock": 57
     }
   ],
   "meta": {
