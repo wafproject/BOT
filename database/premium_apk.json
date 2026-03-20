@@ -2376,10 +2376,15 @@
           "email": "ikahed830@gmail.com",
           "password": "asede123",
           "addedAt": 1774042858158
+        },
+        {
+          "email": "nnsyeo22@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042859374
         }
       ],
       "sold": 0,
-      "stock": 55
+      "stock": 56
     }
   ],
   "meta": {
