@@ -2171,10 +2171,15 @@
           "email": "mqwqtn346@gmail.com",
           "password": "asede123",
           "addedAt": 1774042817886
+        },
+        {
+          "email": "lgffne697@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042818867
         }
       ],
       "sold": 0,
-      "stock": 14
+      "stock": 15
     }
   ],
   "meta": {
