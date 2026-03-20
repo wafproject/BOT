@@ -2401,10 +2401,15 @@
           "email": "wiwrjr649@gmail.com",
           "password": "asede123",
           "addedAt": 1774042863510
+        },
+        {
+          "email": "xyunka623@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042864480
         }
       ],
       "sold": 0,
-      "stock": 60
+      "stock": 61
     }
   ],
   "meta": {
