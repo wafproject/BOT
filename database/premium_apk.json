@@ -2271,10 +2271,15 @@
           "email": "yujslr71@gmail.com",
           "password": "asede123",
           "addedAt": 1774042838046
+        },
+        {
+          "email": "eruadf53@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042839131
         }
       ],
       "sold": 0,
-      "stock": 34
+      "stock": 35
     }
   ],
   "meta": {
