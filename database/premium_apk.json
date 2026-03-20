@@ -2386,10 +2386,15 @@
           "email": "pqjhhp09@gmail.com",
           "password": "asede123",
           "addedAt": 1774042860196
+        },
+        {
+          "email": "lgncct501@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042861288
         }
       ],
       "sold": 0,
-      "stock": 57
+      "stock": 58
     }
   ],
   "meta": {
