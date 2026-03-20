@@ -2406,10 +2406,15 @@
           "email": "xyunka623@gmail.com",
           "password": "asede123",
           "addedAt": 1774042864480
+        },
+        {
+          "email": "fyewud87@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042865567
         }
       ],
       "sold": 0,
-      "stock": 61
+      "stock": 62
     }
   ],
   "meta": {
