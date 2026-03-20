@@ -2436,10 +2436,15 @@
           "email": "nnhrxv448@gmail.com",
           "password": "asede123",
           "addedAt": 1774042870929
+        },
+        {
+          "email": "etozkj246@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042872270
         }
       ],
       "sold": 0,
-      "stock": 67
+      "stock": 68
     }
   ],
   "meta": {
