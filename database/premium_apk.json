@@ -2571,10 +2571,15 @@
           "email": "ewnfrp22@gmail.com",
           "password": "asede123",
           "addedAt": 1774042899665
+        },
+        {
+          "email": "kmqcez20@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042900854
         }
       ],
       "sold": 0,
-      "stock": 94
+      "stock": 95
     }
   ],
   "meta": {
