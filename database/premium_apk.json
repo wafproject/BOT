@@ -2521,10 +2521,15 @@
           "email": "croxyj05@gmail.com",
           "password": "asede123",
           "addedAt": 1774042889697
+        },
+        {
+          "email": "teviob19@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042890584
         }
       ],
       "sold": 0,
-      "stock": 84
+      "stock": 85
     }
   ],
   "meta": {
