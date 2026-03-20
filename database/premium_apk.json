@@ -2291,10 +2291,15 @@
           "email": "bkatzz423@gmail.com",
           "password": "asede123",
           "addedAt": 1774042842160
+        },
+        {
+          "email": "zqfmbf548@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042843064
         }
       ],
       "sold": 0,
-      "stock": 38
+      "stock": 39
     }
   ],
   "meta": {
