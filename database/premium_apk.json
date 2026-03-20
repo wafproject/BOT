@@ -2356,10 +2356,15 @@
           "email": "shxcha183@gmail.com",
           "password": "asede123",
           "addedAt": 1774042854694
+        },
+        {
+          "email": "igcuzv14@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042855523
         }
       ],
       "sold": 0,
-      "stock": 51
+      "stock": 52
     }
   ],
   "meta": {
