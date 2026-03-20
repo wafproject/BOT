@@ -2296,10 +2296,15 @@
           "email": "zqfmbf548@gmail.com",
           "password": "asede123",
           "addedAt": 1774042843064
+        },
+        {
+          "email": "oyotqd20@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042844057
         }
       ],
       "sold": 0,
-      "stock": 39
+      "stock": 40
     }
   ],
   "meta": {
