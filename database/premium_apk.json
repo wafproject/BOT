@@ -2216,10 +2216,15 @@
           "email": "krjjya11@gmail.com",
           "password": "asede123",
           "addedAt": 1774042827125
+        },
+        {
+          "email": "cwqykv78@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042828110
         }
       ],
       "sold": 0,
-      "stock": 23
+      "stock": 24
     }
   ],
   "meta": {
