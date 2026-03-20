@@ -2471,10 +2471,15 @@
           "email": "sgjflz262@gmail.com",
           "password": "asede123",
           "addedAt": 1774042878729
+        },
+        {
+          "email": "smiimg50@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042880024
         }
       ],
       "sold": 0,
-      "stock": 74
+      "stock": 75
     }
   ],
   "meta": {
