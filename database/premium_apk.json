@@ -2321,10 +2321,15 @@
           "email": "kkhsas64@gmail.com",
           "password": "asede123",
           "addedAt": 1774042847977
+        },
+        {
+          "email": "cgvbbh492@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042848734
         }
       ],
       "sold": 0,
-      "stock": 44
+      "stock": 45
     }
   ],
   "meta": {
