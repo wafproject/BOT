@@ -2261,10 +2261,15 @@
           "email": "sopccq591@gmail.com",
           "password": "asede123",
           "addedAt": 1774042836085
+        },
+        {
+          "email": "ttxdyn398@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042837131
         }
       ],
       "sold": 0,
-      "stock": 32
+      "stock": 33
     }
   ],
   "meta": {
