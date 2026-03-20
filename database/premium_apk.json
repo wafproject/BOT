@@ -2211,10 +2211,15 @@
           "email": "pauyrt53@gmail.com",
           "password": "asede123",
           "addedAt": 1774042826179
+        },
+        {
+          "email": "krjjya11@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042827125
         }
       ],
       "sold": 0,
-      "stock": 22
+      "stock": 23
     }
   ],
   "meta": {
