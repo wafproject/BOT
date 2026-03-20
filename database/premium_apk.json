@@ -2391,10 +2391,15 @@
           "email": "lgncct501@gmail.com",
           "password": "asede123",
           "addedAt": 1774042861288
+        },
+        {
+          "email": "gswedy65@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042862399
         }
       ],
       "sold": 0,
-      "stock": 58
+      "stock": 59
     }
   ],
   "meta": {
