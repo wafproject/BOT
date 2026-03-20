@@ -2206,10 +2206,15 @@
           "email": "lpahuc685@gmail.com",
           "password": "asede123",
           "addedAt": 1774042825377
+        },
+        {
+          "email": "pauyrt53@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042826179
         }
       ],
       "sold": 0,
-      "stock": 21
+      "stock": 22
     }
   ],
   "meta": {
