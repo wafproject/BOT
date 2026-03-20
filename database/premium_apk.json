@@ -2466,10 +2466,15 @@
           "email": "ykdyiw70@gmail.com",
           "password": "asede123",
           "addedAt": 1774042877695
+        },
+        {
+          "email": "sgjflz262@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042878729
         }
       ],
       "sold": 0,
-      "stock": 73
+      "stock": 74
     }
   ],
   "meta": {
