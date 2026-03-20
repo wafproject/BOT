@@ -2511,10 +2511,15 @@
           "email": "pxxwih07@gmail.com",
           "password": "asede123",
           "addedAt": 1774042887410
+        },
+        {
+          "email": "ezkqme932@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042888539
         }
       ],
       "sold": 0,
-      "stock": 82
+      "stock": 83
     }
   ],
   "meta": {
