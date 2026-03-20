@@ -2551,10 +2551,15 @@
           "email": "eskned72@gmail.com",
           "password": "asede123",
           "addedAt": 1774042895917
+        },
+        {
+          "email": "hcxptw73@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042896845
         }
       ],
       "sold": 0,
-      "stock": 90
+      "stock": 91
     }
   ],
   "meta": {
