@@ -2351,10 +2351,15 @@
           "email": "lxjlcy42@gmail.com",
           "password": "asede123",
           "addedAt": 1774042853757
+        },
+        {
+          "email": "shxcha183@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042854694
         }
       ],
       "sold": 0,
-      "stock": 50
+      "stock": 51
     }
   ],
   "meta": {
