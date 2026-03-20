@@ -2251,10 +2251,15 @@
           "email": "bernrk364@gmail.com",
           "password": "asede123",
           "addedAt": 1774042834356
+        },
+        {
+          "email": "cmkplk504@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042835235
         }
       ],
       "sold": 0,
-      "stock": 30
+      "stock": 31
     }
   ],
   "meta": {
