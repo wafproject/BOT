@@ -2092,6 +2092,18 @@
       "items": [],
       "sold": 50,
       "stock": 0
+    },
+    {
+      "code": "VIDTV",
+      "name": "Vidio Platinum TV 1 Tahun",
+      "category": "vidio platinum",
+      "type": "akun",
+      "price": 1500,
+      "descShort": "",
+      "snk": "— Khusus TV Only\n— Garansi login\n— Akun Private\n— Hanya support tayangan tv nasional\n— Bisa nonton liga 1",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
