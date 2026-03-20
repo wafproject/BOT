@@ -2336,10 +2336,15 @@
           "email": "lpyxyz161@gmail.com",
           "password": "asede123",
           "addedAt": 1774042850857
+        },
+        {
+          "email": "ndunfg02@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042851665
         }
       ],
       "sold": 0,
-      "stock": 47
+      "stock": 48
     }
   ],
   "meta": {
