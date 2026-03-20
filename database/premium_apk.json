@@ -2476,10 +2476,15 @@
           "email": "smiimg50@gmail.com",
           "password": "asede123",
           "addedAt": 1774042880024
+        },
+        {
+          "email": "tddkib257@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042881083
         }
       ],
       "sold": 0,
-      "stock": 75
+      "stock": 76
     }
   ],
   "meta": {
