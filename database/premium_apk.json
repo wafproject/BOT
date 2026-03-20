@@ -2566,10 +2566,15 @@
           "email": "flrsth169@gmail.com",
           "password": "asede123",
           "addedAt": 1774042898899
+        },
+        {
+          "email": "ewnfrp22@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042899665
         }
       ],
       "sold": 0,
-      "stock": 93
+      "stock": 94
     }
   ],
   "meta": {
