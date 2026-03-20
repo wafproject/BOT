@@ -2141,10 +2141,15 @@
           "email": "ovwwoj27@gmail.com",
           "password": "asede123",
           "addedAt": 1774042811428
+        },
+        {
+          "email": "ucescx526@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042812416
         }
       ],
       "sold": 0,
-      "stock": 8
+      "stock": 9
     }
   ],
   "meta": {
