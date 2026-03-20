@@ -2541,10 +2541,15 @@
           "email": "tudlvh08@gmail.com",
           "password": "asede123",
           "addedAt": 1774042893621
+        },
+        {
+          "email": "imodbd372@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042894741
         }
       ],
       "sold": 0,
-      "stock": 88
+      "stock": 89
     }
   ],
   "meta": {
