@@ -2131,10 +2131,15 @@
           "email": "mjlbbj95@gmail.com",
           "password": "asede123",
           "addedAt": 1774042809461
+        },
+        {
+          "email": "qcaevt064@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042810378
         }
       ],
       "sold": 0,
-      "stock": 6
+      "stock": 7
     }
   ],
   "meta": {
