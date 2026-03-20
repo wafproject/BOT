@@ -2411,10 +2411,15 @@
           "email": "fyewud87@gmail.com",
           "password": "asede123",
           "addedAt": 1774042865567
+        },
+        {
+          "email": "wtihnc17@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042866483
         }
       ],
       "sold": 0,
-      "stock": 62
+      "stock": 63
     }
   ],
   "meta": {
