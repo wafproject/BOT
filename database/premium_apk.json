@@ -2596,10 +2596,15 @@
           "email": "fhzhqn84@gmail.com",
           "password": "asede123",
           "addedAt": 1774042905090
+        },
+        {
+          "email": "rgxkna300@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042906038
         }
       ],
       "sold": 0,
-      "stock": 99
+      "stock": 100
     }
   ],
   "meta": {
