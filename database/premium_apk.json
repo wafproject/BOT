@@ -2161,10 +2161,15 @@
           "email": "uypett31@gmail.com",
           "password": "asede123",
           "addedAt": 1774042816005
+        },
+        {
+          "email": "zsbpyc255@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042816857
         }
       ],
       "sold": 0,
-      "stock": 12
+      "stock": 13
     }
   ],
   "meta": {
