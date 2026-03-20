@@ -2461,10 +2461,15 @@
           "email": "qpbqwd982@gmail.com",
           "password": "asede123",
           "addedAt": 1774042876211
+        },
+        {
+          "email": "ykdyiw70@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042877695
         }
       ],
       "sold": 0,
-      "stock": 72
+      "stock": 73
     }
   ],
   "meta": {
