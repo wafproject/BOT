@@ -2241,10 +2241,15 @@
           "email": "xvqckb63@gmail.com",
           "password": "asede123",
           "addedAt": 1774042832162
+        },
+        {
+          "email": "vammkf38@gmail.com",
+          "password": "asede123",
+          "addedAt": 1774042833267
         }
       ],
       "sold": 0,
-      "stock": 28
+      "stock": 29
     }
   ],
   "meta": {
