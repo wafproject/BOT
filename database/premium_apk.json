@@ -1055,11 +1055,6 @@
       "snk": "• Garansi 25 hari sejak pembelian (khusus kendala backfree / pro hilang)\n• Durasi aktif akun 25–35 hari\n• Sistem renewal 4x – 5x  \n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n⚠️ PENTING\n• Dilarang mengganti email & password, jika dilanggar = garansi hangus   \n• Jika Pro tidak muncul:\nUpdate aplikasi (HP / PC / komputer)  \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree (Pro hilang sebelum masa aktif habis)\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [
         {
-          "email": "timn7161@leoparali.icu",
-          "password": "masuk123",
-          "addedAt": 1773900840625
-        },
-        {
           "email": "abguybachman@konterkulo.com",
           "password": "masuk123",
           "addedAt": 1773900841550
@@ -1100,8 +1095,8 @@
           "addedAt": 1773900849108
         }
       ],
-      "sold": 762,
-      "stock": 9
+      "sold": 763,
+      "stock": 8
     },
     {
       "code": "APMEMBER",
