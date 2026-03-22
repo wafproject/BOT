@@ -1999,9 +1999,14 @@
           "email": "6289144157681",
           "password": "asede123",
           "addedAt": 1774207056012
+        },
+        {
+          "email": "6288750718417",
+          "password": "asede123",
+          "addedAt": 1774207057109
         }
       ],
-      "stock": 96,
+      "stock": 97,
       "sold": 270
     },
     {
