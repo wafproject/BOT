@@ -1544,9 +1544,14 @@
         {
           "email": "waluyogamani9875@yopmail.com",
           "password": "masuk12345"
+        },
+        {
+          "email": "6287583016451",
+          "password": "asede123",
+          "addedAt": 1774206943178
         }
       ],
-      "stock": 5,
+      "stock": 6,
       "sold": 270
     },
     {
