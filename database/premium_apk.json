@@ -1077,9 +1077,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "dal556@mayre.shop"
-        },
-        {
           "email": "spawn0011@clonekhoe.com"
         },
         {
@@ -1516,8 +1513,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 113,
-      "sold": 417
+      "stock": 112,
+      "sold": 418
     },
     {
       "code": "VIU",
