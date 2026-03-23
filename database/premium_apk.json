@@ -971,9 +971,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "gorcovka@pawgpt.nl"
-        },
-        {
           "email": "andrsit@htmail.store"
         },
         {
@@ -1404,8 +1401,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 111,
-      "sold": 419
+      "stock": 110,
+      "sold": 420
     },
     {
       "code": "VIU",
