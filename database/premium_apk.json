@@ -856,10 +856,15 @@
           "email": "3bvgqe46eu@jokiajaa.biz.id",
           "password": "masuk123",
           "addedAt": 1774339797941
+        },
+        {
+          "email": "p62lwb6azb@jokiajaa.biz.id",
+          "password": "masuk123",
+          "addedAt": 1774339799032
         }
       ],
       "sold": 770,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "APMEMBER",
