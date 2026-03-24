@@ -793,10 +793,15 @@
           "email": "lentasnail@tyzals-panel.cloud",
           "password": "masuk123",
           "addedAt": 1774339734288
+        },
+        {
+          "email": "iadasuper@0731tz.com",
+          "password": "masuk123",
+          "addedAt": 1774339735064
         }
       ],
       "sold": 537,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "CC35D",
