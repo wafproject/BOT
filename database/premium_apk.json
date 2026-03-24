@@ -891,10 +891,15 @@
           "email": "byrskqupwd@jokiajaa.biz.id",
           "password": "masuk123",
           "addedAt": 1774339809104
+        },
+        {
+          "email": "47k03f992s@jokiajaa.biz.id",
+          "password": "masuk123",
+          "addedAt": 1774339810576
         }
       ],
       "sold": 770,
-      "stock": 8
+      "stock": 9
     },
     {
       "code": "APMEMBER",
