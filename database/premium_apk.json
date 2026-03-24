@@ -823,10 +823,15 @@
           "email": "gusaroffanton@akbip.com",
           "password": "masuk123",
           "addedAt": 1774339742240
+        },
+        {
+          "email": "mckinnonmatt@cloud-server.id",
+          "password": "masuk123",
+          "addedAt": 1774339743720
         }
       ],
       "sold": 537,
-      "stock": 7
+      "stock": 8
     },
     {
       "code": "CC35D",
