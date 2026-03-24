@@ -828,10 +828,15 @@
           "email": "mckinnonmatt@cloud-server.id",
           "password": "masuk123",
           "addedAt": 1774339743720
+        },
+        {
+          "email": "antnico1@automizly.net",
+          "password": "masuk123",
+          "addedAt": 1774339745039
         }
       ],
       "sold": 537,
-      "stock": 8
+      "stock": 9
     },
     {
       "code": "CC35D",
