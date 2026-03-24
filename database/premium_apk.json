@@ -818,10 +818,15 @@
           "email": "toodycole2@thueotp.net",
           "password": "masuk123",
           "addedAt": 1774339740344
+        },
+        {
+          "email": "gusaroffanton@akbip.com",
+          "password": "masuk123",
+          "addedAt": 1774339742240
         }
       ],
       "sold": 537,
-      "stock": 6
+      "stock": 7
     },
     {
       "code": "CC35D",
