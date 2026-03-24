@@ -803,10 +803,15 @@
           "email": "andrekorteszw@premiapp.com",
           "password": "masuk123",
           "addedAt": 1774339735798
+        },
+        {
+          "email": "serejasavluk@681mail.com",
+          "password": "masuk123",
+          "addedAt": 1774339737364
         }
       ],
       "sold": 537,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "CC35D",
