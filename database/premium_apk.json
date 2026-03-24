@@ -808,10 +808,15 @@
           "email": "serejasavluk@681mail.com",
           "password": "masuk123",
           "addedAt": 1774339737364
+        },
+        {
+          "email": "margopeski@multicorse.com",
+          "password": "masuk123",
+          "addedAt": 1774339739149
         }
       ],
       "sold": 537,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "CC35D",
