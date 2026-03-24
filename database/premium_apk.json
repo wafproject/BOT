@@ -833,10 +833,15 @@
           "email": "antnico1@automizly.net",
           "password": "masuk123",
           "addedAt": 1774339745039
+        },
+        {
+          "email": "comdirfenix@btcmod.com",
+          "password": "masuk123",
+          "addedAt": 1774339746704
         }
       ],
       "sold": 537,
-      "stock": 9
+      "stock": 10
     },
     {
       "code": "CC35D",
