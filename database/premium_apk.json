@@ -788,9 +788,14 @@
       "price": 1000,
       "descShort": " Garansi 5 Hari ",
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
-      "items": [],
+      "items": [
+        {
+          "link": "lentasnail@tyzals-panel.cloud",
+          "addedAt": 1774339610390
+        }
+      ],
       "sold": 537,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "CC35D",
