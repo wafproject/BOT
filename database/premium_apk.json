@@ -2916,10 +2916,15 @@
           "email": "b4thqmc27y@jokiajaa.biz.id",
           "password": "masuk123",
           "addedAt": 1774367902526
+        },
+        {
+          "email": "zkuu7d4g6d@jokiajaa.biz.id",
+          "password": "masuk123",
+          "addedAt": 1774367904431
         }
       ],
       "sold": 1,
-      "stock": 8
+      "stock": 9
     }
   ],
   "meta": {
