@@ -2911,10 +2911,15 @@
           "email": "fuocy184qa@jokiajaa.biz.id",
           "password": "masuk123",
           "addedAt": 1774367900994
+        },
+        {
+          "email": "b4thqmc27y@jokiajaa.biz.id",
+          "password": "masuk123",
+          "addedAt": 1774367902526
         }
       ],
       "sold": 1,
-      "stock": 7
+      "stock": 8
     }
   ],
   "meta": {
