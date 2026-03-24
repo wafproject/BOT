@@ -813,10 +813,15 @@
           "email": "margopeski@multicorse.com",
           "password": "masuk123",
           "addedAt": 1774339739149
+        },
+        {
+          "email": "toodycole2@thueotp.net",
+          "password": "masuk123",
+          "addedAt": 1774339740344
         }
       ],
       "sold": 537,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "CC35D",
