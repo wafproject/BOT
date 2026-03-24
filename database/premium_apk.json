@@ -2886,10 +2886,15 @@
           "email": "8ikzs4p7m6@jokiajaa.biz.id",
           "password": "masuk123",
           "addedAt": 1774367892720
+        },
+        {
+          "email": "temiu9xlmo@jokiajaa.biz.id",
+          "password": "masuk123",
+          "addedAt": 1774367895134
         }
       ],
       "sold": 1,
-      "stock": 2
+      "stock": 3
     }
   ],
   "meta": {
