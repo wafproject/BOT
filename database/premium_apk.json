@@ -782,10 +782,15 @@
           "email": "oaksk@Kacaribu.me",
           "password": "masuk1234567",
           "addedAt": 1774443826289
+        },
+        {
+          "email": "yueoak@Kacaribu.me",
+          "password": "masuk1234567",
+          "addedAt": 1774443828476
         }
       ],
       "sold": 60,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "CC7D",
