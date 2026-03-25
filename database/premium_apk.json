@@ -765,8 +765,8 @@
       "sold": 488
     },
     {
-      "code": "GPTPLUS",
-      "name": "ChatGPT Plus 1B Gar14D",
+      "code": "GPHEAD",
+      "name": "ChatGPT Bussines Head Fullgar",
       "category": "ai chatgpt",
       "type": "akun",
       "price": 5000,
