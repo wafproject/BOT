@@ -807,10 +807,15 @@
           "email": "yorishud@najmi.tech",
           "password": "masuk1234567",
           "addedAt": 1774443835821
+        },
+        {
+          "email": "juotre@najmi.tech",
+          "password": "masuk1234567",
+          "addedAt": 1774443836963
         }
       ],
       "sold": 60,
-      "stock": 7
+      "stock": 8
     },
     {
       "code": "CC7D",
