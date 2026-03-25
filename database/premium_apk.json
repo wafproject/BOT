@@ -802,10 +802,15 @@
           "email": "popoi@Kacaribu.me",
           "password": "masuk1234567",
           "addedAt": 1774443833755
+        },
+        {
+          "email": "yorishud@najmi.tech",
+          "password": "masuk1234567",
+          "addedAt": 1774443835821
         }
       ],
       "sold": 60,
-      "stock": 6
+      "stock": 7
     },
     {
       "code": "CC7D",
