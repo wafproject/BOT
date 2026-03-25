@@ -797,10 +797,15 @@
           "email": "yhgff@Kacaribu.me",
           "password": "masuk1234567",
           "addedAt": 1774443831953
+        },
+        {
+          "email": "popoi@Kacaribu.me",
+          "password": "masuk1234567",
+          "addedAt": 1774443833755
         }
       ],
       "sold": 60,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "CC7D",
