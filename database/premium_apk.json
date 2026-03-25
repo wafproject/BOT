@@ -1057,9 +1057,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "andrsit@htmail.store"
-        },
-        {
           "email": "potzie@joagold.com"
         },
         {
@@ -1487,8 +1484,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 110,
-      "sold": 420
+      "stock": 109,
+      "sold": 421
     },
     {
       "code": "VIU",
