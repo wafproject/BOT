@@ -827,11 +827,6 @@
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
       "items": [
         {
-          "email": "lentasnail@tyzals-panel.cloud",
-          "password": "masuk123",
-          "addedAt": 1774339734288
-        },
-        {
           "email": "iadasuper@0731tz.com",
           "password": "masuk123",
           "addedAt": 1774339735064
@@ -877,8 +872,8 @@
           "addedAt": 1774339746704
         }
       ],
-      "sold": 537,
-      "stock": 10
+      "sold": 538,
+      "stock": 9
     },
     {
       "code": "CC35D",
