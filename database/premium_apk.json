@@ -792,10 +792,15 @@
           "email": "qwerty9@Kacaribu.me",
           "password": "masuk1234567",
           "addedAt": 1774443830627
+        },
+        {
+          "email": "yhgff@Kacaribu.me",
+          "password": "masuk1234567",
+          "addedAt": 1774443831953
         }
       ],
       "sold": 60,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "CC7D",
