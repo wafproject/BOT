@@ -166,9 +166,14 @@
           "email": "canenzi@Kacaribu.me",
           "password": "-",
           "addedAt": 1774462643740
+        },
+        {
+          "email": "canenzi2@Kacaribu.me",
+          "password": "-",
+          "addedAt": 1774462644793
         }
       ],
-      "stock": 1,
+      "stock": 2,
       "sold": 255
     },
     {
