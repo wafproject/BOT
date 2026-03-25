@@ -777,10 +777,15 @@
           "email": "kajs1@Kacaribu.me",
           "password": "masuk1234567",
           "addedAt": 1774443824829
+        },
+        {
+          "email": "oaksk@Kacaribu.me",
+          "password": "masuk1234567",
+          "addedAt": 1774443826289
         }
       ],
       "sold": 60,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "CC7D",
