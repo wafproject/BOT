@@ -273,15 +273,9 @@
       "price": 3500,
       "descShort": "Garansi Backfree",
       "snk": "* Garansi hanya berlaku jika backfree\n* Bisa invite max 100 member\n\nAkses email : https://annajmi.store/",
-      "items": [
-        {
-          "email": "canenzi2@Kacaribu.me",
-          "password": "-",
-          "addedAt": 1774462644793
-        }
-      ],
-      "stock": 1,
-      "sold": 256
+      "items": [],
+      "stock": 0,
+      "sold": 257
     },
     {
       "code": "CANADMIN",
