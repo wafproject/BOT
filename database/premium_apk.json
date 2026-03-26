@@ -275,18 +275,13 @@
       "snk": "* Garansi hanya berlaku jika backfree\n* Bisa invite max 100 member\n\nAkses email : https://annajmi.store/",
       "items": [
         {
-          "email": "canenzi@Kacaribu.me",
-          "password": "-",
-          "addedAt": 1774462643740
-        },
-        {
           "email": "canenzi2@Kacaribu.me",
           "password": "-",
           "addedAt": 1774462644793
         }
       ],
-      "stock": 2,
-      "sold": 255
+      "stock": 1,
+      "sold": 256
     },
     {
       "code": "CANADMIN",
