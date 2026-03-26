@@ -1339,9 +1339,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "mike5mck@kakao-mail.com"
-        },
-        {
           "email": "123boom@careandvital.com"
         },
         {
@@ -1763,8 +1760,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 108,
-      "sold": 422
+      "stock": 107,
+      "sold": 423
     },
     {
       "code": "VIU",
