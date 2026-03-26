@@ -885,10 +885,6 @@
       "snk": "SILAHKAN KIRIM EMAIL KE ADMIN wa.me/6287731282876 | @enziwaf",
       "items": [
         {
-          "text": "‎Silahkan kirim email ke admin @enziwaf / wa.me/6287731282876",
-          "addedAt": 1774461499210
-        },
-        {
           "text": "Silahkan kirim email ke admin @enziwaf / wa.me/6287731282876",
           "addedAt": 1774461501007
         },
@@ -1045,8 +1041,8 @@
           "addedAt": 1774461548945
         }
       ],
-      "stock": 40,
-      "sold": 488
+      "stock": 39,
+      "sold": 489
     },
     {
       "code": "GPHEAD",
