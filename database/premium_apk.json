@@ -1348,9 +1348,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "potzie@joagold.com"
-        },
-        {
           "email": "mike5mck@kakao-mail.com"
         },
         {
@@ -1775,8 +1772,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 109,
-      "sold": 421
+      "stock": 108,
+      "sold": 422
     },
     {
       "code": "VIU",
