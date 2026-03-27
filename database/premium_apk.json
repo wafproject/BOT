@@ -283,9 +283,14 @@
           "email": "canenzi@Kacaribu.me",
           "password": "https://annajmi.store/",
           "addedAt": 1774579567969
+        },
+        {
+          "email": "canenzi2@Kacaribu.me",
+          "password": "https://annajmi.store/",
+          "addedAt": 1774579569987
         }
       ],
-      "stock": 2,
+      "stock": 3,
       "sold": 257
     },
     {
