@@ -1049,11 +1049,6 @@
       "snk": "* Max invite 4 user \n• Akun private dari seller\n• Full Garansi 20 hari\n• Tidak ada refund setelah akun dikirim\n• Garansi tidak berlaku jika akun terkena banned / suspend karena pelanggaran\n• Dilarang menggunakan akun untuk aktivitas ilegal atau melanggar kebijakan OpenAI\n• Akses email via: https://annajmi.store/\n\nMembeli = setuju dengan semua ketentuan di atas.",
       "items": [
         {
-          "email": "yueoak@Kacaribu.me",
-          "password": "masuk1234567",
-          "addedAt": 1774443828476
-        },
-        {
           "email": "qwerty9@Kacaribu.me",
           "password": "masuk1234567",
           "addedAt": 1774443830627
@@ -1079,8 +1074,8 @@
           "addedAt": 1774443836963
         }
       ],
-      "sold": 312,
-      "stock": 6
+      "sold": 313,
+      "stock": 5
     },
     {
       "code": "CC7D",
