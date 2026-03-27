@@ -1308,9 +1308,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "123boom@careandvital.com"
-        },
-        {
           "email": "cmhurtt12@capcutmeflo.shop"
         },
         {
@@ -1729,8 +1726,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 107,
-      "sold": 423
+      "stock": 106,
+      "sold": 424
     },
     {
       "code": "VIU",
