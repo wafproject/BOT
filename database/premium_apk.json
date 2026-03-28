@@ -2827,15 +2827,9 @@
       "price": 1000,
       "descShort": "No Garansi",
       "snk": "* Produk ini no garansi\n* Hanya login 1 device\n* No komplain\n* Garansi login 2 jam setelah akun di drop",
-      "items": [
-        {
-          "email": "rwdujta@tevi.capcvt.team",
-          "password": "masuk123",
-          "addedAt": 1774704131585
-        }
-      ],
+      "items": [],
       "sold": 4,
-      "stock": 1
+      "stock": 0
     }
   ],
   "meta": {
