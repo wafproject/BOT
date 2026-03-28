@@ -881,13 +881,8 @@
       "price": 8000,
       "descShort": "Garansi 7 Hari",
       "snk": "SILAHKAN KIRIM EMAIL KE ADMIN wa.me/6287731282876 | @enziwaf",
-      "items": [
-        {
-          "text": "Silahkan kirim email ke admin @enziwaf / wa.me/6287731282876",
-          "addedAt": 1774461501871
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 490
     },
     {
