@@ -4332,10 +4332,15 @@
           "email": "jctwzap@zjlx.capcvt.team",
           "password": "masuk123",
           "addedAt": 1774720205592
+        },
+        {
+          "email": "jevicnghat@icit.capcvt.team",
+          "password": "masuk123",
+          "addedAt": 1774720206922
         }
       ],
       "sold": 4,
-      "stock": 302
+      "stock": 303
     }
   ],
   "meta": {
