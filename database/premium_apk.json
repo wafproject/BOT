@@ -2980,6 +2980,18 @@
       ],
       "sold": 325,
       "stock": 5
+    },
+    {
+      "code": "CC1B",
+      "name": "Capcut 1 Bulan Nogar",
+      "category": "capcut pro",
+      "type": "akun",
+      "price": 1000,
+      "descShort": "",
+      "snk": "* Produk ini no garansi ya.",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
