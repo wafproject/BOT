@@ -2897,10 +2897,15 @@
           "email": "ssqzqhvsba@otge.capcvt.team",
           "password": "masuk123",
           "addedAt": 1774704144705
+        },
+        {
+          "email": "sszyanu@lajh.capcvt.team",
+          "password": "masuk123",
+          "addedAt": 1774704145860
         }
       ],
       "sold": 4,
-      "stock": 14
+      "stock": 15
     }
   ],
   "meta": {
