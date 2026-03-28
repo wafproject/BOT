@@ -2902,10 +2902,15 @@
           "email": "sszyanu@lajh.capcvt.team",
           "password": "masuk123",
           "addedAt": 1774705384103
+        },
+        {
+          "email": "sxzjvzoojp@jzto.capcvt.team",
+          "password": "masuk123",
+          "addedAt": 1774705385233
         }
       ],
       "sold": 4,
-      "stock": 15
+      "stock": 16
     }
   ],
   "meta": {
