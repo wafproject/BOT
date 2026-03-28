@@ -3367,10 +3367,15 @@
           "email": "nhalnoa@erdm.capcvt.team",
           "password": "masuk123",
           "addedAt": 1774705482280
+        },
+        {
+          "email": "nmomdfwkds@lmpk.capcvt.team",
+          "password": "masuk123",
+          "addedAt": 1774705482912
         }
       ],
       "sold": 4,
-      "stock": 108
+      "stock": 109
     }
   ],
   "meta": {
