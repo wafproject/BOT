@@ -2991,11 +2991,6 @@
       "snk": "* Produk ini no garansi\n* Hanya login 1 device\n* No komplain\n* Garansi login 2 jam setelah akun di drop",
       "items": [
         {
-          "email": "rvcemazjrp@scmz.capcvt.team",
-          "password": "masuk123",
-          "addedAt": 1774681273842
-        },
-        {
           "email": "rvtayhy@ofrk.capcvt.team",
           "password": "masuk123",
           "addedAt": 1774681274804
@@ -3856,8 +3851,8 @@
           "addedAt": 1774681477365
         }
       ],
-      "sold": 2,
-      "stock": 173
+      "sold": 3,
+      "stock": 172
     }
   ],
   "meta": {
