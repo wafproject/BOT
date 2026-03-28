@@ -2989,9 +2989,15 @@
       "price": 1000,
       "descShort": "No Garansi",
       "snk": "* Produk ini no garansi ya.",
-      "items": [],
+      "items": [
+        {
+          "email": "rothztw@lvoe.capcvt.team",
+          "password": "masuk123",
+          "addedAt": 1774681271765
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 1
     }
   ],
   "meta": {
