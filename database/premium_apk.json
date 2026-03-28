@@ -2991,11 +2991,6 @@
       "snk": "* Produk ini no garansi\n* Hanya login 1 device\n* No komplain",
       "items": [
         {
-          "email": "rsfhdcy@brni.capcvt.team",
-          "password": "masuk123",
-          "addedAt": 1774681272788
-        },
-        {
           "email": "rvcemazjrp@scmz.capcvt.team",
           "password": "masuk123",
           "addedAt": 1774681273842
@@ -3861,8 +3856,8 @@
           "addedAt": 1774681477365
         }
       ],
-      "sold": 1,
-      "stock": 174
+      "sold": 2,
+      "stock": 173
     }
   ],
   "meta": {
