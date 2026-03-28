@@ -2832,10 +2832,15 @@
           "email": "rwdujta@tevi.capcvt.team",
           "password": "masuk123",
           "addedAt": 1774704131585
+        },
+        {
+          "email": "rwzeemygef@kuuh.capcvt.team",
+          "password": "masuk123",
+          "addedAt": 1774704132782
         }
       ],
       "sold": 4,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
