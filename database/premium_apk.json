@@ -936,11 +936,6 @@
       "snk": " * Garansi 5 hari * Maksimal login 1 perangkat * Garansi backfree only * Tidak menerima garansi jika akun terkena limit * Dilarang mengganti password supaya gampang proses garansi",
       "items": [
         {
-          "email": "serejasavluk@681mail.com",
-          "password": "masuk123",
-          "addedAt": 1774339737364
-        },
-        {
           "email": "margopeski@multicorse.com",
           "password": "masuk123",
           "addedAt": 1774339739149
@@ -971,8 +966,8 @@
           "addedAt": 1774339746704
         }
       ],
-      "sold": 540,
-      "stock": 7
+      "sold": 541,
+      "stock": 6
     },
     {
       "code": "CC35D",
