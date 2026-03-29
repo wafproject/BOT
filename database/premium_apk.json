@@ -5132,6 +5132,18 @@
       ],
       "sold": 0,
       "stock": 4
+    },
+    {
+      "code": "GROK3D",
+      "name": "SuperGrok 3 Hari",
+      "category": "ai grok",
+      "type": "akun",
+      "price": 3000,
+      "descShort": "",
+      "snk": "Garansi 1 Hari",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
