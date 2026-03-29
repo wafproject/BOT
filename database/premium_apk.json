@@ -5120,10 +5120,15 @@
           "email": "bvchh@fernn.web.id",
           "password": "masuk1234567",
           "addedAt": 1774803369749
+        },
+        {
+          "email": "ugghgg@fernn.web.id",
+          "password": "masuk1234567",
+          "addedAt": 1774803370810
         }
       ],
       "sold": 0,
-      "stock": 3
+      "stock": 4
     }
   ],
   "meta": {
