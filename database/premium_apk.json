@@ -5096,6 +5096,18 @@
       ],
       "sold": 4,
       "stock": 455
+    },
+    {
+      "code": "GPPLUS",
+      "name": "ChatGPT Plus 1 Bulan Gar7D",
+      "category": "ai chatgpt",
+      "type": "akun",
+      "price": 5000,
+      "descShort": "",
+      "snk": "* Garansi 7 Hari\n\nAkses Email\nhttps://fernn.my.id/",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
