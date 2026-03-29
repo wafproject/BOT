@@ -876,10 +876,6 @@
       "items": [
         {
           "text": "Via Invite, Hubungi kontak owner dibawah",
-          "addedAt": 1774723765811
-        },
-        {
-          "text": "Via Invite, Hubungi kontak owner dibawah",
           "addedAt": 1774723796421
         },
         {
@@ -907,8 +903,8 @@
           "addedAt": 1774723803627
         }
       ],
-      "stock": 8,
-      "sold": 490
+      "stock": 7,
+      "sold": 491
     },
     {
       "code": "GPHEAD",
