@@ -5110,10 +5110,15 @@
           "email": "jojoiuy@fernn.web.id",
           "password": "masuk1234567",
           "addedAt": 1774803367572
+        },
+        {
+          "email": "seksil@fernn.web.id",
+          "password": "masuk1234567",
+          "addedAt": 1774803368511
         }
       ],
       "sold": 0,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
