@@ -5071,10 +5071,15 @@
           "email": "pokij@fernn.web.id",
           "password": "masukaja1234",
           "addedAt": 1774897840870
+        },
+        {
+          "email": "kaajinb@fernn.web.id",
+          "password": "masukaja1234",
+          "addedAt": 1774897842794
         }
       ],
       "sold": 161,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "GROK3D",
