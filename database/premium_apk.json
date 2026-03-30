@@ -5066,15 +5066,9 @@
       "price": 5000,
       "descShort": "No Garansi",
       "snk": "* Akun private dari seller\n• No Garansi \n• Tidak ada refund setelah akun dikirim\n• Dilarang menggunakan akun untuk aktivitas ilegal atau melanggar kebijakan OpenAI\n• Akses email via: https://fernn.my.id/\n\nMembeli = setuju dengan semua ketentuan di atas.",
-      "items": [
-        {
-          "email": "ugghgg@fernn.web.id",
-          "password": "masuk1234567",
-          "addedAt": 1774803370810
-        }
-      ],
-      "sold": 160,
-      "stock": 1
+      "items": [],
+      "sold": 161,
+      "stock": 0
     },
     {
       "code": "GROK3D",
