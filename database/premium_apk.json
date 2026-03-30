@@ -5106,10 +5106,15 @@
           "email": "pokkkl@fernn.web.id",
           "password": "masukaja1234",
           "addedAt": 1774897856392
+        },
+        {
+          "email": "pplkk@fernn.web.id",
+          "password": "masukaja1234",
+          "addedAt": 1774897858450
         }
       ],
       "sold": 161,
-      "stock": 8
+      "stock": 9
     },
     {
       "code": "GROK3D",
