@@ -5111,10 +5111,15 @@
           "email": "pplkk@fernn.web.id",
           "password": "masukaja1234",
           "addedAt": 1774897858450
+        },
+        {
+          "email": "gugiute@fernn.web.id",
+          "password": "masukaja1234",
+          "addedAt": 1774897859644
         }
       ],
       "sold": 161,
-      "stock": 9
+      "stock": 10
     },
     {
       "code": "GROK3D",
