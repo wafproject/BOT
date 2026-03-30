@@ -5086,10 +5086,15 @@
           "email": "koohee@fernn.my.id",
           "password": "masukaja1234",
           "addedAt": 1774897845316
+        },
+        {
+          "email": "paareef@fernn.my.id",
+          "password": "masukaja1234",
+          "addedAt": 1774897846712
         }
       ],
       "sold": 161,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "GROK3D",
