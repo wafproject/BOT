@@ -5091,10 +5091,15 @@
           "email": "paareef@fernn.my.id",
           "password": "masukaja1234",
           "addedAt": 1774897846712
+        },
+        {
+          "email": "oaksdccj@fernn.my.id",
+          "password": "masukaja1234",
+          "addedAt": 1774897852447
         }
       ],
       "sold": 161,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "GROK3D",
