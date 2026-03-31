@@ -1090,9 +1090,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "lapdog56@mailku.co"
-        },
-        {
           "email": "nicke001@rawr.foo"
         },
         {
@@ -1502,8 +1499,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 104,
-      "sold": 426
+      "stock": 103,
+      "sold": 427
     },
     {
       "code": "VIU",
