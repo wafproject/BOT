@@ -3369,15 +3369,10 @@
           "email": "nhalnoa@erdm.capcvt.team",
           "password": "masuk123",
           "addedAt": 1774706132449
-        },
-        {
-          "email": "nmomdfwkds@lmpk.capcvt.team",
-          "password": "masuk123",
-          "addedAt": 1774706133461
         }
       ],
       "sold": 123,
-      "stock": 102
+      "stock": 101
     },
     {
       "code": "GPPLUS",
