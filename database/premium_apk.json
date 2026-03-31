@@ -2778,10 +2778,15 @@
           "email": "antnico1@automizly.net",
           "password": "masuk123",
           "addedAt": 1774927025476
+        },
+        {
+          "email": "1comdirfenix@btcmod.com",
+          "password": "masuk123",
+          "addedAt": 1774927032922
         }
       ],
       "sold": 330,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "CC1B",
