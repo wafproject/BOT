@@ -4679,15 +4679,10 @@
           "email": "zhlxqcalbt@slyc.capcvt.team",
           "password": "masuk123",
           "addedAt": 1774720477525
-        },
-        {
-          "email": "zhzotry@rmma.capcvt.team",
-          "password": "masuk123",
-          "addedAt": 1774720478606
         }
       ],
       "sold": 123,
-      "stock": 405
+      "stock": 404
     },
     {
       "code": "GPPLUS",
