@@ -905,15 +905,10 @@
           "email": "gusaroffanton@akbip.com",
           "password": "masuk123",
           "addedAt": 1774339742240
-        },
-        {
-          "email": "mckinnonmatt@cloud-server.id",
-          "password": "masuk123",
-          "addedAt": 1774339743720
         }
       ],
       "sold": 541,
-      "stock": 4
+      "stock": 3
     },
     {
       "code": "CC35D",
