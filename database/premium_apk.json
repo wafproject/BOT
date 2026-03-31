@@ -886,10 +886,15 @@
           "email": "mychi1@warunkto.com",
           "password": "masuk123",
           "addedAt": 1774969358284
+        },
+        {
+          "email": "mixilin@1820mail.vip",
+          "password": "masuk123",
+          "addedAt": 1774969360500
         }
       ],
       "sold": 784,
-      "stock": 24
+      "stock": 25
     },
     {
       "code": "APMEMBER",
