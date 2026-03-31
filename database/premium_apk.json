@@ -856,10 +856,15 @@
           "email": "nicopilmaz@mmds.shop",
           "password": "masuk123",
           "addedAt": 1774969331753
+        },
+        {
+          "email": "tjeu81@corefitrun.com",
+          "password": "masuk123",
+          "addedAt": 1774969334945
         }
       ],
       "sold": 784,
-      "stock": 18
+      "stock": 19
     },
     {
       "code": "APMEMBER",
