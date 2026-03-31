@@ -771,10 +771,15 @@
           "email": "pacpine4@premiummin.store",
           "password": "masuk123",
           "addedAt": 1774969267350
+        },
+        {
+          "email": "oakasis@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1774969268690
         }
       ],
       "sold": 784,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "APMEMBER",
