@@ -5064,11 +5064,6 @@
       "snk": "* Akun private dari seller\n• No Garansi \n• Tidak ada refund setelah akun dikirim\n• Dilarang menggunakan akun untuk aktivitas ilegal atau melanggar kebijakan OpenAI\n• Akses email via: https://fernn.my.id/\n\nMembeli = setuju dengan semua ketentuan di atas.",
       "items": [
         {
-          "email": "pokij@fernn.web.id",
-          "password": "masukaja1234",
-          "addedAt": 1774897840870
-        },
-        {
           "email": "kaajinb@fernn.web.id",
           "password": "masukaja1234",
           "addedAt": 1774897842794
@@ -5114,8 +5109,8 @@
           "addedAt": 1774897859644
         }
       ],
-      "sold": 161,
-      "stock": 10
+      "sold": 162,
+      "stock": 9
     },
     {
       "code": "GROK3D",
