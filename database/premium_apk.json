@@ -881,10 +881,15 @@
           "email": "jamin1995@hotrokh.com",
           "password": "masuk123",
           "addedAt": 1774969352481
+        },
+        {
+          "email": "mychi1@warunkto.com",
+          "password": "masuk123",
+          "addedAt": 1774969358284
         }
       ],
       "sold": 784,
-      "stock": 23
+      "stock": 24
     },
     {
       "code": "APMEMBER",
