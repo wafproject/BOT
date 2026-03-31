@@ -776,10 +776,15 @@
           "email": "oakasis@premiummin.store",
           "password": "masuk123",
           "addedAt": 1774969268690
+        },
+        {
+          "email": "kasojd@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1774969270346
         }
       ],
       "sold": 784,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "APMEMBER",
