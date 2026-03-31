@@ -791,10 +791,15 @@
           "email": "sokaps1@premiummin.store",
           "password": "masuk123",
           "addedAt": 1774969274798
+        },
+        {
+          "email": "tkdjosec@risma.mom",
+          "password": "masuk123",
+          "addedAt": 1774969276781
         }
       ],
       "sold": 784,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "APMEMBER",
