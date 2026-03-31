@@ -2758,10 +2758,15 @@
           "email": "margopeski@multicorse.com",
           "password": "masuk123",
           "addedAt": 1774927016029
+        },
+        {
+          "email": "toodycole2@thueotp.net",
+          "password": "masuk123",
+          "addedAt": 1774927019459
         }
       ],
       "sold": 330,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "CC1B",
