@@ -911,10 +911,15 @@
           "email": "grantbongioletti@tamttts.com",
           "password": "masuk123",
           "addedAt": 1774969374796
+        },
+        {
+          "email": "mahach0677@getbloomdata.com",
+          "password": "masuk123",
+          "addedAt": 1774969376474
         }
       ],
       "sold": 784,
-      "stock": 29
+      "stock": 30
     },
     {
       "code": "APMEMBER",
