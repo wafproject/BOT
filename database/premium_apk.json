@@ -2864,15 +2864,9 @@
       "price": 1500,
       "descShort": "No Garansi",
       "snk": "* Produk ini no garansi\n* Hanya login 1 device\n* No komplain\n* Garansi login 2 jam setelah akun di drop",
-      "items": [
-        {
-          "email": "sepdhdcear@jcmq.capcvt.team",
-          "password": "masuk123",
-          "addedAt": 1774706026671
-        }
-      ],
+      "items": [],
       "sold": 123,
-      "stock": 1
+      "stock": 0
     },
     {
       "code": "GPPLUS",
