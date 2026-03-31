@@ -936,10 +936,15 @@
           "email": "styx123@akbip.com",
           "password": "masuk123",
           "addedAt": 1774969387192
+        },
+        {
+          "email": "axrslangali@googlebox.kr",
+          "password": "masuk123",
+          "addedAt": 1774969388635
         }
       ],
       "sold": 784,
-      "stock": 34
+      "stock": 35
     },
     {
       "code": "APMEMBER",
