@@ -2773,10 +2773,15 @@
           "email": "mckinnonmatt@cloud-server.id",
           "password": "masuk123",
           "addedAt": 1774927022064
+        },
+        {
+          "email": "antnico1@automizly.net",
+          "password": "masuk123",
+          "addedAt": 1774927025476
         }
       ],
       "sold": 330,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "CC1B",
