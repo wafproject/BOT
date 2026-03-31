@@ -961,10 +961,15 @@
           "email": "dwilson6996@eewmaop.com",
           "password": "masuk123",
           "addedAt": 1774969398707
+        },
+        {
+          "email": "agressiveman1@yangdaye-ds.cc",
+          "password": "masuk123",
+          "addedAt": 1774969401419
         }
       ],
       "sold": 784,
-      "stock": 39
+      "stock": 40
     },
     {
       "code": "APMEMBER",
