@@ -861,10 +861,15 @@
           "email": "tjeu81@corefitrun.com",
           "password": "masuk123",
           "addedAt": 1774969334945
+        },
+        {
+          "email": "gjp26f@gxmail.top",
+          "password": "masuk123",
+          "addedAt": 1774969340460
         }
       ],
       "sold": 784,
-      "stock": 19
+      "stock": 20
     },
     {
       "code": "APMEMBER",
