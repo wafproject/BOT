@@ -946,10 +946,15 @@
           "email": "artnicoleross@getcode1.com",
           "password": "masuk123",
           "addedAt": 1774969390202
+        },
+        {
+          "email": "kudelyatatyana@f2pools.info",
+          "password": "masuk123",
+          "addedAt": 1774969391456
         }
       ],
       "sold": 784,
-      "stock": 36
+      "stock": 37
     },
     {
       "code": "APMEMBER",
