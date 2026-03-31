@@ -2671,11 +2671,6 @@
       "snk": "* Produk ini no garansi\n* Hanya login 1 device\n* No komplain\n* Garansi login 2 jam setelah akun di drop",
       "items": [
         {
-          "email": "sabhpfr@fkev.capcvt.team",
-          "password": "masuk123",
-          "addedAt": 1774706023895
-        },
-        {
           "email": "sbkelqkueu@ohkq.capcvt.team",
           "password": "masuk123",
           "addedAt": 1774706024602
@@ -4926,8 +4921,8 @@
           "addedAt": 1774720527359
         }
       ],
-      "sold": 120,
-      "stock": 451
+      "sold": 121,
+      "stock": 450
     },
     {
       "code": "GPPLUS",
