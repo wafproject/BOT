@@ -906,10 +906,15 @@
           "email": "mysticbs@findids.net",
           "password": "masuk123",
           "addedAt": 1774969368587
+        },
+        {
+          "email": "grantbongioletti@tamttts.com",
+          "password": "masuk123",
+          "addedAt": 1774969374796
         }
       ],
       "sold": 784,
-      "stock": 28
+      "stock": 29
     },
     {
       "code": "APMEMBER",
