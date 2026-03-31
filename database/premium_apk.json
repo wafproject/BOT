@@ -781,10 +781,15 @@
           "email": "kasojd@premiummin.store",
           "password": "masuk123",
           "addedAt": 1774969270346
+        },
+        {
+          "email": "oaksfsda@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1774969271820
         }
       ],
       "sold": 784,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "APMEMBER",
