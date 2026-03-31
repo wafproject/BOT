@@ -916,10 +916,15 @@
           "email": "mahach0677@getbloomdata.com",
           "password": "masuk123",
           "addedAt": 1774969376474
+        },
+        {
+          "email": "hotdrop@nangspa.vn",
+          "password": "masuk123",
+          "addedAt": 1774969378573
         }
       ],
       "sold": 784,
-      "stock": 30
+      "stock": 31
     },
     {
       "code": "APMEMBER",
