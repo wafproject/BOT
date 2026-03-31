@@ -801,10 +801,15 @@
           "email": "shakysgirl@mskey.net",
           "password": "masuk123",
           "addedAt": 1774969278812
+        },
+        {
+          "email": "maximkagrp@obiq.xyz",
+          "password": "masuk123",
+          "addedAt": 1774969280745
         }
       ],
       "sold": 784,
-      "stock": 7
+      "stock": 8
     },
     {
       "code": "APMEMBER",
