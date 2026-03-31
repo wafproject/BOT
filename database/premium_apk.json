@@ -2763,10 +2763,15 @@
           "email": "toodycole2@thueotp.net",
           "password": "masuk123",
           "addedAt": 1774927019459
+        },
+        {
+          "email": "gusaroffanton@akbip.com",
+          "password": "masuk123",
+          "addedAt": 1774927020617
         }
       ],
       "sold": 330,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "CC1B",
