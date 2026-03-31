@@ -891,10 +891,15 @@
           "email": "mixilin@1820mail.vip",
           "password": "masuk123",
           "addedAt": 1774969360500
+        },
+        {
+          "email": "anon001@mkda9884.top",
+          "password": "masuk123",
+          "addedAt": 1774969363840
         }
       ],
       "sold": 784,
-      "stock": 25
+      "stock": 26
     },
     {
       "code": "APMEMBER",
