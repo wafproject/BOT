@@ -876,10 +876,15 @@
           "email": "bigplay8@seaoning.click",
           "password": "masuk123",
           "addedAt": 1774969345408
+        },
+        {
+          "email": "jamin1995@hotrokh.com",
+          "password": "masuk123",
+          "addedAt": 1774969352481
         }
       ],
       "sold": 784,
-      "stock": 22
+      "stock": 23
     },
     {
       "code": "APMEMBER",
