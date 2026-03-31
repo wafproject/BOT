@@ -921,10 +921,15 @@
           "email": "hotdrop@nangspa.vn",
           "password": "masuk123",
           "addedAt": 1774969378573
+        },
+        {
+          "email": "katmaseznam@degar.xyz",
+          "password": "masuk123",
+          "addedAt": 1774969382580
         }
       ],
       "sold": 784,
-      "stock": 31
+      "stock": 32
     },
     {
       "code": "APMEMBER",
