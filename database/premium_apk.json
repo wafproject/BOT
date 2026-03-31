@@ -4977,10 +4977,15 @@
           "email": "gugiute@fernn.web.id",
           "password": "masukaja1234",
           "addedAt": 1774897859644
+        },
+        {
+          "email": "oaksdccj@fernn.my.id",
+          "password": "masukaja1234",
+          "addedAt": 1774951623066
         }
       ],
       "sold": 168,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "GROK3D",
