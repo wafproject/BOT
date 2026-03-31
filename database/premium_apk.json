@@ -2610,10 +2610,15 @@
           "email": "62t3eldggq@jokiajaa.biz.id",
           "password": "masuk123",
           "addedAt": 1774969225132
+        },
+        {
+          "email": "ejk9koqin3@jokiajaa.biz.id",
+          "password": "masuk123",
+          "addedAt": 1774969226798
         }
       ],
       "sold": 331,
-      "stock": 6
+      "stock": 7
     },
     {
       "code": "CC1B",
