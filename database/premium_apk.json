@@ -810,10 +810,15 @@
           "email": "apteka367@endflash.com",
           "password": "masuk123",
           "addedAt": 1775017323376
+        },
+        {
+          "email": "dj123456@goldinbox.net",
+          "password": "masuk123",
+          "addedAt": 1775017324485
         }
       ],
       "sold": 541,
-      "stock": 15
+      "stock": 16
     },
     {
       "code": "CC35D",
