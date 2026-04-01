@@ -835,10 +835,15 @@
           "email": "kristianwass@nowhivehub.com",
           "password": "masuk123",
           "addedAt": 1775017328379
+        },
+        {
+          "email": "williammodelski@realsoul.in",
+          "password": "masuk123",
+          "addedAt": 1775017329583
         }
       ],
       "sold": 541,
-      "stock": 20
+      "stock": 21
     },
     {
       "code": "CC35D",
