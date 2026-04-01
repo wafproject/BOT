@@ -875,10 +875,15 @@
           "email": "rwpmac@ezamirawedding.me",
           "password": "masuk123",
           "addedAt": 1775017336926
+        },
+        {
+          "email": "lambretta@meta68.xyz",
+          "password": "masuk123",
+          "addedAt": 1775017337812
         }
       ],
       "sold": 541,
-      "stock": 28
+      "stock": 29
     },
     {
       "code": "CC35D",
