@@ -775,10 +775,15 @@
           "email": "annabelle3272@newbreedapps.com",
           "password": "masuk123",
           "addedAt": 1775017316343
+        },
+        {
+          "email": "vengeful@gemapan.com",
+          "password": "masuk123",
+          "addedAt": 1775017317534
         }
       ],
       "sold": 541,
-      "stock": 8
+      "stock": 9
     },
     {
       "code": "CC35D",
