@@ -805,10 +805,15 @@
           "email": "ahmetdd@linkbm.one",
           "password": "masuk123",
           "addedAt": 1775017322476
+        },
+        {
+          "email": "apteka367@endflash.com",
+          "password": "masuk123",
+          "addedAt": 1775017323376
         }
       ],
       "sold": 541,
-      "stock": 14
+      "stock": 15
     },
     {
       "code": "CC35D",
