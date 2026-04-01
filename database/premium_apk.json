@@ -745,10 +745,15 @@
           "email": "rajaahmad22@icloulb.kr",
           "password": "masuk123",
           "addedAt": 1775017310375
+        },
+        {
+          "email": "normbuster@reviewfood.vn",
+          "password": "masuk123",
+          "addedAt": 1775017311355
         }
       ],
       "sold": 541,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "CC35D",
