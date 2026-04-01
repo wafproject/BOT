@@ -815,10 +815,15 @@
           "email": "dj123456@goldinbox.net",
           "password": "masuk123",
           "addedAt": 1775017324485
+        },
+        {
+          "email": "molodost@ekot.xyz",
+          "password": "masuk123",
+          "addedAt": 1775017325447
         }
       ],
       "sold": 541,
-      "stock": 16
+      "stock": 17
     },
     {
       "code": "CC35D",
