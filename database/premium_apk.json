@@ -2991,10 +2991,15 @@
           "email": "insalat1@premiummin.store",
           "password": "masuk123",
           "addedAt": 1775017705496
+        },
+        {
+          "email": "lusamexa@mgsuite.vip",
+          "password": "masuk123",
+          "addedAt": 1775017706450
         }
       ],
       "sold": 123,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "GPPLUS",
