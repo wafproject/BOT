@@ -770,10 +770,15 @@
           "email": "bnusyaalo1990ts@hotrokh.com",
           "password": "masuk123",
           "addedAt": 1775017315420
+        },
+        {
+          "email": "annabelle3272@newbreedapps.com",
+          "password": "masuk123",
+          "addedAt": 1775017316343
         }
       ],
       "sold": 541,
-      "stock": 7
+      "stock": 8
     },
     {
       "code": "CC35D",
