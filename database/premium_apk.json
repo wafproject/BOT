@@ -785,10 +785,15 @@
           "email": "hoitrip@sdsfre.blog",
           "password": "masuk123",
           "addedAt": 1775017318497
+        },
+        {
+          "email": "rooneymu@deajeng.store",
+          "password": "masuk123",
+          "addedAt": 1775017319568
         }
       ],
       "sold": 541,
-      "stock": 10
+      "stock": 11
     },
     {
       "code": "CC35D",
