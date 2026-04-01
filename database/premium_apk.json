@@ -830,10 +830,15 @@
           "email": "allamasiki@kupz.xyz",
           "password": "masuk123",
           "addedAt": 1775017327440
+        },
+        {
+          "email": "kristianwass@nowhivehub.com",
+          "password": "masuk123",
+          "addedAt": 1775017328379
         }
       ],
       "sold": 541,
-      "stock": 19
+      "stock": 20
     },
     {
       "code": "CC35D",
