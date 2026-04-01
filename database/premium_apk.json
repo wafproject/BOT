@@ -790,10 +790,15 @@
           "email": "rooneymu@deajeng.store",
           "password": "masuk123",
           "addedAt": 1775017319568
+        },
+        {
+          "email": "tomnic@gimail.cloud",
+          "password": "masuk123",
+          "addedAt": 1775017320466
         }
       ],
       "sold": 541,
-      "stock": 11
+      "stock": 12
     },
     {
       "code": "CC35D",
