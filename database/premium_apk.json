@@ -755,10 +755,15 @@
           "email": "marinysss@husng-kang.top",
           "password": "masuk123",
           "addedAt": 1775017312263
+        },
+        {
+          "email": "tatu99@developtool.app",
+          "password": "masuk123",
+          "addedAt": 1775017313240
         }
       ],
       "sold": 541,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "CC35D",
