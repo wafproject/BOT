@@ -840,10 +840,15 @@
           "email": "williammodelski@realsoul.in",
           "password": "masuk123",
           "addedAt": 1775017329583
+        },
+        {
+          "email": "evinkev@kwinx.click",
+          "password": "masuk123",
+          "addedAt": 1775017330518
         }
       ],
       "sold": 541,
-      "stock": 21
+      "stock": 22
     },
     {
       "code": "CC35D",
