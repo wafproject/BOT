@@ -3001,10 +3001,15 @@
           "email": "qquxk@gajahmulya.com",
           "password": "masuk123",
           "addedAt": 1775017707507
+        },
+        {
+          "email": "rsmrz@gajahmulya.com",
+          "password": "masuk123",
+          "addedAt": 1775017708688
         }
       ],
       "sold": 123,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "GPPLUS",
