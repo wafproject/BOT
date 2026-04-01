@@ -760,10 +760,15 @@
           "email": "tatu99@developtool.app",
           "password": "masuk123",
           "addedAt": 1775017313240
+        },
+        {
+          "email": "cgbrjy666@cangutsiapa.sbs",
+          "password": "masuk123",
+          "addedAt": 1775017314286
         }
       ],
       "sold": 541,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "CC35D",
