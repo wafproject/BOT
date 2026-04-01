@@ -820,10 +820,15 @@
           "email": "molodost@ekot.xyz",
           "password": "masuk123",
           "addedAt": 1775017325447
+        },
+        {
+          "email": "eduardgavrilov@phmail.us",
+          "password": "masuk123",
+          "addedAt": 1775017326446
         }
       ],
       "sold": 541,
-      "stock": 17
+      "stock": 18
     },
     {
       "code": "CC35D",
