@@ -780,10 +780,15 @@
           "email": "vengeful@gemapan.com",
           "password": "masuk123",
           "addedAt": 1775017317534
+        },
+        {
+          "email": "hoitrip@sdsfre.blog",
+          "password": "masuk123",
+          "addedAt": 1775017318497
         }
       ],
       "sold": 541,
-      "stock": 9
+      "stock": 10
     },
     {
       "code": "CC35D",
