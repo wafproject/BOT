@@ -740,10 +740,15 @@
           "email": "alex15446@816qs.com",
           "password": "masuk123",
           "addedAt": 1775017309370
+        },
+        {
+          "email": "rajaahmad22@icloulb.kr",
+          "password": "masuk123",
+          "addedAt": 1775017310375
         }
       ],
       "sold": 541,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "CC35D",
