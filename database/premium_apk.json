@@ -855,10 +855,15 @@
           "email": "bilevitch@dapurx.me",
           "password": "masuk123",
           "addedAt": 1775017332841
+        },
+        {
+          "email": "darkrazo999@dichvuxe24h.com",
+          "password": "masuk123",
+          "addedAt": 1775017333852
         }
       ],
       "sold": 541,
-      "stock": 24
+      "stock": 25
     },
     {
       "code": "CC35D",
