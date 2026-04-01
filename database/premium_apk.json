@@ -845,10 +845,15 @@
           "email": "evinkev@kwinx.click",
           "password": "masuk123",
           "addedAt": 1775017330518
+        },
+        {
+          "email": "thorntn@inlook.cloud",
+          "password": "masuk123",
+          "addedAt": 1775017331633
         }
       ],
       "sold": 541,
-      "stock": 22
+      "stock": 23
     },
     {
       "code": "CC35D",
