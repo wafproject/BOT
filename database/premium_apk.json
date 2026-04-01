@@ -750,10 +750,15 @@
           "email": "normbuster@reviewfood.vn",
           "password": "masuk123",
           "addedAt": 1775017311355
+        },
+        {
+          "email": "marinysss@husng-kang.top",
+          "password": "masuk123",
+          "addedAt": 1775017312263
         }
       ],
       "sold": 541,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "CC35D",
