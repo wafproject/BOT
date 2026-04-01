@@ -795,10 +795,15 @@
           "email": "tomnic@gimail.cloud",
           "password": "masuk123",
           "addedAt": 1775017320466
+        },
+        {
+          "email": "pamoreci@niceminute.com",
+          "password": "masuk123",
+          "addedAt": 1775017321457
         }
       ],
       "sold": 541,
-      "stock": 12
+      "stock": 13
     },
     {
       "code": "CC35D",
