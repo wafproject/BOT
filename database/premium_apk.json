@@ -1240,9 +1240,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "my47inchjohnson@fundproceed.com"
-        },
-        {
           "email": "hotandi1@hieuclone.net"
         },
         {
@@ -1646,8 +1643,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 102,
-      "sold": 428
+      "stock": 101,
+      "sold": 429
     },
     {
       "code": "VIU",
