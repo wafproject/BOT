@@ -3028,10 +3028,15 @@
           "email": "malecheks@premiummin.store",
           "password": "masuk1234567",
           "addedAt": 1775098716350
+        },
+        {
+          "email": "phlox5@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775098717557
         }
       ],
       "sold": 172,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "GROK3D",
