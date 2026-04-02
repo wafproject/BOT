@@ -1188,15 +1188,9 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": " Garansi 5 Hari",
-      "items": [
-        {
-          "email": "emagamma@tiredecalz.com",
-          "password": "Masuk123",
-          "addedAt": 1773805349580
-        }
-      ],
-      "stock": 1,
-      "sold": 25
+      "items": [],
+      "stock": 0,
+      "sold": 26
     },
     {
       "code": "AM",
