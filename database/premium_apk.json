@@ -3038,10 +3038,15 @@
           "email": "coolgoldday@premiummin.store",
           "password": "masuk1234567",
           "addedAt": 1775098718366
+        },
+        {
+          "email": "argentumm@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775098719572
         }
       ],
       "sold": 172,
-      "stock": 6
+      "stock": 7
     },
     {
       "code": "GROK3D",
