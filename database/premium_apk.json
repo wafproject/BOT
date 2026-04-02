@@ -2358,13 +2358,8 @@
       "price": 8000,
       "descShort": "Full 1B No Renew",
       "snk": " * No Garansi • Dilarang otak atik akun • Dilarang otak atik billing/Subscriptions • Jika ketahuan akun akan ditarik dan denda 50K • Dilarang ganti email & Password • Akun private bukan sharing",
-      "items": [
-        {
-          "email": "turaltaqiyev@moreablle.com",
-          "password": "masuk123"
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 15
     },
     {
