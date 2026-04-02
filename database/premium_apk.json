@@ -3091,15 +3091,9 @@
       "price": 3000,
       "descShort": "Garansi 1 Hari",
       "snk": "Garansi 1 Hari",
-      "items": [
-        {
-          "email": "mberry1333@camellieso.com",
-          "password": "Masuk123@",
-          "addedAt": 1774808508338
-        }
-      ],
+      "items": [],
       "sold": 96,
-      "stock": 1
+      "stock": 0
     }
   ],
   "meta": {
