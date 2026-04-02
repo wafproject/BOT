@@ -1152,9 +1152,15 @@
       "price": 3000,
       "descShort": " Garansi 20 hari",
       "snk": " Garansi 20 Hari",
-      "items": [],
+      "items": [
+        {
+          "email": "edypravin89@premiummin.store",
+          "password": "Masuk12345",
+          "addedAt": 1775133437964
+        }
+      ],
       "sold": 79,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "IBISP",
