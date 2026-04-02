@@ -3018,10 +3018,15 @@
           "email": "jevbassvggu@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775098714198
+        },
+        {
+          "email": "partyman2903@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775098715315
         }
       ],
       "sold": 172,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "GROK3D",
