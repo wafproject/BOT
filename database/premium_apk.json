@@ -3048,10 +3048,15 @@
           "email": "homer05@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775098720764
+        },
+        {
+          "email": "rayb8@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775098721844
         }
       ],
       "sold": 172,
-      "stock": 8
+      "stock": 9
     },
     {
       "code": "GROK3D",
