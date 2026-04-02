@@ -3033,10 +3033,15 @@
           "email": "phlox5@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775098717557
+        },
+        {
+          "email": "coolgoldday@premiummin.store",
+          "password": "masuk1234567",
+          "addedAt": 1775098718366
         }
       ],
       "sold": 172,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "GROK3D",
