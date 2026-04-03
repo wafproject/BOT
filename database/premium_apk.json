@@ -1162,10 +1162,15 @@
           "email": "kotses@leadcraft.store",
           "password": "Masuk12345",
           "addedAt": 1775192801244
+        },
+        {
+          "email": "stormee@phimteen.net",
+          "password": "Masuk12345",
+          "addedAt": 1775192802286
         }
       ],
       "sold": 79,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "IBISP",
