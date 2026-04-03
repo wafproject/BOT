@@ -3044,15 +3044,10 @@
           "email": "argentumm@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775098719572
-        },
-        {
-          "email": "homer05@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775098720764
         }
       ],
       "sold": 174,
-      "stock": 6
+      "stock": 5
     },
     {
       "code": "GROK3D",
