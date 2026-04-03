@@ -3139,15 +3139,10 @@
           "email": "pael@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775214515708
-        },
-        {
-          "email": "trd040444@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775214516589
         }
       ],
       "sold": 0,
-      "stock": 14
+      "stock": 13
     }
   ],
   "meta": {
