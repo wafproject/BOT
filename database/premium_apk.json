@@ -1157,10 +1157,15 @@
           "email": "ilovebikinis@yangzhong-sfd.shop",
           "password": "Masuk12345",
           "addedAt": 1775192800089
+        },
+        {
+          "email": "kotses@leadcraft.store",
+          "password": "Masuk12345",
+          "addedAt": 1775192801244
         }
       ],
       "sold": 79,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "IBISP",
