@@ -3129,15 +3129,10 @@
           "email": "guomei1109@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775214513232
-        },
-        {
-          "email": "3agbhk@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775214514439
         }
       ],
       "sold": 0,
-      "stock": 12
+      "stock": 11
     }
   ],
   "meta": {
