@@ -1172,10 +1172,15 @@
           "email": "chikij29@gqim.xyz",
           "password": "Masuk12345",
           "addedAt": 1775192803535
+        },
+        {
+          "email": "rahimovi1@muahetbienhoa.com",
+          "password": "Masuk12345",
+          "addedAt": 1775192804338
         }
       ],
       "sold": 79,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "IBISP",
