@@ -3124,15 +3124,10 @@
           "email": "mynanny@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775214512388
-        },
-        {
-          "email": "guomei1109@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775214513232
         }
       ],
       "sold": 0,
-      "stock": 11
+      "stock": 10
     }
   ],
   "meta": {
