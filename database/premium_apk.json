@@ -3114,15 +3114,10 @@
           "email": "rayb8@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775214510234
-        },
-        {
-          "email": "san57a@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775214511387
         }
       ],
       "sold": 0,
-      "stock": 9
+      "stock": 8
     }
   ],
   "meta": {
