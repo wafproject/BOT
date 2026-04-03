@@ -1167,10 +1167,15 @@
           "email": "stormee@phimteen.net",
           "password": "Masuk12345",
           "addedAt": 1775192802286
+        },
+        {
+          "email": "chikij29@gqim.xyz",
+          "password": "Masuk12345",
+          "addedAt": 1775192803535
         }
       ],
       "sold": 79,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "IBISP",
