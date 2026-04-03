@@ -3084,15 +3084,10 @@
           "email": "san57a@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775214503714
-        },
-        {
-          "email": "mynanny@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775214504954
         }
       ],
       "sold": 0,
-      "stock": 3
+      "stock": 2
     }
   ],
   "meta": {
