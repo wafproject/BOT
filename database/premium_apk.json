@@ -1175,11 +1175,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "edypravin89@premiummin.store",
-          "password": "Masuk12345",
-          "addedAt": 1775133437964
-        },
-        {
           "email": "ilovebikinis@yangzhong-sfd.shop",
           "password": "Masuk12345",
           "addedAt": 1775192800089
@@ -1205,8 +1200,8 @@
           "addedAt": 1775192804338
         }
       ],
-      "sold": 79,
-      "stock": 6
+      "sold": 80,
+      "stock": 5
     },
     {
       "code": "IBISP",
