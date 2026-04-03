@@ -3134,10 +3134,15 @@
           "email": "3agbhk@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775214514439
+        },
+        {
+          "email": "pael@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775214515708
         }
       ],
       "sold": 0,
-      "stock": 12
+      "stock": 13
     }
   ],
   "meta": {
