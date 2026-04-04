@@ -1241,10 +1241,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "melshem@aiqoe.com",
-          "addedAt": 1774033566766
-        },
-        {
           "email": "vincenzocavuoti@shopcreative.cc",
           "addedAt": 1774033568580
         },
@@ -1629,8 +1625,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 97,
-      "sold": 433
+      "stock": 96,
+      "sold": 434
     },
     {
       "code": "VIU",
