@@ -1227,8 +1227,14 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": " Garansi 5 Hari",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "derbuf@leadcraft.store",
+          "password": "Masuk123",
+          "addedAt": 1775294135456
+        }
+      ],
+      "stock": 1,
       "sold": 27
     },
     {
