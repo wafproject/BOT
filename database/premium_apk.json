@@ -1244,10 +1244,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "claricemariaantunes@sollutiongpt.live",
-          "addedAt": 1774033562793
-        },
-        {
           "email": "ladyofthewind35@binhduong.bar",
           "addedAt": 1774033564471
         },
@@ -1644,8 +1640,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 100,
-      "sold": 430
+      "stock": 99,
+      "sold": 431
     },
     {
       "code": "VIU",
