@@ -2979,10 +2979,15 @@
           "email": "etzub44@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417878629
+        },
+        {
+          "email": "aitimir1991@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775417879480
         }
       ],
       "sold": 218,
-      "stock": 10
+      "stock": 11
     }
   ],
   "meta": {
