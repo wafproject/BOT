@@ -2934,10 +2934,15 @@
           "email": "editgirl@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413169783
+        },
+        {
+          "email": "garodriguez@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413171059
         }
       ],
       "sold": 7,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
