@@ -3009,10 +3009,15 @@
           "email": "hirrient@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417884811
+        },
+        {
+          "email": "s160084@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775417885888
         }
       ],
       "sold": 218,
-      "stock": 16
+      "stock": 17
     }
   ],
   "meta": {
