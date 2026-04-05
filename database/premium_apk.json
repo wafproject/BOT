@@ -1138,11 +1138,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "kotses@leadcraft.store",
-          "password": "Masuk12345",
-          "addedAt": 1775192801244
-        },
-        {
           "email": "stormee@phimteen.net",
           "password": "Masuk12345",
           "addedAt": 1775192802286
@@ -1158,8 +1153,8 @@
           "addedAt": 1775192804338
         }
       ],
-      "sold": 81,
-      "stock": 4
+      "sold": 82,
+      "stock": 3
     },
     {
       "code": "IBISP",
