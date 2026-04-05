@@ -2959,10 +2959,15 @@
           "email": "bc696969@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413175470
+        },
+        {
+          "email": "ovg4lyfe@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413176419
         }
       ],
       "sold": 7,
-      "stock": 6
+      "stock": 7
     }
   ],
   "meta": {
