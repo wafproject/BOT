@@ -2336,9 +2336,15 @@
       "price": 8000,
       "descShort": "Akun Private",
       "snk": "* Akun private bukan sharing\n* No Garansi (Pasti awet)\n* 20 - 30 hari terhitung 1 Bulan\n* Setelah login langsung cek durasi jika kurang dari 20 hari bisa hub admin @enziwaf | wa.me/6287731282876",
-      "items": [],
+      "items": [
+        {
+          "email": "zxca40622@gmail.com",
+          "password": "Masuk123",
+          "addedAt": 1775368573738
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "VIDTV",
