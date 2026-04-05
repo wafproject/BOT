@@ -3069,10 +3069,15 @@
           "email": "henesh10@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413198626
+        },
+        {
+          "email": "addea@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413199613
         }
       ],
       "sold": 7,
-      "stock": 28
+      "stock": 29
     }
   ],
   "meta": {
