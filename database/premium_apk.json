@@ -2923,15 +2923,9 @@
       "price": 5000,
       "descShort": "No Garansi",
       "snk": "‎* Akun private dari seller\n‎• No Garansi \n‎• Tidak ada refund setelah akun dikirim\n‎• Dilarang menggunakan akun untuk aktivitas ilegal atau melanggar kebijakan OpenAI\n‎• Akses email via: https://generator.email/\n\nTutorial Login\nhttps://t.me/premiummintutorlogin/4",
-      "items": [
-        {
-          "email": "argentumm@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775098719572
-        }
-      ],
-      "sold": 178,
-      "stock": 1
+      "items": [],
+      "sold": 179,
+      "stock": 0
     },
     {
       "code": "GROK3D",
