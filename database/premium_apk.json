@@ -3004,10 +3004,15 @@
           "email": "wassup304@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417883639
+        },
+        {
+          "email": "hirrient@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775417884811
         }
       ],
       "sold": 218,
-      "stock": 15
+      "stock": 16
     }
   ],
   "meta": {
