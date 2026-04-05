@@ -3059,10 +3059,15 @@
           "email": "asiriudayan@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413196537
+        },
+        {
+          "email": "creamct@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413197488
         }
       ],
       "sold": 7,
-      "stock": 26
+      "stock": 27
     }
   ],
   "meta": {
