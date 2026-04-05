@@ -2356,11 +2356,6 @@
       "snk": "— Khusus TV Only\n— Garansi login\n— Akun Private\n— Hanya support tayangan tv nasional\n— Bisa nonton liga 1",
       "items": [
         {
-          "email": "lzpcjw303@gmail.com",
-          "password": "asede123",
-          "addedAt": 1774042808548
-        },
-        {
           "email": "mjlbbj95@gmail.com",
           "password": "asede123",
           "addedAt": 1774042809461
@@ -2837,7 +2832,7 @@
         }
       ],
       "sold": 291,
-      "stock": 96
+      "stock": 95
     },
     {
       "code": "CC42D",
