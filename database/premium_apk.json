@@ -3029,10 +3029,15 @@
           "email": "wcarta23@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417888765
+        },
+        {
+          "email": "antuha75@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775417889871
         }
       ],
       "sold": 218,
-      "stock": 20
+      "stock": 21
     }
   ],
   "meta": {
