@@ -2939,10 +2939,15 @@
           "email": "garodriguez@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413171059
+        },
+        {
+          "email": "rbjn1301@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413172206
         }
       ],
       "sold": 7,
-      "stock": 2
+      "stock": 3
     }
   ],
   "meta": {
