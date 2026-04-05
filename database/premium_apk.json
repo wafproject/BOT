@@ -3064,10 +3064,15 @@
           "email": "creamct@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417896620
+        },
+        {
+          "email": "henesh10@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775417897929
         }
       ],
       "sold": 218,
-      "stock": 27
+      "stock": 28
     }
   ],
   "meta": {
