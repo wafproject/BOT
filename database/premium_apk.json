@@ -2999,10 +2999,15 @@
           "email": "avuso@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417882587
+        },
+        {
+          "email": "wassup304@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775417883639
         }
       ],
       "sold": 218,
-      "stock": 14
+      "stock": 15
     }
   ],
   "meta": {
