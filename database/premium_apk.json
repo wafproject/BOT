@@ -3019,10 +3019,15 @@
           "email": "gv7nzt71xdx@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413188381
+        },
+        {
+          "email": "natemsl@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413189309
         }
       ],
       "sold": 7,
-      "stock": 18
+      "stock": 19
     }
   ],
   "meta": {
