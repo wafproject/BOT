@@ -3100,15 +3100,10 @@
           "email": "addea@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417898784
-        },
-        {
-          "email": "shishkinpalto@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775417899477
         }
       ],
       "sold": 218,
-      "stock": 30
+      "stock": 29
     }
   ],
   "meta": {
