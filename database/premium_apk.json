@@ -3054,10 +3054,15 @@
           "email": "sanduma@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413195348
+        },
+        {
+          "email": "asiriudayan@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413196537
         }
       ],
       "sold": 7,
-      "stock": 25
+      "stock": 26
     }
   ],
   "meta": {
