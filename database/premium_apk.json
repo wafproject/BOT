@@ -2925,10 +2925,15 @@
           "email": "addea@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417918407
+        },
+        {
+          "email": "shishkinpalto@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775417919306
         }
       ],
       "sold": 179,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "GROK3D",
