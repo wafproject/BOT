@@ -2957,11 +2957,6 @@
       "snk": "* Akun private dari seller\n• Garansi 7 Hari\n• Tidak ada refund setelah akun dikirim\n• Garansi tidak berlaku jika akun terkena banned / suspend karena pelanggaran\n• Dilarang menggunakan akun untuk aktivitas ilegal atau melanggar kebijakan OpenAI\n• Akses email via: https://generator.email\n\nMembeli = setuju dengan semua ketentuan di atas.",
       "items": [
         {
-          "email": "editgirl@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775417869107
-        },
-        {
           "email": "garodriguez@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417870434
@@ -3082,8 +3077,8 @@
           "addedAt": 1775417894614
         }
       ],
-      "sold": 218,
-      "stock": 25
+      "sold": 219,
+      "stock": 24
     }
   ],
   "meta": {
