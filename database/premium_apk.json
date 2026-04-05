@@ -2905,9 +2905,15 @@
       "price": 25000,
       "descShort": "Full Garansi",
       "snk": "* Akun private dari seller\n• Full Garansi!! jika method koid reffund sisa hari\n• Garansi hanya berlaku jika backfree (pro nya hilang), akun terkena banned / suspend karena pelanggaran tidak ada garansi \n• Dilarang menggunakan akun untuk aktivitas ilegal atau melanggar kebijakan OpenAI\n• Akses email via: https://generator.email\n\nMembeli = setuju dengan semua ketentuan di atas.",
-      "items": [],
+      "items": [
+        {
+          "email": "asiriudayan@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775417914933
+        }
+      ],
       "sold": 179,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "GROK3D",
