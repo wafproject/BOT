@@ -2954,10 +2954,15 @@
           "email": "lool0703@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413174184
+        },
+        {
+          "email": "bc696969@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413175470
         }
       ],
       "sold": 7,
-      "stock": 5
+      "stock": 6
     }
   ],
   "meta": {
