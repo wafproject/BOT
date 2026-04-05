@@ -2969,10 +2969,15 @@
           "email": "cooltanzim@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417876353
+        },
+        {
+          "email": "ritey@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775417877540
         }
       ],
       "sold": 218,
-      "stock": 8
+      "stock": 9
     }
   ],
   "meta": {
