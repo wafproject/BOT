@@ -2915,10 +2915,15 @@
           "email": "creamct@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417915915
+        },
+        {
+          "email": "henesh10@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775417917198
         }
       ],
       "sold": 179,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "GROK3D",
