@@ -3034,10 +3034,15 @@
           "email": "antuha75@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417889871
+        },
+        {
+          "email": "davepfeiffer@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775417891072
         }
       ],
       "sold": 218,
-      "stock": 21
+      "stock": 22
     }
   ],
   "meta": {
