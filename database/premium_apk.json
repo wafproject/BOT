@@ -2994,10 +2994,15 @@
           "email": "9gp9wzc@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413182535
+        },
+        {
+          "email": "avuso@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413183554
         }
       ],
       "sold": 7,
-      "stock": 13
+      "stock": 14
     }
   ],
   "meta": {
