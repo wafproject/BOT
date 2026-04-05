@@ -2964,10 +2964,15 @@
           "email": "ovg4lyfe@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413176419
+        },
+        {
+          "email": "cooltanzim@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413177505
         }
       ],
       "sold": 7,
-      "stock": 7
+      "stock": 8
     }
   ],
   "meta": {
