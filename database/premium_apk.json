@@ -2984,10 +2984,15 @@
           "email": "aitimir1991@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413180413
+        },
+        {
+          "email": "tk878ppklmnj@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413181626
         }
       ],
       "sold": 7,
-      "stock": 11
+      "stock": 12
     }
   ],
   "meta": {
