@@ -3014,10 +3014,15 @@
           "email": "s160084@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417885888
+        },
+        {
+          "email": "gv7nzt71xdx@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775417886900
         }
       ],
       "sold": 218,
-      "stock": 17
+      "stock": 18
     }
   ],
   "meta": {
