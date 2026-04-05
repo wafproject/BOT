@@ -3049,10 +3049,15 @@
           "email": "carlosroque@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413194118
+        },
+        {
+          "email": "sanduma@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413195348
         }
       ],
       "sold": 7,
-      "stock": 24
+      "stock": 25
     }
   ],
   "meta": {
