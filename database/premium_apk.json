@@ -2949,10 +2949,15 @@
           "email": "igor261071@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775413173257
+        },
+        {
+          "email": "lool0703@premiummin.store",
+          "password": "masukaja1234",
+          "addedAt": 1775413174184
         }
       ],
       "sold": 7,
-      "stock": 4
+      "stock": 5
     }
   ],
   "meta": {
