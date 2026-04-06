@@ -894,15 +894,10 @@
           "email": "magdapietrzak2@chatgptku.com",
           "password": "masuk123",
           "addedAt": 1774969402884
-        },
-        {
-          "email": "kmburke@nhungdang.xyz",
-          "password": "masuk123",
-          "addedAt": 1774969405239
         }
       ],
       "sold": 786,
-      "stock": 40
+      "stock": 39
     },
     {
       "code": "APMEMBER",
