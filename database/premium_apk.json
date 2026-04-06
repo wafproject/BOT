@@ -757,15 +757,10 @@
           "email": "thorntn@inlook.cloud",
           "password": "masuk123",
           "addedAt": 1775017331633
-        },
-        {
-          "email": "bilevitch@dapurx.me",
-          "password": "masuk123",
-          "addedAt": 1775017332841
         }
       ],
       "sold": 550,
-      "stock": 15
+      "stock": 14
     },
     {
       "code": "CC35D",
