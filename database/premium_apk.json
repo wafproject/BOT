@@ -81,11 +81,6 @@
       "snk": "* Full Garansi\n* Garansi hanya kendala backfree\n\nJika di minta kode OTP hubungi admin @enziwaf / wa.me/6287731282876",
       "items": [
         {
-          "email": "daegol@leadcraft.store",
-          "password": "Masuk123",
-          "addedAt": 1775197014587
-        },
-        {
           "email": "kihgvi@leadcraft.store",
           "password": "Masuk123",
           "addedAt": 1775197015378
@@ -96,8 +91,8 @@
           "addedAt": 1775197016643
         }
       ],
-      "stock": 3,
-      "sold": 257
+      "stock": 2,
+      "sold": 258
     },
     {
       "code": "CANADMIN",
