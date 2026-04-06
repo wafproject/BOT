@@ -722,15 +722,10 @@
           "email": "dj123456@goldinbox.net",
           "password": "masuk123",
           "addedAt": 1775017324485
-        },
-        {
-          "email": "molodost@ekot.xyz",
-          "password": "masuk123",
-          "addedAt": 1775017325447
         }
       ],
       "sold": 550,
-      "stock": 8
+      "stock": 7
     },
     {
       "code": "CC35D",
