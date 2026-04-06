@@ -2542,10 +2542,15 @@
           "email": "poreas@fernn.web.id",
           "password": "masuk1234567",
           "addedAt": 1775506445300
+        },
+        {
+          "email": "kajiure@fernn.my.id",
+          "password": "masuk1234567",
+          "addedAt": 1775506446380
         }
       ],
       "sold": 225,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
