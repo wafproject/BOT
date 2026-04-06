@@ -2946,11 +2946,6 @@
           "addedAt": 1775417873572
         },
         {
-          "email": "bc696969@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775417874513
-        },
-        {
           "email": "ovg4lyfe@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417875408
@@ -3017,7 +3012,7 @@
         }
       ],
       "sold": 219,
-      "stock": 18
+      "stock": 17
     }
   ],
   "meta": {
