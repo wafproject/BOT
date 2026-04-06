@@ -3021,18 +3021,13 @@
           "addedAt": 1775417888765
         },
         {
-          "email": "antuha75@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775417889871
-        },
-        {
           "email": "hhabar@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417892272
         }
       ],
       "sold": 219,
-      "stock": 21
+      "stock": 20
     }
   ],
   "meta": {
