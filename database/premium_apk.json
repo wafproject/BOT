@@ -2941,18 +2941,13 @@
           "addedAt": 1775417881398
         },
         {
-          "email": "avuso@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775417882587
-        },
-        {
           "email": "hhabar@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417892272
         }
       ],
       "sold": 224,
-      "stock": 6
+      "stock": 5
     }
   ],
   "meta": {
