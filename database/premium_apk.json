@@ -854,15 +854,10 @@
           "email": "herman0e7ly@remaild.com",
           "password": "masuk123",
           "addedAt": 1774969385669
-        },
-        {
-          "email": "styx123@akbip.com",
-          "password": "masuk123",
-          "addedAt": 1774969387192
         }
       ],
       "sold": 786,
-      "stock": 32
+      "stock": 31
     },
     {
       "code": "APMEMBER",
