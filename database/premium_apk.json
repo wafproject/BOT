@@ -889,15 +889,10 @@
           "email": "agressiveman1@yangdaye-ds.cc",
           "password": "masuk123",
           "addedAt": 1774969401419
-        },
-        {
-          "email": "magdapietrzak2@chatgptku.com",
-          "password": "masuk123",
-          "addedAt": 1774969402884
         }
       ],
       "sold": 786,
-      "stock": 39
+      "stock": 38
     },
     {
       "code": "APMEMBER",
