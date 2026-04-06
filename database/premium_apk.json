@@ -794,15 +794,10 @@
           "email": "discolpi@maximail.shop",
           "password": "masuk123",
           "addedAt": 1774969343962
-        },
-        {
-          "email": "bigplay8@seaoning.click",
-          "password": "masuk123",
-          "addedAt": 1774969345408
         }
       ],
       "sold": 786,
-      "stock": 20
+      "stock": 19
     },
     {
       "code": "APMEMBER",
