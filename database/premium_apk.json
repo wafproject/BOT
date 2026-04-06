@@ -769,15 +769,10 @@
           "email": "spektofotometre@himkinet.ru",
           "password": "masuk123",
           "addedAt": 1774969323285
-        },
-        {
-          "email": "crysko1@bqaz.xyz",
-          "password": "masuk123",
-          "addedAt": 1774969324655
         }
       ],
       "sold": 786,
-      "stock": 15
+      "stock": 14
     },
     {
       "code": "APMEMBER",
