@@ -709,15 +709,10 @@
           "email": "oaksfsda@premiummin.store",
           "password": "masuk123",
           "addedAt": 1774969271820
-        },
-        {
-          "email": "sokaps1@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1774969274798
         }
       ],
       "sold": 786,
-      "stock": 3
+      "stock": 2
     },
     {
       "code": "APMEMBER",
