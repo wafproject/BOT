@@ -787,14 +787,10 @@
           "email": "lambretta@meta68.xyz",
           "password": "masuk123",
           "addedAt": 1775017337812
-        },
-        {
-          "email": "rajaahmad22@icloulb.kr",
-          "password": "masuk123"
         }
       ],
       "sold": 550,
-      "stock": 21
+      "stock": 20
     },
     {
       "code": "CC35D",
