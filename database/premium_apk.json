@@ -2530,8 +2530,8 @@
       "stock": 0
     },
     {
-      "code": "GPPLUSGAR7D",
-      "name": "ChatGPT Plus Private 1B Gar7D",
+      "code": "GPPLUSPRIV",
+      "name": "ChatGPT Plus Private 1B Awet",
       "category": "ai chatgpt",
       "type": "akun",
       "price": 10000,
