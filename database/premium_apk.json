@@ -774,15 +774,10 @@
           "email": "crysko1@bqaz.xyz",
           "password": "masuk123",
           "addedAt": 1774969324655
-        },
-        {
-          "email": "nicopilmaz@mmds.shop",
-          "password": "masuk123",
-          "addedAt": 1774969331753
         }
       ],
       "sold": 786,
-      "stock": 16
+      "stock": 15
     },
     {
       "code": "APMEMBER",
