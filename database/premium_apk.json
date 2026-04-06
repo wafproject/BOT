@@ -749,15 +749,10 @@
           "email": "bbah2td5@htmail.store",
           "password": "masuk123",
           "addedAt": 1774969289613
-        },
-        {
-          "email": "habibulo95@brenlova.com",
-          "password": "masuk123",
-          "addedAt": 1774969291302
         }
       ],
       "sold": 786,
-      "stock": 11
+      "stock": 10
     },
     {
       "code": "APMEMBER",
