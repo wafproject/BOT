@@ -2926,18 +2926,13 @@
           "addedAt": 1775417878629
         },
         {
-          "email": "aitimir1991@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775417879480
-        },
-        {
           "email": "hhabar@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417892272
         }
       ],
       "sold": 224,
-      "stock": 3
+      "stock": 2
     }
   ],
   "meta": {
