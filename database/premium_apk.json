@@ -3026,18 +3026,13 @@
           "addedAt": 1775417889871
         },
         {
-          "email": "davepfeiffer@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775417891072
-        },
-        {
           "email": "hhabar@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417892272
         }
       ],
       "sold": 219,
-      "stock": 22
+      "stock": 21
     }
   ],
   "meta": {
