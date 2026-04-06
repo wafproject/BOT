@@ -2886,11 +2886,6 @@
       "snk": "* Akun private dari seller\n• 25 - 30 hari terhitung 1 bulan \n• Full Garansi!! jika method koid reffund sisa hari\n• Garansi hanya berlaku jika backfree (pro nya hilang), akun terkena banned / suspend karena pelanggaran tidak ada garansi \n• Dilarang menggunakan akun untuk aktivitas ilegal atau melanggar kebijakan OpenAI\n• Akses email via: https://generator.email\n\nMembeli = setuju dengan semua ketentuan di atas.",
       "items": [
         {
-          "email": "asiriudayan@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775417914933
-        },
-        {
           "email": "creamct@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417915915
@@ -2911,8 +2906,8 @@
           "addedAt": 1775417919306
         }
       ],
-      "sold": 179,
-      "stock": 5
+      "sold": 180,
+      "stock": 4
     },
     {
       "code": "GROK3D",
