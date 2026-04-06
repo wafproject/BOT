@@ -3034,15 +3034,10 @@
           "email": "hhabar@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417892272
-        },
-        {
-          "email": "carlosroque@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775417893497
         }
       ],
       "sold": 219,
-      "stock": 23
+      "stock": 22
     }
   ],
   "meta": {
