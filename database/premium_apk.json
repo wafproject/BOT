@@ -864,15 +864,10 @@
           "email": "axrslangali@googlebox.kr",
           "password": "masuk123",
           "addedAt": 1774969388635
-        },
-        {
-          "email": "artnicoleross@getcode1.com",
-          "password": "masuk123",
-          "addedAt": 1774969390202
         }
       ],
       "sold": 786,
-      "stock": 34
+      "stock": 33
     },
     {
       "code": "APMEMBER",
