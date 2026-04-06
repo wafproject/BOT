@@ -879,15 +879,10 @@
           "email": "mundimundi@kupz.xyz",
           "password": "masuk123",
           "addedAt": 1774969394490
-        },
-        {
-          "email": "dwilson6996@eewmaop.com",
-          "password": "masuk123",
-          "addedAt": 1774969398707
         }
       ],
       "sold": 786,
-      "stock": 37
+      "stock": 36
     },
     {
       "code": "APMEMBER",
