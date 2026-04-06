@@ -724,15 +724,10 @@
           "email": "shakysgirl@mskey.net",
           "password": "masuk123",
           "addedAt": 1774969278812
-        },
-        {
-          "email": "maximkagrp@obiq.xyz",
-          "password": "masuk123",
-          "addedAt": 1774969280745
         }
       ],
       "sold": 786,
-      "stock": 6
+      "stock": 5
     },
     {
       "code": "APMEMBER",
