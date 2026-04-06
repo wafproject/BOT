@@ -804,15 +804,10 @@
           "email": "jamin1995@hotrokh.com",
           "password": "masuk123",
           "addedAt": 1774969352481
-        },
-        {
-          "email": "mychi1@warunkto.com",
-          "password": "masuk123",
-          "addedAt": 1774969358284
         }
       ],
       "sold": 786,
-      "stock": 22
+      "stock": 21
     },
     {
       "code": "APMEMBER",
