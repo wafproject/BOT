@@ -707,15 +707,10 @@
           "email": "pamoreci@niceminute.com",
           "password": "masuk123",
           "addedAt": 1775017321457
-        },
-        {
-          "email": "ahmetdd@linkbm.one",
-          "password": "masuk123",
-          "addedAt": 1775017322476
         }
       ],
       "sold": 550,
-      "stock": 5
+      "stock": 4
     },
     {
       "code": "CC35D",
