@@ -849,15 +849,10 @@
           "email": "katmaseznam@degar.xyz",
           "password": "masuk123",
           "addedAt": 1774969382580
-        },
-        {
-          "email": "herman0e7ly@remaild.com",
-          "password": "masuk123",
-          "addedAt": 1774969385669
         }
       ],
       "sold": 786,
-      "stock": 31
+      "stock": 30
     },
     {
       "code": "APMEMBER",
