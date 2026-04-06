@@ -84,14 +84,9 @@
           "email": "kihgvi@leadcraft.store",
           "password": "Masuk123",
           "addedAt": 1775197015378
-        },
-        {
-          "email": "gurarim@leadcraft.store",
-          "password": "Masuk123",
-          "addedAt": 1775197016643
         }
       ],
-      "stock": 2,
+      "stock": 1,
       "sold": 258
     },
     {
