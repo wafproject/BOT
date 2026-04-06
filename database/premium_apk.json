@@ -719,15 +719,10 @@
           "email": "tkdjosec@risma.mom",
           "password": "masuk123",
           "addedAt": 1774969276781
-        },
-        {
-          "email": "shakysgirl@mskey.net",
-          "password": "masuk123",
-          "addedAt": 1774969278812
         }
       ],
       "sold": 786,
-      "stock": 5
+      "stock": 4
     },
     {
       "code": "APMEMBER",
