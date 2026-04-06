@@ -702,15 +702,10 @@
           "email": "tomnic@gimail.cloud",
           "password": "masuk123",
           "addedAt": 1775017320466
-        },
-        {
-          "email": "pamoreci@niceminute.com",
-          "password": "masuk123",
-          "addedAt": 1775017321457
         }
       ],
       "sold": 550,
-      "stock": 4
+      "stock": 3
     },
     {
       "code": "CC35D",
