@@ -868,10 +868,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "petro456@tastmemail.com",
-          "addedAt": 1774033569599
-        },
-        {
           "email": "ahasti2@gmaiil.top",
           "addedAt": 1774033570403
         },
@@ -1248,8 +1244,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 95,
-      "sold": 435
+      "stock": 94,
+      "sold": 436
     },
     {
       "code": "VIU",
