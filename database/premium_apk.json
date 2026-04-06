@@ -752,15 +752,10 @@
           "email": "evinkev@kwinx.click",
           "password": "masuk123",
           "addedAt": 1775017330518
-        },
-        {
-          "email": "thorntn@inlook.cloud",
-          "password": "masuk123",
-          "addedAt": 1775017331633
         }
       ],
       "sold": 550,
-      "stock": 14
+      "stock": 13
     },
     {
       "code": "CC35D",
