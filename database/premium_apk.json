@@ -732,15 +732,10 @@
           "email": "eduardgavrilov@phmail.us",
           "password": "masuk123",
           "addedAt": 1775017326446
-        },
-        {
-          "email": "allamasiki@kupz.xyz",
-          "password": "masuk123",
-          "addedAt": 1775017327440
         }
       ],
       "sold": 550,
-      "stock": 10
+      "stock": 9
     },
     {
       "code": "CC35D",
