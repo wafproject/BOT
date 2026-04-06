@@ -3011,11 +3011,6 @@
           "addedAt": 1775417886900
         },
         {
-          "email": "natemsl@premiummin.store",
-          "password": "masukaja1234",
-          "addedAt": 1775417887820
-        },
-        {
           "email": "wcarta23@premiummin.store",
           "password": "masukaja1234",
           "addedAt": 1775417888765
@@ -3027,7 +3022,7 @@
         }
       ],
       "sold": 219,
-      "stock": 20
+      "stock": 19
     }
   ],
   "meta": {
