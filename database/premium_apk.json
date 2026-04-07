@@ -2545,10 +2545,15 @@
           "email": "hureds@fernn.web.id",
           "password": "masukaja1234",
           "addedAt": 1775588730018
+        },
+        {
+          "email": "vikram1@fernn.my.id",
+          "password": "masukaja1234",
+          "addedAt": 1775588731228
         }
       ],
       "sold": 227,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
