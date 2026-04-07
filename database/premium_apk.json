@@ -853,10 +853,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "ilonnatexnoug@nanoskin.vn",
-          "addedAt": 1774033571403
-        },
-        {
           "email": "fokissed@jagomail.com",
           "addedAt": 1774033572431
         },
@@ -1225,8 +1221,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 93,
-      "sold": 437
+      "stock": 92,
+      "sold": 438
     },
     {
       "code": "VIU",
