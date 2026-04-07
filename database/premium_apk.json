@@ -783,11 +783,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "stormee@phimteen.net",
-          "password": "Masuk12345",
-          "addedAt": 1775192802286
-        },
-        {
           "email": "chikij29@gqim.xyz",
           "password": "Masuk12345",
           "addedAt": 1775192803535
@@ -798,8 +793,8 @@
           "addedAt": 1775192804338
         }
       ],
-      "sold": 82,
-      "stock": 3
+      "sold": 83,
+      "stock": 2
     },
     {
       "code": "IBISP",
