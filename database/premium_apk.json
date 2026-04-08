@@ -689,10 +689,15 @@
           "email": "50ru5do6hl@jokiajaa.biz.id",
           "password": "masuk123",
           "addedAt": 1775640734319
+        },
+        {
+          "email": "alvaco@infoisp.me",
+          "password": "masuk123",
+          "addedAt": 1775640735402
         }
       ],
       "sold": 786,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "APMEMBER",
