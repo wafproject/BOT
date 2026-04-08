@@ -724,10 +724,15 @@
           "email": "pamoreci@niceminute.com",
           "password": "masuk123",
           "addedAt": 1775640741189
+        },
+        {
+          "email": "ahmetdd@linkbm.one",
+          "password": "masuk123",
+          "addedAt": 1775640742141
         }
       ],
       "sold": 786,
-      "stock": 11
+      "stock": 12
     },
     {
       "code": "APMEMBER",
