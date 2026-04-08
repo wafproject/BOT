@@ -2461,11 +2461,6 @@
       "snk": "* Garansi 20 hari sejak pembelian (khusus kendala backfree / pro hilang)\n• Durasi aktif akun 20–30hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n⚠️ PENTING\n• Dilarang mengganti email & password, jika dilanggar = garansi hangus   \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree (Pro hilang sebelum masa aktif habis)\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [
         {
-          "email": "qquxk@gajahmulya.com",
-          "password": "masuk123",
-          "addedAt": 1775017707507
-        },
-        {
           "email": "rsmrz@gajahmulya.com",
           "password": "masuk123",
           "addedAt": 1775017708688
@@ -2476,8 +2471,8 @@
           "addedAt": 1775037172586
         }
       ],
-      "sold": 125,
-      "stock": 3
+      "sold": 126,
+      "stock": 2
     },
     {
       "code": "GPPLUSSHAR",
