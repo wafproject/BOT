@@ -714,10 +714,15 @@
           "email": "rooneymu@deajeng.store",
           "password": "masuk123",
           "addedAt": 1775640739301
+        },
+        {
+          "email": "tomnic@gimail.cloud",
+          "password": "masuk123",
+          "addedAt": 1775640740203
         }
       ],
       "sold": 786,
-      "stock": 9
+      "stock": 10
     },
     {
       "code": "APMEMBER",
