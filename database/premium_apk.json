@@ -709,10 +709,15 @@
           "email": "hoitrip@sdsfre.blog",
           "password": "masuk123",
           "addedAt": 1775640738447
+        },
+        {
+          "email": "rooneymu@deajeng.store",
+          "password": "masuk123",
+          "addedAt": 1775640739301
         }
       ],
       "sold": 786,
-      "stock": 8
+      "stock": 9
     },
     {
       "code": "APMEMBER",
