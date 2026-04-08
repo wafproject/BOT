@@ -729,10 +729,15 @@
           "email": "ahmetdd@linkbm.one",
           "password": "masuk123",
           "addedAt": 1775640742141
+        },
+        {
+          "email": "apteka367@endflash.com",
+          "password": "masuk123",
+          "addedAt": 1775640742987
         }
       ],
       "sold": 786,
-      "stock": 12
+      "stock": 13
     },
     {
       "code": "APMEMBER",
