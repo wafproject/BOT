@@ -699,10 +699,15 @@
           "email": "lyudmiladzingan@comexa.uk",
           "password": "masuk123",
           "addedAt": 1775640736448
+        },
+        {
+          "email": "vengeful@gemapan.com",
+          "password": "masuk123",
+          "addedAt": 1775640737503
         }
       ],
       "sold": 786,
-      "stock": 6
+      "stock": 7
     },
     {
       "code": "APMEMBER",
