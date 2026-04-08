@@ -644,13 +644,10 @@
         },
         {
           "text": "Via Invite Email"
-        },
-        {
-          "text": "Via Invite Email"
         }
       ],
-      "stock": 128,
-      "sold": 98
+      "stock": 127,
+      "sold": 99
     },
     {
       "code": "GPTEAM",
