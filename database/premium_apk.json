@@ -734,10 +734,15 @@
           "email": "apteka367@endflash.com",
           "password": "masuk123",
           "addedAt": 1775640742987
+        },
+        {
+          "email": "dj123456@goldinbox.net",
+          "password": "masuk123",
+          "addedAt": 1775640744112
         }
       ],
       "sold": 786,
-      "stock": 13
+      "stock": 14
     },
     {
       "code": "APMEMBER",
