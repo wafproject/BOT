@@ -694,10 +694,15 @@
           "email": "alvaco@infoisp.me",
           "password": "masuk123",
           "addedAt": 1775640735402
+        },
+        {
+          "email": "lyudmiladzingan@comexa.uk",
+          "password": "masuk123",
+          "addedAt": 1775640736448
         }
       ],
       "sold": 786,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "APMEMBER",
