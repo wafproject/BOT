@@ -719,10 +719,15 @@
           "email": "tomnic@gimail.cloud",
           "password": "masuk123",
           "addedAt": 1775640740203
+        },
+        {
+          "email": "pamoreci@niceminute.com",
+          "password": "masuk123",
+          "addedAt": 1775640741189
         }
       ],
       "sold": 786,
-      "stock": 10
+      "stock": 11
     },
     {
       "code": "APMEMBER",
