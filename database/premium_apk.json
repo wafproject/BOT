@@ -704,10 +704,15 @@
           "email": "vengeful@gemapan.com",
           "password": "masuk123",
           "addedAt": 1775640737503
+        },
+        {
+          "email": "hoitrip@sdsfre.blog",
+          "password": "masuk123",
+          "addedAt": 1775640738447
         }
       ],
       "sold": 786,
-      "stock": 7
+      "stock": 8
     },
     {
       "code": "APMEMBER",
