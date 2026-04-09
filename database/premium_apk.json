@@ -889,10 +889,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "swan28@tgfb.cc",
-          "addedAt": 1774033573424
-        },
-        {
           "email": "losslessmus1@kj-a.cc",
           "addedAt": 1774033574301
         },
@@ -1253,8 +1249,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 91,
-      "sold": 439
+      "stock": 90,
+      "sold": 440
     },
     {
       "code": "VIU",
