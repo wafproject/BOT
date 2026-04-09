@@ -829,18 +829,13 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "chikij29@gqim.xyz",
-          "password": "Masuk12345",
-          "addedAt": 1775192803535
-        },
-        {
           "email": "rahimovi1@muahetbienhoa.com",
           "password": "Masuk12345",
           "addedAt": 1775192804338
         }
       ],
-      "sold": 83,
-      "stock": 2
+      "sold": 84,
+      "stock": 1
     },
     {
       "code": "IBISP",
