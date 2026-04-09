@@ -1262,10 +1262,6 @@
       "snk": " • Viu private disarankan tetap 1 device / max 2 device • Garansi 1 bulan • Akun terblokir = NOGAR • Dilarang ubah pass / DENDA 5x lipat • Akun tidak include paket viu+",
       "items": [
         {
-          "email": "salwa527430@yopmail.com",
-          "password": "masuk12345"
-        },
-        {
           "email": "indahwinarno2612@yopmail.com",
           "password": "masuk12345"
         },
@@ -1782,8 +1778,8 @@
           "addedAt": 1774207067942
         }
       ],
-      "stock": 105,
-      "sold": 270
+      "stock": 104,
+      "sold": 271
     },
     {
       "code": "SPO1BNOGAR",
