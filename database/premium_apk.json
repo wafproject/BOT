@@ -894,10 +894,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "fokissed@jagomail.com",
-          "addedAt": 1774033572431
-        },
-        {
           "email": "swan28@tgfb.cc",
           "addedAt": 1774033573424
         },
@@ -1262,8 +1258,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 92,
-      "sold": 438
+      "stock": 91,
+      "sold": 439
     },
     {
       "code": "VIU",
