@@ -2581,10 +2581,15 @@
           "email": "maudyyy3@trustary.store",
           "password": "masukaja1234",
           "addedAt": 1775796753167
+        },
+        {
+          "email": "hurotesa@trustary.store",
+          "password": "masukaja1234",
+          "addedAt": 1775803825538
         }
       ],
       "sold": 231,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
