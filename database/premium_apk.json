@@ -67,8 +67,13 @@
       "price": 500,
       "descShort": "Via link invite",
       "snk": "* SETELAH JOIN WAJIB SETOR EMAIL KE ADMIN, JIKA TIDAK SETOR AKAN DI KICK! * 1 LINK UNTUK 1 USER! KETAHUAN KICK ALL",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "link": "https://www.canva.com/brand/join?token=u0-B86_ZFQm6giwQsqtXvg&referrer=team-invite",
+          "addedAt": 1775796839165
+        }
+      ],
+      "stock": 1,
       "sold": 503
     },
     {
