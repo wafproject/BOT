@@ -2550,10 +2550,15 @@
           "email": "yammim@trustary.store",
           "password": "masukaja1234",
           "addedAt": 1775796751986
+        },
+        {
+          "email": "maudyyy3@trustary.store",
+          "password": "masukaja1234",
+          "addedAt": 1775796753167
         }
       ],
       "sold": 229,
-      "stock": 2
+      "stock": 3
     }
   ],
   "meta": {
