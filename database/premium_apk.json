@@ -2558,39 +2558,6 @@
       ],
       "sold": 232,
       "stock": 1
-    },
-    {
-      "code": "DUOLSUPER",
-      "name": "Duolingo Super Member 1B",
-      "category": "duolingo",
-      "type": "link",
-      "price": 1000,
-      "descShort": "Via link invite",
-      "snk": "Garansi 14 Hari",
-      "items": [
-        {
-          "link": "https://invite.duolingo.com/family-plan/2-X3YA-J6PD-21JD-H1TG",
-          "addedAt": 1775847857095
-        },
-        {
-          "link": "https://invite.duolingo.com/family-plan/2-X3YA-J6PD-21JD-H1TG",
-          "addedAt": 1775847858345
-        },
-        {
-          "link": "https://invite.duolingo.com/family-plan/2-X3YA-J6PD-21JD-H1TG",
-          "addedAt": 1775847859848
-        },
-        {
-          "link": "https://invite.duolingo.com/family-plan/2-X3YA-J6PD-21JD-H1TG",
-          "addedAt": 1775847861009
-        },
-        {
-          "link": "https://invite.duolingo.com/family-plan/2-X3YA-J6PD-21JD-H1TG",
-          "addedAt": 1775847862178
-        }
-      ],
-      "sold": 0,
-      "stock": 5
     }
   ],
   "meta": {
