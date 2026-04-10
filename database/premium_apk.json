@@ -2558,6 +2558,18 @@
       ],
       "sold": 232,
       "stock": 1
+    },
+    {
+      "code": "DUOLSUPER",
+      "name": "Duolingo Super Member 1B",
+      "category": "duolingo",
+      "type": "link",
+      "price": 1000,
+      "descShort": "",
+      "snk": "Garansi 14 Hari",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
