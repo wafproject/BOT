@@ -2516,15 +2516,10 @@
           "email": "rujaish@fernn.web.id",
           "password": "masuk1234567",
           "addedAt": 1775507793340
-        },
-        {
-          "email": "rujaish@fernn.web.id",
-          "password": "masuk1234567",
-          "addedAt": 1775507794338
         }
       ],
       "sold": 182,
-      "stock": 3
+      "stock": 2
     },
     {
       "code": "GROK3D",
