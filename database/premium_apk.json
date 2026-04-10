@@ -2567,9 +2567,14 @@
       "price": 1000,
       "descShort": "Via link invite",
       "snk": "Garansi 14 Hari",
-      "items": [],
+      "items": [
+        {
+          "link": "https://invite.duolingo.com/family-plan/2-X3YA-J6PD-21JD-H1TG",
+          "addedAt": 1775847857095
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 1
     }
   ],
   "meta": {
