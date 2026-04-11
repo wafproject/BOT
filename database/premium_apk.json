@@ -895,10 +895,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "oldtexas1@global-work.app",
-          "addedAt": 1774033576540
-        },
-        {
           "email": "zhorageldiev@happiseektest.com",
           "addedAt": 1774033578113
         },
@@ -1247,8 +1243,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 88,
-      "sold": 442
+      "stock": 87,
+      "sold": 443
     },
     {
       "code": "VIU",
