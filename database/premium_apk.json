@@ -2478,15 +2478,9 @@
       "price": 5000,
       "descShort": "Akun Private",
       "snk": "* Garansi 20 hari sejak pembelian (khusus kendala backfree / pro hilang)\n• Durasi aktif akun 20–30hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n⚠️ PENTING\n• Dilarang mengganti email & password, jika dilanggar = garansi hangus   \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree (Pro hilang sebelum masa aktif habis)\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
-      "items": [
-        {
-          "email": "apuqedujet@mgsuite.cv",
-          "password": "masuk123",
-          "addedAt": 1775037172586
-        }
-      ],
-      "sold": 127,
-      "stock": 1
+      "items": [],
+      "sold": 128,
+      "stock": 0
     },
     {
       "code": "GPPLUSSHAR",
