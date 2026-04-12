@@ -890,10 +890,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "zhorageldiev@happiseektest.com",
-          "addedAt": 1774033578113
-        },
-        {
           "email": "garyldobson@jika.gg",
           "addedAt": 1774033579340
         },
@@ -1238,8 +1234,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 87,
-      "sold": 443
+      "stock": 86,
+      "sold": 444
     },
     {
       "code": "VIU",
