@@ -870,8 +870,14 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": " Garansi 5 Hari",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "tazria@trustary.store",
+          "password": "masuk123",
+          "addedAt": 1775995428834
+        }
+      ],
+      "stock": 1,
       "sold": 28
     },
     {
