@@ -875,9 +875,14 @@
           "email": "tazria@trustary.store",
           "password": "masuk123",
           "addedAt": 1775995428834
+        },
+        {
+          "email": "wewlid@trustary.store",
+          "password": "masuk123",
+          "addedAt": 1775995429885
         }
       ],
-      "stock": 1,
+      "stock": 2,
       "sold": 28
     },
     {
