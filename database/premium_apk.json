@@ -743,10 +743,15 @@
           "email": "k7jsbv3wxr@trustary.store",
           "password": "masuk123",
           "addedAt": 1776122337020
+        },
+        {
+          "email": "wdiyfo2qti@trustary.store",
+          "password": "masuk123",
+          "addedAt": 1776122337870
         }
       ],
       "sold": 800,
-      "stock": 8
+      "stock": 9
     },
     {
       "code": "APMEMBER",
