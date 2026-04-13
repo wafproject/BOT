@@ -843,10 +843,15 @@
           "email": "4tttn331tn@trustary.store",
           "password": "masuk123",
           "addedAt": 1776122356716
+        },
+        {
+          "email": "xwnn3kjqnt@trustary.store",
+          "password": "masuk123",
+          "addedAt": 1776122357928
         }
       ],
       "sold": 800,
-      "stock": 28
+      "stock": 29
     },
     {
       "code": "APMEMBER",
