@@ -983,10 +983,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "garyldobson@jika.gg",
-          "addedAt": 1774033579340
-        },
-        {
           "email": "ysoserious77@c-tta.top",
           "addedAt": 1774033580247
         },
@@ -1327,8 +1323,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 86,
-      "sold": 444
+      "stock": 85,
+      "sold": 445
     },
     {
       "code": "VIU",
