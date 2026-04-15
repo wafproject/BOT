@@ -665,13 +665,10 @@
         },
         {
           "text": "Via Invite Email"
-        },
-        {
-          "text": "Via Invite Email"
         }
       ],
-      "stock": 126,
-      "sold": 100
+      "stock": 125,
+      "sold": 101
     },
     {
       "code": "GPTEAM",
