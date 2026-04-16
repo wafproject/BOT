@@ -2522,10 +2522,15 @@
           "email": "lc60dvab1c@trustary.store",
           "password": "masuk123",
           "addedAt": 1776302210599
+        },
+        {
+          "email": "6thqx0evx0@trustary.store",
+          "password": "masuk123",
+          "addedAt": 1776302211522
         }
       ],
       "sold": 338,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "GPPLUSSHAR",
