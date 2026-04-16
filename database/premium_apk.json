@@ -759,15 +759,10 @@
           "email": "mamgjxjake@trustary.store",
           "password": "masuk123",
           "addedAt": 1776122349313
-        },
-        {
-          "email": "tgt6qvwrsk@trustary.store",
-          "password": "masuk123",
-          "addedAt": 1776122350294
         }
       ],
       "sold": 804,
-      "stock": 18
+      "stock": 17
     },
     {
       "code": "APMEMBER",
