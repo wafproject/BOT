@@ -769,15 +769,10 @@
           "email": "lc60dvab1c@trustary.store",
           "password": "masuk123",
           "addedAt": 1776122351576
-        },
-        {
-          "email": "6thqx0evx0@trustary.store",
-          "password": "masuk123",
-          "addedAt": 1776122352704
         }
       ],
       "sold": 804,
-      "stock": 20
+      "stock": 19
     },
     {
       "code": "APMEMBER",
