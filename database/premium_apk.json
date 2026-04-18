@@ -2507,18 +2507,13 @@
       "snk": "• 20-30 HARI TERHITUNG 1 BULAN\n• ANTI BACKFREE (AWET)\n• PRIVATE ACCOUNT",
       "items": [
         {
-          "email": "esai200207@gmail.com",
-          "password": "masuk123",
-          "addedAt": 1776499582097
-        },
-        {
           "email": "qequtibu@mgsuite.mom",
           "password": "masuk123",
           "addedAt": 1776501333918
         }
       ],
       "sold": 503,
-      "stock": 2
+      "stock": 1
     }
   ],
   "meta": {
