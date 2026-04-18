@@ -2487,9 +2487,15 @@
       "price": 25000,
       "descShort": "Garansi 7 Hari",
       "snk": "• login biasa bukan google\n• login bisa lewat web atau aplikasi\n• garansi 25 hari dihitung sejak tanggal pembelian\n• garansi backfree dan suspend, ce tidak termasuk\n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• tolong kirim bukti berhasil login agar seller mengetahui, tidak kirim maka tidak bisa klaim garansi (no komplain)\n• Akses email https://trustary.store/mailbox",
-      "items": [],
+      "items": [
+        {
+          "email": "nubira@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1776494510572
+        }
+      ],
       "sold": 232,
-      "stock": 0
+      "stock": 1
     }
   ],
   "meta": {
