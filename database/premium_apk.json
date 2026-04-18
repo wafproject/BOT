@@ -2496,6 +2496,18 @@
       ],
       "sold": 232,
       "stock": 1
+    },
+    {
+      "code": "CC1B",
+      "name": "Capcut Pro Individu 1 Bulan",
+      "category": "capcut pro",
+      "type": "akun",
+      "price": 5000,
+      "descShort": "",
+      "snk": "• 20-30 HARI TERHITUNG 1 BULAN\n• ANTI BACKFREE (AWET)\n• PRIVATE ACCOUNT",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
