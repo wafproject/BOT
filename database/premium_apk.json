@@ -629,13 +629,10 @@
         },
         {
           "text": "Via Invite Email"
-        },
-        {
-          "text": "Via Invite Email"
         }
       ],
-      "stock": 125,
-      "sold": 101
+      "stock": 124,
+      "sold": 102
     },
     {
       "code": "GPTEAM",
