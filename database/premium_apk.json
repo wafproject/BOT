@@ -2505,9 +2505,15 @@
       "price": 5000,
       "descShort": "Full Garansi",
       "snk": "• 20-30 HARI TERHITUNG 1 BULAN\n• ANTI BACKFREE (AWET)\n• PRIVATE ACCOUNT",
-      "items": [],
+      "items": [
+        {
+          "email": "esai200207@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1776499582097
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 1
     }
   ],
   "meta": {
