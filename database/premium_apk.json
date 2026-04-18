@@ -2517,15 +2517,9 @@
       "price": 5000,
       "descShort": "Full Garansi",
       "snk": "• 20-30 HARI TERHITUNG 1 BULAN\n• ANTI BACKFREE (AWET)\n• PRIVATE ACCOUNT",
-      "items": [
-        {
-          "email": "qequtibu@mgsuite.mom",
-          "password": "masuk123",
-          "addedAt": 1776501333918
-        }
-      ],
+      "items": [],
       "sold": 504,
-      "stock": 1
+      "stock": 0
     }
   ],
   "meta": {
