@@ -821,10 +821,15 @@
           "email": "monas@premaja.online",
           "password": "Masuk12345",
           "addedAt": 1776577005547
+        },
+        {
+          "email": "monas1@premaja.online",
+          "password": "Masuk12345",
+          "addedAt": 1776577006655
         }
       ],
       "sold": 85,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "IBISP",
