@@ -2602,10 +2602,15 @@
           "email": "kamali98@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1776581163589
+        },
+        {
+          "email": "nurae709@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1776581164780
         }
       ],
       "sold": 0,
-      "stock": 2
+      "stock": 3
     }
   ],
   "meta": {
