@@ -2556,7 +2556,7 @@
     },
     {
       "code": "GPPLUSPRIV",
-      "name": "ChatGPT Plus Private 1B",
+      "name": "ChatGPT Plus Private 1B (Awet)",
       "category": "ai chatgpt",
       "type": "akun",
       "price": 20000,
