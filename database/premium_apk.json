@@ -2607,10 +2607,15 @@
           "email": "nurae709@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1776581164780
+        },
+        {
+          "email": "jijah29@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1776581166072
         }
       ],
       "sold": 0,
-      "stock": 3
+      "stock": 4
     }
   ],
   "meta": {
