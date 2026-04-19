@@ -2597,10 +2597,15 @@
           "email": "huraso@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1776581162308
+        },
+        {
+          "email": "kamali98@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1776581163589
         }
       ],
       "sold": 0,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
