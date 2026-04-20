@@ -738,10 +738,15 @@
           "email": "jodidesign2@flameoflovedegree.com",
           "password": "masuk123",
           "addedAt": 1776713971546
+        },
+        {
+          "email": "shketov@newbreedapps.com",
+          "password": "masuk123",
+          "addedAt": 1776713972933
         }
       ],
       "sold": 811,
-      "stock": 9
+      "stock": 10
     },
     {
       "code": "APMEMBER",
