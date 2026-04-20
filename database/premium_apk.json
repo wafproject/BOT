@@ -2644,10 +2644,15 @@
           "email": "hotchevy@starnlink.com",
           "password": "masuk123",
           "addedAt": 1776714267821
+        },
+        {
+          "email": "joy2jemz@ytchanneltips.com",
+          "password": "masuk123",
+          "addedAt": 1776714269148
         }
       ],
       "sold": 0,
-      "stock": 9
+      "stock": 10
     }
   ],
   "meta": {
