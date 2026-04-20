@@ -2609,10 +2609,15 @@
           "email": "allamasiki@kupz.xyz",
           "password": "masuk123",
           "addedAt": 1776714258327
+        },
+        {
+          "email": "kristianwass@nowhivehub.com",
+          "password": "masuk123",
+          "addedAt": 1776714259836
         }
       ],
       "sold": 0,
-      "stock": 2
+      "stock": 3
     }
   ],
   "meta": {
