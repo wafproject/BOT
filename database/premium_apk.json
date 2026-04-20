@@ -2684,10 +2684,15 @@
           "email": "tkdjosec@risma.mom",
           "password": "masuk123",
           "addedAt": 1776714278733
+        },
+        {
+          "email": "shakysgirl@mskey.net",
+          "password": "masuk123",
+          "addedAt": 1776714280084
         }
       ],
       "sold": 0,
-      "stock": 17
+      "stock": 18
     }
   ],
   "meta": {
