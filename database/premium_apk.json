@@ -758,10 +758,15 @@
           "email": "habibulo95@brenlova.com",
           "password": "masuk123",
           "addedAt": 1776713977111
+        },
+        {
+          "email": "bestyya@virginsrus.xyz",
+          "password": "masuk123",
+          "addedAt": 1776713978295
         }
       ],
       "sold": 811,
-      "stock": 13
+      "stock": 14
     },
     {
       "code": "APMEMBER",
