@@ -896,10 +896,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "georgelx@gemapan.com",
-          "addedAt": 1774033582174
-        },
-        {
           "email": "toy97@fuadd.me",
           "addedAt": 1774033583306
         },
@@ -1228,8 +1224,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 83,
-      "sold": 447
+      "stock": 82,
+      "sold": 448
     },
     {
       "code": "VIU",
