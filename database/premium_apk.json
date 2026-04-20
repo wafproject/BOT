@@ -928,9 +928,14 @@
           "email": "wewlid@trustary.store",
           "password": "masuk123",
           "addedAt": 1775995429885
+        },
+        {
+          "email": "user61674@akunqu.net",
+          "password": "Masuk123",
+          "addedAt": 1776715980320
         }
       ],
-      "stock": 1,
+      "stock": 2,
       "sold": 29
     },
     {
