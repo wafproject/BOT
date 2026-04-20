@@ -2669,10 +2669,15 @@
           "email": "kasojd@premiummin.store",
           "password": "masuk123",
           "addedAt": 1776714274597
+        },
+        {
+          "email": "oaksfsda@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1776714276086
         }
       ],
       "sold": 0,
-      "stock": 14
+      "stock": 15
     }
   ],
   "meta": {
