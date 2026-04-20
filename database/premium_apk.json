@@ -2639,10 +2639,15 @@
           "email": "darkrazo999@dichvuxe24h.com",
           "password": "masuk123",
           "addedAt": 1776714266597
+        },
+        {
+          "email": "hotchevy@starnlink.com",
+          "password": "masuk123",
+          "addedAt": 1776714267821
         }
       ],
       "sold": 0,
-      "stock": 8
+      "stock": 9
     }
   ],
   "meta": {
