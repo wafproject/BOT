@@ -2659,10 +2659,15 @@
           "email": "lambretta@meta68.xyz",
           "password": "masuk123",
           "addedAt": 1776714272123
+        },
+        {
+          "email": "rajaahmad22@icloulb.kr",
+          "password": "masuk123",
+          "addedAt": 1776714273411
         }
       ],
       "sold": 0,
-      "stock": 12
+      "stock": 13
     }
   ],
   "meta": {
