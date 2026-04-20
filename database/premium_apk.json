@@ -2654,10 +2654,15 @@
           "email": "rwpmac@ezamirawedding.me",
           "password": "masuk123",
           "addedAt": 1776714270667
+        },
+        {
+          "email": "lambretta@meta68.xyz",
+          "password": "masuk123",
+          "addedAt": 1776714272123
         }
       ],
       "sold": 0,
-      "stock": 11
+      "stock": 12
     }
   ],
   "meta": {
