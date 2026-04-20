@@ -896,10 +896,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "elenalusi@relivacca.cfd",
-          "addedAt": 1774033581191
-        },
-        {
           "email": "georgelx@gemapan.com",
           "addedAt": 1774033582174
         },
@@ -1232,7 +1228,7 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 84,
+      "stock": 83,
       "sold": 446
     },
     {
