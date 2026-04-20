@@ -2614,10 +2614,15 @@
           "email": "kristianwass@nowhivehub.com",
           "password": "masuk123",
           "addedAt": 1776714259836
+        },
+        {
+          "email": "williammodelski@realsoul.in",
+          "password": "masuk123",
+          "addedAt": 1776714261133
         }
       ],
       "sold": 0,
-      "stock": 3
+      "stock": 4
     }
   ],
   "meta": {
