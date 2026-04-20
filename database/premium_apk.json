@@ -2664,10 +2664,15 @@
           "email": "rajaahmad22@icloulb.kr",
           "password": "masuk123",
           "addedAt": 1776714273411
+        },
+        {
+          "email": "kasojd@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1776714274597
         }
       ],
       "sold": 0,
-      "stock": 13
+      "stock": 14
     }
   ],
   "meta": {
