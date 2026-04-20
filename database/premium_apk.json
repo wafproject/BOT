@@ -2634,10 +2634,15 @@
           "email": "bilevitch@dapurx.me",
           "password": "masuk123",
           "addedAt": 1776714265300
+        },
+        {
+          "email": "darkrazo999@dichvuxe24h.com",
+          "password": "masuk123",
+          "addedAt": 1776714266597
         }
       ],
       "sold": 0,
-      "stock": 7
+      "stock": 8
     }
   ],
   "meta": {
