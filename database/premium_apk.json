@@ -2679,10 +2679,15 @@
           "email": "sokaps1@premiummin.store",
           "password": "masuk123",
           "addedAt": 1776714277358
+        },
+        {
+          "email": "tkdjosec@risma.mom",
+          "password": "masuk123",
+          "addedAt": 1776714278733
         }
       ],
       "sold": 0,
-      "stock": 16
+      "stock": 17
     }
   ],
   "meta": {
