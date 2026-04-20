@@ -2629,10 +2629,15 @@
           "email": "thorntn@inlook.cloud",
           "password": "masuk123",
           "addedAt": 1776714264020
+        },
+        {
+          "email": "bilevitch@dapurx.me",
+          "password": "masuk123",
+          "addedAt": 1776714265300
         }
       ],
       "sold": 0,
-      "stock": 6
+      "stock": 7
     }
   ],
   "meta": {
