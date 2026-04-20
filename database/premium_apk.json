@@ -2604,10 +2604,15 @@
           "email": "q8vbobtizf@trustary.store",
           "password": "masuk123",
           "addedAt": 1776714257254
+        },
+        {
+          "email": "allamasiki@kupz.xyz",
+          "password": "masuk123",
+          "addedAt": 1776714258327
         }
       ],
       "sold": 0,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
