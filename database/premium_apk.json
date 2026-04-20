@@ -2619,10 +2619,15 @@
           "email": "williammodelski@realsoul.in",
           "password": "masuk123",
           "addedAt": 1776714261133
+        },
+        {
+          "email": "evinkev@kwinx.click",
+          "password": "masuk123",
+          "addedAt": 1776714262516
         }
       ],
       "sold": 0,
-      "stock": 4
+      "stock": 5
     }
   ],
   "meta": {
