@@ -2590,6 +2590,18 @@
       ],
       "sold": 350,
       "stock": 2
+    },
+    {
+      "code": "CC7D",
+      "name": "Capcut Pro 7D Private",
+      "category": "capcut pro",
+      "type": "akun",
+      "price": 1000,
+      "descShort": "",
+      "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
