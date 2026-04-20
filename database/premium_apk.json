@@ -933,9 +933,14 @@
           "email": "user61674@akunqu.net",
           "password": "Masuk123",
           "addedAt": 1776715980320
+        },
+        {
+          "email": "user39099@7ni.foo",
+          "password": "Masuk123",
+          "addedAt": 1776715981965
         }
       ],
-      "stock": 2,
+      "stock": 3,
       "sold": 29
     },
     {
