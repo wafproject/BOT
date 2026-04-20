@@ -728,10 +728,15 @@
           "email": "mt66pulqyj@trustary.store",
           "password": "masuk123",
           "addedAt": 1776122346381
+        },
+        {
+          "email": "maximkagrp@obiq.xyz",
+          "password": "masuk123",
+          "addedAt": 1776713970237
         }
       ],
       "sold": 811,
-      "stock": 7
+      "stock": 8
     },
     {
       "code": "APMEMBER",
