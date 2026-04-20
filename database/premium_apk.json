@@ -2624,10 +2624,15 @@
           "email": "evinkev@kwinx.click",
           "password": "masuk123",
           "addedAt": 1776714262516
+        },
+        {
+          "email": "thorntn@inlook.cloud",
+          "password": "masuk123",
+          "addedAt": 1776714264020
         }
       ],
       "sold": 0,
-      "stock": 5
+      "stock": 6
     }
   ],
   "meta": {
