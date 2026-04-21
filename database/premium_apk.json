@@ -2596,11 +2596,6 @@
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [
         {
-          "email": "allamasiki@kupz.xyz",
-          "password": "masuk123",
-          "addedAt": 1776714258327
-        },
-        {
           "email": "kristianwass@nowhivehub.com",
           "password": "masuk123",
           "addedAt": 1776714259836
@@ -2681,8 +2676,8 @@
           "addedAt": 1776714280084
         }
       ],
-      "sold": 1026,
-      "stock": 17
+      "sold": 1027,
+      "stock": 16
     }
   ],
   "meta": {
