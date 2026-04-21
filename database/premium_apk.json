@@ -2596,11 +2596,6 @@
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [
         {
-          "email": "evinkev@kwinx.click",
-          "password": "masuk123",
-          "addedAt": 1776714262516
-        },
-        {
           "email": "thorntn@inlook.cloud",
           "password": "masuk123",
           "addedAt": 1776714264020
@@ -2666,8 +2661,8 @@
           "addedAt": 1776714280084
         }
       ],
-      "sold": 1029,
-      "stock": 14
+      "sold": 1030,
+      "stock": 13
     }
   ],
   "meta": {
