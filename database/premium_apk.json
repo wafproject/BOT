@@ -2408,10 +2408,15 @@
           "email": "prabowo@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1776826118596
+        },
+        {
+          "email": "bahlil@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1776826119954
         }
       ],
       "sold": 351,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "CC7D",
