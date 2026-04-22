@@ -759,9 +759,15 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": " Garansi 5 hari",
-      "items": [],
+      "items": [
+        {
+          "email": "user5641@dulph.me",
+          "password": "Masuk123",
+          "addedAt": 1776868432475
+        }
+      ],
       "sold": 46,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "ZOOM",
