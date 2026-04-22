@@ -2400,18 +2400,13 @@
       "snk": "* login biasa bukan google (KODE MINTA KE ADMIN)\n• login bisa lewat web atau aplikasi\n• no garansi \n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• tolong kirim bukti berhasil login agar seller mengetahui, tidak kirim maka tidak bisa klaim garansi (no komplain)",
       "items": [
         {
-          "email": "nurae709@gsuite.biz.id",
-          "password": "masukaja1234",
-          "addedAt": 1776581164780
-        },
-        {
           "email": "jijah29@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1776581166072
         }
       ],
-      "sold": 350,
-      "stock": 2
+      "sold": 351,
+      "stock": 1
     },
     {
       "code": "CC7D",
