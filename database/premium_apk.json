@@ -709,10 +709,15 @@
           "email": "monas1@premaja.online",
           "password": "Masuk12345",
           "addedAt": 1776577006655
+        },
+        {
+          "email": "jdubs68@morad.cc",
+          "password": "Masuk12345",
+          "addedAt": 1776867358582
         }
       ],
       "sold": 85,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "IBISP",
