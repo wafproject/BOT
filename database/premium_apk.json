@@ -2491,15 +2491,9 @@
       "price": 5000,
       "descShort": "No Garansi",
       "snk": "* login biasa bukan google (KODE MINTA KE ADMIN)\n• login bisa lewat web atau aplikasi\n• no garansi \n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• tolong kirim bukti berhasil login agar seller mengetahui, tidak kirim maka tidak bisa klaim garansi (no komplain)",
-      "items": [
-        {
-          "email": "bahlil@gsuite.biz.id",
-          "password": "masukaja1234",
-          "addedAt": 1776826119954
-        }
-      ],
-      "sold": 353,
-      "stock": 1
+      "items": [],
+      "sold": 354,
+      "stock": 0
     },
     {
       "code": "CC7D",
