@@ -752,18 +752,13 @@
       "snk": "* Garansi 5 hari dihitung sejak tanggal pembelian \n• Akses email : https://emailqu.com/",
       "items": [
         {
-          "email": "user61674@akunqu.net",
-          "password": "Masuk123",
-          "addedAt": 1776715980320
-        },
-        {
           "email": "user39099@7ni.foo",
           "password": "Masuk123",
           "addedAt": 1776715981965
         }
       ],
-      "stock": 2,
-      "sold": 29
+      "stock": 1,
+      "sold": 30
     },
     {
       "code": "AM",
