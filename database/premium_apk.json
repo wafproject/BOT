@@ -729,10 +729,15 @@
           "email": "corvette4390@killlove.site",
           "password": "Masuk12345",
           "addedAt": 1776867364059
+        },
+        {
+          "email": "cam345@storebas.fun",
+          "password": "Masuk12345",
+          "addedAt": 1776867365190
         }
       ],
       "sold": 85,
-      "stock": 6
+      "stock": 7
     },
     {
       "code": "IBISP",
