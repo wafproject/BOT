@@ -2496,10 +2496,15 @@
           "email": "kenzoararya@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1776879143176
+        },
+        {
+          "email": "shaqueena@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1776879144748
         }
       ],
       "sold": 354,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "CC7D",
