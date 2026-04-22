@@ -779,10 +779,15 @@
           "email": "user30896@cley.me",
           "password": "Masuk123",
           "addedAt": 1776868436825
+        },
+        {
+          "email": "user1622@broken.best",
+          "password": "Masuk123",
+          "addedAt": 1776868438485
         }
       ],
       "sold": 46,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "ZOOM",
