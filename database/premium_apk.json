@@ -756,9 +756,14 @@
           "email": "user98900@runatk.site",
           "password": "Masuk123",
           "addedAt": 1776863947893
+        },
+        {
+          "email": "user95597@emailqu.com",
+          "password": "Masuk123",
+          "addedAt": 1776863949057
         }
       ],
-      "stock": 2,
+      "stock": 3,
       "sold": 30
     },
     {
