@@ -2431,10 +2431,15 @@
           "email": "kulikw@premaja.online",
           "password": "masukaja1234",
           "addedAt": 1776879411403
+        },
+        {
+          "email": "kulikw@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1776879412727
         }
       ],
       "sold": 422,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "GROK3D",
