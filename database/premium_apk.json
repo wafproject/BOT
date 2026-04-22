@@ -769,10 +769,15 @@
           "email": "user71502@noxr.buzz",
           "password": "Masuk123",
           "addedAt": 1776868433829
+        },
+        {
+          "email": "user10372@7ni.foo",
+          "password": "Masuk123",
+          "addedAt": 1776868434923
         }
       ],
       "sold": 46,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "ZOOM",
