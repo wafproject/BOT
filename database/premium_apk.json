@@ -724,10 +724,15 @@
           "email": "zeus1337@waroengkuy.com",
           "password": "Masuk12345",
           "addedAt": 1776867362520
+        },
+        {
+          "email": "corvette4390@killlove.site",
+          "password": "Masuk12345",
+          "addedAt": 1776867364059
         }
       ],
       "sold": 85,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "IBISP",
