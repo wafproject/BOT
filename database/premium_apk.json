@@ -2461,10 +2461,15 @@
           "email": "goersa@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1776826142003
+        },
+        {
+          "email": "abhinaya102@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1776879177310
         }
       ],
       "sold": 564,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "CC1B",
