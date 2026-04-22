@@ -2466,10 +2466,15 @@
           "email": "abhinaya102@premaja.online",
           "password": "masukaja1234",
           "addedAt": 1776879177310
+        },
+        {
+          "email": "malik88@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1776879178543
         }
       ],
       "sold": 564,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "CC1B",
