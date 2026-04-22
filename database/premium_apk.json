@@ -719,10 +719,15 @@
           "email": "realtorguy1313@findids.net",
           "password": "Masuk12345",
           "addedAt": 1776867361003
+        },
+        {
+          "email": "zeus1337@waroengkuy.com",
+          "password": "Masuk12345",
+          "addedAt": 1776867362520
         }
       ],
       "sold": 85,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "IBISP",
