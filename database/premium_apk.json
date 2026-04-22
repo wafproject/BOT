@@ -2506,10 +2506,15 @@
           "email": "gavriel54@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1776879146374
+        },
+        {
+          "email": "zeaara30@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1776879147596
         }
       ],
       "sold": 354,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "CC7D",
