@@ -764,10 +764,15 @@
           "email": "user5641@dulph.me",
           "password": "Masuk123",
           "addedAt": 1776868432475
+        },
+        {
+          "email": "user71502@noxr.buzz",
+          "password": "Masuk123",
+          "addedAt": 1776868433829
         }
       ],
       "sold": 46,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "ZOOM",
