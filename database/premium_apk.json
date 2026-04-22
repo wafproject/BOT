@@ -774,10 +774,15 @@
           "email": "user10372@7ni.foo",
           "password": "Masuk123",
           "addedAt": 1776868434923
+        },
+        {
+          "email": "user30896@cley.me",
+          "password": "Masuk123",
+          "addedAt": 1776868436825
         }
       ],
       "sold": 46,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "ZOOM",
