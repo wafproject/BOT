@@ -2491,10 +2491,15 @@
           "email": "munar9@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1776879141877
+        },
+        {
+          "email": "kenzoararya@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1776879143176
         }
       ],
       "sold": 354,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "CC7D",
