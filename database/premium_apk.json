@@ -786,9 +786,14 @@
           "email": "user915@noxr.buzz",
           "password": "Masuk123",
           "addedAt": 1776863954825
+        },
+        {
+          "email": "user63716@fynxo.sbs",
+          "password": "Masuk123",
+          "addedAt": 1776863955904
         }
       ],
-      "stock": 8,
+      "stock": 9,
       "sold": 30
     },
     {
