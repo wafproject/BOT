@@ -2403,10 +2403,15 @@
           "email": "jijah29@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1776581166072
+        },
+        {
+          "email": "prabowo@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1776826118596
         }
       ],
       "sold": 351,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "CC7D",
