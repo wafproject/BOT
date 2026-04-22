@@ -796,9 +796,14 @@
           "email": "user55504@direhit.space",
           "password": "Masuk123",
           "addedAt": 1776863957178
+        },
+        {
+          "email": "user63504@emailqu.com",
+          "password": "Masuk123",
+          "addedAt": 1776863958256
         }
       ],
-      "stock": 10,
+      "stock": 11,
       "sold": 30
     },
     {
