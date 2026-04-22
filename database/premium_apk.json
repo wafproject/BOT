@@ -2379,10 +2379,15 @@
           "email": "yuribi@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1776826140853
+        },
+        {
+          "email": "goersa@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1776826142003
         }
       ],
       "sold": 564,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "CC1B",
