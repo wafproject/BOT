@@ -776,9 +776,14 @@
           "email": "user34081@semut.me",
           "password": "Masuk123",
           "addedAt": 1776863952532
+        },
+        {
+          "email": "user94871@semut.me",
+          "password": "Masuk123",
+          "addedAt": 1776863953651
         }
       ],
-      "stock": 6,
+      "stock": 7,
       "sold": 30
     },
     {
