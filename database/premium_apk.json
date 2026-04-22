@@ -2511,10 +2511,15 @@
           "email": "zeaara30@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1776879147596
+        },
+        {
+          "email": "elano.mahendra21@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1776879149185
         }
       ],
       "sold": 354,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "CC7D",
