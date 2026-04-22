@@ -2516,10 +2516,15 @@
           "email": "elano.mahendra21@premaja.online",
           "password": "masukaja1234",
           "addedAt": 1776879149185
+        },
+        {
+          "email": "aurora.clarissa7@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1776879150691
         }
       ],
       "sold": 354,
-      "stock": 6
+      "stock": 7
     },
     {
       "code": "CC7D",
