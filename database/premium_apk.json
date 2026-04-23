@@ -591,15 +591,10 @@
           "email": "giffie@lapakqu.com",
           "password": "masuk123",
           "addedAt": 1776713979728
-        },
-        {
-          "email": "spektofotometre@himkinet.ru",
-          "password": "masuk123",
-          "addedAt": 1776713980956
         }
       ],
       "sold": 813,
-      "stock": 14
+      "stock": 13
     },
     {
       "code": "APMEMBER",
