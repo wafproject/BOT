@@ -625,11 +625,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "monas@premaja.online",
-          "password": "Masuk12345",
-          "addedAt": 1776577005547
-        },
-        {
           "email": "monas1@premaja.online",
           "password": "Masuk12345",
           "addedAt": 1776577006655
@@ -660,8 +655,8 @@
           "addedAt": 1776867365190
         }
       ],
-      "sold": 85,
-      "stock": 7
+      "sold": 86,
+      "stock": 6
     },
     {
       "code": "IBISP",
