@@ -586,15 +586,10 @@
           "email": "bestyya@virginsrus.xyz",
           "password": "masuk123",
           "addedAt": 1776713978295
-        },
-        {
-          "email": "giffie@lapakqu.com",
-          "password": "masuk123",
-          "addedAt": 1776713979728
         }
       ],
       "sold": 813,
-      "stock": 13
+      "stock": 12
     },
     {
       "code": "APMEMBER",
