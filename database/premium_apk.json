@@ -2422,10 +2422,15 @@
           "email": "prohur@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1776916587839
+        },
+        {
+          "email": "curasd@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1776916589019
         }
       ],
       "sold": 505,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "GPPLUSNOGAR",
