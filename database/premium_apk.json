@@ -2467,10 +2467,15 @@
           "email": "gavriel54@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777040184057
+        },
+        {
+          "email": "zeaara30@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777040185233
         }
       ],
       "sold": 832,
-      "stock": 4
+      "stock": 5
     }
   ],
   "meta": {
