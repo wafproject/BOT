@@ -2447,9 +2447,15 @@
       "price": 15000,
       "descShort": "Full Garansi",
       "snk": "* login biasa bukan google (KENA VERIF? KODE MINTA KE ADMIN)\n• login bisa lewat web atau aplikasi\n• full garansi 25 hari\n• garansi backfree dan suspend, ce tidak termasuk\n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• tolong kirim bukti berhasil login agar seller mengetahui, tidak kirim maka tidak bisa klaim garansi (no komplain)",
-      "items": [],
+      "items": [
+        {
+          "email": "munar9@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777040180046
+        }
+      ],
       "sold": 832,
-      "stock": 0
+      "stock": 1
     }
   ],
   "meta": {
