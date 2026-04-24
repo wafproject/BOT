@@ -2462,10 +2462,15 @@
           "email": "shaqueena@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777040182725
+        },
+        {
+          "email": "gavriel54@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777040184057
         }
       ],
       "sold": 832,
-      "stock": 3
+      "stock": 4
     }
   ],
   "meta": {
