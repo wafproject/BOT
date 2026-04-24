@@ -2477,10 +2477,15 @@
           "email": "elano.mahendra21@premaja.online",
           "password": "masukaja1234",
           "addedAt": 1777040186448
+        },
+        {
+          "email": "aurora.clarissa7@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777040187752
         }
       ],
       "sold": 832,
-      "stock": 6
+      "stock": 7
     }
   ],
   "meta": {
