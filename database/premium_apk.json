@@ -2458,11 +2458,6 @@
       "snk": "* login biasa bukan google (KENA VERIF? KODE MINTA KE ADMIN)\n• login bisa lewat web atau aplikasi\n• no garansi\n• garansi backfree dan suspend, ce tidak termasuk\n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran",
       "items": [
         {
-          "email": "munar9@gsuite.biz.id",
-          "password": "masukaja1234",
-          "addedAt": 1777100438121
-        },
-        {
           "email": "kenzoararya@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777100439159
@@ -2483,8 +2478,8 @@
           "addedAt": 1777100442578
         }
       ],
-      "sold": 493,
-      "stock": 5
+      "sold": 494,
+      "stock": 4
     }
   ],
   "meta": {
