@@ -790,10 +790,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "voronvipast@baidoxe.com",
-          "addedAt": 1774033584160
-        },
-        {
           "email": "mahereves@premipay.io",
           "addedAt": 1774033585202
         },
@@ -1114,8 +1110,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 81,
-      "sold": 449
+      "stock": 80,
+      "sold": 450
     },
     {
       "code": "VIU",
