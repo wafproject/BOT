@@ -2557,9 +2557,15 @@
       "price": 5000,
       "descShort": "No Garansi",
       "snk": "* login biasa bukan google (KENA VERIF? KODE MINTA KE ADMIN)\n• login bisa lewat web atau aplikasi\n• no garansi\n• garansi backfree dan suspend, ce tidak termasuk\n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran",
-      "items": [],
+      "items": [
+        {
+          "email": "munar9@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777100438121
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 1
     }
   ],
   "meta": {
