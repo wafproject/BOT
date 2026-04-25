@@ -567,10 +567,15 @@
           "email": "gilbode@shopaccmmo.com",
           "password": "masuk123",
           "addedAt": 1777078105552
+        },
+        {
+          "email": "bbah2td5@htmail.store",
+          "password": "masuk123",
+          "addedAt": 1777078106626
         }
       ],
       "sold": 813,
-      "stock": 9
+      "stock": 10
     },
     {
       "code": "APMEMBER",
