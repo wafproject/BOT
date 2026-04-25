@@ -2385,10 +2385,15 @@
           "email": "ggb34rjqx5@trustary.store",
           "password": "masuk123",
           "addedAt": 1777078169009
+        },
+        {
+          "email": "4tttn331tn@trustary.store",
+          "password": "masuk123",
+          "addedAt": 1777078170620
         }
       ],
       "sold": 551,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "GROK3D",
