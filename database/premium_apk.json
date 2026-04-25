@@ -552,10 +552,15 @@
           "email": "maximkagrp@obiq.xyz",
           "password": "masuk123",
           "addedAt": 1777078102007
+        },
+        {
+          "email": "jodidesign2@flameoflovedegree.com",
+          "password": "masuk123",
+          "addedAt": 1777078103150
         }
       ],
       "sold": 813,
-      "stock": 6
+      "stock": 7
     },
     {
       "code": "APMEMBER",
