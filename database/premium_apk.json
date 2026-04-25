@@ -562,10 +562,15 @@
           "email": "shketov@newbreedapps.com",
           "password": "masuk123",
           "addedAt": 1777078104188
+        },
+        {
+          "email": "gilbode@shopaccmmo.com",
+          "password": "masuk123",
+          "addedAt": 1777078105552
         }
       ],
       "sold": 813,
-      "stock": 8
+      "stock": 9
     },
     {
       "code": "APMEMBER",
