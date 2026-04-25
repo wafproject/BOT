@@ -2546,11 +2546,6 @@
           "addedAt": 1777040181218
         },
         {
-          "email": "shaqueena@gsuite.biz.id",
-          "password": "masukaja1234",
-          "addedAt": 1777040182725
-        },
-        {
           "email": "elano.mahendra21@premaja.online",
           "password": "masukaja1234",
           "addedAt": 1777040186448
@@ -2562,7 +2557,7 @@
         }
       ],
       "sold": 832,
-      "stock": 5
+      "stock": 4
     },
     {
       "code": "GPPLUSNOGAR",
