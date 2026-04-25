@@ -2562,10 +2562,15 @@
           "email": "munar9@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777100438121
+        },
+        {
+          "email": "kenzoararya@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777100439159
         }
       ],
       "sold": 0,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
