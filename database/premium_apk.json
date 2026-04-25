@@ -1813,18 +1813,6 @@
       "sold": 15
     },
     {
-      "code": "CRUNC",
-      "name": "Crunchyroll MegaFan 7D",
-      "category": "Crunchyroll",
-      "type": "akun",
-      "price": 3000,
-      "descShort": "Only Android",
-      "snk": " Garansi 3D",
-      "items": [],
-      "stock": 0,
-      "sold": 42
-    },
-    {
       "code": "VISION",
       "name": "Vision Plus 1 Bulan",
       "category": "Vision+",
