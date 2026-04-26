@@ -773,10 +773,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "mahereves@premipay.io",
-          "addedAt": 1774033585202
-        },
-        {
           "email": "lustymik@hhyru.us",
           "addedAt": 1774033586821
         },
@@ -1093,8 +1089,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 80,
-      "sold": 450
+      "stock": 79,
+      "sold": 451
     },
     {
       "code": "VIU",
