@@ -2282,10 +2282,15 @@
           "email": "nicopilmaz@mmds.shop",
           "password": "masuk123",
           "addedAt": 1777167845485
+        },
+        {
+          "email": "tjeu81@corefitrun.com",
+          "password": "masuk123",
+          "addedAt": 1777167846434
         }
       ],
       "sold": 552,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "GROK3D",
