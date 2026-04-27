@@ -2419,15 +2419,10 @@
           "email": "gavriel54@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777100441407
-        },
-        {
-          "email": "zeaara30@gsuite.biz.id",
-          "password": "masukaja1234",
-          "addedAt": 1777318587061
         }
       ],
       "sold": 496,
-      "stock": 2
+      "stock": 1
     }
   ],
   "meta": {
