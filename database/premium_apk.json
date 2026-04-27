@@ -89,8 +89,14 @@
       "price": 3000,
       "descShort": "Bisa inv 100 member",
       "snk": "* Full Garansi\n* Garansi hanya kendala backfree\n\nJika di minta kode OTP hubungi admin @enziwaf / wa.me/6287731282876",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "ayu98@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1777284059709
+        }
+      ],
+      "stock": 1,
       "sold": 258
     },
     {
