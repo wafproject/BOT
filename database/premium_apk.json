@@ -2433,10 +2433,15 @@
           "email": "danesha76@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777353640694
+        },
+        {
+          "email": "nathanio557@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777353642010
         }
       ],
       "sold": 835,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "GPPLUSNOGAR",
