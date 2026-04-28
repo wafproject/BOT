@@ -2309,10 +2309,15 @@
           "email": "elvanogavin00@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777353624019
+        },
+        {
+          "email": "anindita854@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777353625448
         }
       ],
       "sold": 569,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "CC1B",
