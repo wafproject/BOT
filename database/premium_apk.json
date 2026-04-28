@@ -2304,10 +2304,15 @@
           "email": "aletta87@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777353622602
+        },
+        {
+          "email": "elvanogavin00@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777353624019
         }
       ],
       "sold": 569,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "CC1B",
