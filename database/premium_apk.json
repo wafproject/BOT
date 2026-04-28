@@ -2410,15 +2410,9 @@
       "price": 5000,
       "descShort": "No Garansi",
       "snk": "* login biasa bukan google (KENA VERIF? KODE KESINI https://tmail.wafproject.my.id)\n• login bisa lewat web atau aplikasi\n• no garansi \n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran",
-      "items": [
-        {
-          "email": "gavriel54@gsuite.biz.id",
-          "password": "masukaja1234",
-          "addedAt": 1777100441407
-        }
-      ],
-      "sold": 496,
-      "stock": 1
+      "items": [],
+      "sold": 497,
+      "stock": 0
     }
   ],
   "meta": {
