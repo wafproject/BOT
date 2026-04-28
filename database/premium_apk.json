@@ -81,15 +81,9 @@
       "price": 3000,
       "descShort": "Bisa inv 100 member",
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/",
-      "items": [
-        {
-          "email": "ayu98@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1777284059709
-        }
-      ],
-      "stock": 1,
-      "sold": 258
+      "items": [],
+      "stock": 0,
+      "sold": 259
     },
     {
       "code": "CANEDU",
