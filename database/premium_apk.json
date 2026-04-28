@@ -2281,11 +2281,6 @@
       "snk": "* login biasa bukan google (KENA VERIF? KODE KESINI https://tmail.wafproject.my.id)\n• login bisa lewat web atau aplikasi\n• garansi 7 hari \n• garansi backfree dan suspend, ce tidak termasuk\n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• tolong kirim bukti berhasil login agar seller mengetahui, tidak kirim maka tidak bisa klaim garansi (no komplain)",
       "items": [
         {
-          "email": "aletta87@gsuite.biz.id",
-          "password": "masukaja1234",
-          "addedAt": 1777353622602
-        },
-        {
           "email": "elvanogavin00@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777353624019
@@ -2296,8 +2291,8 @@
           "addedAt": 1777353625448
         }
       ],
-      "sold": 571,
-      "stock": 3
+      "sold": 572,
+      "stock": 2
     },
     {
       "code": "CC1B",
