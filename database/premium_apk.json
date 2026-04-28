@@ -2413,9 +2413,15 @@
       "price": 15000,
       "descShort": "Full Garansi",
       "snk": "* login biasa bukan google (KENA VERIF? KODE KESINI https://tmail.wafproject.my.id/)\n• login bisa lewat web atau aplikasi\n• full garansi 25 hari \n• garansi backfree dan suspend, ce tidak termasuk\n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• tolong kirim bukti berhasil login agar seller mengetahui, tidak kirim maka tidak bisa klaim garansi (no komplain)",
-      "items": [],
+      "items": [
+        {
+          "email": "syahreza65@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777353636501
+        }
+      ],
       "sold": 835,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "GPPLUSNOGAR",
