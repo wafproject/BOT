@@ -2414,10 +2414,15 @@
           "email": "h3j7tiy@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777353603518
+        },
+        {
+          "email": "bbagrnv@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777353605122
         }
       ],
       "sold": 497,
-      "stock": 3
+      "stock": 4
     }
   ],
   "meta": {
