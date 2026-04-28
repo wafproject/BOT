@@ -2404,10 +2404,15 @@
           "email": "clarameisya@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777353599584
+        },
+        {
+          "email": "72wt328@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777353601600
         }
       ],
       "sold": 497,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
