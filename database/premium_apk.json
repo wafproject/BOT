@@ -2424,6 +2424,47 @@
   },
   "orders": [
     {
+      "invoice": "INV1777396747779",
+      "status": "PENDING",
+      "code": "CAN1B",
+      "productName": "Canva Pro Member 1 Bulan",
+      "price": 500,
+      "buyerName": "enzi",
+      "buyerWhatsapp": "087731282876",
+      "buyerEmail": "bondetz.tokz@gmail.com",
+      "payment": {
+        "code": 201,
+        "data": {
+          "payment_intent_id": "PI#0004052",
+          "transaction_id": "TX#0004050",
+          "merchant_id": 28,
+          "channel_code": "QRIS",
+          "ref_id": "INV1777396747779",
+          "currency": "IDR",
+          "amount": 604,
+          "status": "PENDING",
+          "expires_at": "2026-04-29T00:29:07+07:00",
+          "fee_preview": {
+            "bank_fee_model": "mdr_percent",
+            "bank_fee_percent": "0.007000",
+            "bank_fee_fixed": 0,
+            "bank_fee_min": 0,
+            "bank_fee_max": 1000001,
+            "app_fee_fixed": 100,
+            "gross": 604,
+            "bank": 4,
+            "app": 100,
+            "net": 500
+          },
+          "qris_text": "00020101021226640017ID.CO.DANAMON.WWW0118936000110000302584021010318637100303UME51440014ID.CO.QRIS.WWW0215ID10254460162770303UME6276011617773970039016100516INV1777396747779070928838011499190002000109422390514530336054036046015SERDANG BEDAGAI520448125912XOFTWARE PAY5802ID6105209866304C036"
+        },
+        "error": false,
+        "message": "Success Create Transaction"
+      },
+      "result": null,
+      "createdAt": 1777396749534
+    },
+    {
       "invoice": "INV1777396477835",
       "status": "PENDING",
       "code": "CAN1B",
