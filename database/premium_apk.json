@@ -55,15 +55,11 @@
       "items": [
         {
           "link": "https://www.canva.com/brand/join?token=yb9-5RwzCFQGPoOxejcsuQ&referrer=team-invite",
-          "addedAt": 1776649142589
-        },
-        {
-          "link": "https://www.canva.com/brand/join?token=yb9-5RwzCFQGPoOxejcsuQ&referrer=team-invite",
           "addedAt": 1776649144172
         }
       ],
-      "stock": 2,
-      "sold": 522
+      "stock": 1,
+      "sold": 523
     },
     {
       "code": "CANHEAD",
