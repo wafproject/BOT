@@ -610,11 +610,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "monas1@premaja.online",
-          "password": "Masuk12345",
-          "addedAt": 1776577006655
-        },
-        {
           "email": "jdubs68@morad.cc",
           "password": "Masuk12345",
           "addedAt": 1776867358582
@@ -640,8 +635,8 @@
           "addedAt": 1776867365190
         }
       ],
-      "sold": 86,
-      "stock": 6
+      "sold": 87,
+      "stock": 5
     },
     {
       "code": "PICS",
