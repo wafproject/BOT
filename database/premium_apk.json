@@ -818,10 +818,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "lesyaburdina@cayxupro5.com",
-          "addedAt": 1774033588778
-        },
-        {
           "email": "banggu@waroengpremium.com",
           "addedAt": 1774033589743
         },
@@ -1126,8 +1122,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 77,
-      "sold": 453
+      "stock": 76,
+      "sold": 454
     },
     {
       "code": "VIU",
