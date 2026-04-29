@@ -155,9 +155,14 @@
           "email": "jilong2@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1777435046504
+        },
+        {
+          "email": "buqers@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1777435047598
         }
       ],
-      "stock": 2,
+      "stock": 3,
       "sold": 260
     },
     {
