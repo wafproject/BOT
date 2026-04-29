@@ -160,9 +160,14 @@
           "email": "buqers@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1777435047598
+        },
+        {
+          "email": "koxure@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1777435048724
         }
       ],
-      "stock": 3,
+      "stock": 4,
       "sold": 260
     },
     {
