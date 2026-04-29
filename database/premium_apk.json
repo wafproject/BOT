@@ -150,9 +150,14 @@
           "email": "nura@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1777434992755
+        },
+        {
+          "email": "jilong2@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1777435046504
         }
       ],
-      "stock": 1,
+      "stock": 2,
       "sold": 260
     },
     {
