@@ -818,10 +818,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "davefrey@nguyendanhkietisocial.com",
-          "addedAt": 1774033587913
-        },
-        {
           "email": "lesyaburdina@cayxupro5.com",
           "addedAt": 1774033588778
         },
@@ -1130,8 +1126,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 78,
-      "sold": 452
+      "stock": 77,
+      "sold": 453
     },
     {
       "code": "VIU",
