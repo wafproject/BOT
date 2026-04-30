@@ -2323,11 +2323,6 @@
           "addedAt": 1776916587839
         },
         {
-          "email": "curasd@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1776916589019
-        },
-        {
           "email": "jago4@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1777585645404
@@ -2344,7 +2339,7 @@
         }
       ],
       "sold": 507,
-      "stock": 5
+      "stock": 4
     },
     {
       "code": "CC7D",
