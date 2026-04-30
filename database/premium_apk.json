@@ -2424,10 +2424,15 @@
           "email": "fezra9@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777537569733
+        },
+        {
+          "email": "aisyah33@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777537571055
         }
       ],
       "sold": 501,
-      "stock": 4
+      "stock": 5
     }
   ],
   "meta": {
