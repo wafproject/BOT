@@ -2328,10 +2328,15 @@
           "email": "erafa5@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777537658571
+        },
+        {
+          "email": "ziank8@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777537659925
         }
       ],
       "sold": 572,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "CC1B",
