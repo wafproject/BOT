@@ -686,15 +686,9 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": " Garansi 5 hari",
-      "items": [
-        {
-          "email": "user71502@noxr.buzz",
-          "password": "Masuk123",
-          "addedAt": 1776868433829
-        }
-      ],
+      "items": [],
       "sold": 47,
-      "stock": 1
+      "stock": 0
     },
     {
       "code": "ZOOM",
