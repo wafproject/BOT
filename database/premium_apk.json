@@ -2331,10 +2331,15 @@
           "email": "jago8@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1777585647920
+        },
+        {
+          "email": "jago12@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1777586852810
         }
       ],
       "sold": 507,
-      "stock": 3
+      "stock": 4
     },
     {
       "code": "CC7D",
