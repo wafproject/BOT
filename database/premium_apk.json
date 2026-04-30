@@ -688,11 +688,6 @@
       "snk": " Garansi 5 hari",
       "items": [
         {
-          "email": "user5641@dulph.me",
-          "password": "Masuk123",
-          "addedAt": 1776868432475
-        },
-        {
           "email": "user71502@noxr.buzz",
           "password": "Masuk123",
           "addedAt": 1776868433829
@@ -713,8 +708,8 @@
           "addedAt": 1776868438485
         }
       ],
-      "sold": 46,
-      "stock": 5
+      "sold": 47,
+      "stock": 4
     },
     {
       "code": "ZOOM",
