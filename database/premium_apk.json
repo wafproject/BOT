@@ -2344,16 +2344,6 @@
         {
           "email": "prohur@gsuite.biz.id",
           "password": "masuk123",
-          "addedAt": 1776916585283
-        },
-        {
-          "email": "curasd@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1776916586614
-        },
-        {
-          "email": "prohur@gsuite.biz.id",
-          "password": "masuk123",
           "addedAt": 1776916587839
         },
         {
@@ -2362,8 +2352,8 @@
           "addedAt": 1776916589019
         }
       ],
-      "sold": 505,
-      "stock": 4
+      "sold": 507,
+      "stock": 2
     },
     {
       "code": "CC7D",
