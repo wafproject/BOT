@@ -2409,10 +2409,15 @@
           "email": "xavieran14@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777537566013
+        },
+        {
+          "email": "marlo7@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777537567494
         }
       ],
       "sold": 501,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
