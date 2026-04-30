@@ -2414,10 +2414,15 @@
           "email": "marlo7@premaja.online",
           "password": "masukaja1234",
           "addedAt": 1777537567494
+        },
+        {
+          "email": "keziaa2@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777537568808
         }
       ],
       "sold": 501,
-      "stock": 2
+      "stock": 3
     }
   ],
   "meta": {
