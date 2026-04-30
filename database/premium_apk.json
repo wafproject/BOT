@@ -789,10 +789,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "banggu@waroengpremium.com",
-          "addedAt": 1774033589743
-        },
-        {
           "email": "natalyalagutenko@gemapan.com",
           "addedAt": 1774033591822
         },
@@ -1093,8 +1089,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 76,
-      "sold": 454
+      "stock": 75,
+      "sold": 455
     },
     {
       "code": "VIU",
