@@ -2412,10 +2412,15 @@
           "email": "hugoa6@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777537676361
+        },
+        {
+          "email": "asavyasachi2@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777537677551
         }
       ],
       "sold": 840,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "GPPLUSNOGAR",
