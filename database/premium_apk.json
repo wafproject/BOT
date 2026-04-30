@@ -2419,10 +2419,15 @@
           "email": "keziaa2@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777537568808
+        },
+        {
+          "email": "fezra9@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777537569733
         }
       ],
       "sold": 501,
-      "stock": 3
+      "stock": 4
     }
   ],
   "meta": {
