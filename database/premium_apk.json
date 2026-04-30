@@ -2333,10 +2333,15 @@
           "email": "ziank8@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777537659925
+        },
+        {
+          "email": "slyra1@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777537661579
         }
       ],
       "sold": 572,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "CC1B",
