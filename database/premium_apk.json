@@ -2389,10 +2389,15 @@
           "email": "slyra1@premaja.online",
           "password": "masukaja1234",
           "addedAt": 1777613386766
+        },
+        {
+          "email": "akaelan2@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777618520432
         }
       ],
       "sold": 510,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
