@@ -2399,10 +2399,15 @@
           "email": "nalas4@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777618521883
+        },
+        {
+          "email": "araffasya9@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777618523244
         }
       ],
       "sold": 510,
-      "stock": 3
+      "stock": 4
     }
   ],
   "meta": {
