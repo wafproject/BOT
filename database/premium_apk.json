@@ -2378,10 +2378,15 @@
           "email": "anindita854@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777613382993
+        },
+        {
+          "email": "erafa5@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777613384288
         }
       ],
       "sold": 504,
-      "stock": 4
+      "stock": 5
     }
   ],
   "meta": {
