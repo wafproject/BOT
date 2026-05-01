@@ -2394,10 +2394,15 @@
           "email": "akaelan2@premaja.online",
           "password": "masukaja1234",
           "addedAt": 1777618520432
+        },
+        {
+          "email": "nalas4@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777618521883
         }
       ],
       "sold": 510,
-      "stock": 2
+      "stock": 3
     }
   ],
   "meta": {
