@@ -2404,10 +2404,15 @@
           "email": "araffasya9@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777618523244
+        },
+        {
+          "email": "zivaraa1@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777618524334
         }
       ],
       "sold": 510,
-      "stock": 4
+      "stock": 5
     }
   ],
   "meta": {
