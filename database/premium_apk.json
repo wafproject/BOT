@@ -54,10 +54,6 @@
       "snk": "* SETELAH JOIN WAJIB SETOR EMAIL KE ADMIN, JIKA TIDAK SETOR AKAN DI KICK! * 1 LINK UNTUK 1 USER! KETAHUAN KICK ALL",
       "items": [
         {
-          "link": "https://www.canva.com/brand/join?token=XaTSu2MmqBLILVYUj4wQMQ&referrer=team-invite",
-          "addedAt": 1777432950856
-        },
-        {
           "link": "https://www.canva.com/brand/join?token=XaTSu2MmqBLILVYUj4wQMQ&referrer=team-invitehttps://www.canva.com/brand/join?token=XaTSu2MmqBLILVYUj4wQMQ&referrer=team-invite",
           "addedAt": 1777432951875
         },
@@ -118,8 +114,8 @@
           "addedAt": 1777432968365
         }
       ],
-      "stock": 16,
-      "sold": 527
+      "stock": 15,
+      "sold": 528
     },
     {
       "code": "CANHEAD",
