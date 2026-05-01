@@ -2293,10 +2293,15 @@
           "email": "zayyans9@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777618497040
+        },
+        {
+          "email": "jovankaa7@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777618498151
         }
       ],
       "sold": 572,
-      "stock": 4
+      "stock": 5
     },
     {
       "code": "CC1B",
