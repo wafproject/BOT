@@ -2278,10 +2278,15 @@
           "email": "adrystan8@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777618493569
+        },
+        {
+          "email": "grizellen3@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777618494614
         }
       ],
       "sold": 572,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "CC1B",
