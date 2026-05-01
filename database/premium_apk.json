@@ -2371,11 +2371,6 @@
       "snk": "* login biasa bukan google (KENA VERIF? KODE KESINI https://tmail.wafproject.my.id)\n• login bisa lewat web atau aplikasi\n• no garansi \n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran",
       "items": [
         {
-          "email": "akaelan2@premaja.online",
-          "password": "masukaja1234",
-          "addedAt": 1777618520432
-        },
-        {
           "email": "nalas4@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777618521883
@@ -2396,8 +2391,8 @@
           "addedAt": 1777618525377
         }
       ],
-      "sold": 511,
-      "stock": 5
+      "sold": 512,
+      "stock": 4
     }
   ],
   "meta": {
