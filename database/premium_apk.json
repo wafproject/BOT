@@ -2409,10 +2409,15 @@
           "email": "zivaraa1@premaja.online",
           "password": "masukaja1234",
           "addedAt": 1777618524334
+        },
+        {
+          "email": "adavin6@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777618525377
         }
       ],
       "sold": 510,
-      "stock": 5
+      "stock": 6
     }
   ],
   "meta": {
