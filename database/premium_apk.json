@@ -2388,10 +2388,15 @@
           "email": "ziank8@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777613385552
+        },
+        {
+          "email": "slyra1@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777613386766
         }
       ],
       "sold": 504,
-      "stock": 6
+      "stock": 7
     }
   ],
   "meta": {
