@@ -2283,10 +2283,15 @@
           "email": "grizellen3@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777618494614
+        },
+        {
+          "email": "akenzie1@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777618495627
         }
       ],
       "sold": 572,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "CC1B",
