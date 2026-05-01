@@ -2368,10 +2368,15 @@
           "email": "aisyah33@premaja.online",
           "password": "masukaja1234",
           "addedAt": 1777537571055
+        },
+        {
+          "email": "elvanogavin00@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777613381762
         }
       ],
       "sold": 504,
-      "stock": 2
+      "stock": 3
     }
   ],
   "meta": {
