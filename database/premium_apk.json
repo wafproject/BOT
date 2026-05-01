@@ -2273,9 +2273,15 @@
       "price": 10000,
       "descShort": "Garansi 7 Hari",
       "snk": "* login biasa bukan google (KENA VERIF? KODE KESINI https://tmail.wafproject.my.id)\n• login bisa lewat web atau aplikasi\n• garansi 7 hari \n• garansi backfree dan suspend, ce tidak termasuk\n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• tolong kirim bukti berhasil login agar seller mengetahui, tidak kirim maka tidak bisa klaim garansi (no komplain)\n• GARANSI BERLAKU SELAMA METODE TIDAK KOID",
-      "items": [],
+      "items": [
+        {
+          "email": "adrystan8@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777618493569
+        }
+      ],
       "sold": 572,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "CC1B",
