@@ -2346,10 +2346,15 @@
           "email": "kyloe3@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777695439284
+        },
+        {
+          "email": "maezar7@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777695440481
         }
       ],
       "sold": 517,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
