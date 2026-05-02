@@ -2356,10 +2356,15 @@
           "email": "shiraa1@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777695441869
+        },
+        {
+          "email": "avigo9@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777695442930
         }
       ],
       "sold": 517,
-      "stock": 3
+      "stock": 4
     }
   ],
   "meta": {
