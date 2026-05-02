@@ -2361,10 +2361,15 @@
           "email": "avigo9@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777695442930
+        },
+        {
+          "email": "nandines4@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777695444069
         }
       ],
       "sold": 517,
-      "stock": 4
+      "stock": 5
     }
   ],
   "meta": {
