@@ -2351,10 +2351,15 @@
           "email": "maezar7@premaja.online",
           "password": "masukaja1234",
           "addedAt": 1777695440481
+        },
+        {
+          "email": "shiraa1@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777695441869
         }
       ],
       "sold": 517,
-      "stock": 2
+      "stock": 3
     }
   ],
   "meta": {
