@@ -2572,10 +2572,15 @@
           "email": "shakysgirl@mskey.net",
           "password": "masuk123",
           "addedAt": 1776714280084
+        },
+        {
+          "email": "9e4922dc@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1777784335811
         }
       ],
       "sold": 1041,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "GPPLUSPRIVFULL",
