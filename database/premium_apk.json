@@ -2766,10 +2766,15 @@
           "email": "rendras2@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777800455084
+        },
+        {
+          "email": "agendis5@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777800456423
         }
       ],
       "sold": 842,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "GPPLUSNOGAR",
