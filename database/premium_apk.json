@@ -2547,10 +2547,15 @@
           "email": "56a4b497@premiummin.store",
           "password": "masuk123",
           "addedAt": 1777784540982
+        },
+        {
+          "email": "d36a910b@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1777784541998
         }
       ],
       "sold": 558,
-      "stock": 10
+      "stock": 11
     },
     {
       "code": "GROK3D",
