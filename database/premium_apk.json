@@ -2567,10 +2567,15 @@
           "email": "cb100bea@premiummin.store",
           "password": "masuk123",
           "addedAt": 1777784545356
+        },
+        {
+          "email": "aaafd7c3@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1777784546862
         }
       ],
       "sold": 558,
-      "stock": 14
+      "stock": 15
     },
     {
       "code": "GROK3D",
