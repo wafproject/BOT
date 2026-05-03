@@ -2805,10 +2805,15 @@
           "email": "lioraa1@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777800482875
+        },
+        {
+          "email": "narendra9@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777800484365
         }
       ],
       "sold": 522,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
