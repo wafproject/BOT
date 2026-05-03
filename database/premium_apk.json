@@ -2647,10 +2647,15 @@
           "email": "aaf28c92@premiummin.store",
           "password": "masuk123",
           "addedAt": 1777784565703
+        },
+        {
+          "email": "discolpi@maximail.shop",
+          "password": "masuk123",
+          "addedAt": 1777784639218
         }
       ],
       "sold": 558,
-      "stock": 30
+      "stock": 31
     },
     {
       "code": "GROK3D",
