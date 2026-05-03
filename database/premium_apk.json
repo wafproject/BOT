@@ -2815,10 +2815,15 @@
           "email": "syafas7@premaja.online",
           "password": "masukaja1234",
           "addedAt": 1777800485919
+        },
+        {
+          "email": "adaffa4@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777800487185
         }
       ],
       "sold": 522,
-      "stock": 3
+      "stock": 4
     }
   ],
   "meta": {
