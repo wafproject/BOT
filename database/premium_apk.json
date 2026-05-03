@@ -575,10 +575,15 @@
           "email": "crysko1@bqaz.xyz",
           "password": "masuk123",
           "addedAt": 1777078112732
+        },
+        {
+          "email": "29e93800@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1777784180591
         }
       ],
       "sold": 821,
-      "stock": 7
+      "stock": 8
     },
     {
       "code": "APMEMBER",
