@@ -2673,10 +2673,15 @@
           "email": "kanias3@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777800472804
+        },
+        {
+          "email": "marjuna71@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777800474200
         }
       ],
       "sold": 577,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "CC1B",
