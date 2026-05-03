@@ -2668,10 +2668,15 @@
           "email": "fathana8@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777800471202
+        },
+        {
+          "email": "kanias3@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777800472804
         }
       ],
       "sold": 577,
-      "stock": 1
+      "stock": 2
     },
     {
       "code": "CC1B",
