@@ -2587,10 +2587,15 @@
           "email": "5868645e@premiummin.store",
           "password": "masuk123",
           "addedAt": 1777784338515
+        },
+        {
+          "email": "d75bca34@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1777784339816
         }
       ],
       "sold": 1041,
-      "stock": 5
+      "stock": 6
     },
     {
       "code": "GPPLUSPRIVFULL",
