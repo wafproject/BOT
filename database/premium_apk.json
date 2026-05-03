@@ -2820,10 +2820,15 @@
           "email": "adaffa4@gsuite.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777800487185
+        },
+        {
+          "email": "ainat8@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777800488661
         }
       ],
       "sold": 522,
-      "stock": 4
+      "stock": 5
     }
   ],
   "meta": {
