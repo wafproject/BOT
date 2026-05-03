@@ -2617,10 +2617,15 @@
           "email": "f64c62d2@premiummin.store",
           "password": "masuk123",
           "addedAt": 1777784346476
+        },
+        {
+          "email": "34fa3e86@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1777784347841
         }
       ],
       "sold": 1041,
-      "stock": 11
+      "stock": 12
     },
     {
       "code": "GPPLUSPRIVFULL",
