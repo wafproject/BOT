@@ -710,10 +710,15 @@
           "email": "5d5d30d9@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1777784212017
+        },
+        {
+          "email": "d7c0efc5@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1777784213108
         }
       ],
       "sold": 821,
-      "stock": 34
+      "stock": 35
     },
     {
       "code": "APMEMBER",
