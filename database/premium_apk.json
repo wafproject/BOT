@@ -2810,10 +2810,15 @@
           "email": "narendra9@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777800484365
+        },
+        {
+          "email": "syafas7@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777800485919
         }
       ],
       "sold": 522,
-      "stock": 2
+      "stock": 3
     }
   ],
   "meta": {
