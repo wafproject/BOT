@@ -770,10 +770,15 @@
           "email": "dfdc792a@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1777784226993
+        },
+        {
+          "email": "bb82509c@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1777784227975
         }
       ],
       "sold": 821,
-      "stock": 46
+      "stock": 47
     },
     {
       "code": "APMEMBER",
