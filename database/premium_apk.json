@@ -882,11 +882,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "jdubs68@morad.cc",
-          "password": "Masuk12345",
-          "addedAt": 1776867358582
-        },
-        {
           "email": "realtorguy1313@findids.net",
           "password": "Masuk12345",
           "addedAt": 1776867361003
@@ -907,8 +902,8 @@
           "addedAt": 1776867365190
         }
       ],
-      "sold": 87,
-      "stock": 5
+      "sold": 88,
+      "stock": 4
     },
     {
       "code": "PICS",
