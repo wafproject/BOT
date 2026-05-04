@@ -2727,9 +2727,60 @@
       "price": 5000,
       "descShort": "No Garansi",
       "snk": "* login biasa bukan google (KENA VERIF? KODE KESINI https://tmail.wafproject.my.id)\n• login bisa lewat web atau aplikasi\n• no garansi \n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran",
-      "items": [],
+      "items": [
+        {
+          "email": "aksarap4@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913304707
+        },
+        {
+          "email": "ebianca7@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777913304707
+        },
+        {
+          "email": "cakraa1@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913304707
+        },
+        {
+          "email": "aditamar3@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913304707
+        },
+        {
+          "email": "arka12@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913304707
+        },
+        {
+          "email": "azevanya7@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777913304707
+        },
+        {
+          "email": "kenzoa9@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913304707
+        },
+        {
+          "email": "saletta3@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913304707
+        },
+        {
+          "email": "afreya4@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913304707
+        },
+        {
+          "email": "davians8@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913304707
+        }
+      ],
       "sold": 527,
-      "stock": 0
+      "stock": 10
     }
   ],
   "meta": {
