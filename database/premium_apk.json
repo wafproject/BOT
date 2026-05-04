@@ -1009,10 +1009,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "natalyalagutenko@gemapan.com",
-          "addedAt": 1774033591822
-        },
-        {
           "email": "sa6asmail@kabinbilla.com",
           "addedAt": 1774033592633
         },
@@ -1309,8 +1305,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 75,
-      "sold": 455
+      "stock": 74,
+      "sold": 456
     },
     {
       "code": "VIU",
