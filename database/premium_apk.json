@@ -2602,9 +2602,60 @@
       "price": 10000,
       "descShort": "Garansi 7 Hari",
       "snk": "* login biasa bukan google (KENA VERIF? KODE KESINI https://tmail.wafproject.my.id)\n• login bisa lewat web atau aplikasi\n• garansi 7 hari \n• garansi backfree dan suspend, ce tidak termasuk\n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• tolong kirim bukti berhasil login agar seller mengetahui, tidak kirim maka tidak bisa klaim garansi (no komplain)\n• GARANSI BERLAKU SELAMA METODE TIDAK KOID",
-      "items": [],
+      "items": [
+        {
+          "email": "aliam5@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913335517
+        },
+        {
+          "email": "nathaniop2@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777913335517
+        },
+        {
+          "email": "mclara7@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913335517
+        },
+        {
+          "email": "adrians4@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913335517
+        },
+        {
+          "email": "sairaa8@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777913335517
+        },
+        {
+          "email": "arsenioz1@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913335517
+        },
+        {
+          "email": "nxaviera5@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913335517
+        },
+        {
+          "email": "reynarda4@wafprem.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913335517
+        },
+        {
+          "email": "athalita9@premaja.online",
+          "password": "masukaja1234",
+          "addedAt": 1777913335517
+        },
+        {
+          "email": "mahesad5@gsuite.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1777913335517
+        }
+      ],
       "sold": 580,
-      "stock": 0
+      "stock": 10
     },
     {
       "code": "CC1B",
