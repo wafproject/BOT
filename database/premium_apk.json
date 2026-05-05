@@ -925,14 +925,9 @@
           "email": "user94871@semut.me",
           "password": "Masuk123",
           "addedAt": 1776863953651
-        },
-        {
-          "email": "user915@noxr.buzz",
-          "password": "Masuk123",
-          "addedAt": 1776863954825
         }
       ],
-      "stock": 6,
+      "stock": 5,
       "sold": 32
     },
     {
