@@ -2528,11 +2528,6 @@
           "addedAt": 1777913335517
         },
         {
-          "email": "arsenioz1@gsuite.biz.id",
-          "password": "masukaja1234",
-          "addedAt": 1777913335517
-        },
-        {
           "email": "nxaviera5@wafprem.biz.id",
           "password": "masukaja1234",
           "addedAt": 1777913335517
@@ -2554,7 +2549,7 @@
         }
       ],
       "sold": 584,
-      "stock": 6
+      "stock": 5
     },
     {
       "code": "CC1B",
