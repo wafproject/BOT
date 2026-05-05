@@ -2684,6 +2684,18 @@
       ],
       "sold": 537,
       "stock": 2
+    },
+    {
+      "code": "GTC",
+      "name": "Getcontact Premium 1B",
+      "category": "Getcontact",
+      "type": "link",
+      "price": 9000,
+      "descShort": "",
+      "snk": "* Silahkan screenshot bukti pembelian lalu kirim ke admin @enziwaf\n• Proses manual oleh admin\n• Wajib fast respon ketika proses",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
