@@ -2688,9 +2688,38 @@
       "price": 9000,
       "descShort": "Garansi Login",
       "snk": "* Silahkan screenshot bukti pembelian lalu kirim ke admin @enziwaf\n• Proses manual oleh admin\n• Wajib fast respon ketika proses",
-      "items": [],
+      "items": [
+        {
+          "text": "baca snk dibawah",
+          "addedAt": 1777994031856
+        },
+        {
+          "text": "baca snk dibawah",
+          "addedAt": 1777994031856
+        },
+        {
+          "text": "baca snk dibawah",
+          "addedAt": 1777994031856
+        },
+        {
+          "text": "baca snk dibawah",
+          "addedAt": 1777994031856
+        },
+        {
+          "text": "baca snk dibawah",
+          "addedAt": 1777994031856
+        },
+        {
+          "text": "baca snk dibawah",
+          "addedAt": 1777994031856
+        },
+        {
+          "text": "baca snk dibawah",
+          "addedAt": 1777994031856
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 7
     }
   ],
   "meta": {
