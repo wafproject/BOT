@@ -910,14 +910,9 @@
           "email": "user53628@kacung.dev",
           "password": "Masuk123",
           "addedAt": 1776863950207
-        },
-        {
-          "email": "user7229@thronebe.sbs",
-          "password": "Masuk123",
-          "addedAt": 1776863951385
         }
       ],
-      "stock": 3,
+      "stock": 2,
       "sold": 32
     },
     {
