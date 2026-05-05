@@ -920,14 +920,9 @@
           "email": "user34081@semut.me",
           "password": "Masuk123",
           "addedAt": 1776863952532
-        },
-        {
-          "email": "user94871@semut.me",
-          "password": "Masuk123",
-          "addedAt": 1776863953651
         }
       ],
-      "stock": 5,
+      "stock": 4,
       "sold": 32
     },
     {
