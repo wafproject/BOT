@@ -905,14 +905,9 @@
           "email": "user95597@emailqu.com",
           "password": "Masuk123",
           "addedAt": 1776863949057
-        },
-        {
-          "email": "user53628@kacung.dev",
-          "password": "Masuk123",
-          "addedAt": 1776863950207
         }
       ],
-      "stock": 2,
+      "stock": 1,
       "sold": 32
     },
     {
