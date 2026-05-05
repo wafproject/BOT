@@ -855,15 +855,9 @@
       "price": 3000,
       "descShort": " Garansi 20 hari",
       "snk": " Garansi 20 Hari",
-      "items": [
-        {
-          "email": "realtorguy1313@findids.net",
-          "password": "Masuk12345",
-          "addedAt": 1776867361003
-        }
-      ],
+      "items": [],
       "sold": 88,
-      "stock": 1
+      "stock": 0
     },
     {
       "code": "PICS",
