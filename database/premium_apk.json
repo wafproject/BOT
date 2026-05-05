@@ -915,14 +915,9 @@
           "email": "user7229@thronebe.sbs",
           "password": "Masuk123",
           "addedAt": 1776863951385
-        },
-        {
-          "email": "user34081@semut.me",
-          "password": "Masuk123",
-          "addedAt": 1776863952532
         }
       ],
-      "stock": 4,
+      "stock": 3,
       "sold": 32
     },
     {
