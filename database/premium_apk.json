@@ -2690,10 +2690,35 @@
           "email": "snaura7@enzipro.biz.id",
           "password": "masukaja1234",
           "addedAt": 1778017460194
+        },
+        {
+          "email": "nayras1@enzipro.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1778041411334
+        },
+        {
+          "email": "alaricp9@enzipro.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1778041411334
+        },
+        {
+          "email": "akeisha3@enzipro.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1778041411334
+        },
+        {
+          "email": "fabiana7@enzipro.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1778041411334
+        },
+        {
+          "email": "sthalita5@enzipro.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1778041411334
         }
       ],
       "sold": 540,
-      "stock": 1
+      "stock": 6
     },
     {
       "code": "GTC",
