@@ -2659,15 +2659,9 @@
       "price": 5000,
       "descShort": "No Garansi",
       "snk": "* login biasa bukan google (KENA VERIF? KODE KESINI https://tmail.wafproject.my.id)\n• login bisa lewat web atau aplikasi\n• no garansi \n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran",
-      "items": [
-        {
-          "email": "sthalita5@enzipro.biz.id",
-          "password": "masukaja1234",
-          "addedAt": 1778041411334
-        }
-      ],
-      "sold": 545,
-      "stock": 1
+      "items": [],
+      "sold": 546,
+      "stock": 0
     },
     {
       "code": "GTC",
