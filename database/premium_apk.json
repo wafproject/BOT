@@ -922,10 +922,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "sa6asmail@kabinbilla.com",
-          "addedAt": 1774033592633
-        },
-        {
           "email": "d4675s3ii5c@ggrainn.com",
           "addedAt": 1774033593364
         },
@@ -1218,8 +1214,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 74,
-      "sold": 456
+      "stock": 73,
+      "sold": 457
     },
     {
       "code": "VIU",
