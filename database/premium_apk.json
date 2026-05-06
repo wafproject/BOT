@@ -2659,9 +2659,60 @@
       "price": 5000,
       "descShort": "No Garansi",
       "snk": "* login biasa bukan google (KENA VERIF? KODE KESINI https://tmail.wafproject.my.id)\n• login bisa lewat web atau aplikasi\n• no garansi \n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran",
-      "items": [],
+      "items": [
+        {
+          "email": "arlod44@enziproject.my.id",
+          "password": "masukaja1234",
+          "addedAt": 1778065758755
+        },
+        {
+          "email": "lzivanna8@enziproject.web.id",
+          "password": "masukaja1234",
+          "addedAt": 1778065758755
+        },
+        {
+          "email": "davink1@kulipremium.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1778065758755
+        },
+        {
+          "email": "akaila5@kulipremium.web.id",
+          "password": "masukaja1234",
+          "addedAt": 1778065758755
+        },
+        {
+          "email": "selvano9@enziproject.my.id",
+          "password": "masukaja1234",
+          "addedAt": 1778065758755
+        },
+        {
+          "email": "afreya3@enziproject.web.id",
+          "password": "masukaja1234",
+          "addedAt": 1778065758755
+        },
+        {
+          "email": "akenzo6@kulipremium.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1778065758755
+        },
+        {
+          "email": "mikaylak2@kulipremium.web.id",
+          "password": "masukaja1234",
+          "addedAt": 1778065758755
+        },
+        {
+          "email": "zarsenio7@enziproject.my.id",
+          "password": "masukaja1234",
+          "addedAt": 1778065758755
+        },
+        {
+          "email": "airas4@enziproject.web.id",
+          "password": "masukaja1234",
+          "addedAt": 1778065758755
+        }
+      ],
       "sold": 546,
-      "stock": 0
+      "stock": 10
     },
     {
       "code": "GTC",
