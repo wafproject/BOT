@@ -918,10 +918,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "d4675s3ii5c@ggrainn.com",
-          "addedAt": 1774033593364
-        },
-        {
           "email": "amselber@fitbuybid.com",
           "addedAt": 1774033594428
         },
@@ -1210,8 +1206,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 73,
-      "sold": 457
+      "stock": 72,
+      "sold": 458
     },
     {
       "code": "VIU",
