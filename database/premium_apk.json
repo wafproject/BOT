@@ -2628,10 +2628,35 @@
           "email": "hugoak78@enziproject.my.id",
           "password": "masukaja1234",
           "addedAt": 1778148887419
+        },
+        {
+          "email": "lfreya3@enziproject.web.id",
+          "password": "masukaja1234",
+          "addedAt": 1778173651715
+        },
+        {
+          "email": "azayn6@kulipremium.biz.id",
+          "password": "masukaja1234",
+          "addedAt": 1778173651715
+        },
+        {
+          "email": "mikaylas2@kulipremium.web.id",
+          "password": "masukaja1234",
+          "addedAt": 1778173651715
+        },
+        {
+          "email": "arseniom7@enziproject.my.id",
+          "password": "masukaja1234",
+          "addedAt": 1778173651715
+        },
+        {
+          "email": "akaila4@enziproject.web.id",
+          "password": "masukaja1234",
+          "addedAt": 1778173651715
         }
       ],
       "sold": 564,
-      "stock": 2
+      "stock": 7
     },
     {
       "code": "GTC",
