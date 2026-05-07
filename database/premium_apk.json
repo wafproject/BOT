@@ -2601,11 +2601,6 @@
       "snk": "* login biasa bukan google (KENA VERIF? KODE KESINI https://tmail.wafproject.my.id)\n• login bisa lewat web atau aplikasi\n• no garansi \n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran",
       "items": [
         {
-          "email": "arkar4@enziproject.my.id",
-          "password": "masukaja1234",
-          "addedAt": 1778148887419
-        },
-        {
           "email": "emaeva8@enziproject.web.id",
           "password": "masukaja1234",
           "addedAt": 1778148887419
@@ -2651,8 +2646,8 @@
           "addedAt": 1778148887419
         }
       ],
-      "sold": 556,
-      "stock": 10
+      "sold": 557,
+      "stock": 9
     },
     {
       "code": "GTC",
