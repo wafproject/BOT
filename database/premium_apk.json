@@ -130,11 +130,6 @@
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/",
       "items": [
         {
-          "email": "wv5eamn@enzipro.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778001459754
-        },
-        {
           "email": "it55fwk@enzipro.biz.id",
           "password": "masuk123",
           "addedAt": 1778001459754
@@ -150,8 +145,8 @@
           "addedAt": 1778001459754
         }
       ],
-      "stock": 4,
-      "sold": 265
+      "stock": 3,
+      "sold": 266
     },
     {
       "code": "CANEDU",
