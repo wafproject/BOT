@@ -899,10 +899,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "amselber@fitbuybid.com",
-          "addedAt": 1774033594428
-        },
-        {
           "email": "badmadman@drewhousethe.com",
           "addedAt": 1774033595311
         },
@@ -1187,8 +1183,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 72,
-      "sold": 458
+      "stock": 71,
+      "sold": 459
     },
     {
       "code": "VIU",
