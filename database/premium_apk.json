@@ -2487,15 +2487,10 @@
           "email": "kenzia8@kulipremium.biz.id",
           "password": "masukaja1234",
           "addedAt": 1778173609612
-        },
-        {
-          "email": "ashasmeen5@kulipremium.web.id",
-          "password": "masukaja1234",
-          "addedAt": 1778173609612
         }
       ],
       "sold": 606,
-      "stock": 4
+      "stock": 3
     },
     {
       "code": "CC1B",
