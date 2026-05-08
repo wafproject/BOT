@@ -2575,10 +2575,55 @@
           "email": "lahhukankahinmy@gmail.com",
           "password": "masukaja1234",
           "addedAt": 1778267634856
+        },
+        {
+          "email": "k.okyugitusih@gmail.com",
+          "password": "masukaja123@",
+          "addedAt": 1778277791393
+        },
+        {
+          "email": "ko.kyugitusih@gmail.com",
+          "password": "masukaja123&",
+          "addedAt": 1778277791393
+        },
+        {
+          "email": "kok.yugitusih@gmail.com",
+          "password": "masukaja123+",
+          "addedAt": 1778277791393
+        },
+        {
+          "email": "koky.ugitusih@gmail.com",
+          "password": "masukaja123=",
+          "addedAt": 1778277791393
+        },
+        {
+          "email": "l.ahhukankahinmy@gmail.com",
+          "password": "masukaja123*",
+          "addedAt": 1778277791393
+        },
+        {
+          "email": "la.hhukankahinmy@gmail.com",
+          "password": "masukaja123$",
+          "addedAt": 1778277791393
+        },
+        {
+          "email": "lah.hukankahinmy@gmail.com",
+          "password": "masukaja123%",
+          "addedAt": 1778277791393
+        },
+        {
+          "email": "lahh.ukankahinmy@gmail.com",
+          "password": "masukaja123()",
+          "addedAt": 1778277791393
+        },
+        {
+          "email": "lahhu.kankahinmy@gmail.com",
+          "password": "masukaja123[]",
+          "addedAt": 1778277791393
         }
       ],
       "sold": 590,
-      "stock": 6
+      "stock": 15
     },
     {
       "code": "GTC",
