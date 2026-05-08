@@ -2553,10 +2553,35 @@
           "email": "kokyugitusi.h@gmail.com",
           "password": "janganusil123!",
           "addedAt": 1778240791794
+        },
+        {
+          "email": "husniaja873@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778267634856
+        },
+        {
+          "email": "wasyuteless@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778267634856
+        },
+        {
+          "email": "naonatuhnenggelis@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778267634856
+        },
+        {
+          "email": "kokyugitusih@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778267634856
+        },
+        {
+          "email": "lahhukankahinmy@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778267634856
         }
       ],
       "sold": 590,
-      "stock": 1
+      "stock": 6
     },
     {
       "code": "GTC",
