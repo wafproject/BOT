@@ -2676,6 +2676,18 @@
       ],
       "sold": 318,
       "stock": 21
+    },
+    {
+      "code": "CCHEAD",
+      "name": "Capcut Pro Head 7D",
+      "category": "capcut pro head",
+      "type": "akun",
+      "price": 8000,
+      "descShort": "",
+      "snk": "Garansi 5 Hari",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
