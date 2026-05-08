@@ -2492,15 +2492,10 @@
           "email": "ashasmeen5@kulipremium.web.id",
           "password": "masukaja1234",
           "addedAt": 1778173609612
-        },
-        {
-          "email": "elvanom9@enziproject.my.id",
-          "password": "masukaja1234",
-          "addedAt": 1778173609612
         }
       ],
       "sold": 606,
-      "stock": 5
+      "stock": 4
     },
     {
       "code": "CC1B",
