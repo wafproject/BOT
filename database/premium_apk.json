@@ -2477,15 +2477,10 @@
           "email": "pdavian1@enziproject.my.id",
           "password": "masukaja1234",
           "addedAt": 1778173609612
-        },
-        {
-          "email": "alettak4@enziproject.web.id",
-          "password": "masukaja1234",
-          "addedAt": 1778173609612
         }
       ],
       "sold": 606,
-      "stock": 2
+      "stock": 1
     },
     {
       "code": "CC1B",
