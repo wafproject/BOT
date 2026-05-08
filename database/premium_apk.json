@@ -2568,9 +2568,60 @@
       "price": 10000,
       "descShort": "No Garansi",
       "snk": "* login biasa bukan google\n• login bisa lewat web atau aplikasi\n• no garansi \n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• dilarang ganti email\n\nTutorial login terbaru https://t.me/premiummintutorlogin/13",
-      "items": [],
+      "items": [
+        {
+          "email": "husniaja.873@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778226548578
+        },
+        {
+          "email": "husniaja8.73@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778226548578
+        },
+        {
+          "email": "husniaja87.3@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778226548578
+        },
+        {
+          "email": "husniaj.a873@gmail.com",
+          "password": "masuk@123456",
+          "addedAt": 1778226548578
+        },
+        {
+          "email": "husnia.ja873@gmail.com",
+          "password": "janganusil123",
+          "addedAt": 1778226548578
+        },
+        {
+          "email": "wasyuteles.s@gmail.com",
+          "password": "janganusil123woi",
+          "addedAt": 1778226548578
+        },
+        {
+          "email": "w.asyuteless@gmail.com",
+          "password": "janganusil123mas",
+          "addedAt": 1778226548578
+        },
+        {
+          "email": "wa.syuteless@gmail.com",
+          "password": "janganusil123@",
+          "addedAt": 1778226548578
+        },
+        {
+          "email": "was.yuteless@gmail.com",
+          "password": "janganusil123#",
+          "addedAt": 1778226548578
+        },
+        {
+          "email": "wasy.uteless@gmail.com",
+          "password": "janganusil123#$",
+          "addedAt": 1778226548578
+        }
+      ],
       "sold": 576,
-      "stock": 0
+      "stock": 10
     },
     {
       "code": "GTC",
