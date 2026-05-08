@@ -2482,15 +2482,10 @@
           "email": "alettak4@enziproject.web.id",
           "password": "masukaja1234",
           "addedAt": 1778173609612
-        },
-        {
-          "email": "kenzia8@kulipremium.biz.id",
-          "password": "masukaja1234",
-          "addedAt": 1778173609612
         }
       ],
       "sold": 606,
-      "stock": 3
+      "stock": 2
     },
     {
       "code": "CC1B",
