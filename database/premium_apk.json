@@ -2570,16 +2570,6 @@
       "snk": "* login biasa bukan google\n• login bisa lewat web atau aplikasi\n• no garansi \n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• dilarang ganti email\n\nTutorial login terbaru https://t.me/premiummintutorlogin/13",
       "items": [
         {
-          "email": "husniaja.873@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778226548578
-        },
-        {
-          "email": "husniaja8.73@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778226548578
-        },
-        {
           "email": "husniaja87.3@gmail.com",
           "password": "masukaja1234",
           "addedAt": 1778226548578
@@ -2620,8 +2610,8 @@
           "addedAt": 1778226548578
         }
       ],
-      "sold": 576,
-      "stock": 10
+      "sold": 578,
+      "stock": 8
     },
     {
       "code": "GTC",
