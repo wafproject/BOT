@@ -719,15 +719,10 @@
           "email": "digital109@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1778352867096
-        },
-        {
-          "email": "digital110@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778352867096
         }
       ],
       "sold": 888,
-      "stock": 38
+      "stock": 37
     },
     {
       "code": "APMEMBER",
