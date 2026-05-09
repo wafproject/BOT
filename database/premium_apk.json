@@ -2294,9 +2294,85 @@
       "price": 700,
       "descShort": "Garansi 3 hari",
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
-      "items": [],
+      "items": [
+        {
+          "email": "digital117@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital118@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital119@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital120@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital121@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital122@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital123@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital124@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital125@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital126@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital127@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital128@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital129@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital130@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        },
+        {
+          "email": "digital131@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1778358156982
+        }
+      ],
       "sold": 1055,
-      "stock": 0
+      "stock": 15
     },
     {
       "code": "GPPLUSPRIVFULL",
