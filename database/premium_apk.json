@@ -597,11 +597,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "kvjlpsk@wafprem.biz.id",
-          "password": "masuk12345",
-          "addedAt": 1778318427218
-        },
-        {
           "email": "inxezse@kulipremium.biz.id",
           "password": "masuk12345",
           "addedAt": 1778318427218
@@ -642,8 +637,8 @@
           "addedAt": 1778318427218
         }
       ],
-      "sold": 89,
-      "stock": 9
+      "sold": 90,
+      "stock": 8
     },
     {
       "code": "PICS",
