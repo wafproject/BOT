@@ -2605,15 +2605,10 @@
           "email": "la.hhukankahinmy@gmail.com",
           "password": "masukaja123$",
           "addedAt": 1778277791393
-        },
-        {
-          "email": "lah.hukankahinmy@gmail.com",
-          "password": "masukaja123%",
-          "addedAt": 1778277791393
         }
       ],
       "sold": 590,
-      "stock": 13
+      "stock": 12
     },
     {
       "code": "GTC",
