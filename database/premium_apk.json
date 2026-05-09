@@ -570,9 +570,55 @@
       "price": 3000,
       "descShort": " Garansi 20 hari",
       "snk": " Garansi 20 Hari",
-      "items": [],
+      "items": [
+        {
+          "email": "kvjlpsk@wafprem.biz.id",
+          "password": "masuk12345",
+          "addedAt": 1778318427218
+        },
+        {
+          "email": "inxezse@kulipremium.biz.id",
+          "password": "masuk12345",
+          "addedAt": 1778318427218
+        },
+        {
+          "email": "0g2ef3x@enzipro.biz.id",
+          "password": "masuk12345",
+          "addedAt": 1778318427218
+        },
+        {
+          "email": "4jcr6yt@enziproject.web.id",
+          "password": "masuk12345",
+          "addedAt": 1778318427218
+        },
+        {
+          "email": "imt4z0o@wafprem.biz.id",
+          "password": "masuk12345",
+          "addedAt": 1778318427218
+        },
+        {
+          "email": "hv7dgka@enzipro.biz.id",
+          "password": "masuk12345",
+          "addedAt": 1778318427218
+        },
+        {
+          "email": "yf4mqa1@kulipremium.web.id",
+          "password": "masuk12345",
+          "addedAt": 1778318427218
+        },
+        {
+          "email": "vt5l2f5@kulipremium.biz.id",
+          "password": "masuk12345",
+          "addedAt": 1778318427218
+        },
+        {
+          "email": "da3wxtm@enziproject.web.id",
+          "password": "masuk12345",
+          "addedAt": 1778318427218
+        }
+      ],
       "sold": 89,
-      "stock": 0
+      "stock": 9
     },
     {
       "code": "PICS",
