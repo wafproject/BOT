@@ -120,9 +120,34 @@
           "email": "gh0pqie@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1778001459754
+        },
+        {
+          "email": "kucing12@wafprem.biz.id",
+          "password": "masuk12345",
+          "addedAt": 1778320101530
+        },
+        {
+          "email": "wim4m95@premaja.online",
+          "password": "masuk12345",
+          "addedAt": 1778320101530
+        },
+        {
+          "email": "un9a57w@kulipremium.biz.id",
+          "password": "masuk12345",
+          "addedAt": 1778320101530
+        },
+        {
+          "email": "m9a7xof@kulipremium.biz.id",
+          "password": "masuk12345",
+          "addedAt": 1778320101530
+        },
+        {
+          "email": "wc80i5i@enziproject.my.id",
+          "password": "masuk12345",
+          "addedAt": 1778320101530
         }
       ],
-      "stock": 1,
+      "stock": 6,
       "sold": 268
     },
     {
