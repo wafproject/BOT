@@ -2595,15 +2595,10 @@
           "email": "koky.ugitusih@gmail.com",
           "password": "masukaja123=",
           "addedAt": 1778277791393
-        },
-        {
-          "email": "l.ahhukankahinmy@gmail.com",
-          "password": "masukaja123*",
-          "addedAt": 1778277791393
         }
       ],
       "sold": 590,
-      "stock": 11
+      "stock": 10
     },
     {
       "code": "GTC",
