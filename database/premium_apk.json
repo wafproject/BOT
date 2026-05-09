@@ -680,10 +680,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "badmadman@drewhousethe.com",
-          "addedAt": 1774033595311
-        },
-        {
           "email": "jackfeathers@gmail2.gq",
           "addedAt": 1774033596283
         },
@@ -964,8 +960,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 71,
-      "sold": 459
+      "stock": 70,
+      "sold": 460
     },
     {
       "code": "VIU",
