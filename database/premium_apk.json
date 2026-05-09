@@ -2139,11 +2139,6 @@
       "snk": "• 20-30 HARI TERHITUNG 1 BULAN\n• ANTI BACKFREE (AWET)\n• PRIVATE ACCOUNT",
       "items": [
         {
-          "email": "jago12@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1777586852810
-        },
-        {
           "email": "jago1@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1777836509310
@@ -2159,8 +2154,8 @@
           "addedAt": 1777866729495
         }
       ],
-      "sold": 510,
-      "stock": 4
+      "sold": 511,
+      "stock": 3
     },
     {
       "code": "CC7D",
