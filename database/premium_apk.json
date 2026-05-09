@@ -604,15 +604,10 @@
           "email": "digital15@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1778352333927
-        },
-        {
-          "email": "digital16@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778352867096
         }
       ],
       "sold": 888,
-      "stock": 15
+      "stock": 14
     },
     {
       "code": "APMEMBER",
