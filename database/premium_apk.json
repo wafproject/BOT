@@ -816,15 +816,9 @@
       "price": 3000,
       "descShort": " Garansi 20 hari",
       "snk": " Garansi 20 Hari",
-      "items": [
-        {
-          "email": "kp3970z@enzipro.biz.id",
-          "password": "masuk12345",
-          "addedAt": 1778293788898
-        }
-      ],
-      "sold": 88,
-      "stock": 1
+      "items": [],
+      "sold": 89,
+      "stock": 0
     },
     {
       "code": "PICS",
