@@ -680,10 +680,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "baby4ever@ourl.me",
-          "addedAt": 1774033597212
-        },
-        {
           "email": "matthew95@gmailot.com",
           "addedAt": 1774033598245
         },
@@ -956,8 +952,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 69,
-      "sold": 461
+      "stock": 68,
+      "sold": 462
     },
     {
       "code": "VIU",
