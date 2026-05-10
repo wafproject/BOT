@@ -2175,25 +2175,9 @@
       "price": 8000,
       "descShort": "Full Seat No Renew",
       "snk": "• 20-30 HARI TERHITUNG 1 BULAN\n• ANTI BACKFREE (AWET)\n• PRIVATE ACCOUNT",
-      "items": [
-        {
-          "email": "jago1@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1777836509310
-        },
-        {
-          "email": "p62lwb6azb@jokiajaa.biz.id",
-          "password": "masuk123",
-          "addedAt": 1777836510457
-        },
-        {
-          "email": "47k03f992s@jokiajaa.biz.id",
-          "password": "masuk123",
-          "addedAt": 1777866729495
-        }
-      ],
-      "sold": 511,
-      "stock": 3
+      "items": [],
+      "sold": 514,
+      "stock": 0
     },
     {
       "code": "CC7D",
