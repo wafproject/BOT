@@ -2324,55 +2324,9 @@
       "price": 6000,
       "descShort": "No Garansi",
       "snk": "* login biasa bukan google\n• login bisa lewat web atau aplikasi\n• no garansi \n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• dilarang ganti email\n\nTutorial login terbaru https://t.me/premiummintutorlogin/13",
-      "items": [
-        {
-          "email": "oranghebat1210@gmail.com",
-          "password": "masukaja@@ya",
-          "addedAt": 1778398060270
-        },
-        {
-          "email": "oranghebat121.0@gmail.com",
-          "password": "masukaja##ya",
-          "addedAt": 1778398060270
-        },
-        {
-          "email": "oranghebat12.10@gmail.com",
-          "password": "masukaja$$ya",
-          "addedAt": 1778398060270
-        },
-        {
-          "email": "oranghebat1.210@gmail.com",
-          "password": "masukaja@#ya",
-          "addedAt": 1778398060270
-        },
-        {
-          "email": "oranghebat.1210@gmail.com",
-          "password": "masukaja&&ya",
-          "addedAt": 1778398060270
-        },
-        {
-          "email": "orang.hebat1210@gmail.com",
-          "password": "masukaja@ya@",
-          "addedAt": 1778398060270
-        },
-        {
-          "email": "oranghebat370@gmail.com",
-          "password": "masuksini123",
-          "addedAt": 1778398060270
-        },
-        {
-          "email": "oranghebat37.0@gmail.com",
-          "password": "masuksini123**",
-          "addedAt": 1778398060270
-        },
-        {
-          "email": "oranghebat3.70@gmail.com",
-          "password": "masuksini123##",
-          "addedAt": 1778398060270
-        }
-      ],
-      "sold": 601,
-      "stock": 9
+      "items": [],
+      "sold": 610,
+      "stock": 0
     },
     {
       "code": "GTC",
