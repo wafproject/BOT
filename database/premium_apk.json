@@ -2172,11 +2172,6 @@
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [
         {
-          "email": "digital119@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778358156982
-        },
-        {
           "email": "digital120@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1778358156982
@@ -2237,8 +2232,8 @@
           "addedAt": 1778358156982
         }
       ],
-      "sold": 1057,
-      "stock": 13
+      "sold": 1058,
+      "stock": 12
     },
     {
       "code": "GPPLUSPRIVFULL",
