@@ -2146,60 +2146,9 @@
       "price": 12000,
       "descShort": "Garansi 7 Hari",
       "snk": "* login biasa bukan google (KENA VERIF? KODE KESINI https://tmail.wafproject.my.id)\n• login bisa lewat web atau aplikasi\n• garansi 7 hari \n• garansi backfree dan suspend, ce tidak termasuk\n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• tolong kirim bukti berhasil login agar seller mengetahui, tidak kirim maka tidak bisa klaim garansi (no komplain)\n• GARANSI BERLAKU SELAMA METODE TIDAK KOID",
-      "items": [
-        {
-          "email": "bmbgnkls@gmail.com",
-          "password": "masukaja1234$",
-          "addedAt": 1778478873367
-        },
-        {
-          "email": "bmbgnk.ls@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778478873367
-        },
-        {
-          "email": "bmbgn.kls@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778478873367
-        },
-        {
-          "email": "b.mbgnkls@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778478873367
-        },
-        {
-          "email": "kyonakyu@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778478873367
-        },
-        {
-          "email": "kyonaky.u@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778478873367
-        },
-        {
-          "email": "kyonak.yu@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778478873367
-        },
-        {
-          "email": "k.yonakyu@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778478873367
-        },
-        {
-          "email": "kyo.nakyu@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778478873367
-        },
-        {
-          "email": "kyon.akyu@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778478873367
-        }
-      ],
-      "sold": 616,
-      "stock": 10
+      "items": [],
+      "sold": 626,
+      "stock": 0
     },
     {
       "code": "CC1B",
