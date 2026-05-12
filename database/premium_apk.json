@@ -671,10 +671,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "pscoboy@c-tta.top",
-          "addedAt": 1774033600792
-        },
-        {
           "email": "genkoo@genznet.me",
           "addedAt": 1774033601721
         },
@@ -939,8 +935,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 67,
-      "sold": 463
+      "stock": 66,
+      "sold": 464
     },
     {
       "code": "VIU",
