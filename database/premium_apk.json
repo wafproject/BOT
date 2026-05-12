@@ -2218,9 +2218,60 @@
       "price": 15000,
       "descShort": "Garansi 1 Hari",
       "snk": "* Login menggunakan email & password biasa (bukan login Google). Jika diminta verifikasi, kode akan dikirim ke: https://tmail.wafproject.my.id/\n\n• Bisa login melalui web maupun aplikasi.\n\n• No garansi.\n\n• Plan: ChatGPT Plus.\n\n• Dilarang mengubah atau mengotak-atik bagian apa pun yang berkaitan dengan akun, terutama metode pembayaran.\n\n• Hindari terlalu sering logout-login agar akun tetap aman.\n\n• Jangan spam request OTP karena akun Gmail rawan terdeteksi aktivitas mencurigakan.\n\n• Setelah menekan “Kirim Kode”, tunggu sekitar 30 detik–1 menit. Kode biasanya masuk sedikit delay.",
-      "items": [],
+      "items": [
+        {
+          "email": "rzik68.3@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778630209742
+        },
+        {
+          "email": "rzik6.83@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778630209742
+        },
+        {
+          "email": "rzik.683@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778630209742
+        },
+        {
+          "email": "r.zik683@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778630209742
+        },
+        {
+          "email": "rzi.k683@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778630209742
+        },
+        {
+          "email": "jordanagus657@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778630209742
+        },
+        {
+          "email": "jordanagus65.7@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778630209742
+        },
+        {
+          "email": "jordanagus6.57@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778630209742
+        },
+        {
+          "email": "jordanagus.657@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778630209742
+        },
+        {
+          "email": "jordan.agus657@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778630209742
+        }
+      ],
       "sold": 638,
-      "stock": 0
+      "stock": 10
     },
     {
       "code": "GTC",
