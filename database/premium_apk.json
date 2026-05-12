@@ -630,15 +630,10 @@
           "email": "viona21@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1778532721140
-        },
-        {
-          "email": "viona23@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778532721140
         }
       ],
       "sold": 918,
-      "stock": 22
+      "stock": 21
     },
     {
       "code": "APMEMBER",
