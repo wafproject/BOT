@@ -2526,9 +2526,18 @@
       "price": 6000,
       "descShort": "Murah Meriah",
       "snk": "* No Garansi\n• Durasi Random\n• Tutor Login https://t.me/tutorloginnetfcrack/2",
-      "items": [],
+      "items": [
+        {
+          "text": "NetflixId:",
+          "addedAt": 1778598344951
+        },
+        {
+          "text": "v%3D3%26ct%3DBgjHlOvcAxKUA8pbyTvgQuTqL1SKZf_81byy2gy51HTXWEdJU66kGtSJeT6K4nl6IjYQDcqOSV8osOY8IgBsNkvHBB-B3NSRuCsTBjnp8rjx7u4EB1RT2PK0VLYVN_13mcsp_eXQuIPljodBiN8NDsFiXi5zEjKwLDT2AUsmoSM_BxSqvbIFNusUI0e9i7B2hz34dDZgGLkD7xQYQ8ikRYh46RcgMuqdTQ-baHdxoF1HVOLyKJGPojGafOYL9-4wch3XUQgZx_1pm0lgb45A7RY_eK4ZZcNH2ZaV2moFJ3EDLDuMessC4KdUUvSgTwWba4IW1oF5o6pLLFMuMqTNYbLk624V38pr2_wGqqF2nKYtW6Hd55Co5qU68CwhOwtQm3iNSXVoQvWTegWJNtYDzPQN8hm9vb3mE2_GpK65pTBExRnaPuczC_QgfJ3LHqp3BReH2la5KsO0z4F-4J_FCfffW3FmWi8Y4GSfz17-xRzIQkvGlZLdZ3JHsZCf1HQn_1xcUQ4GxWwIFVFm-TiQzTGVO5ej2c27ZNRaG1XtGAYiDgoMIR_JcFFeh1myqM0u%26pg%3DXV32LVNSENHFXKQ3DN3KPI3DFE%26ch%3DAQEAEAABABSX9HvLM3GU4aaydKP-Nf_x9u4VJ27fGRk.",
+          "addedAt": 1778598344951
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 2
     }
   ],
   "meta": {
