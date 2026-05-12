@@ -2100,81 +2100,6 @@
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [
         {
-          "email": "digital127@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778358156982
-        },
-        {
-          "email": "digital128@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778358156982
-        },
-        {
-          "email": "digital129@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778358156982
-        },
-        {
-          "email": "digital130@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778358156982
-        },
-        {
-          "email": "digital131@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778358156982
-        },
-        {
-          "email": "viona1@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778586837905
-        },
-        {
-          "email": "viona2@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778586837905
-        },
-        {
-          "email": "viona3@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778586837905
-        },
-        {
-          "email": "viona4@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778586837905
-        },
-        {
-          "email": "viona5@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778586837905
-        },
-        {
-          "email": "viona6@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778586837905
-        },
-        {
-          "email": "viona7@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778586837905
-        },
-        {
-          "email": "viona8@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778586837905
-        },
-        {
-          "email": "viona9@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778586837905
-        },
-        {
-          "email": "viona10@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778586837905
-        },
-        {
           "email": "viona11@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1778586837905
@@ -2270,8 +2195,8 @@
           "addedAt": 1778586837905
         }
       ],
-      "sold": 1065,
-      "stock": 34
+      "sold": 1080,
+      "stock": 19
     },
     {
       "code": "GPPLUSPRIVFULL",
