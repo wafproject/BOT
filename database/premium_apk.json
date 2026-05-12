@@ -2074,15 +2074,10 @@
           "email": "digital144@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1778358175556
-        },
-        {
-          "email": "digital145@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1778358175556
         }
       ],
       "sold": 597,
-      "stock": 5
+      "stock": 4
     },
     {
       "code": "GROK3D",
