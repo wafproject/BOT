@@ -2070,10 +2070,15 @@
           "email": "oranghebat3.75@gmail.com",
           "password": "masukaja1234",
           "addedAt": 1778658147752
+        },
+        {
+          "email": "oranghebat.375@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778658699654
         }
       ],
       "sold": 628,
-      "stock": 2
+      "stock": 3
     },
     {
       "code": "CC1B",
