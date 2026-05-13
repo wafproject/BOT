@@ -2059,7 +2059,7 @@
       "type": "akun",
       "price": 25000,
       "descShort": "Garansi 7 Hari",
-      "snk": "* Login biasa menggunakan email & password, JANGAN klik \"Lanjutkan dengan Google\". (Jika minta kode verifikasi, cek di: https://tmail.wafproject.my.id)\n\n• Bisa digunakan melalui web browser maupun aplikasi resmi.\n\n• Garansi berlaku selama 7 hari sejak tanggal pembelian.\n\n• Plan: ChatGPT Plus.\n\n• Dilarang keras mengotak-atik pengaturan akun, termasuk bagian pembayaran.\n\n• WAJIB kirim bukti berupa screenshot setelah berhasil login. Tanpa bukti, garansi tidak dapat diklaim (No Komplain).\n\n• Garansi hanya berlaku selama metode masih berfungsi (tidak koid).",
+      "snk": "* Login biasa menggunakan email & password, JANGAN klik \"Lanjutkan dengan Google\". (Jika minta kode verifikasi, cek di: https://tmail.wafproject.my.id)\n\n• Bisa digunakan melalui web browser maupun aplikasi resmi.\n\n• Garansi berlaku selama 7 hari sejak tanggal pembelian.\n\n• Plan: ChatGPT Plus.\n\n• Dilarang keras mengotak-atik pengaturan akun, termasuk bagian pembayaran.\n\n• Hindari terlalu sering logout-login agar akun tetap aman.\n\n• Jangan spam request OTP karena akun Gmail rawan terdeteksi aktivitas mencurigakan.\n\n• Setelah menekan “Kirim Kode”, tunggu sekitar 30 detik–1 menit. Kode biasanya masuk sedikit delay.\n\n• Garansi hanya berlaku selama metode masih berfungsi (tidak koid).",
       "items": [
         {
           "email": "oranghebat37.5@gmail.com",
