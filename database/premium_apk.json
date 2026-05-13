@@ -588,11 +588,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "0g2ef3x@enzipro.biz.id",
-          "password": "masuk12345",
-          "addedAt": 1778318427218
-        },
-        {
           "email": "4jcr6yt@enziproject.web.id",
           "password": "masuk12345",
           "addedAt": 1778318427218
@@ -623,8 +618,8 @@
           "addedAt": 1778318427218
         }
       ],
-      "sold": 91,
-      "stock": 7
+      "sold": 92,
+      "stock": 6
     },
     {
       "code": "PICS",
