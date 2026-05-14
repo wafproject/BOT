@@ -2133,16 +2133,6 @@
       "snk": "* Login menggunakan email & password biasa (bukan login Google). Jika diminta verifikasi, kode akan dikirim ke: https://tmail.wafproject.my.id/\n\n• Bisa login melalui web maupun aplikasi.\n\n• No garansi.\n\n• Plan: ChatGPT Plus.\n\n• Dilarang mengubah atau mengotak-atik bagian apa pun yang berkaitan dengan akun, terutama metode pembayaran.\n\n• Hindari terlalu sering logout-login agar akun tetap aman.\n\n• Jangan spam request OTP karena akun Gmail rawan terdeteksi aktivitas mencurigakan.\n\n• Setelah menekan “Kirim Kode”, tunggu sekitar 30 detik–1 menit. Kode biasanya masuk sedikit delay.",
       "items": [
         {
-          "email": "salammaul.27@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778734131198
-        },
-        {
-          "email": "salammau.l27@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1778734131198
-        },
-        {
           "email": "salamma.ul27@gmail.com",
           "password": "masukaja1234",
           "addedAt": 1778734131198
@@ -2163,8 +2153,8 @@
           "addedAt": 1778734131198
         }
       ],
-      "sold": 649,
-      "stock": 6
+      "sold": 651,
+      "stock": 4
     },
     {
       "code": "GTC",
