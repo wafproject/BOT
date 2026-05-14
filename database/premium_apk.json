@@ -645,10 +645,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "rommel45@putameda.com",
-          "addedAt": 1774033604224
-        },
-        {
           "email": "rayu41970@kliknesia.io",
           "addedAt": 1774033605205
         },
@@ -901,8 +897,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 64,
-      "sold": 466
+      "stock": 63,
+      "sold": 467
     },
     {
       "code": "VIU",
