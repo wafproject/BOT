@@ -2020,9 +2020,35 @@
       "price": 25000,
       "descShort": "Garansi 7 Hari",
       "snk": "* Login biasa menggunakan email & password, JANGAN klik \"Lanjutkan dengan Google\". (Jika minta kode verifikasi, cek di: https://tmail.wafproject.my.id)\n\n• Bisa digunakan melalui web browser maupun aplikasi resmi.\n\n• Garansi berlaku selama 7 hari sejak tanggal pembelian.\n\n• Plan: ChatGPT Plus.\n\n• Dilarang keras mengotak-atik pengaturan akun, termasuk bagian pembayaran.\n\n• Hindari terlalu sering logout-login agar akun tetap aman.\n\n• Jangan spam request OTP karena akun Gmail rawan terdeteksi aktivitas mencurigakan.\n\n• Setelah menekan “Kirim Kode”, tunggu sekitar 30 detik–1 menit. Kode biasanya masuk sedikit delay.\n\n• Garansi hanya berlaku selama metode masih berfungsi (tidak koid).",
-      "items": [],
+      "items": [
+        {
+          "email": "ginag6882@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778907425641
+        },
+        {
+          "email": "ginag688.2@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778907425641
+        },
+        {
+          "email": "zkdnkhairunnisa@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778907425641
+        },
+        {
+          "email": "zkdnkhairunnis.a@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778907425641
+        },
+        {
+          "email": "zkdnkhairunni.sa@gmail.com",
+          "password": "masukaja1234",
+          "addedAt": 1778907425641
+        }
+      ],
       "sold": 635,
-      "stock": 0
+      "stock": 5
     },
     {
       "code": "CC1B",
