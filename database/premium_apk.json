@@ -2032,9 +2032,80 @@
       "price": 2000,
       "descShort": "Full Seat",
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
-      "items": [],
+      "items": [
+        {
+          "email": "bubu1@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu2@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu3@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu4@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu5@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu6@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu7@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu8@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu9@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu11@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu12@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu13@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu14@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        },
+        {
+          "email": "bubu15@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779036961577
+        }
+      ],
       "sold": 1110,
-      "stock": 0
+      "stock": 14
     },
     {
       "code": "GPPLUSPRIVFULL",
