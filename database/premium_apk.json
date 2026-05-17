@@ -2102,10 +2102,15 @@
           "email": "bubu15@premiummin.store",
           "password": "masuk123",
           "addedAt": 1779036961577
+        },
+        {
+          "email": "zkdnkhairunnisa@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1779037059593
         }
       ],
       "sold": 1110,
-      "stock": 14
+      "stock": 15
     },
     {
       "code": "GPPLUSPRIVFULL",
