@@ -637,10 +637,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "asantana279@sugarloafstudios.net",
-          "addedAt": 1774033606098
-        },
-        {
           "email": "a9136209@gooner.cat",
           "addedAt": 1774033606908
         },
@@ -885,8 +881,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 62,
-      "sold": 468
+      "stock": 61,
+      "sold": 469
     },
     {
       "code": "VIU",
