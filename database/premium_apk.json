@@ -496,9 +496,195 @@
       "price": 4000,
       "descShort": "Garansi 7 Hari",
       "snk": "Garansi 7 Hari",
-      "items": [],
+      "items": [
+        {
+          "email": "keyra1@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra2@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra3@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra4@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra5@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra6@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra7@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra8@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra9@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra10@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra11@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra12@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra13@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra14@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra15@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra16@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra17@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra18@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra19@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra20@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra21@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra22@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra23@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra24@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra25@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra26@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra27@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra28@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra29@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra30@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra31@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra49@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra50@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra51@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra52@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra53@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        },
+        {
+          "email": "keyra54@premiummin.store",
+          "password": "masuk123",
+          "addedAt": 1779086049753
+        }
+      ],
       "sold": 918,
-      "stock": 0
+      "stock": 37
     },
     {
       "code": "APMEMBER",
