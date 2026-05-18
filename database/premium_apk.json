@@ -493,11 +493,6 @@
       "snk": "Garansi 7 Hari",
       "items": [
         {
-          "email": "keyra8@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779086049753
-        },
-        {
           "email": "keyra9@premiummin.store",
           "password": "masuk123",
           "addedAt": 1779086049753
@@ -643,8 +638,8 @@
           "addedAt": 1779086049753
         }
       ],
-      "sold": 925,
-      "stock": 30
+      "sold": 926,
+      "stock": 29
     },
     {
       "code": "APMEMBER",
