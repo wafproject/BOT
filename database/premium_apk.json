@@ -661,18 +661,13 @@
       "snk": "* Garansi 5 hari dihitung sejak tanggal pembelian \n• Akses email : https://emailqu.com/",
       "items": [
         {
-          "email": "gersi@wafprem.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1777972864642
-        },
-        {
           "email": "gundi@wafprem.biz.id",
           "password": "Masuk123",
           "addedAt": 1777972864642
         }
       ],
-      "stock": 2,
-      "sold": 32
+      "stock": 1,
+      "sold": 33
     },
     {
       "code": "AM",
