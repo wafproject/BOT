@@ -2128,16 +2128,6 @@
       "snk": "* Login biasa menggunakan email, JANGAN klik \"Lanjutkan dengan Google\". Jika diminta kode verifikasi, cek di: https://tmail.wafproject.my.id\n‎\n‎• Bisa digunakan melalui web browser maupun aplikasi resmi.\n‎\n‎• No Garansi.\n‎\n‎• Dijual Sharing? Resiko tanggung sendiri.\n‎\n‎• Dilarang keras mengotak-atik pengaturan akun, termasuk bagian pembayaran.\n‎\n‎• Hindari terlalu sering logout-login agar akun tetap aman.\n‎\n‎• Max login 2 device jika mau akun awet\n‎\n‎• Tidak ada reffund setelah pembelian sukses.",
       "items": [
         {
-          "email": "januaksara.647@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1779177239278
-        },
-        {
-          "email": "janu.aksara647@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1779177239278
-        },
-        {
           "email": "januak.sara647@gmail.com",
           "password": "masukaja1234",
           "addedAt": 1779177239278
@@ -2168,8 +2158,8 @@
           "addedAt": 1779177239278
         }
       ],
-      "sold": 669,
-      "stock": 8
+      "sold": 671,
+      "stock": 6
     },
     {
       "code": "GTC",
