@@ -1325,21 +1325,8 @@
         }
       ],
       "stock": 95,
-      "sold": 279,
-      "reserved": [
-        {
-          "id": "RSV1779298426993849",
-          "items": [
-            {
-              "email": "6282251608986",
-              "password": "asede123",
-              "addedAt": 1774206947662
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-20T17:33:46.993Z"
-        }
-      ]
+      "sold": 280,
+      "reserved": []
     },
     {
       "code": "SPO1BNOGAR",
