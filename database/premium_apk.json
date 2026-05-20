@@ -836,20 +836,8 @@
         }
       ],
       "stock": 60,
-      "sold": 469,
-      "reserved": [
-        {
-          "id": "RSV1779298422849113",
-          "items": [
-            {
-              "email": "a9136209@gooner.cat",
-              "addedAt": 1774033606908
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-20T17:33:42.849Z"
-        }
-      ]
+      "sold": 470,
+      "reserved": []
     },
     {
       "code": "VIU",
