@@ -1979,16 +1979,6 @@
       "snk": "* Login biasa menggunakan email, JANGAN klik \"Lanjutkan dengan Google\". Jika diminta kode verifikasi, cek di: https://tmail.wafproject.my.id\n‎\n‎• Bisa digunakan melalui web browser maupun aplikasi resmi.\n‎\n‎• Garansi berlaku selama 7 hari sejak tanggal pembelian.\n‎\n‎• Dijual Sharing? Resiko tanggung sendiri.\n‎\n‎• Dilarang keras mengotak-atik pengaturan akun, termasuk bagian pembayaran.\n‎\n‎• Hindari terlalu sering logout-login agar akun tetap aman.\n‎\n‎• Max login 2 device jika mau akun awet\n‎\n‎• Garansi hanya berlaku selama metode masih berfungsi (tidak koid).\n‎\n‎• Tidak ada reffund setelah pembelian sukses.",
       "items": [
         {
-          "email": "rangsle67.6@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1779270103268
-        },
-        {
-          "email": "rangsle6.76@gmail.com",
-          "password": "masukaja1234",
-          "addedAt": 1779270103268
-        },
-        {
           "email": "rangsle.676@gmail.com",
           "password": "masukaja1234",
           "addedAt": 1779270103268
@@ -2034,8 +2024,8 @@
           "addedAt": 1779270103268
         }
       ],
-      "sold": 653,
-      "stock": 11
+      "sold": 655,
+      "stock": 9
     },
     {
       "code": "CC35DFULL",
