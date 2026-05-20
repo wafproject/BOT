@@ -484,31 +484,6 @@
       "snk": "Garansi 7 Hari",
       "items": [
         {
-          "email": "keyra29@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779086049753
-        },
-        {
-          "email": "keyra30@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779086049753
-        },
-        {
-          "email": "keyra31@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779086049753
-        },
-        {
-          "email": "keyra49@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779086049753
-        },
-        {
-          "email": "keyra50@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779086049753
-        },
-        {
           "email": "keyra51@premiummin.store",
           "password": "masuk123",
           "addedAt": 1779086049753
@@ -529,8 +504,8 @@
           "addedAt": 1779086049753
         }
       ],
-      "sold": 946,
-      "stock": 9
+      "sold": 951,
+      "stock": 4
     },
     {
       "code": "APMEMBER",
