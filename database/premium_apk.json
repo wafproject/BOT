@@ -2001,15 +2001,10 @@
           "email": "7fb46471@premiummin.store",
           "password": "masuk123",
           "addedAt": 1779290880994
-        },
-        {
-          "email": "8413faab@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779290880994
         }
       ],
       "sold": 1153,
-      "stock": 6
+      "stock": 5
     },
     {
       "code": "GPPLUSPRIVFULL",
