@@ -595,10 +595,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "a9136209@gooner.cat",
-          "addedAt": 1774033606908
-        },
-        {
           "email": "damudons@apixy.sbs",
           "addedAt": 1774033608477
         },
@@ -839,8 +835,21 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 61,
-      "sold": 469
+      "stock": 60,
+      "sold": 469,
+      "reserved": [
+        {
+          "id": "RSV1779298422849113",
+          "items": [
+            {
+              "email": "a9136209@gooner.cat",
+              "addedAt": 1774033606908
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-05-20T17:33:42.849Z"
+        }
+      ]
     },
     {
       "code": "VIU",
