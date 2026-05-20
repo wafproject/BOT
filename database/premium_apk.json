@@ -2026,9 +2026,20 @@
       "price": 2000,
       "descShort": "Full Seat",
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
-      "items": [],
+      "items": [
+        {
+          "email": "cidu1@enzipro.biz.id",
+          "password": "masuk123",
+          "addedAt": 1779253218458
+        },
+        {
+          "email": "cidu2@enzipro.biz.id",
+          "password": "masuk123",
+          "addedAt": 1779253218458
+        }
+      ],
       "sold": 1145,
-      "stock": 0
+      "stock": 2
     },
     {
       "code": "GPPLUSPRIVFULL",
