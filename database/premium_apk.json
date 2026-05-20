@@ -61,8 +61,13 @@
       "price": 500,
       "descShort": "Via link invite",
       "snk": "* SETELAH JOIN WAJIB SETOR EMAIL KE ADMIN, JIKA TIDAK SETOR AKAN DI KICK! * 1 LINK UNTUK 1 USER! KETAHUAN KICK ALL",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "link": "tes.com",
+          "addedAt": 1779296904128
+        }
+      ],
+      "stock": 1,
       "sold": 550
     },
     {
