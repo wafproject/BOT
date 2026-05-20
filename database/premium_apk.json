@@ -1991,15 +1991,10 @@
           "email": "2c8edb06@premiummin.store",
           "password": "masuk123",
           "addedAt": 1779290880994
-        },
-        {
-          "email": "55edb6b5@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779290880994
         }
       ],
       "sold": 1153,
-      "stock": 4
+      "stock": 3
     },
     {
       "code": "GPPLUSPRIVFULL",
