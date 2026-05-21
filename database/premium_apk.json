@@ -2243,21 +2243,9 @@
           "addedAt": 1778839871478
         }
       ],
-      "sold": 26,
+      "sold": 27,
       "stock": 5,
-      "reserved": [
-        {
-          "id": "RSV1779342353949551",
-          "items": [
-            {
-              "text": "amarienels0@icloud.com,Ayden2012!,NetflixId=v%3D3%26ct%3DBgjHlOvcAxKiA_03MTsTU24QldDRFQlcnlHL1-gAmopOFoLpDYhS1W0v1r2sC_QEBPlhR7xBYDXRaun8ujifrFHtb0BQjepqsMdhLL_-DE7vDDrk9UFtygXWjfU9G_Y-g8qyKoHi8iLNuUk0NmRg0t789xMN1Jm2VE8Ep1TG6JoOewQj9UUfwe3YSWr-d0E_IIwFbk2RtoVgyaezVrIKTZKosRxfwen2AM2zk2T2vScRIy6gs4ayRKmiEnqL96hAz2vXfj9CDIuIc4WmLPHrGPNWpF4jdLG310da2QL2MIcgbYDuum_DVhWpRm3canGR9KLMyOHYQuqkuTIgw8xp4UiHUnUGOK1sfJclhEOF4Ze44QeYJTrm4VH95esgoQNqoHLtaEnygU6A99CAyKPq9NVqEuQZCYEEOdzyJHWC80LtFFn-TT-Hc2M4oi9FHXNGkVzsIcH95qNP0zzNICe3iAPD_T8asmDV6AkjpRsoVPEuw_r4SLUValQ3T7nMk7M9fhCuTLHtDstckKGj8oN1eUJXnV296R7HXeHDPfEsP_qYkLyVYhKVtFyl2JAYBiIOCgwtOjDWzsxKQwG8cpk.%26pg%3DEYCA3NFRA5CO7LSZ5UPDM7Y7EQ%26ch%3DAQEAEAABABRsyjtUKywtY6xPYYslCUyYXVzPo4glhzg.;SecureNetflixId=v%3D3%26mac%3DAQEAEQABABQQJ2ad9IneDbHsnIUErJezqohXrlO_TR4.%26dt%3D1777011736311;gsid=6d2c8dc7-3001-4d01-8d40-3762666b96c3;nfvdid=BQFmAAEBEE_fbHgYzDwNNtN2hQUfcK5g2C0LEtPnDm0mz6DByrOmu2SIMpY014AjExCWisvuSNAjCetwzxsfh4qnuZjMB_YpSg1CP-Gm1KaOHocH7Z7omf1bMAnpU2vRYPef3yWy-dKr06UibFcuJe9gqSRqPvtV",
-              "addedAt": 1778839789077
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-21T05:45:53.952Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
