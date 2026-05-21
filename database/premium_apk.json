@@ -1964,16 +1964,6 @@
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [
         {
-          "email": "6e880d7e@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779371421455
-        },
-        {
-          "email": "d5d8c947@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779371421455
-        },
-        {
           "email": "2a3d6567@premiummin.store",
           "password": "masuk123",
           "addedAt": 1779371421455
@@ -2085,7 +2075,7 @@
         }
       ],
       "sold": 1221,
-      "stock": 24,
+      "stock": 22,
       "reserved": [
         {
           "id": "RSV1779371582159670",
@@ -2190,6 +2180,23 @@
           ],
           "qty": 15,
           "createdAt": "2026-05-21T13:53:59.807Z"
+        },
+        {
+          "id": "RSV1779371815532615",
+          "items": [
+            {
+              "email": "6e880d7e@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779371421455
+            },
+            {
+              "email": "d5d8c947@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779371421455
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-05-21T13:56:55.532Z"
         }
       ]
     },
