@@ -2159,91 +2159,9 @@
           "addedAt": 1779371421455
         }
       ],
-      "sold": 1206,
+      "sold": 1221,
       "stock": 39,
       "reserved": [
-        {
-          "id": "RSV1779371547766542",
-          "items": [
-            {
-              "email": "a2a7d8f9@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "d23ecb21@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "33c5e8fc@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "3fd2a73d@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "359d4be6@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "ca6e9e92@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "4e63e9d7@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "b51ca978@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "57952f68@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "256819a8@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "d040d27d@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "065b97e9@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "ea8e6989@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "9ed977f7@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            },
-            {
-              "email": "9a78c034@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779371421455
-            }
-          ],
-          "qty": 15,
-          "createdAt": "2026-05-21T13:52:27.766Z"
-        },
         {
           "id": "RSV1779371582159670",
           "items": [
