@@ -1962,20 +1962,9 @@
       "price": 3000,
       "descShort": "Full Seat",
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
-      "items": [
-        {
-          "email": "ugphoncoba3@gmail.com",
-          "password": "masuk123",
-          "addedAt": 1779352385683
-        },
-        {
-          "email": "ugphoncoba4@gmail.com",
-          "password": "masuk123",
-          "addedAt": 1779352385683
-        }
-      ],
+      "items": [],
       "sold": 1158,
-      "stock": 2,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1779352648494392",
@@ -2162,6 +2151,23 @@
           ],
           "qty": 12,
           "createdAt": "2026-05-21T08:37:55.062Z"
+        },
+        {
+          "id": "RSV1779352685601392",
+          "items": [
+            {
+              "email": "ugphoncoba3@gmail.com",
+              "password": "masuk123",
+              "addedAt": 1779352385683
+            },
+            {
+              "email": "ugphoncoba4@gmail.com",
+              "password": "masuk123",
+              "addedAt": 1779352385683
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-05-21T08:38:05.601Z"
         }
       ]
     },
