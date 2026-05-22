@@ -446,19 +446,8 @@
         }
       ],
       "stock": 119,
-      "sold": 106,
-      "reserved": [
-        {
-          "id": "RSV1779455095347626",
-          "items": [
-            {
-              "text": "Via Invite Email"
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-22T13:04:55.347Z"
-        }
-      ]
+      "sold": 107,
+      "reserved": []
     },
     {
       "code": "CC35D",
