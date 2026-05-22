@@ -2216,21 +2216,9 @@
           "addedAt": 1778839871478
         }
       ],
-      "sold": 28,
+      "sold": 29,
       "stock": 3,
-      "reserved": [
-        {
-          "id": "RSV1779454715485779",
-          "items": [
-            {
-              "text": "ereynolds1988@gmail.com,Spirit*25,NetflixId=v%3D3%26ct%3DBgjHlOvcAxKVA1RvnB56-LY00T7q2L8tedF7tcE8RKFwHshdRgN92YRhcIRIkvcDrDqfSeVmTXiEkHyz9ci6uUJLwL6Tr0gaqQE-TEsxbxsf8evwzF2ZyCxu0CzkSML_DeRHQK0PUQCaCfiG2Rxem7PtJYUJP8INgUYvpFg7i43ylAuqu4lp3XTEVYmLdwvpsoHabbm6rmiKKlr-jUhGGdURSF0lf57v4W1PIuFExZ8APMZnddN8v6WR7RfRdbHs8NzUW3Wi_qIPUkRPk6K2NnsFyxxSyU2W8gAkgTRnxsDs4iy5EXz4htBjjf2fduaOSi-tDdK0t2MQfoSjcazjDndEAb8u_swMPcvyK2rGzO8IqZcyLON5dfiQ0Sg8DVn0zFTzzA0E2LJpRzK-NrA8EEaz7_OER8Po8nGGR4QfPL8ClKp80PTuEqtyeC_AE6FgIyDtFQqCovphGM9QUrVrHihqqvXSbgDbyfnlHeeOyhemTwMvQrp-2c6oM_FcpesmssBwnTllphQesG34pF6bdhtvP-kvppxixw0Vu4EirBgGIg4KDKU3RkLiYKJdLTC0cw..%26pg%3DMQOQFCRSWRD7TL453N6BIYKZVI%26ch%3DAQEAEAABABQVPrwi6pYJ3cK-gvU9nCKpKMulLB_zg5c.;SecureNetflixId=v%3D3%26mac%3DAQEAEQABABSXPdH82t1TNhcleJxGkjPArjwsQmzDmUw.%26dt%3D1777014137873;gsid=a521cd01-b6da-4c34-a9b5-fd7344d01638;nfvdid=BQFmAAEBEDe5CxZywevgRAo9pV9HoWZgNDgnuHT3WHeB7g0j6XMFRSIEpjoUDLg7mFhzr18W90JFzlfQ1UcSLBr6nBMtYuICNqp5x17vdpyzoVEgLl4OShwN3tH1-GOg_UXQl1llu6rdpTJ_ktNj3Vr2ysHfESEb",
-              "addedAt": 1778839813907
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-22T12:58:35.485Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
