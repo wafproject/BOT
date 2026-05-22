@@ -533,15 +533,10 @@
           "email": "yf4mqa1@kulipremium.web.id",
           "password": "masuk12345",
           "addedAt": 1778318427218
-        },
-        {
-          "email": "vt5l2f5@kulipremium.biz.id",
-          "password": "masuk12345",
-          "addedAt": 1778318427218
         }
       ],
       "sold": 93,
-      "stock": 4,
+      "stock": 3,
       "reserved": []
     },
     {
