@@ -538,15 +538,10 @@
           "email": "vt5l2f5@kulipremium.biz.id",
           "password": "masuk12345",
           "addedAt": 1778318427218
-        },
-        {
-          "email": "da3wxtm@enziproject.web.id",
-          "password": "masuk12345",
-          "addedAt": 1778318427218
         }
       ],
       "sold": 93,
-      "stock": 5,
+      "stock": 4,
       "reserved": []
     },
     {
