@@ -522,11 +522,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "4jcr6yt@enziproject.web.id",
-          "password": "masuk12345",
-          "addedAt": 1778318427218
-        },
-        {
           "email": "imt4z0o@wafprem.biz.id",
           "password": "masuk12345",
           "addedAt": 1778318427218
@@ -553,7 +548,21 @@
         }
       ],
       "sold": 92,
-      "stock": 6
+      "stock": 5,
+      "reserved": [
+        {
+          "id": "RSV1779440569662830",
+          "items": [
+            {
+              "email": "4jcr6yt@enziproject.web.id",
+              "password": "masuk12345",
+              "addedAt": 1778318427218
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-05-22T09:02:49.662Z"
+        }
+      ]
     },
     {
       "code": "PICS",
