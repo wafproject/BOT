@@ -589,10 +589,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "reinold@fitbloomlab.com",
-          "addedAt": 1774033609450
-        },
-        {
           "email": "vipgold@laksana.in",
           "addedAt": 1774033610713
         },
@@ -825,8 +821,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 59,
-      "sold": 471,
+      "stock": 58,
+      "sold": 472,
       "reserved": []
     },
     {
