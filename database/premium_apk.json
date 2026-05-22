@@ -2182,15 +2182,24 @@
         },
         {
           "text": "Baca deskripsi",
-          "addedAt": 1778525042875
-        },
-        {
-          "text": "Baca deskripsi",
           "addedAt": 1778525042887
         }
       ],
       "sold": 0,
-      "stock": 24
+      "stock": 23,
+      "reserved": [
+        {
+          "id": "RSV1779457208675285",
+          "items": [
+            {
+              "text": "Baca deskripsi",
+              "addedAt": 1778525042875
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-05-22T13:40:08.675Z"
+        }
+      ]
     },
     {
       "code": "NETC",
