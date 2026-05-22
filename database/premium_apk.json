@@ -528,15 +528,10 @@
           "email": "hv7dgka@enzipro.biz.id",
           "password": "masuk12345",
           "addedAt": 1778318427218
-        },
-        {
-          "email": "yf4mqa1@kulipremium.web.id",
-          "password": "masuk12345",
-          "addedAt": 1778318427218
         }
       ],
       "sold": 93,
-      "stock": 3,
+      "stock": 2,
       "reserved": []
     },
     {
