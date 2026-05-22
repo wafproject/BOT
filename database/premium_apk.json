@@ -583,10 +583,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "mrbigwill@ezamirawedding.me",
-          "addedAt": 1774033612621
-        },
-        {
           "email": "kingjohn95@locmediaxl.com",
           "addedAt": 1774033613872
         },
@@ -807,8 +803,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 56,
-      "sold": 474,
+      "stock": 55,
+      "sold": 475,
       "reserved": []
     },
     {
