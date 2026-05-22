@@ -65,9 +65,29 @@
         {
           "link": "link|link|link|link|link|link",
           "addedAt": 1779437995591
+        },
+        {
+          "link": "link",
+          "addedAt": 1779438034154
+        },
+        {
+          "link": "link",
+          "addedAt": 1779438034154
+        },
+        {
+          "link": "link",
+          "addedAt": 1779438034154
+        },
+        {
+          "link": "link",
+          "addedAt": 1779438034154
+        },
+        {
+          "link": "link",
+          "addedAt": 1779438034154
         }
       ],
-      "stock": 1,
+      "stock": 6,
       "sold": 551,
       "reserved": []
     },
