@@ -2224,21 +2224,9 @@
           "addedAt": 1778839871478
         }
       ],
-      "sold": 27,
+      "sold": 28,
       "stock": 4,
-      "reserved": [
-        {
-          "id": "RSV1779451676524585",
-          "items": [
-            {
-              "text": "thepyes1@gmail.com,463714Cc,NetflixId=v%3D3%26ct%3DBgjHlOvcAxKWA2LeD5di_fmdDaqHZfigAABpkR-cdcG1KFEXC1gQKJVGk8qjLYiAxs4VXfeLhued20gXXStAf7iWAyARAHZwIMc1lFUVVPpXLQMsyLnnlZUUnHeky9X5btFaUi3FmUJigBf7Ja1O0RosZNI4FAFanOcfEZ7RZ8dU6nmVUZTvU-xjDgDEEGe1D3Jvw7845UoAAoFF-pwLBRXi0D0MUaeG_OrI3FaZAs7-GXO2dFRqplEjUy_GxRdnvZYAHoMpstT_9IlLuZ8jP6yLyGHwnycE_B_daYoJJsu262QW4TOhGDG3lSohvBugsYd23ETkQg6EQmjhv4ZdbtpCOuZcfLm3e4vte5xAevAmuPKWhnG7eU9Ii4VeybO_aEr763r6fuIZ1Cel5kxErPaeacgM3PQiqNSfurb8fBNBPXmNmfeU13Pp-nhHjXSnAlYA2XvpO64VMvwqTIntZB9ty47p_Hn1D2RHjFGDtCg38ds2RG_8zotcmR2pmZcDu6VHquDXeCst3prHl5lBIwPhUlGJEHTUxLtrAOvKkoQYBiIOCgx827ObkwQ4FZtLUPU.%26pg%3D6CDF6MYKUVF6NN2IE5WV5HSUGM%26ch%3DAQEAEAABABRoOF7XT_X4x27xn5tM_NtrzqWCkW88j7k.;SecureNetflixId=v%3D3%26mac%3DAQEAEQABABSITeEIfWLBDrcYYSjplhSy1c9wJnMIc8c.%26dt%3D1777010611699;gsid=0962afc2-6d6f-4f0c-a4ef-7d5da98a0f45;nfvdid=BQFmAAEBEOIaU3xjvewrNOYQv-wHWONgEek3wuui68_lgTawT1EzZaFAtw0UQtYDP9veqfcOFunGdx3xuVd9Nnd3lbRHMLwuPM1WpUvGoZgObiiwTOYkHrLke03GuUrfZK08U2C-zwxfCdK2APCTDCNqGNINd2hI",
-              "addedAt": 1778839789077
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-22T12:07:56.524Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
