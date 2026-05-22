@@ -481,14 +481,9 @@
       "price": 10000,
       "descShort": " Only Android",
       "snk": " * Sistem MBO (Make By Order) * Akun dari seller * Full Garansi 1 Bulan * Only Android",
-      "items": [
-        {
-          "text": "turye12@leadcraft.store",
-          "addedAt": 1775192857245
-        }
-      ],
+      "items": [],
       "sold": 55,
-      "stock": 1
+      "stock": 0
     },
     {
       "code": "SCRIBD",
