@@ -583,10 +583,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "ncicko@ttpo89japan.com",
-          "addedAt": 1774033611673
-        },
-        {
           "email": "mrbigwill@ezamirawedding.me",
           "addedAt": 1774033612621
         },
@@ -811,8 +807,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 57,
-      "sold": 473,
+      "stock": 56,
+      "sold": 474,
       "reserved": []
     },
     {
