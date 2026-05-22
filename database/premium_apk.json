@@ -589,10 +589,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "damudons@apixy.sbs",
-          "addedAt": 1774033608477
-        },
-        {
           "email": "reinold@fitbloomlab.com",
           "addedAt": 1774033609450
         },
@@ -829,8 +825,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 60,
-      "sold": 470,
+      "stock": 59,
+      "sold": 471,
       "reserved": []
     },
     {
