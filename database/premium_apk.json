@@ -814,20 +814,8 @@
         }
       ],
       "stock": 57,
-      "sold": 472,
-      "reserved": [
-        {
-          "id": "RSV1779452051979376",
-          "items": [
-            {
-              "email": "vipgold@laksana.in",
-              "addedAt": 1774033610713
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-22T12:14:11.979Z"
-        }
-      ]
+      "sold": 473,
+      "reserved": []
     },
     {
       "code": "VIU",
