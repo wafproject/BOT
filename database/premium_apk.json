@@ -523,15 +523,10 @@
           "email": "imt4z0o@wafprem.biz.id",
           "password": "masuk12345",
           "addedAt": 1778318427218
-        },
-        {
-          "email": "hv7dgka@enzipro.biz.id",
-          "password": "masuk12345",
-          "addedAt": 1778318427218
         }
       ],
       "sold": 93,
-      "stock": 2,
+      "stock": 1,
       "reserved": []
     },
     {
