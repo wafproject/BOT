@@ -532,10 +532,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "kingjohn95@locmediaxl.com",
-          "addedAt": 1774033613872
-        },
-        {
           "email": "rennie073@dishow.net",
           "addedAt": 1774033614837
         },
@@ -752,9 +748,21 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 55,
+      "stock": 54,
       "sold": 475,
-      "reserved": []
+      "reserved": [
+        {
+          "id": "RSV1779528085405249",
+          "items": [
+            {
+              "email": "kingjohn95@locmediaxl.com",
+              "addedAt": 1774033613872
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-05-23T09:21:25.405Z"
+        }
+      ]
     },
     {
       "code": "VIU",
