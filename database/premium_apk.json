@@ -2142,21 +2142,9 @@
           "addedAt": 1778839871478
         }
       ],
-      "sold": 29,
+      "sold": 30,
       "stock": 2,
-      "reserved": [
-        {
-          "id": "RSV17795490218436",
-          "items": [
-            {
-              "text": "rickdrawl@yahoo.com,604Ridge,NetflixId=v%3D3%26ct%3DBgjHlOvcAxKiA8-xRl3lt5hdMks_YSt5tGOhwTjYP-yNLqACxuerZoe8ON_pmQ5MeEOJ2sP97MZsDakkHiuNNw3tg85suRmv5kukToQOd6gVwd-d7JlcyhVD9q8rGKcfZDhZab-5lUhDYnTi_oH429hhis3330MBKb5IHE7ZP7n0q8zITApDE2mTj369_EEDQujuFrVk8T5DI8JEebE8e8QSyGxdggvG77sa5-MA2OT6QnjfXXP8EoK88twJM7QI1HhjB5tM34BeNSTkX2J22LCT4vAMKlTztdSnI57Ah9MR2Nw4TImnTdkyBiDSJs9DdKLcR0hGT7hjglo4ZmprO7B3sUt00jgxsWZlcgrsRVkoeL1jNtjCISf9cUM-i2Ihp0teOQnTa6DpkUZploZlsFM5G7nsfMlOnGeDmC5Jv17TAvG9n2cwju19IwvdUrqvmTt7YVhFP0l_x0wzP5GEIKg-JFaGHVJ9G-vGVOf8yIWRNWmKabh06wKcVbFpdTCUbyJo527qSx3mw5GxmS4QrepmO-iNdCOf60LBfS2_DMIb80H6U92s0nGMF20YBiIOCgy0-UD6ntVFqyQtZVc.%26pg%3DV26QUJ3ZYZG7XIDFQAP64FKIG4%26ch%3DAQEAEAABABRGsuS8coCTiN2wR4L7na-jLp1WL8N0KQo.;SecureNetflixId=v%3D3%26mac%3DAQEAEQABABRpUz04tLWR4hGI2wjKSe7iO6f41Xk_yRA.%26dt%3D1777011541325;gsid=8f842543-d5f7-4bb6-be9b-ace689d844a0;nfvdid=BQFmAAEBEFVKJcNP9j3fsQqXPFNa_9JgByed6uDoiLqXib6ANZDcreqxEvKHkzBB8b-N88jOTR3JX9qKgyrxJ198vmUL2d-jjn7QY44ORqCdfbD-Zd0nSLVWKszp7J2OzJ5zf5pvUbhU1risgnk25TBI0gaPrd0n",
-              "addedAt": 1778839848177
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-23T15:10:21.843Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
