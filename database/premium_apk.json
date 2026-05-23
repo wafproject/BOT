@@ -751,20 +751,8 @@
         }
       ],
       "stock": 53,
-      "sold": 476,
-      "reserved": [
-        {
-          "id": "RSV1779534967088602",
-          "items": [
-            {
-              "email": "rennie073@dishow.net",
-              "addedAt": 1774033614837
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-23T11:16:07.088Z"
-        }
-      ]
+      "sold": 477,
+      "reserved": []
     },
     {
       "code": "VIU",
