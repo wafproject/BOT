@@ -749,20 +749,8 @@
         }
       ],
       "stock": 54,
-      "sold": 475,
-      "reserved": [
-        {
-          "id": "RSV1779528085405249",
-          "items": [
-            {
-              "email": "kingjohn95@locmediaxl.com",
-              "addedAt": 1774033613872
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-23T09:21:25.405Z"
-        }
-      ]
+      "sold": 476,
+      "reserved": []
     },
     {
       "code": "VIU",
