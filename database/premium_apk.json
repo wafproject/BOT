@@ -1889,66 +1889,9 @@
       "descShort": "Full Seat",
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [],
-      "sold": 1419,
+      "sold": 1429,
       "stock": 0,
       "reserved": [
-        {
-          "id": "RSV1779528498372222",
-          "items": [
-            {
-              "email": "65699b46@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779528442630
-            },
-            {
-              "email": "99b01f6f@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779528442630
-            },
-            {
-              "email": "0ebd3f32@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779528442630
-            },
-            {
-              "email": "275648ee@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779528442630
-            },
-            {
-              "email": "abda9af6@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779528442630
-            },
-            {
-              "email": "hgklhg65@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779528442630
-            },
-            {
-              "email": "b7c0e5e6@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779528442630
-            },
-            {
-              "email": "dca7dbfd@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779528442630
-            },
-            {
-              "email": "44af3f41@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779528442630
-            },
-            {
-              "email": "abfce3f4@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779528442630
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-05-23T09:28:18.372Z"
-        },
         {
           "id": "RSV1779528556616997",
           "items": [
