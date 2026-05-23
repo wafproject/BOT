@@ -538,10 +538,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "pepeljnica@scatterteam.com",
-          "addedAt": 1774033615651
-        },
-        {
           "email": "parkay314@ttpo89japan.com",
           "addedAt": 1774033616403
         },
@@ -750,8 +746,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 53,
-      "sold": 477,
+      "stock": 52,
+      "sold": 478,
       "reserved": []
     },
     {
