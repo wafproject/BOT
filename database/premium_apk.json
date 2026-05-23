@@ -457,9 +457,15 @@
       "price": 125000,
       "descShort": "Private Account",
       "snk": "Garansi 3 Bulan",
-      "items": [],
+      "items": [
+        {
+          "email": "mycc6b@enziproject.my.id",
+          "password": "masuk123",
+          "addedAt": 1779528404350
+        }
+      ],
       "sold": 955,
-      "stock": 0
+      "stock": 1
     },
     {
       "code": "APMEMBER",
