@@ -1855,9 +1855,35 @@
       "price": 25000,
       "descShort": "Garansi 7 Hari",
       "snk": "* Login biasa menggunakan email, JANGAN klik \"Lanjutkan dengan Google\". Jika diminta kode verifikasi, cek di: https://tmail.wafproject.my.id\n‎\n‎• Bisa digunakan melalui web browser maupun aplikasi resmi.\n‎\n‎• Garansi berlaku selama 7 hari sejak tanggal pembelian.\n‎\n‎• Dijual Sharing? Resiko tanggung sendiri.\n‎\n‎• Dilarang keras mengotak-atik pengaturan akun, termasuk bagian pembayaran.\n‎\n‎• Hindari terlalu sering logout-login agar akun tetap aman.\n‎\n‎• Max login 2 device jika mau akun awet\n‎\n‎• Garansi hanya berlaku selama metode masih berfungsi (tidak koid).\n‎\n‎• Tidak ada reffund setelah pembelian sukses.",
-      "items": [],
+      "items": [
+        {
+          "email": "otkol0402@gmail.com",
+          "password": "PAKAI KODE",
+          "addedAt": 1779598100706
+        },
+        {
+          "email": "otkol040.2@gmail.com",
+          "password": "PAKAI KODE",
+          "addedAt": 1779598100706
+        },
+        {
+          "email": "otkol04.02@gmail.com",
+          "password": "PAKAI KODE",
+          "addedAt": 1779598100706
+        },
+        {
+          "email": "otkol0.402@gmail.com",
+          "password": "PAKAI KODE",
+          "addedAt": 1779598100706
+        },
+        {
+          "email": "otkol.0402@gmail.com",
+          "password": "PAKAI KODE",
+          "addedAt": 1779598100706
+        }
+      ],
       "sold": 666,
-      "stock": 0,
+      "stock": 5,
       "reserved": []
     },
     {
