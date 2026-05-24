@@ -2130,21 +2130,9 @@
           "addedAt": 1778839871478
         }
       ],
-      "sold": 30,
+      "sold": 31,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV1779619806790627",
-          "items": [
-            {
-              "text": "blaine.cotton323@gmail.com,Bonheur31123#,NetflixId=v%3D3%26ct%3DBgjHlOvcAxKfA_QOJmYLaP4v_rOMPzbgCc-Euak4S4DyvrJOLOX9EdZYZnhJuCbDmvghEFDIgYA0GJutdw3O2CXEu48oIORJwSj_OM2Vpl6qHWIcPHsX64HrsFdMk-B9WHDFbbZZPYuC0GFPJ3mksM_RsDpWfebD8xBk47moT0wM_cJ9iopIxIAkWdLm1DXmpKEORp9EWO1qxCTVxgZiqtAHy0xnsc8G30LZhHLopIpdz6ZIkQIfmftHGY_RglTJ36FNMgCPyxiebumap3UITvTy5G24oLHOtwRy237yWxStQgvC8Xzr2zaElgK8tnXPxkPbjjxdbm3y_t5-8vug1veeEz4d_7O7XW3t8DkdwAy1SZdoRyKch3gPt8mW_5VNZRnB1nq9_9OuEuCJ-rHjT7DdQNe8QDwKNb0IltFdNBThEpp5m3sepCbPoLQW4Ql7VzQdrsMV_CeJipV4ScJi3Swvjyx9HKaSinWRz2Bp_YXA2TIrFxxMET7RqrD4Q2nPNreAeNyc05AfG2Z1XGqwVFVCDlEbDA21BIQjRHt1nZGmhnUgvfDcbykYBiIOCgw3VX3O7b-mXx7oAW8.%26pg%3DPKDKJQNLXJFQJHQ7VX6H7NPQOA%26ch%3DAQEAEAABABRNEMKAeTSOK9cwayKtUIxmKAus6oATgOg.;SecureNetflixId=v%3D3%26mac%3DAQEAEQABABQkS_3VPl1m-tylXOlgwsq3SHRb9Zkr2DY.%26dt%3D1777011231009;gsid=fae716ea-9163-4721-a9ea-39b6c66a3bee;nfvdid=BQFmAAEBEGRiZ0xnqHxPwZ-z0sAlhCxgHbqdkmaQ9DSSyzxRUmwR4Ty4Pud0H4cBhlPMJfXjIKd6wUVW-uPUK2SGuRxHP6k-2FLdHGkTKkpHXlUJQWqxgvpjeYvcMjL7HmVDqOkrBHkaXPbrbV2N-cHfKOTfjerb",
-              "addedAt": 1778839848177
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-24T10:50:06.790Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
