@@ -1902,32 +1902,9 @@
       "descShort": "Full Seat",
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [],
-      "sold": 1536,
+      "sold": 1539,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV1779599479583730",
-          "items": [
-            {
-              "email": "be619815@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779598195352
-            },
-            {
-              "email": "080111af@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779598195352
-            },
-            {
-              "email": "3c212896@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779598195352
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-05-24T05:11:19.583Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "GPPLUSPRIVFULL",
