@@ -2053,22 +2053,9 @@
           "addedAt": 1779598195352
         }
       ],
-      "sold": 1508,
+      "sold": 1509,
       "stock": 30,
-      "reserved": [
-        {
-          "id": "RSV1779598951501339",
-          "items": [
-            {
-              "email": "dritresa@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779598195352
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-24T05:02:31.504Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "GPPLUSPRIVFULL",
