@@ -532,10 +532,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "parkay314@ttpo89japan.com",
-          "addedAt": 1774033616403
-        },
-        {
           "email": "luka20012011@gglorytogod.com",
           "addedAt": 1774033617509
         },
@@ -740,9 +736,21 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 52,
+      "stock": 51,
       "sold": 478,
-      "reserved": []
+      "reserved": [
+        {
+          "id": "RSV1779703767066406",
+          "items": [
+            {
+              "email": "parkay314@ttpo89japan.com",
+              "addedAt": 1774033616403
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-05-25T10:09:27.066Z"
+        }
+      ]
     },
     {
       "code": "VIU",
