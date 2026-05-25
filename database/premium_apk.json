@@ -2124,15 +2124,22 @@
       "price": 6000,
       "descShort": "Murah Meriah",
       "snk": "* No Garansi\n• Durasi Random\n• Tutor Login https://t.me/tutorloginnetfcrack/2",
-      "items": [
-        {
-          "text": "small.mark@yahoo.com,Minotti1!,NetflixId=v%3D3%26ct%3DBgjHlOvcAxKjA4_5ZTG3dplMxWtEZFTsDaCY7Wh8i32yyL_s1DSSr7R41dGfuEQ4xktuWkJopSpnYDh19lCVd4aoq2XPHx-EtfBgJbRczMvk5IogstTNhv3MwUeUqu01alWwrQGJt7Fl7jueP1Wusdl6yr6it2Jj9NqAcP2UyzIJmFMoxUtVT3Dlx-t92AH2SKEG7pYtiAt-FxFuEq_KLVp7uhMseTHZ5FkS7p5_G1YFfbi0jyRPqdq6TKXFB3nfL6eUc969WGkIahm8xKx7cTG4P9k7gQkJNEosR9JWtzbK4MwKHkYre7NZJ0qDxt9hqHYhVDUBF1eFa0q4ZBplUqFcMuHVRzOdbnd9WkY8ugPe4N2WU8ssFWjhSgSL0cZvwykXttFDS9SaeN3E8ys0vcioXouMen_cOvGJT4hrcyJ1ZltHaIa-Zw5cYDfBa7GA3O7FL316ICzAyR0XPBk66kOvzktKIsCVLsZ3J4yzi85XfoG20LAC7Pb655GMxuIZfDAhZEimeWdsO4xBBLUR3r_-mpYSuFHgTVpkdY2WITeYAenuFRfxC-jBnjWvGAYiDgoM8iqsWP9-HdS1dxnB%26pg%3DOD4TK67BQREP7PYNO74QN3VUYE%26ch%3DAQEAEAABABTBKZjhBmJXx0mKP5w-Q_1Tb_UZKo8BEcA.;SecureNetflixId=v%3D3%26mac%3DAQEAEQABABT8Fg7OdRrdcYAd63zbeSrdb1d7ttjnYmw.%26dt%3D1777020041764;gsid=1d2e65ad-4b2d-4ade-bd15-f388156aee0d;nfvdid=BQFmAAEBEMvEk1lLJV-MjnmEx_BVr4FgK91-FYg3dUZejvB3nDWbCC42mxUQeNizu6_TFlgJMnm8gToqu_PcuURobONk7KqLTOGLtJUb-UkN1MOe4JOntgY2CFCnZJZqulaN41VRQMF7EXZguS-FOv24Bv45FXoE",
-          "addedAt": 1778839871478
-        }
-      ],
+      "items": [],
       "sold": 31,
-      "stock": 1,
-      "reserved": []
+      "stock": 0,
+      "reserved": [
+        {
+          "id": "RSV1779672824066538",
+          "items": [
+            {
+              "text": "small.mark@yahoo.com,Minotti1!,NetflixId=v%3D3%26ct%3DBgjHlOvcAxKjA4_5ZTG3dplMxWtEZFTsDaCY7Wh8i32yyL_s1DSSr7R41dGfuEQ4xktuWkJopSpnYDh19lCVd4aoq2XPHx-EtfBgJbRczMvk5IogstTNhv3MwUeUqu01alWwrQGJt7Fl7jueP1Wusdl6yr6it2Jj9NqAcP2UyzIJmFMoxUtVT3Dlx-t92AH2SKEG7pYtiAt-FxFuEq_KLVp7uhMseTHZ5FkS7p5_G1YFfbi0jyRPqdq6TKXFB3nfL6eUc969WGkIahm8xKx7cTG4P9k7gQkJNEosR9JWtzbK4MwKHkYre7NZJ0qDxt9hqHYhVDUBF1eFa0q4ZBplUqFcMuHVRzOdbnd9WkY8ugPe4N2WU8ssFWjhSgSL0cZvwykXttFDS9SaeN3E8ys0vcioXouMen_cOvGJT4hrcyJ1ZltHaIa-Zw5cYDfBa7GA3O7FL316ICzAyR0XPBk66kOvzktKIsCVLsZ3J4yzi85XfoG20LAC7Pb655GMxuIZfDAhZEimeWdsO4xBBLUR3r_-mpYSuFHgTVpkdY2WITeYAenuFRfxC-jBnjWvGAYiDgoM8iqsWP9-HdS1dxnB%26pg%3DOD4TK67BQREP7PYNO74QN3VUYE%26ch%3DAQEAEAABABTBKZjhBmJXx0mKP5w-Q_1Tb_UZKo8BEcA.;SecureNetflixId=v%3D3%26mac%3DAQEAEQABABT8Fg7OdRrdcYAd63zbeSrdb1d7ttjnYmw.%26dt%3D1777020041764;gsid=1d2e65ad-4b2d-4ade-bd15-f388156aee0d;nfvdid=BQFmAAEBEMvEk1lLJV-MjnmEx_BVr4FgK91-FYg3dUZejvB3nDWbCC42mxUQeNizu6_TFlgJMnm8gToqu_PcuURobONk7KqLTOGLtJUb-UkN1MOe4JOntgY2CFCnZJZqulaN41VRQMF7EXZguS-FOv24Bv45FXoE",
+              "addedAt": 1778839871478
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-05-25T01:33:44.066Z"
+        }
+      ]
     }
   ],
   "meta": {
