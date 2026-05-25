@@ -737,20 +737,8 @@
         }
       ],
       "stock": 51,
-      "sold": 478,
-      "reserved": [
-        {
-          "id": "RSV1779703767066406",
-          "items": [
-            {
-              "email": "parkay314@ttpo89japan.com",
-              "addedAt": 1774033616403
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-25T10:09:27.066Z"
-        }
-      ]
+      "sold": 479,
+      "reserved": []
     },
     {
       "code": "VIU",
