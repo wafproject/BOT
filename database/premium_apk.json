@@ -1857,21 +1857,6 @@
       "snk": "* Login biasa menggunakan email, JANGAN klik \"Lanjutkan dengan Google\". Jika diminta kode verifikasi, cek di: https://tmail.wafproject.my.id\n‎\n‎• Bisa digunakan melalui web browser maupun aplikasi resmi.\n‎\n‎• Garansi berlaku selama 7 hari sejak tanggal pembelian.\n‎\n‎• Dijual Sharing? Resiko tanggung sendiri.\n‎\n‎• Dilarang keras mengotak-atik pengaturan akun, termasuk bagian pembayaran.\n‎\n‎• Hindari terlalu sering logout-login agar akun tetap aman.\n‎\n‎• Max login 2 device jika mau akun awet\n‎\n‎• Garansi hanya berlaku selama metode masih berfungsi (tidak koid).\n‎\n‎• Tidak ada reffund setelah pembelian sukses.",
       "items": [
         {
-          "email": "ridhoroma12318.36@gmail.com",
-          "password": "LOGIN KODE",
-          "addedAt": 1779700936490
-        },
-        {
-          "email": "ridhoroma123.1836@gmail.com",
-          "password": "LOGIN KODE",
-          "addedAt": 1779700936490
-        },
-        {
-          "email": "ridhoroma.1231836@gmail.com",
-          "password": "LOGIN KODE",
-          "addedAt": 1779700936490
-        },
-        {
           "email": "dirustian@gmail.com",
           "password": "LOGIN KODE",
           "addedAt": 1779700936490
@@ -1903,8 +1888,31 @@
         }
       ],
       "sold": 671,
-      "stock": 9,
-      "reserved": []
+      "stock": 6,
+      "reserved": [
+        {
+          "id": "RSV1779701009815817",
+          "items": [
+            {
+              "email": "ridhoroma12318.36@gmail.com",
+              "password": "LOGIN KODE",
+              "addedAt": 1779700936490
+            },
+            {
+              "email": "ridhoroma123.1836@gmail.com",
+              "password": "LOGIN KODE",
+              "addedAt": 1779700936490
+            },
+            {
+              "email": "ridhoroma.1231836@gmail.com",
+              "password": "LOGIN KODE",
+              "addedAt": 1779700936490
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-05-25T09:23:29.815Z"
+        }
+      ]
     },
     {
       "code": "CC35DFULL",
