@@ -80,20 +80,8 @@
         }
       ],
       "stock": 4,
-      "sold": 560,
-      "reserved": [
-        {
-          "id": "RSV1779749253138406",
-          "items": [
-            {
-              "link": "Link",
-              "addedAt": 1779748088621
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-25T22:47:33.138Z"
-        }
-      ]
+      "sold": 561,
+      "reserved": []
     },
     {
       "code": "CANHEAD",
