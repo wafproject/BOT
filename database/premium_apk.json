@@ -1887,32 +1887,9 @@
           "addedAt": 1779700936490
         }
       ],
-      "sold": 671,
+      "sold": 674,
       "stock": 6,
-      "reserved": [
-        {
-          "id": "RSV1779701009815817",
-          "items": [
-            {
-              "email": "ridhoroma12318.36@gmail.com",
-              "password": "LOGIN KODE",
-              "addedAt": 1779700936490
-            },
-            {
-              "email": "ridhoroma123.1836@gmail.com",
-              "password": "LOGIN KODE",
-              "addedAt": 1779700936490
-            },
-            {
-              "email": "ridhoroma.1231836@gmail.com",
-              "password": "LOGIN KODE",
-              "addedAt": 1779700936490
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-05-25T09:23:29.815Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "CC35DFULL",
