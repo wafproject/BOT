@@ -1905,9 +1905,20 @@
       "price": 15000,
       "descShort": "Garansi 1 Hari",
       "snk": "* Login biasa menggunakan email, JANGAN klik \"Lanjutkan dengan Google\". Jika diminta kode verifikasi, cek di: https://tmail.wafproject.my.id\n‎\n‎• Bisa digunakan melalui web browser maupun aplikasi resmi.\n‎\n‎• No Garansi.\n‎\n‎• Dijual Sharing? Resiko tanggung sendiri.\n‎\n‎• Dilarang keras mengotak-atik pengaturan akun, termasuk bagian pembayaran.\n‎\n‎• Hindari terlalu sering logout-login agar akun tetap aman.\n‎\n‎• Max login 2 device jika mau akun awet\n‎\n‎• Tidak ada reffund setelah pembelian sukses.",
-      "items": [],
+      "items": [
+        {
+          "email": "ridhoroma1231836@gmail.com",
+          "password": "LOGIN KODE",
+          "addedAt": 1779700862924
+        },
+        {
+          "email": "ridhoroma123183.6@gmail.com",
+          "password": "LOGIN KODE",
+          "addedAt": 1779700862924
+        }
+      ],
       "sold": 677,
-      "stock": 0
+      "stock": 2
     },
     {
       "code": "GTC",
