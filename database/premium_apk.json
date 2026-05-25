@@ -63,10 +63,6 @@
       "snk": "* SETELAH JOIN WAJIB SETOR EMAIL KE ADMIN, JIKA TIDAK SETOR AKAN DI KICK! * 1 LINK UNTUK 1 USER! KETAHUAN KICK ALL",
       "items": [
         {
-          "link": "Link",
-          "addedAt": 1779748088621
-        },
-        {
           "link": "link",
           "addedAt": 1779749238631
         },
@@ -83,9 +79,21 @@
           "addedAt": 1779749238631
         }
       ],
-      "stock": 5,
+      "stock": 4,
       "sold": 560,
-      "reserved": []
+      "reserved": [
+        {
+          "id": "RSV1779749253138406",
+          "items": [
+            {
+              "link": "Link",
+              "addedAt": 1779748088621
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-05-25T22:47:33.138Z"
+        }
+      ]
     },
     {
       "code": "CANHEAD",
