@@ -555,10 +555,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "luka20012011@gglorytogod.com",
-          "addedAt": 1774033617509
-        },
-        {
           "email": "ruslanbolshoy@hhotmail.click",
           "addedAt": 1774033618545
         },
@@ -759,8 +755,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 51,
-      "sold": 479,
+      "stock": 50,
+      "sold": 480,
       "reserved": []
     },
     {
