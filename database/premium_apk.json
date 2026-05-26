@@ -1878,22 +1878,9 @@
       "descShort": "Fullseat Tanpa Renew",
       "snk": "* Full Garansi \n• Durasi aktif akun 20 - 30 hari\n• Maksimal login 2 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n• Garansi hanya berlaku untuk backfree (Pro hilang sebelum masa aktif habis)\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [],
-      "sold": 517,
+      "sold": 518,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV1779814768619744",
-          "items": [
-            {
-              "email": "byoneaja@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1779814441804
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-26T16:59:28.619Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "CC7D",
