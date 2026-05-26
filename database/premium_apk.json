@@ -61,8 +61,13 @@
       "price": 500,
       "descShort": "Via link invite",
       "snk": "* SETELAH JOIN WAJIB SETOR EMAIL KE ADMIN, JIKA TIDAK SETOR AKAN DI KICK! * 1 LINK UNTUK 1 USER! KETAHUAN KICK ALL",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "link": "Link",
+          "addedAt": 1779749238631
+        }
+      ],
+      "stock": 1,
       "sold": 562,
       "reserved": [
         {
@@ -86,17 +91,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-05-26T00:23:42.692Z"
-        },
-        {
-          "id": "RSV1779755588701237",
-          "items": [
-            {
-              "link": "Link",
-              "addedAt": 1779749238631
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-26T00:33:08.701Z"
         }
       ]
     },
