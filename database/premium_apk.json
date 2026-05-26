@@ -2100,51 +2100,9 @@
           "addedAt": 1779781225809
         }
       ],
-      "sold": 1648,
+      "sold": 1655,
       "stock": 41,
       "reserved": [
-        {
-          "id": "RSV177978180810092",
-          "items": [
-            {
-              "email": "a7842308@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779781225809
-            },
-            {
-              "email": "a3e19e80@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779781225809
-            },
-            {
-              "email": "dc79d608@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779781225809
-            },
-            {
-              "email": "5b893120@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779781225809
-            },
-            {
-              "email": "aa2b7e47@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779781225809
-            },
-            {
-              "email": "f73e103b@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779781225809
-            },
-            {
-              "email": "86081c35@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1779781225809
-            }
-          ],
-          "qty": 7,
-          "createdAt": "2026-05-26T07:50:08.100Z"
-        },
         {
           "id": "RSV1779781838269617",
           "items": [
