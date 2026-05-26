@@ -1895,26 +1895,6 @@
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [
         {
-          "email": "ab740585@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779781225809
-        },
-        {
-          "email": "093ac46c@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779781225809
-        },
-        {
-          "email": "fe033eee@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779781225809
-        },
-        {
-          "email": "1c6e46a1@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779781225809
-        },
-        {
           "email": "19d4b652@premiummin.store",
           "password": "masuk123",
           "addedAt": 1779781225809
@@ -2251,7 +2231,7 @@
         }
       ],
       "sold": 1597,
-      "stock": 71,
+      "stock": 67,
       "reserved": [
         {
           "id": "RSV1779781305724955",
@@ -2487,6 +2467,33 @@
           ],
           "qty": 3,
           "createdAt": "2026-05-26T07:44:31.397Z"
+        },
+        {
+          "id": "RSV1779781490657291",
+          "items": [
+            {
+              "email": "ab740585@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779781225809
+            },
+            {
+              "email": "093ac46c@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779781225809
+            },
+            {
+              "email": "fe033eee@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779781225809
+            },
+            {
+              "email": "1c6e46a1@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779781225809
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-05-26T07:44:50.657Z"
         }
       ]
     },
