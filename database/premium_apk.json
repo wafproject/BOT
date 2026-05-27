@@ -1922,15 +1922,10 @@
           "email": "d633e646@premiummin.store",
           "password": "masuk123",
           "addedAt": 1779864809727
-        },
-        {
-          "email": "f635a5fe@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779864809727
         }
       ],
       "sold": 1771,
-      "stock": 8,
+      "stock": 7,
       "reserved": [
         {
           "id": "RSV1779865529908608",
