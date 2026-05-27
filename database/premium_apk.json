@@ -1886,27 +1886,9 @@
           "addedAt": 1779864852086
         }
       ],
-      "sold": 518,
+      "sold": 520,
       "stock": 2,
-      "reserved": [
-        {
-          "id": "RSV1779864992616420",
-          "items": [
-            {
-              "email": "dumtuhe@enziproject.my.id",
-              "password": "masuk123",
-              "addedAt": 1779864852086
-            },
-            {
-              "email": "dimtani@enziproject.my.id",
-              "password": "masuk123",
-              "addedAt": 1779864852086
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-05-27T06:56:32.616Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "CC7D",
