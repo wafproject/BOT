@@ -1916,30 +1916,9 @@
       "price": 5000,
       "descShort": "Full Seat",
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
-      "items": [
-        {
-          "email": "e563e55b@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779864809727
-        },
-        {
-          "email": "jsjdjfnd@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779864822444
-        },
-        {
-          "email": "0dha3nas@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779864822444
-        },
-        {
-          "email": "k9jdh5az@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779864822444
-        }
-      ],
+      "items": [],
       "sold": 1727,
-      "stock": 4,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1779864870994657",
@@ -2467,6 +2446,33 @@
           ],
           "qty": 1,
           "createdAt": "2026-05-27T06:57:16.406Z"
+        },
+        {
+          "id": "RSV1779865068994531",
+          "items": [
+            {
+              "email": "e563e55b@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779864809727
+            },
+            {
+              "email": "jsjdjfnd@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779864822444
+            },
+            {
+              "email": "0dha3nas@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779864822444
+            },
+            {
+              "email": "k9jdh5az@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779864822444
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-05-27T06:57:48.994Z"
         }
       ]
     },
