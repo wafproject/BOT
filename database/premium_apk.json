@@ -1894,106 +1894,6 @@
       "snk": "* Garansi 3 hari\n• Durasi aktif akun 5–7 hari\n• Maksimal login 3 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n\n🛡️ GARANSI\n• Hanya berlaku untuk backfree\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [
         {
-          "email": "902c8f20@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "3f3c148a@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "4a97e48b@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "4b8d8296@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "c4a2aa6d@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "6232b75a@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "b523fceb@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "4ad686f1@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "b29eadc2@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "f8a84cc5@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "40c77594@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "a0eaf8ce@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "c11d746b@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "ab423365@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "e7e0697b@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "0176cdf8@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "bfca2348@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "213c2d06@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "05f95639@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
-          "email": "8bc27a54@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1779923361878
-        },
-        {
           "email": "be29d12a@premiummin.store",
           "password": "masuk123",
           "addedAt": 1779923361878
@@ -2080,8 +1980,116 @@
         }
       ],
       "sold": 1776,
-      "stock": 37,
-      "reserved": []
+      "stock": 17,
+      "reserved": [
+        {
+          "id": "RSV1779923562537682",
+          "items": [
+            {
+              "email": "902c8f20@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "3f3c148a@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "4a97e48b@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "4b8d8296@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "c4a2aa6d@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "6232b75a@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "b523fceb@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "4ad686f1@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "b29eadc2@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "f8a84cc5@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "40c77594@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "a0eaf8ce@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "c11d746b@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "ab423365@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "e7e0697b@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "0176cdf8@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "bfca2348@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "213c2d06@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "05f95639@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            },
+            {
+              "email": "8bc27a54@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1779923361878
+            }
+          ],
+          "qty": 20,
+          "createdAt": "2026-05-27T23:12:42.537Z"
+        }
+      ]
     },
     {
       "code": "GPPLUSPRIVFULL",
