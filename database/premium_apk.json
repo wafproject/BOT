@@ -1874,9 +1874,30 @@
       "price": 28000,
       "descShort": "Fullseat Tanpa Renew",
       "snk": "* Full Garansi \n• Durasi aktif akun 20 - 30 hari\n• Maksimal login 2 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n• Garansi hanya berlaku untuk backfree (Pro hilang sebelum masa aktif habis)\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
-      "items": [],
+      "items": [
+        {
+          "email": "dumtuhe@enziproject.my.id",
+          "password": "masuk123",
+          "addedAt": 1779864852086
+        },
+        {
+          "email": "dimtani@enziproject.my.id",
+          "password": "masuk123",
+          "addedAt": 1779864852086
+        },
+        {
+          "email": "dungdung@enziproject.my.id",
+          "password": "masuk123",
+          "addedAt": 1779864852086
+        },
+        {
+          "email": "xiuziu@enziproject.my.id",
+          "password": "masuk123",
+          "addedAt": 1779864852086
+        }
+      ],
       "sold": 518,
-      "stock": 0,
+      "stock": 4,
       "reserved": []
     },
     {
