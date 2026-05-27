@@ -1876,16 +1876,6 @@
       "snk": "* Full Garansi \n• Durasi aktif akun 20 - 30 hari\n• Maksimal login 2 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n• Garansi hanya berlaku untuk backfree (Pro hilang sebelum masa aktif habis)\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [
         {
-          "email": "dumtuhe@enziproject.my.id",
-          "password": "masuk123",
-          "addedAt": 1779864852086
-        },
-        {
-          "email": "dimtani@enziproject.my.id",
-          "password": "masuk123",
-          "addedAt": 1779864852086
-        },
-        {
           "email": "dungdung@enziproject.my.id",
           "password": "masuk123",
           "addedAt": 1779864852086
@@ -1897,8 +1887,26 @@
         }
       ],
       "sold": 518,
-      "stock": 4,
-      "reserved": []
+      "stock": 2,
+      "reserved": [
+        {
+          "id": "RSV1779864992616420",
+          "items": [
+            {
+              "email": "dumtuhe@enziproject.my.id",
+              "password": "masuk123",
+              "addedAt": 1779864852086
+            },
+            {
+              "email": "dimtani@enziproject.my.id",
+              "password": "masuk123",
+              "addedAt": 1779864852086
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-05-27T06:56:32.616Z"
+        }
+      ]
     },
     {
       "code": "CC7D",
