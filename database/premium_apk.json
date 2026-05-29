@@ -551,10 +551,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "ruslanbolshoy@hhotmail.click",
-          "addedAt": 1774033618545
-        },
-        {
           "email": "matdreid@bb28.dev",
           "addedAt": 1774033619474
         },
@@ -751,9 +747,21 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 50,
+      "stock": 49,
       "sold": 480,
-      "reserved": []
+      "reserved": [
+        {
+          "id": "RSV1780048305154498",
+          "items": [
+            {
+              "email": "ruslanbolshoy@hhotmail.click",
+              "addedAt": 1774033618545
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-05-29T09:51:45.154Z"
+        }
+      ]
     },
     {
       "code": "VIU",
