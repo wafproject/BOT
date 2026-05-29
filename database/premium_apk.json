@@ -1878,26 +1878,9 @@
       "descShort": "Full Seat",
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [],
-      "sold": 1907,
+      "sold": 1909,
       "stock": 0,
       "reserved": [
-        {
-          "id": "RSV1780065294038846",
-          "items": [
-            {
-              "email": "40e8433f@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "956874ec@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-05-29T14:34:54.038Z"
-        },
         {
           "id": "RSV1780065297687809",
           "items": [
