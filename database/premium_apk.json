@@ -1878,92 +1878,9 @@
       "descShort": "Full Seat",
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [],
-      "sold": 1970,
+      "sold": 1985,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV1780065353101568",
-          "items": [
-            {
-              "email": "d078a48e@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "d343d1f5@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "a0b5d903@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "2fad4cbf@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "f453b608@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "ugphoncoba1@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "hasanasikul@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "astrajingga2005@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "nutrisary321@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "ugphoncoba12@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "ugphoncoba13@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "ugphoncoba15@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "ugphoncoba14@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "decullovers6@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            },
-            {
-              "email": "siswabrengsex40@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780065241661
-            }
-          ],
-          "qty": 15,
-          "createdAt": "2026-05-29T14:35:53.101Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "GPPLUSPRIVFULL",
