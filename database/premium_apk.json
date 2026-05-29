@@ -543,8 +543,34 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": "* Garansi 5 hari dihitung sejak tanggal pembelian \n• Akses email : https://emailqu.com/",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "u0nplof@enzipro.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1780073953718
+        },
+        {
+          "email": "73q9fz6@enzipro.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1780073953718
+        },
+        {
+          "email": "fyl01s4@enziproject.my.id",
+          "password": "Masuk123",
+          "addedAt": 1780073953718
+        },
+        {
+          "email": "yedczxh@premaja.online",
+          "password": "Masuk123",
+          "addedAt": 1780073953718
+        },
+        {
+          "email": "5r8ghvs@enziproject.web.id",
+          "password": "Masuk123",
+          "addedAt": 1780073953718
+        }
+      ],
+      "stock": 5,
       "sold": 33
     },
     {
