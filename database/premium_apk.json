@@ -748,20 +748,8 @@
         }
       ],
       "stock": 49,
-      "sold": 480,
-      "reserved": [
-        {
-          "id": "RSV1780048305154498",
-          "items": [
-            {
-              "email": "ruslanbolshoy@hhotmail.click",
-              "addedAt": 1774033618545
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-29T09:51:45.154Z"
-        }
-      ]
+      "sold": 481,
+      "reserved": []
     },
     {
       "code": "VIU",
