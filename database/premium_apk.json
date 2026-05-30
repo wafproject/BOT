@@ -538,16 +538,23 @@
       "price": 3000,
       "descShort": " Garansi 20 hari",
       "snk": " Garansi 20 Hari",
-      "items": [
-        {
-          "email": "jsjdhhd1@wafprem.biz.id",
-          "password": "Masuk12345",
-          "addedAt": 1780070145278
-        }
-      ],
+      "items": [],
       "sold": 93,
-      "stock": 1,
-      "reserved": []
+      "stock": 0,
+      "reserved": [
+        {
+          "id": "RSV1780153536259203",
+          "items": [
+            {
+              "email": "jsjdhhd1@wafprem.biz.id",
+              "password": "Masuk12345",
+              "addedAt": 1780070145278
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-05-30T15:05:36.259Z"
+        }
+      ]
     },
     {
       "code": "PICS",
