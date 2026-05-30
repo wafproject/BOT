@@ -539,22 +539,9 @@
       "descShort": " Garansi 20 hari",
       "snk": " Garansi 20 Hari",
       "items": [],
-      "sold": 93,
+      "sold": 94,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV1780153536259203",
-          "items": [
-            {
-              "email": "jsjdhhd1@wafprem.biz.id",
-              "password": "Masuk12345",
-              "addedAt": 1780070145278
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-30T15:05:36.259Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "PICS",
