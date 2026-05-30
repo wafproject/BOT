@@ -1937,10 +1937,6 @@
         },
         {
           "text": "baca snk dibawah",
-          "addedAt": 1777994031856
-        },
-        {
-          "text": "baca snk dibawah",
           "addedAt": 1777994485154
         },
         {
@@ -2001,7 +1997,20 @@
         }
       ],
       "sold": 318,
-      "stock": 21
+      "stock": 20,
+      "reserved": [
+        {
+          "id": "RSV1780152728360416",
+          "items": [
+            {
+              "text": "baca snk dibawah",
+              "addedAt": 1777994031856
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-05-30T14:52:08.360Z"
+        }
+      ]
     },
     {
       "code": "CCHEAD",
