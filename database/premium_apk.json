@@ -1868,51 +1868,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "8ecab715@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767372
-        },
-        {
-          "email": "1e4909f7@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767372
-        },
-        {
-          "email": "f3534ee6@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767372
-        },
-        {
-          "email": "439a4243@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767372
-        },
-        {
-          "email": "d277d193@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767372
-        },
-        {
-          "email": "122f914a@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767372
-        },
-        {
-          "email": "2ec2b945@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767372
-        },
-        {
-          "email": "d9dcb945@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767372
-        },
-        {
-          "email": "b2643d52@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767372
-        },
-        {
           "email": "b50f9f2e@premiummin.store",
           "password": "masuk123",
           "addedAt": 1780226767375
@@ -2249,8 +2204,61 @@
         }
       ],
       "sold": 1990,
-      "stock": 76,
-      "reserved": []
+      "stock": 67,
+      "reserved": [
+        {
+          "id": "RSV1780226813436759",
+          "items": [
+            {
+              "email": "8ecab715@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767372
+            },
+            {
+              "email": "1e4909f7@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767372
+            },
+            {
+              "email": "f3534ee6@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767372
+            },
+            {
+              "email": "439a4243@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767372
+            },
+            {
+              "email": "d277d193@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767372
+            },
+            {
+              "email": "122f914a@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767372
+            },
+            {
+              "email": "2ec2b945@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767372
+            },
+            {
+              "email": "d9dcb945@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767372
+            },
+            {
+              "email": "b2643d52@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767372
+            }
+          ],
+          "qty": 9,
+          "createdAt": "2026-05-31T11:26:53.436Z"
+        }
+      ]
     },
     {
       "code": "GPPLUSPRIVFULL",
