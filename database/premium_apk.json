@@ -99,23 +99,13 @@
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/",
       "items": [
         {
-          "email": "jxnapjy@premaja.online",
-          "password": "Masuk123",
-          "addedAt": 1780074023520
-        },
-        {
-          "email": "pqvmu2m@premaja.online",
-          "password": "Masuk123",
-          "addedAt": 1780074023520
-        },
-        {
           "email": "r97k3y1@premaja.online",
           "password": "Masuk123",
           "addedAt": 1780074023520
         }
       ],
-      "stock": 3,
-      "sold": 274,
+      "stock": 1,
+      "sold": 276,
       "reserved": []
     },
     {
