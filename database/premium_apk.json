@@ -1811,22 +1811,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 476,
+      "sold": 477,
       "stock": 79,
-      "reserved": [
-        {
-          "id": "RSV1780227315324108",
-          "items": [
-            {
-              "email": "lpahuc685@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042825377
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-05-31T11:35:15.324Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "GROK3D",
