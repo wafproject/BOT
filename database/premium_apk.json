@@ -1416,11 +1416,6 @@
       "snk": "— Khusus TV Only\n— Garansi login\n— Akun Private\n— Hanya support tayangan tv nasional\n— Bisa nonton liga 1",
       "items": [
         {
-          "email": "lpahuc685@gmail.com",
-          "password": "asede123",
-          "addedAt": 1774042825377
-        },
-        {
           "email": "pauyrt53@gmail.com",
           "password": "asede123",
           "addedAt": 1774042826179
@@ -1817,8 +1812,21 @@
         }
       ],
       "sold": 476,
-      "stock": 80,
-      "reserved": []
+      "stock": 79,
+      "reserved": [
+        {
+          "id": "RSV1780227315324108",
+          "items": [
+            {
+              "email": "lpahuc685@gmail.com",
+              "password": "asede123",
+              "addedAt": 1774042825377
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-05-31T11:35:15.324Z"
+        }
+      ]
     },
     {
       "code": "GROK3D",
