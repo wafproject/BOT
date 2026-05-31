@@ -1868,56 +1868,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "c7943290@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767375
-        },
-        {
-          "email": "83df3c34@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767375
-        },
-        {
-          "email": "3d08ecc2@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767375
-        },
-        {
-          "email": "0d254f26@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767375
-        },
-        {
-          "email": "191909f6@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767375
-        },
-        {
-          "email": "5bc3f5ec@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767375
-        },
-        {
-          "email": "71e1c826@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767375
-        },
-        {
-          "email": "6308e849@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767375
-        },
-        {
-          "email": "40565a1a@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767375
-        },
-        {
-          "email": "dd9a3ca1@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780226767375
-        },
-        {
           "email": "840d976b@premiummin.store",
           "password": "masuk123",
           "addedAt": 1780226767375
@@ -1969,7 +1919,7 @@
         }
       ],
       "sold": 1992,
-      "stock": 20,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1780226813436759",
@@ -2289,6 +2239,63 @@
           ],
           "qty": 10,
           "createdAt": "2026-05-31T11:28:19.499Z"
+        },
+        {
+          "id": "RSV1780227020434873",
+          "items": [
+            {
+              "email": "c7943290@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767375
+            },
+            {
+              "email": "83df3c34@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767375
+            },
+            {
+              "email": "3d08ecc2@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767375
+            },
+            {
+              "email": "0d254f26@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767375
+            },
+            {
+              "email": "191909f6@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767375
+            },
+            {
+              "email": "5bc3f5ec@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767375
+            },
+            {
+              "email": "71e1c826@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767375
+            },
+            {
+              "email": "6308e849@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767375
+            },
+            {
+              "email": "40565a1a@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767375
+            },
+            {
+              "email": "dd9a3ca1@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780226767375
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-05-31T11:30:20.434Z"
         }
       ]
     },
