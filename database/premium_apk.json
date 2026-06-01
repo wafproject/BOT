@@ -1933,15 +1933,10 @@
           "email": "ferinaindriyantibangq@gmail.com",
           "password": "masuk123",
           "addedAt": 1780324057498
-        },
-        {
-          "email": "afrirismadhoaq@gmail.com",
-          "password": "masuk123",
-          "addedAt": 1780324057498
         }
       ],
       "sold": 2068,
-      "stock": 19,
+      "stock": 18,
       "reserved": []
     },
     {
