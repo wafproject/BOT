@@ -65,9 +65,13 @@
         {
           "link": "tes",
           "addedAt": 1780302540217
+        },
+        {
+          "link": "tes",
+          "addedAt": 1780302575257
         }
       ],
-      "stock": 1,
+      "stock": 2,
       "sold": 565,
       "reserved": [
         {
