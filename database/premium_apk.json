@@ -126,21 +126,8 @@
         }
       ],
       "stock": 3,
-      "sold": 277,
-      "reserved": [
-        {
-          "id": "RSV1780324177215171",
-          "items": [
-            {
-              "email": "r30b4rh@premaja.online",
-              "password": "Masuk123",
-              "addedAt": 1780314342679
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-01T14:29:37.216Z"
-        }
-      ]
+      "sold": 278,
+      "reserved": []
     },
     {
       "code": "CANEDU",
