@@ -1878,15 +1878,10 @@
           "email": "275cdc4d@premiummin.store",
           "password": "masuk123",
           "addedAt": 1780324057497
-        },
-        {
-          "email": "dd7501e4@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780324057497
         }
       ],
       "sold": 2068,
-      "stock": 8,
+      "stock": 7,
       "reserved": []
     },
     {
