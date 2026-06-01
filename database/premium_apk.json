@@ -1938,15 +1938,10 @@
           "email": "afrirismadhoaq@gmail.com",
           "password": "masuk123",
           "addedAt": 1780324057498
-        },
-        {
-          "email": "sufitrobishahbangq@gmail.com",
-          "password": "masuk123",
-          "addedAt": 1780324057498
         }
       ],
       "sold": 2068,
-      "stock": 20,
+      "stock": 19,
       "reserved": []
     },
     {
