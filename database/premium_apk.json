@@ -591,10 +591,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "matdreid@bb28.dev",
-          "addedAt": 1774033619474
-        },
-        {
           "email": "giztu@hung89.click",
           "addedAt": 1774033620398
         },
@@ -787,8 +783,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 49,
-      "sold": 481,
+      "stock": 48,
+      "sold": 482,
       "reserved": []
     },
     {
