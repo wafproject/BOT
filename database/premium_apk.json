@@ -1848,15 +1848,10 @@
           "email": "61c6b78a@premiummin.store",
           "password": "masuk123",
           "addedAt": 1780324057497
-        },
-        {
-          "email": "8138a471@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780324057497
         }
       ],
       "sold": 2068,
-      "stock": 2,
+      "stock": 1,
       "reserved": []
     },
     {
