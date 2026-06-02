@@ -553,15 +553,10 @@
           "email": "m6qgnd2@kulipremium.biz.id",
           "password": "masuk12345",
           "addedAt": 1780420672219
-        },
-        {
-          "email": "ag211e9@enziproject.my.id",
-          "password": "masuk12345",
-          "addedAt": 1780420672219
         }
       ],
       "sold": 94,
-      "stock": 4,
+      "stock": 3,
       "reserved": []
     },
     {
