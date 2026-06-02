@@ -558,15 +558,10 @@
           "email": "ag211e9@enziproject.my.id",
           "password": "masuk12345",
           "addedAt": 1780420672219
-        },
-        {
-          "email": "3euaifw@enziproject.web.id",
-          "password": "masuk12345",
-          "addedAt": 1780420672219
         }
       ],
       "sold": 94,
-      "stock": 5,
+      "stock": 4,
       "reserved": []
     },
     {
