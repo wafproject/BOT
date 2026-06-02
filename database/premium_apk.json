@@ -538,15 +538,9 @@
       "price": 3000,
       "descShort": " Garansi 20 hari",
       "snk": " Garansi 20 Hari",
-      "items": [
-        {
-          "email": "yurasbb@wafprem.biz.id",
-          "password": "masuk12345",
-          "addedAt": 1780420672219
-        }
-      ],
+      "items": [],
       "sold": 94,
-      "stock": 1,
+      "stock": 0,
       "reserved": []
     },
     {
