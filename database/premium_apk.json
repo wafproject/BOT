@@ -1815,7 +1815,7 @@
           "addedAt": 1780413240409
         }
       ],
-      "sold": 2129,
+      "sold": 2130,
       "stock": 1,
       "reserved": [
         {
@@ -1829,18 +1829,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780414442673308",
-          "items": [
-            {
-              "email": "suhartatikfaidulbromq@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780413240409
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-02T15:34:02.673Z"
         }
       ]
     },
