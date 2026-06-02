@@ -1860,7 +1860,7 @@
           "addedAt": 1780361057193
         }
       ],
-      "sold": 2095,
+      "sold": 2096,
       "stock": 7,
       "reserved": [
         {
@@ -1874,18 +1874,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780364104912562",
-          "items": [
-            {
-              "email": "‎x48sjn@enziproject.my.id",
-              "password": "masuk123",
-              "addedAt": 1780361057193
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-02T01:35:04.913Z"
         }
       ]
     },
