@@ -1830,7 +1830,7 @@
           "addedAt": 1780361057193
         }
       ],
-      "sold": 2098,
+      "sold": 2101,
       "stock": 1,
       "reserved": [
         {
@@ -1856,28 +1856,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:42:59.456Z"
-        },
-        {
-          "id": "RSV1780364591262744",
-          "items": [
-            {
-              "email": "‎daef7h@enziproject.my.id",
-              "password": "masuk123",
-              "addedAt": 1780361057193
-            },
-            {
-              "email": "‎hsjdkdn@enziproject.my.id",
-              "password": "masuk123",
-              "addedAt": 1780361057193
-            },
-            {
-              "email": "‎ujgfd6@enziproject.my.id",
-              "password": "masuk123",
-              "addedAt": 1780361057193
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-06-02T01:43:11.262Z"
         }
       ]
     },
