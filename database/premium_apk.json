@@ -538,9 +538,35 @@
       "price": 3000,
       "descShort": " Garansi 20 hari",
       "snk": " Garansi 20 Hari",
-      "items": [],
+      "items": [
+        {
+          "email": "yurasbb@wafprem.biz.id",
+          "password": "masuk12345",
+          "addedAt": 1780420672219
+        },
+        {
+          "email": "jshdhd10@wafprem.biz.id",
+          "password": "masuk12345",
+          "addedAt": 1780420672219
+        },
+        {
+          "email": "m6qgnd2@kulipremium.biz.id",
+          "password": "masuk12345",
+          "addedAt": 1780420672219
+        },
+        {
+          "email": "ag211e9@enziproject.my.id",
+          "password": "masuk12345",
+          "addedAt": 1780420672219
+        },
+        {
+          "email": "3euaifw@enziproject.web.id",
+          "password": "masuk12345",
+          "addedAt": 1780420672219
+        }
+      ],
       "sold": 94,
-      "stock": 0,
+      "stock": 5,
       "reserved": []
     },
     {
