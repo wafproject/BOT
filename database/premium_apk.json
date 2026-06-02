@@ -1818,10 +1818,20 @@
           "email": "b98c6396@premiummin.store",
           "password": "masuk123",
           "addedAt": 1780405391510
+        },
+        {
+          "email": "suhartatikfaidulbromq@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1780413240409
+        },
+        {
+          "email": "masrukhidaroji6694q@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1780413240409
         }
       ],
       "sold": 2127,
-      "stock": 2,
+      "stock": 4,
       "reserved": [
         {
           "id": "RSV1780362536090628",
