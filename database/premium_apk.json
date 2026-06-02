@@ -1837,19 +1837,27 @@
       "snk": "* Full Garansi \n• Durasi aktif akun 20 - 30 hari\n• Maksimal login 2 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n• Garansi hanya berlaku untuk backfree (Pro hilang sebelum masa aktif habis)\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan",
       "items": [
         {
-          "email": "kuraxhi@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1780419628558
-        },
-        {
           "email": "chuxa@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1780419628558
         }
       ],
       "sold": 522,
-      "stock": 2,
-      "reserved": []
+      "stock": 1,
+      "reserved": [
+        {
+          "id": "RSV17804210424526",
+          "items": [
+            {
+              "email": "kuraxhi@wafprem.biz.id",
+              "password": "masuk123",
+              "addedAt": 1780419628558
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-02T17:24:02.452Z"
+        }
+      ]
     },
     {
       "code": "CC7D",
