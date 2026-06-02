@@ -1985,22 +1985,9 @@
           "addedAt": 1780361057193
         }
       ],
-      "sold": 2071,
+      "sold": 2072,
       "stock": 32,
-      "reserved": [
-        {
-          "id": "RSV1780361347151303",
-          "items": [
-            {
-              "email": "c2eb1775@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780361057193
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-02T00:49:07.151Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "GPPLUSPRIVFULL",
