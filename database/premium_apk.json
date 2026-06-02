@@ -1845,7 +1845,7 @@
           "addedAt": 1780404881275
         }
       ],
-      "sold": 2109,
+      "sold": 2119,
       "stock": 7,
       "reserved": [
         {
@@ -1859,63 +1859,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780404996100856",
-          "items": [
-            {
-              "email": "0cc182bc@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780404881275
-            },
-            {
-              "email": "2d29df00@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780404881275
-            },
-            {
-              "email": "9355ea7f@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780404881275
-            },
-            {
-              "email": "7b06454e@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780404881275
-            },
-            {
-              "email": "fd7de4f9@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780404881275
-            },
-            {
-              "email": "4f2ddcf8@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780404881275
-            },
-            {
-              "email": "e4095fcb@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780404881275
-            },
-            {
-              "email": "5d106f96@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780404881275
-            },
-            {
-              "email": "11905da8@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780404881275
-            },
-            {
-              "email": "bd1c6df7@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780404881275
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-02T12:56:36.100Z"
         },
         {
           "id": "RSV1780405054372534",
