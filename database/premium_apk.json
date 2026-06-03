@@ -594,10 +594,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "giztu@hung89.click",
-          "addedAt": 1774033620398
-        },
-        {
           "email": "shatilova08@we-ede.top",
           "addedAt": 1774033621325
         },
@@ -786,9 +782,21 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 48,
+      "stock": 47,
       "sold": 482,
-      "reserved": []
+      "reserved": [
+        {
+          "id": "RSV1780472338004127",
+          "items": [
+            {
+              "email": "giztu@hung89.click",
+              "addedAt": 1774033620398
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-03T07:38:58.004Z"
+        }
+      ]
     },
     {
       "code": "VIU",
