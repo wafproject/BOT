@@ -108,8 +108,29 @@
       "price": 3000,
       "descShort": "Bisa inv 100 member",
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "v7p4r78@premaja.online",
+          "password": "Masuk123",
+          "addedAt": 1780501692331
+        },
+        {
+          "email": "37o7ygn@premaja.online",
+          "password": "Masuk123",
+          "addedAt": 1780501692331
+        },
+        {
+          "email": "kg1h3nh@premaja.online",
+          "password": "Masuk123",
+          "addedAt": 1780501692331
+        },
+        {
+          "email": "3yzaoa4@premaja.online",
+          "password": "Masuk123",
+          "addedAt": 1780501692331
+        }
+      ],
+      "stock": 4,
       "sold": 286,
       "reserved": []
     },
