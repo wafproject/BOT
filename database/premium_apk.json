@@ -1958,7 +1958,7 @@
           "addedAt": 1780526406512
         }
       ],
-      "sold": 2133,
+      "sold": 2143,
       "stock": 19,
       "reserved": [
         {
@@ -1972,63 +1972,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780530366999835",
-          "items": [
-            {
-              "email": "cb740b6e@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780526406512
-            },
-            {
-              "email": "d6122838@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780526406512
-            },
-            {
-              "email": "e6ff7ef8@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780526406512
-            },
-            {
-              "email": "9b57add5@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780526406512
-            },
-            {
-              "email": "291efb90@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780526406512
-            },
-            {
-              "email": "4a93b116@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780526406512
-            },
-            {
-              "email": "25ac4000@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780526406512
-            },
-            {
-              "email": "17ae0a14@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780526406512
-            },
-            {
-              "email": "b052a8c9@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780526406512
-            },
-            {
-              "email": "f7e3ecbd@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780526406512
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-03T23:46:06.999Z"
         }
       ]
     },
