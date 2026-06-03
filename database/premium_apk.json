@@ -612,10 +612,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "lecxis3@atpm.us",
-          "addedAt": 1774033623238
-        },
-        {
           "email": "28goosegf@xuseca.cloud",
           "addedAt": 1774033623927
         },
@@ -792,8 +788,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 45,
-      "sold": 485,
+      "stock": 44,
+      "sold": 486,
       "reserved": []
     },
     {
