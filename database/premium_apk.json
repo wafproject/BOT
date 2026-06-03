@@ -612,10 +612,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "lizarra@houtlook.xyz",
-          "addedAt": 1774033622183
-        },
-        {
           "email": "lecxis3@atpm.us",
           "addedAt": 1774033623238
         },
@@ -796,8 +792,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 46,
-      "sold": 484,
+      "stock": 45,
+      "sold": 485,
       "reserved": []
     },
     {
