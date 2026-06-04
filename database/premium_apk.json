@@ -1852,36 +1852,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "f662dbcf@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780526406512
-        },
-        {
-          "email": "c238ce1f@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780526406512
-        },
-        {
-          "email": "d6732ed3@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780526406512
-        },
-        {
-          "email": "9fb771b3@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780526406512
-        },
-        {
-          "email": "ba9b56d2@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780526406512
-        },
-        {
-          "email": "defde7bc@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780526406512
-        },
-        {
           "email": "stokcaca557@gmail.com",
           "password": "masuk123",
           "addedAt": 1780526406512
@@ -1903,7 +1873,7 @@
         }
       ],
       "sold": 2151,
-      "stock": 10,
+      "stock": 4,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1928,6 +1898,43 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-04T04:24:25.341Z"
+        },
+        {
+          "id": "RSV1780547087809877",
+          "items": [
+            {
+              "email": "f662dbcf@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780526406512
+            },
+            {
+              "email": "c238ce1f@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780526406512
+            },
+            {
+              "email": "d6732ed3@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780526406512
+            },
+            {
+              "email": "9fb771b3@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780526406512
+            },
+            {
+              "email": "ba9b56d2@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780526406512
+            },
+            {
+              "email": "defde7bc@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780526406512
+            }
+          ],
+          "qty": 6,
+          "createdAt": "2026-06-04T04:24:47.809Z"
         }
       ]
     },
