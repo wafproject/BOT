@@ -1325,13 +1325,22 @@
         },
         {
           "text": "Kirim data ke admin wa/6287731282876 / @enziwaf"
-        },
-        {
-          "text": "Kirim data ke admin wa/6287731282876 / @enziwaf"
         }
       ],
-      "stock": 16,
-      "sold": 4
+      "stock": 15,
+      "sold": 4,
+      "reserved": [
+        {
+          "id": "RSV1780573475015162",
+          "items": [
+            {
+              "text": "Kirim data ke admin wa/6287731282876 / @enziwaf"
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-04T11:44:35.015Z"
+        }
+      ]
     },
     {
       "code": "PICS1B",
