@@ -607,10 +607,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "28goosegf@xuseca.cloud",
-          "addedAt": 1774033623927
-        },
-        {
           "email": "foible67@karbonaielite.com",
           "addedAt": 1774033625312
         },
@@ -783,8 +779,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 44,
-      "sold": 486,
+      "stock": 43,
+      "sold": 487,
       "reserved": []
     },
     {
