@@ -597,10 +597,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "foible67@karbonaielite.com",
-          "addedAt": 1774033625312
-        },
-        {
           "email": "cinthiajicmv@monyal.shop",
           "addedAt": 1774033626365
         },
@@ -769,8 +765,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 43,
-      "sold": 487,
+      "stock": 42,
+      "sold": 488,
       "reserved": []
     },
     {
