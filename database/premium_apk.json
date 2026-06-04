@@ -1862,7 +1862,7 @@
           "addedAt": 1780526406512
         }
       ],
-      "sold": 2158,
+      "sold": 2159,
       "stock": 3,
       "reserved": [
         {
@@ -1876,18 +1876,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780547529025622",
-          "items": [
-            {
-              "email": "stokcaca557@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780526406512
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-04T04:32:09.025Z"
         }
       ]
     },
