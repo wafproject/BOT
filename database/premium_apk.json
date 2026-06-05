@@ -169,14 +169,8 @@
       "price": 3000,
       "descShort": "Bisa inv 100 member",
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/",
-      "items": [
-        {
-          "email": "tbs55ud@wafprem.biz.id",
-          "password": "masuk123 zeahhnp@wafprem.biz.id",
-          "addedAt": 1780679223139
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 290,
       "reserved": []
     },
