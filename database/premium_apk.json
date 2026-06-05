@@ -834,6 +834,11 @@
       "snk": " • Viu private disarankan tetap 1 device / max 2 device • Garansi 1 bulan • Akun terblokir = NOGAR • Dilarang ubah pass / DENDA 5x lipat • Akun tidak include paket viu+",
       "items": [
         {
+          "email": "6289604001691",
+          "password": "asede123",
+          "addedAt": 1774206972363
+        },
+        {
           "email": "6284954956081",
           "password": "asede123",
           "addedAt": 1774206973270
@@ -1214,7 +1219,7 @@
           "addedAt": 1774207067942
         }
       ],
-      "stock": 76,
+      "stock": 77,
       "sold": 297,
       "reserved": [
         {
@@ -1228,18 +1233,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-05-20T17:59:38.691Z"
-        },
-        {
-          "id": "RSV1780659859859833",
-          "items": [
-            {
-              "email": "6289604001691",
-              "password": "asede123",
-              "addedAt": 1774206972363
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-05T11:44:19.860Z"
         }
       ]
     },
