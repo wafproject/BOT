@@ -1911,15 +1911,10 @@
           "email": "vindaiwangkisaw@gmail.com",
           "password": "masuk123",
           "addedAt": 1780662743475
-        },
-        {
-          "email": "angeliamerryeaanw@gmail.com",
-          "password": "masuk123",
-          "addedAt": 1780662743475
         }
       ],
       "sold": 2185,
-      "stock": 12,
+      "stock": 11,
       "reserved": [
         {
           "id": "RSV1780362536090628",
