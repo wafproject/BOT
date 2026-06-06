@@ -665,10 +665,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "cinthiajicmv@monyal.shop",
-          "addedAt": 1774033626365
-        },
-        {
           "email": "rodionrybachuk@thaitudang.xyz",
           "addedAt": 1774033627329
         },
@@ -833,8 +829,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 42,
-      "sold": 488,
+      "stock": 41,
+      "sold": 489,
       "reserved": []
     },
     {
