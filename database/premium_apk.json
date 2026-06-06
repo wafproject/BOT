@@ -1858,31 +1858,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "ea91f802@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780717453296
-        },
-        {
-          "email": "a97b0e63@premiummin.store",
-          "password": "masuk123",
-          "addedAt": 1780717453296
-        },
-        {
-          "email": "vindaiwangkisaw@gmail.com",
-          "password": "masuk123",
-          "addedAt": 1780717453296
-        },
-        {
-          "email": "angeliamerryeaanw@gmail.com",
-          "password": "masuk123",
-          "addedAt": 1780717453296
-        },
-        {
-          "email": "fewupa@brexyv.biz.id",
-          "password": "masuk123",
-          "addedAt": 1780717453296
-        },
-        {
           "email": "kamuro@myrowsx.web.id",
           "password": "masuk123",
           "addedAt": 1780717453296
@@ -1929,7 +1904,7 @@
         }
       ],
       "sold": 2193,
-      "stock": 14,
+      "stock": 9,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1942,6 +1917,38 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
+        },
+        {
+          "id": "RSV1780717694785924",
+          "items": [
+            {
+              "email": "ea91f802@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780717453296
+            },
+            {
+              "email": "a97b0e63@premiummin.store",
+              "password": "masuk123",
+              "addedAt": 1780717453296
+            },
+            {
+              "email": "vindaiwangkisaw@gmail.com",
+              "password": "masuk123",
+              "addedAt": 1780717453296
+            },
+            {
+              "email": "angeliamerryeaanw@gmail.com",
+              "password": "masuk123",
+              "addedAt": 1780717453296
+            },
+            {
+              "email": "fewupa@brexyv.biz.id",
+              "password": "masuk123",
+              "addedAt": 1780717453296
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-06-06T03:48:14.785Z"
         }
       ]
     },
