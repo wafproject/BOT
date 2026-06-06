@@ -192,21 +192,8 @@
         }
       ],
       "stock": 4,
-      "sold": 290,
-      "reserved": [
-        {
-          "id": "RSV1780717838551982",
-          "items": [
-            {
-              "email": "tbs55ud@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1780679273655
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-06T03:50:38.551Z"
-        }
-      ]
+      "sold": 291,
+      "reserved": []
     },
     {
       "code": "CANEDU",
