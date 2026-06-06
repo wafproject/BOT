@@ -1851,9 +1851,25 @@
       "price": 8000,
       "descShort": "Full Seat",
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
-      "items": [],
+      "items": [
+        {
+          "email": "xibuto@gxrevsx.web.id",
+          "password": "masuk123",
+          "addedAt": 1780717453296
+        },
+        {
+          "email": "rocasi@premisxv.web.id",
+          "password": "masuk123",
+          "addedAt": 1780717453296
+        },
+        {
+          "email": "moteru@oxygov.biz.id",
+          "password": "masuk123",
+          "addedAt": 1780717453296
+        }
+      ],
       "sold": 2204,
-      "stock": 0,
+      "stock": 3,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1866,28 +1882,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780717799709590",
-          "items": [
-            {
-              "email": "xibuto@gxrevsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1780717453296
-            },
-            {
-              "email": "rocasi@premisxv.web.id",
-              "password": "masuk123",
-              "addedAt": 1780717453296
-            },
-            {
-              "email": "moteru@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1780717453296
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-06-06T03:49:59.709Z"
         }
       ]
     },
