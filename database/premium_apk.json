@@ -1948,7 +1948,7 @@
           "addedAt": 1780737146828
         }
       ],
-      "sold": 2212,
+      "sold": 2213,
       "stock": 21,
       "reserved": [
         {
@@ -1962,18 +1962,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780738272509478",
-          "items": [
-            {
-              "email": "e538644e@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780737146828
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-06T09:31:12.509Z"
         }
       ]
     },
