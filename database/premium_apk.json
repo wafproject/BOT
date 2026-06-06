@@ -171,11 +171,6 @@
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/",
       "items": [
         {
-          "email": "tbs55ud@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1780679273655
-        },
-        {
           "email": "zeahhnp@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1780679273655
@@ -196,9 +191,22 @@
           "addedAt": 1780679273655
         }
       ],
-      "stock": 5,
+      "stock": 4,
       "sold": 290,
-      "reserved": []
+      "reserved": [
+        {
+          "id": "RSV1780717838551982",
+          "items": [
+            {
+              "email": "tbs55ud@wafprem.biz.id",
+              "password": "masuk123",
+              "addedAt": 1780679273655
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-06T03:50:38.551Z"
+        }
+      ]
     },
     {
       "code": "CANEDU",
