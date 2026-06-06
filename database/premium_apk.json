@@ -1798,11 +1798,6 @@
       "snk": "Garansi 1 Hari",
       "items": [
         {
-          "email": "tomrfgty@zovlyx.web.id",
-          "password": "Masuk123@",
-          "addedAt": 1780722664068
-        },
-        {
           "email": "taehyung0jwb3@zovlyx.sbs",
           "password": "Masuk123@",
           "addedAt": 1780722664068
@@ -1819,8 +1814,21 @@
         }
       ],
       "sold": 97,
-      "stock": 4,
-      "reserved": []
+      "stock": 3,
+      "reserved": [
+        {
+          "id": "RSV1780733687059859",
+          "items": [
+            {
+              "email": "tomrfgty@zovlyx.web.id",
+              "password": "Masuk123@",
+              "addedAt": 1780722664068
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-06T08:14:47.060Z"
+        }
+      ]
     },
     {
       "code": "GPPLUSPRIV",
