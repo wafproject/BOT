@@ -171,11 +171,6 @@
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/",
       "items": [
         {
-          "email": "zeahhnp@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1780679273655
-        },
-        {
           "email": "v4mp0yk@kulipremium.biz.id",
           "password": "masuk123",
           "addedAt": 1780679273655
@@ -191,8 +186,8 @@
           "addedAt": 1780679273655
         }
       ],
-      "stock": 4,
-      "sold": 291,
+      "stock": 3,
+      "sold": 292,
       "reserved": []
     },
     {
