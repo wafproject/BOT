@@ -1805,9 +1805,35 @@
       "price": 3000,
       "descShort": "Garansi 24 Jam",
       "snk": "Garansi 1 Hari",
-      "items": [],
+      "items": [
+        {
+          "email": "gmeww925wvnhkwl5@bapaklo.my.id",
+          "password": "Masuk123@",
+          "addedAt": 1780722664068
+        },
+        {
+          "email": "tomrfgty@zovlyx.web.id",
+          "password": "Masuk123@",
+          "addedAt": 1780722664068
+        },
+        {
+          "email": "taehyung0jwb3@zovlyx.sbs",
+          "password": "Masuk123@",
+          "addedAt": 1780722664068
+        },
+        {
+          "email": "ichigo_wild5177@cuekin.my.id",
+          "password": "Masuk123@",
+          "addedAt": 1780722664068
+        },
+        {
+          "email": "mqsk0a2t7fv9vwd6@zovlyx.sbs",
+          "password": "Masuk123@",
+          "addedAt": 1780722664068
+        }
+      ],
       "sold": 96,
-      "stock": 0
+      "stock": 5
     },
     {
       "code": "GPPLUSPRIV",
