@@ -817,20 +817,8 @@
         }
       ],
       "stock": 39,
-      "sold": 490,
-      "reserved": [
-        {
-          "id": "RSV1780811411092463",
-          "items": [
-            {
-              "email": "rukiddn99@nguyenvuquocanh.com",
-              "addedAt": 1774033628308
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-07T05:50:11.093Z"
-        }
-      ]
+      "sold": 491,
+      "reserved": []
     },
     {
       "code": "VIU",
