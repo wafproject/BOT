@@ -1846,7 +1846,7 @@
           "addedAt": 1780812026193
         }
       ],
-      "sold": 2277,
+      "sold": 2278,
       "stock": 7,
       "reserved": [
         {
@@ -1860,18 +1860,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780822792052921",
-          "items": [
-            {
-              "email": "queensimanjuntak89@caqcut.top",
-              "password": "masuk123",
-              "addedAt": 1780812026193
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-07T08:59:52.052Z"
         }
       ]
     },
