@@ -1816,7 +1816,7 @@
           "addedAt": 1780812026193
         }
       ],
-      "sold": 2283,
+      "sold": 2284,
       "stock": 1,
       "reserved": [
         {
@@ -1830,18 +1830,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780826962224510",
-          "items": [
-            {
-              "email": "kusumawatiwahyuningsih7598w@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780812026193
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-07T10:09:22.224Z"
         }
       ]
     },
