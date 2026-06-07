@@ -1811,31 +1811,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "mahesayulianti22@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
-          "email": "laswipuspita44@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
-          "email": "jefrifirgantoro91@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
-          "email": "warsitasiregar5@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
-          "email": "endrairawan51@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
           "email": "jasmanithamrin15@caqcut.top",
           "password": "masuk123",
           "addedAt": 1780812026193
@@ -1892,7 +1867,7 @@
         }
       ],
       "sold": 2266,
-      "stock": 16,
+      "stock": 11,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1927,6 +1902,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-07T08:22:35.264Z"
+        },
+        {
+          "id": "RSV1780821147250456",
+          "items": [
+            {
+              "email": "mahesayulianti22@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            },
+            {
+              "email": "laswipuspita44@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            },
+            {
+              "email": "jefrifirgantoro91@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            },
+            {
+              "email": "warsitasiregar5@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            },
+            {
+              "email": "endrairawan51@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-06-07T08:32:27.251Z"
         }
       ]
     },
