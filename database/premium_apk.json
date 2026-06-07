@@ -1811,11 +1811,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "rafidsudiati24@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
           "email": "ellahutasoit64@caqcut.top",
           "password": "masuk123",
           "addedAt": 1780812026193
@@ -1912,7 +1907,7 @@
         }
       ],
       "sold": 2264,
-      "stock": 20,
+      "stock": 19,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1937,6 +1932,18 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-07T08:10:06.438Z"
+        },
+        {
+          "id": "RSV1780819834215677",
+          "items": [
+            {
+              "email": "rafidsudiati24@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-07T08:10:34.215Z"
         }
       ]
     },
