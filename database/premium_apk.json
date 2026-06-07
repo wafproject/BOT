@@ -605,22 +605,9 @@
           "addedAt": 1780420730205
         }
       ],
-      "sold": 94,
+      "sold": 95,
       "stock": 4,
-      "reserved": [
-        {
-          "id": "RSV1780808350871384",
-          "items": [
-            {
-              "email": "yurasbb@wafprem.biz.id",
-              "password": "Masuk12345",
-              "addedAt": 1780420730205
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-07T04:59:10.871Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "PICS",
