@@ -660,10 +660,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "rukiddn99@nguyenvuquocanh.com",
-          "addedAt": 1774033628308
-        },
-        {
           "email": "n3ms@ourl.me",
           "addedAt": 1774033629381
         },
@@ -820,9 +816,21 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 40,
+      "stock": 39,
       "sold": 490,
-      "reserved": []
+      "reserved": [
+        {
+          "id": "RSV1780811411092463",
+          "items": [
+            {
+              "email": "rukiddn99@nguyenvuquocanh.com",
+              "addedAt": 1774033628308
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-07T05:50:11.093Z"
+        }
+      ]
     },
     {
       "code": "VIU",
