@@ -665,10 +665,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "rodionrybachuk@thaitudang.xyz",
-          "addedAt": 1774033627329
-        },
-        {
           "email": "rukiddn99@nguyenvuquocanh.com",
           "addedAt": 1774033628308
         },
@@ -829,8 +825,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 41,
-      "sold": 489,
+      "stock": 40,
+      "sold": 490,
       "reserved": []
     },
     {
