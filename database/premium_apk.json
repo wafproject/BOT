@@ -1826,7 +1826,7 @@
           "addedAt": 1780812026193
         }
       ],
-      "sold": 2280,
+      "sold": 2282,
       "stock": 3,
       "reserved": [
         {
@@ -1840,23 +1840,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780823397664543",
-          "items": [
-            {
-              "email": "porsewa2@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1780812026193
-            },
-            {
-              "email": "alfathwastu8581w@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780812026193
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-07T09:09:57.664Z"
         }
       ]
     },
