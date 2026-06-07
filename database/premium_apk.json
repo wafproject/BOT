@@ -1876,7 +1876,7 @@
           "addedAt": 1780812026193
         }
       ],
-      "sold": 2266,
+      "sold": 2271,
       "stock": 13,
       "reserved": [
         {
@@ -1890,38 +1890,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780821147250456",
-          "items": [
-            {
-              "email": "mahesayulianti22@caqcut.top",
-              "password": "masuk123",
-              "addedAt": 1780812026193
-            },
-            {
-              "email": "laswipuspita44@caqcut.top",
-              "password": "masuk123",
-              "addedAt": 1780812026193
-            },
-            {
-              "email": "jefrifirgantoro91@caqcut.top",
-              "password": "masuk123",
-              "addedAt": 1780812026193
-            },
-            {
-              "email": "warsitasiregar5@caqcut.top",
-              "password": "masuk123",
-              "addedAt": 1780812026193
-            },
-            {
-              "email": "endrairawan51@caqcut.top",
-              "password": "masuk123",
-              "addedAt": 1780812026193
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-06-07T08:32:27.251Z"
         },
         {
           "id": "RSV1780821262065639",
