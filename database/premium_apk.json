@@ -1770,15 +1770,9 @@
       "price": 4000,
       "descShort": "Garansi 24 Jam",
       "snk": "Garansi 1 Hari",
-      "items": [
-        {
-          "email": "ichigo_wild5177@cuekin.my.id",
-          "password": "Masuk123@",
-          "addedAt": 1780722664068
-        }
-      ],
+      "items": [],
       "sold": 99,
-      "stock": 1,
+      "stock": 0,
       "reserved": []
     },
     {
