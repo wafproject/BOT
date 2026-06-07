@@ -1822,46 +1822,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "bancarmanullang93@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
-          "email": "yusufhutasoit26@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
-          "email": "donosaputra97@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
-          "email": "karmansalahudin35@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
-          "email": "banawisaputra41@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
-          "email": "galihpradipta77@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
-          "email": "entengagustina91@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
-          "email": "asmanmaryadi94@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780812026193
-        },
-        {
           "email": "dadihidayat67@caqcut.top",
           "password": "masuk123",
           "addedAt": 1780812026193
@@ -2053,7 +2013,7 @@
         }
       ],
       "sold": 2237,
-      "stock": 46,
+      "stock": 38,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2083,6 +2043,53 @@
           ],
           "qty": 2,
           "createdAt": "2026-06-07T06:02:59.268Z"
+        },
+        {
+          "id": "RSV1780812217393346",
+          "items": [
+            {
+              "email": "bancarmanullang93@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            },
+            {
+              "email": "yusufhutasoit26@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            },
+            {
+              "email": "donosaputra97@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            },
+            {
+              "email": "karmansalahudin35@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            },
+            {
+              "email": "banawisaputra41@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            },
+            {
+              "email": "galihpradipta77@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            },
+            {
+              "email": "entengagustina91@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            },
+            {
+              "email": "asmanmaryadi94@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780812026193
+            }
+          ],
+          "qty": 8,
+          "createdAt": "2026-06-07T06:03:37.393Z"
         }
       ]
     },
