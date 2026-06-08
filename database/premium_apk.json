@@ -1780,9 +1780,160 @@
       "price": 7000,
       "descShort": "Full Seat",
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
-      "items": [],
+      "items": [
+        {
+          "email": "agnesfaridmuliw@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "embuhfirgantoro24@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "rafidprabowo67@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "pariswidodo49@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "amihalim15@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "jaisnashiruddin92@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "prasetyaprabowo54@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "zelayapertiwi32@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "gilangagustina8@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "nurulpermadi83@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "jayautami4@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "elmahabibi23@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "dipahartati98@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "oskarsuryono59@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "jaismelani8@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "prabupertiwi5@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "zamiralaksmiwati49@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "slametsamosir78@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "ulyanugroho77@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "lalawulandari83@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "atmajausada19@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "vanesasitompul17@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "darijanbudiyanto52@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "elipradana36@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "ekoriyanti97@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "jabalsimanjuntak55@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "sakurapuspasari46@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "legawawaluyo64@makoli.space",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "nurutamielisabethzensw@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        },
+        {
+          "email": "primadielent121w@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1780913398123
+        }
+      ],
       "sold": 2335,
-      "stock": 0,
+      "stock": 30,
       "reserved": [
         {
           "id": "RSV1780362536090628",
