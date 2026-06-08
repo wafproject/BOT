@@ -1724,22 +1724,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 483,
+      "sold": 484,
       "stock": 72,
-      "reserved": [
-        {
-          "id": "RSV1780927080101846",
-          "items": [
-            {
-              "email": "xvqckb63@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042832162
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-08T13:58:00.101Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "GROK3D",
