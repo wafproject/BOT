@@ -1830,7 +1830,7 @@
           "addedAt": 1780898570219
         }
       ],
-      "sold": 2304,
+      "sold": 2308,
       "stock": 7,
       "reserved": [
         {
@@ -1918,33 +1918,6 @@
           ],
           "qty": 10,
           "createdAt": "2026-06-08T06:05:11.249Z"
-        },
-        {
-          "id": "RSV1780899210418914",
-          "items": [
-            {
-              "email": "ganepwaluyo54@alightmotion.id",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "ellairawan57@vnvmail.com",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "cahyadipangestu86@arapgege.app",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "munimaryati99@hesoyam.shop",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            }
-          ],
-          "qty": 4,
-          "createdAt": "2026-06-08T06:13:30.418Z"
         },
         {
           "id": "RSV17808992169272",
