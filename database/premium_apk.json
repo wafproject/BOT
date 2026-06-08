@@ -1890,7 +1890,7 @@
           "addedAt": 1780898570219
         }
       ],
-      "sold": 2302,
+      "sold": 2304,
       "stock": 19,
       "reserved": [
         {
@@ -1978,23 +1978,6 @@
           ],
           "qty": 10,
           "createdAt": "2026-06-08T06:05:11.249Z"
-        },
-        {
-          "id": "RSV1780899149948894",
-          "items": [
-            {
-              "email": "chandrausamah98@suntuy.com",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "hartanayolanda42@us-x.top",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-08T06:12:29.948Z"
         }
       ]
     },
