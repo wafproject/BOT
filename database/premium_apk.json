@@ -1860,7 +1860,7 @@
           "addedAt": 1780898570219
         }
       ],
-      "sold": 2311,
+      "sold": 2314,
       "stock": 13,
       "reserved": [
         {
@@ -1906,28 +1906,6 @@
           ],
           "qty": 5,
           "createdAt": "2026-06-08T06:14:26.791Z"
-        },
-        {
-          "id": "RSV1780899644961456",
-          "items": [
-            {
-              "email": "jasmanisiregar88@duxer.top",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "gangsarsuwarno30@lellol.dev",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "darsirahzulkarnain32@lellol.dev",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-06-08T06:20:44.961Z"
         },
         {
           "id": "RSV1780899653284139",
