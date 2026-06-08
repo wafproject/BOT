@@ -1795,21 +1795,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "atmafirmansyah45@caqcut.top",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "latikasitumorang23@mameganteng.store",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "michellerahayu91@capcut.digital",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
           "email": "vivisirait35@arapgege.app",
           "password": "masuk123",
           "addedAt": 1780898570219
@@ -1871,7 +1856,7 @@
         }
       ],
       "sold": 2304,
-      "stock": 15,
+      "stock": 12,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1985,6 +1970,28 @@
           ],
           "qty": 4,
           "createdAt": "2026-06-08T06:13:30.418Z"
+        },
+        {
+          "id": "RSV17808992169272",
+          "items": [
+            {
+              "email": "atmafirmansyah45@caqcut.top",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "latikasitumorang23@mameganteng.store",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "michellerahayu91@capcut.digital",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-06-08T06:13:36.927Z"
         }
       ]
     },
