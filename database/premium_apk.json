@@ -1920,7 +1920,7 @@
           "addedAt": 1780898570219
         }
       ],
-      "sold": 2285,
+      "sold": 2290,
       "stock": 25,
       "reserved": [
         {
@@ -1961,38 +1961,6 @@
           ],
           "qty": 4,
           "createdAt": "2026-06-08T06:04:16.888Z"
-        },
-        {
-          "id": "RSV1780898672626109",
-          "items": [
-            {
-              "email": "mutiaamaliazuwww@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "rafiharyanto78@supplementsdiary.com",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "erikwinarsih95@alightmotion.id",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "fathonahsafitri98@tmab.xyz",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "daliminprabowo50@polvexar.store",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-06-08T06:04:32.626Z"
         },
         {
           "id": "RSV1780898691541793",
