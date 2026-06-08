@@ -1920,7 +1920,7 @@
           "addedAt": 1780898570219
         }
       ],
-      "sold": 2291,
+      "sold": 2294,
       "stock": 25,
       "reserved": [
         {
@@ -1961,28 +1961,6 @@
           ],
           "qty": 4,
           "createdAt": "2026-06-08T06:04:16.888Z"
-        },
-        {
-          "id": "RSV1780898691541793",
-          "items": [
-            {
-              "email": "karmahalim4@supplementsdiary.com",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "carlasiregar75@meevpo.site",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "evaardianto20@ultramigos.online",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-06-08T06:04:51.541Z"
         },
         {
           "id": "RSV1780898694247187",
