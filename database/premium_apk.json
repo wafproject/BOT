@@ -1920,7 +1920,7 @@
           "addedAt": 1780898570219
         }
       ],
-      "sold": 2290,
+      "sold": 2291,
       "stock": 25,
       "reserved": [
         {
@@ -2057,18 +2057,6 @@
           ],
           "qty": 10,
           "createdAt": "2026-06-08T06:05:11.249Z"
-        },
-        {
-          "id": "RSV1780898717924878",
-          "items": [
-            {
-              "email": "salsabilayuliarti97@us-x.top",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-08T06:05:17.924Z"
         }
       ]
     },
