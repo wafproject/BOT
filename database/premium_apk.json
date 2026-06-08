@@ -1243,6 +1243,9 @@
           "text": "KIRIM SCREENSHOT BUKTI ORDER KE ADMIN, AKUN AKAN DI PROSES SETELAH KIRIM BUKTI ORDER. WA : wa.me/6287731282876 Tele : @enziwaf"
         },
         {
+          "text": "KIRIM SCREENSHOT BUKTI ORDER KE ADMIN, AKUN AKAN DI PROSES SETELAH KIRIM BUKTI ORDER. WA : wa.me/6287731282876 Tele : @enziwaf"
+        },
+        {
           "text": "KIRIM SCREENSHOT BUKTI ORDER KE ADMIN, AKUN AKAN DI PROSES SETELAH KIRIM BUKTI ORDER. WA : wa.me/6287731282876 Tele : @enziwaf KIRIM SCREENSHOT BUKTI ORDER KE ADMIN, AKUN AKAN DI PROSES SETELAH KIRIM BUKTI ORDER. WA : wa.me/6287731282876 Tele : @enziwaf"
         },
         {
@@ -1267,20 +1270,9 @@
           "text": "KIRIM SCREENSHOT BUKTI ORDER KE ADMIN, AKUN AKAN DI PROSES SETELAH KIRIM BUKTI ORDER. WA : wa.me/6287731282876 Tele : @enziwaf"
         }
       ],
-      "stock": 19,
+      "stock": 20,
       "sold": 150,
-      "reserved": [
-        {
-          "id": "RSV1780923501804282",
-          "items": [
-            {
-              "text": "KIRIM SCREENSHOT BUKTI ORDER KE ADMIN, AKUN AKAN DI PROSES SETELAH KIRIM BUKTI ORDER. WA : wa.me/6287731282876 Tele : @enziwaf"
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-08T12:58:21.804Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "YTJASPAY",
