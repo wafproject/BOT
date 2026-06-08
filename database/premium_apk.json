@@ -1830,7 +1830,7 @@
           "addedAt": 1780898570219
         }
       ],
-      "sold": 2308,
+      "sold": 2311,
       "stock": 7,
       "reserved": [
         {
@@ -1918,28 +1918,6 @@
           ],
           "qty": 10,
           "createdAt": "2026-06-08T06:05:11.249Z"
-        },
-        {
-          "id": "RSV17808992169272",
-          "items": [
-            {
-              "email": "atmafirmansyah45@caqcut.top",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "latikasitumorang23@mameganteng.store",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "michellerahayu91@capcut.digital",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-06-08T06:13:36.927Z"
         },
         {
           "id": "RSV1780899266791175",
