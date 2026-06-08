@@ -1797,7 +1797,7 @@
           "addedAt": 1780913398123
         }
       ],
-      "sold": 2361,
+      "sold": 2362,
       "stock": 3,
       "reserved": [
         {
@@ -1811,18 +1811,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV178092088687226",
-          "items": [
-            {
-              "email": "legawawaluyo64@makoli.space",
-              "password": "masuk123",
-              "addedAt": 1780913398123
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-08T12:14:46.872Z"
         }
       ]
     },
