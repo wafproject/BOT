@@ -182,21 +182,8 @@
         }
       ],
       "stock": 2,
-      "sold": 292,
-      "reserved": [
-        {
-          "id": "RSV1780886183481766",
-          "items": [
-            {
-              "email": "v4mp0yk@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1780679273655
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-08T02:36:23.481Z"
-        }
-      ]
+      "sold": 293,
+      "reserved": []
     },
     {
       "code": "CANEDU",
