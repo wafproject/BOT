@@ -1795,31 +1795,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "mutiaamaliazuwww@gmail.com",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "rafiharyanto78@supplementsdiary.com",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "erikwinarsih95@alightmotion.id",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "fathonahsafitri98@tmab.xyz",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "daliminprabowo50@polvexar.store",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
           "email": "karmahalim4@supplementsdiary.com",
           "password": "masuk123",
           "addedAt": 1780898570219
@@ -2026,7 +2001,7 @@
         }
       ],
       "sold": 2285,
-      "stock": 46,
+      "stock": 41,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2066,6 +2041,38 @@
           ],
           "qty": 4,
           "createdAt": "2026-06-08T06:04:16.888Z"
+        },
+        {
+          "id": "RSV1780898672626109",
+          "items": [
+            {
+              "email": "mutiaamaliazuwww@gmail.com",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "rafiharyanto78@supplementsdiary.com",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "erikwinarsih95@alightmotion.id",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "fathonahsafitri98@tmab.xyz",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "daliminprabowo50@polvexar.store",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-06-08T06:04:32.626Z"
         }
       ]
     },
