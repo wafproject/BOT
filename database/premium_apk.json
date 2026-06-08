@@ -1832,7 +1832,7 @@
           "addedAt": 1780913398123
         }
       ],
-      "sold": 2350,
+      "sold": 2355,
       "stock": 10,
       "reserved": [
         {
@@ -1846,38 +1846,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780918647725239",
-          "items": [
-            {
-              "email": "prabupertiwi5@makoli.space",
-              "password": "masuk123",
-              "addedAt": 1780913398123
-            },
-            {
-              "email": "zamiralaksmiwati49@makoli.space",
-              "password": "masuk123",
-              "addedAt": 1780913398123
-            },
-            {
-              "email": "slametsamosir78@makoli.space",
-              "password": "masuk123",
-              "addedAt": 1780913398123
-            },
-            {
-              "email": "ulyanugroho77@makoli.space",
-              "password": "masuk123",
-              "addedAt": 1780913398123
-            },
-            {
-              "email": "lalawulandari83@makoli.space",
-              "password": "masuk123",
-              "addedAt": 1780913398123
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-06-08T11:37:27.725Z"
         }
       ]
     },
