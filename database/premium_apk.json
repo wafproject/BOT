@@ -1795,31 +1795,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "vivisirait35@arapgege.app",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "setyairawan99@nanopools.info",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "ibunsitumorang65@mameganteng.store",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "gardayuniar44@hesoyam.shop",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "zeldauyainah20@arapgege.app",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
           "email": "kuncarakuswoyo64@nanopools.info",
           "password": "masuk123",
           "addedAt": 1780898570219
@@ -1856,7 +1831,7 @@
         }
       ],
       "sold": 2304,
-      "stock": 12,
+      "stock": 7,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1992,6 +1967,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-08T06:13:36.927Z"
+        },
+        {
+          "id": "RSV1780899266791175",
+          "items": [
+            {
+              "email": "vivisirait35@arapgege.app",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "setyairawan99@nanopools.info",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "ibunsitumorang65@mameganteng.store",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "gardayuniar44@hesoyam.shop",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "zeldauyainah20@arapgege.app",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-06-08T06:14:26.791Z"
         }
       ]
     },
