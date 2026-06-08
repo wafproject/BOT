@@ -1890,7 +1890,7 @@
           "addedAt": 1780898570219
         }
       ],
-      "sold": 2314,
+      "sold": 2315,
       "stock": 19,
       "reserved": [
         {
@@ -1916,18 +1916,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-08T06:27:33.477Z"
-        },
-        {
-          "id": "RSV1780900245382594",
-          "items": [
-            {
-              "email": "setyairawan99@nanopools.info",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-08T06:30:45.382Z"
         }
       ]
     },
