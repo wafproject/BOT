@@ -1782,31 +1782,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "zelayapertiwi32@makoli.space",
-          "password": "masuk123",
-          "addedAt": 1780913398123
-        },
-        {
-          "email": "gilangagustina8@makoli.space",
-          "password": "masuk123",
-          "addedAt": 1780913398123
-        },
-        {
-          "email": "nurulpermadi83@makoli.space",
-          "password": "masuk123",
-          "addedAt": 1780913398123
-        },
-        {
-          "email": "jayautami4@makoli.space",
-          "password": "masuk123",
-          "addedAt": 1780913398123
-        },
-        {
-          "email": "elmahabibi23@makoli.space",
-          "password": "masuk123",
-          "addedAt": 1780913398123
-        },
-        {
           "email": "dipahartati98@makoli.space",
           "password": "masuk123",
           "addedAt": 1780913398123
@@ -1898,7 +1873,7 @@
         }
       ],
       "sold": 2342,
-      "stock": 23,
+      "stock": 18,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1911,6 +1886,38 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
+        },
+        {
+          "id": "RSV178091426021751",
+          "items": [
+            {
+              "email": "zelayapertiwi32@makoli.space",
+              "password": "masuk123",
+              "addedAt": 1780913398123
+            },
+            {
+              "email": "gilangagustina8@makoli.space",
+              "password": "masuk123",
+              "addedAt": 1780913398123
+            },
+            {
+              "email": "nurulpermadi83@makoli.space",
+              "password": "masuk123",
+              "addedAt": 1780913398123
+            },
+            {
+              "email": "jayautami4@makoli.space",
+              "password": "masuk123",
+              "addedAt": 1780913398123
+            },
+            {
+              "email": "elmahabibi23@makoli.space",
+              "password": "masuk123",
+              "addedAt": 1780913398123
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-06-08T10:24:20.217Z"
         }
       ]
     },
