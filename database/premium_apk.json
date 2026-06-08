@@ -1910,7 +1910,7 @@
           "addedAt": 1780898570219
         }
       ],
-      "sold": 2298,
+      "sold": 2300,
       "stock": 23,
       "reserved": [
         {
@@ -1998,23 +1998,6 @@
           ],
           "qty": 10,
           "createdAt": "2026-06-08T06:05:11.249Z"
-        },
-        {
-          "id": "RSV1780898873808480",
-          "items": [
-            {
-              "email": "donopratama37@meevpo.site",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            },
-            {
-              "email": "narjimandala2@alightmotion.id",
-              "password": "masuk123",
-              "addedAt": 1780898570219
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-08T06:07:53.808Z"
         }
       ]
     },
