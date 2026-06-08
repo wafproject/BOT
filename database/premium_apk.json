@@ -574,11 +574,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "jshdhd10@wafprem.biz.id",
-          "password": "Masuk12345",
-          "addedAt": 1780420730205
-        },
-        {
           "email": "m6qgnd2@kulipremium.biz.id",
           "password": "Masuk12345",
           "addedAt": 1780420730205
@@ -594,8 +589,8 @@
           "addedAt": 1780420730205
         }
       ],
-      "sold": 95,
-      "stock": 4,
+      "sold": 96,
+      "stock": 3,
       "reserved": []
     },
     {
