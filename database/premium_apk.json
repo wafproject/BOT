@@ -1795,21 +1795,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "karmahalim4@supplementsdiary.com",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "carlasiregar75@meevpo.site",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "evaardianto20@ultramigos.online",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
           "email": "radikawijaya58@lellol.dev",
           "password": "masuk123",
           "addedAt": 1780898570219
@@ -2001,7 +1986,7 @@
         }
       ],
       "sold": 2285,
-      "stock": 41,
+      "stock": 38,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2073,6 +2058,28 @@
           ],
           "qty": 5,
           "createdAt": "2026-06-08T06:04:32.626Z"
+        },
+        {
+          "id": "RSV1780898691541793",
+          "items": [
+            {
+              "email": "karmahalim4@supplementsdiary.com",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "carlasiregar75@meevpo.site",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "evaardianto20@ultramigos.online",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-06-08T06:04:51.541Z"
         }
       ]
     },
