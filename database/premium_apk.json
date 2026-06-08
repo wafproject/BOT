@@ -1862,7 +1862,7 @@
           "addedAt": 1780913398123
         }
       ],
-      "sold": 2347,
+      "sold": 2349,
       "stock": 16,
       "reserved": [
         {
@@ -1876,23 +1876,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780914549783331",
-          "items": [
-            {
-              "email": "dipahartati98@makoli.space",
-              "password": "masuk123",
-              "addedAt": 1780913398123
-            },
-            {
-              "email": "oskarsuryono59@makoli.space",
-              "password": "masuk123",
-              "addedAt": 1780913398123
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-08T10:29:09.783Z"
         }
       ]
     },
