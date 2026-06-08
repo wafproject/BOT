@@ -1793,110 +1793,9 @@
       "price": 7000,
       "descShort": "Full Seat",
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
-      "items": [
-        {
-          "email": "vivisirait35@arapgege.app",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "saadatsaputra82@sentra-premium.com",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "aslijanthamrin89@alightmotion.id",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "malikakurniawan80@tmab.xyz",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "ibunsitumorang65@mameganteng.store",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "gardayuniar44@hesoyam.shop",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "zeldauyainah20@arapgege.app",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "pangeranmardhiyah95@polvexar.store",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "hartakamansur65@tools-capcut.com",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "farahsihotang37@suntuy.com",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "pandusiregar11@tools-capcut.com",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "radikawijaya58@lellol.dev",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "intanhalim50@ultramigos.online",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "kuncarakuswoyo64@nanopools.info",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "radensihombing3@zumy.dev",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "heruhardiansyah44@hesoyam.shop",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "balijannovitasari34@dimensi.me",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "gawatimaryati43@nanopools.info",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "septiwulandari65@cangcutku.pro",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "kemalsuwarno57@lilsuite.id",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        }
-      ],
+      "items": [],
       "sold": 2315,
-      "stock": 20,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1909,6 +1808,113 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
+        },
+        {
+          "id": "RSV1780900845050648",
+          "items": [
+            {
+              "email": "vivisirait35@arapgege.app",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "saadatsaputra82@sentra-premium.com",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "aslijanthamrin89@alightmotion.id",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "malikakurniawan80@tmab.xyz",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "ibunsitumorang65@mameganteng.store",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "gardayuniar44@hesoyam.shop",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "zeldauyainah20@arapgege.app",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "pangeranmardhiyah95@polvexar.store",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "hartakamansur65@tools-capcut.com",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "farahsihotang37@suntuy.com",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "pandusiregar11@tools-capcut.com",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "radikawijaya58@lellol.dev",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "intanhalim50@ultramigos.online",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "kuncarakuswoyo64@nanopools.info",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "radensihombing3@zumy.dev",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "heruhardiansyah44@hesoyam.shop",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "balijannovitasari34@dimensi.me",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "gawatimaryati43@nanopools.info",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "septiwulandari65@cangcutku.pro",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "kemalsuwarno57@lilsuite.id",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            }
+          ],
+          "qty": 20,
+          "createdAt": "2026-06-08T06:40:45.050Z"
         }
       ]
     },
