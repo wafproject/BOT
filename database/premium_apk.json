@@ -1795,26 +1795,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "ganepwaluyo54@alightmotion.id",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "ellairawan57@vnvmail.com",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "cahyadipangestu86@arapgege.app",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
-          "email": "munimaryati99@hesoyam.shop",
-          "password": "masuk123",
-          "addedAt": 1780898570219
-        },
-        {
           "email": "atmafirmansyah45@caqcut.top",
           "password": "masuk123",
           "addedAt": 1780898570219
@@ -1891,7 +1871,7 @@
         }
       ],
       "sold": 2304,
-      "stock": 19,
+      "stock": 15,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1978,6 +1958,33 @@
           ],
           "qty": 10,
           "createdAt": "2026-06-08T06:05:11.249Z"
+        },
+        {
+          "id": "RSV1780899210418914",
+          "items": [
+            {
+              "email": "ganepwaluyo54@alightmotion.id",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "ellairawan57@vnvmail.com",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "cahyadipangestu86@arapgege.app",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            },
+            {
+              "email": "munimaryati99@hesoyam.shop",
+              "password": "masuk123",
+              "addedAt": 1780898570219
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-06-08T06:13:30.418Z"
         }
       ]
     },
