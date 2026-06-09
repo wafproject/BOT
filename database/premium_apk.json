@@ -1816,15 +1816,10 @@
           "email": "janetpermadi30@passeone.com",
           "password": "masuk123",
           "addedAt": 1780979747280
-        },
-        {
-          "email": "umayapertiwi8@zumnime.me",
-          "password": "masuk123",
-          "addedAt": 1780979747280
         }
       ],
       "sold": 2365,
-      "stock": 9,
+      "stock": 8,
       "reserved": [
         {
           "id": "RSV1780362536090628",
