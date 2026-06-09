@@ -1826,15 +1826,10 @@
           "email": "puputhutasoit7@wildan.tech",
           "password": "masuk123",
           "addedAt": 1780979885105
-        },
-        {
-          "email": "yulianaprasetyo68@rexornge.site",
-          "password": "masuk123",
-          "addedAt": 1780979885105
         }
       ],
       "sold": 2365,
-      "stock": 11,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1780362536090628",
