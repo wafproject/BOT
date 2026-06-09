@@ -1821,15 +1821,10 @@
           "email": "ghanimulyani3@getmails.top",
           "password": "masuk123",
           "addedAt": 1780979885105
-        },
-        {
-          "email": "puputhutasoit7@wildan.tech",
-          "password": "masuk123",
-          "addedAt": 1780979885105
         }
       ],
       "sold": 2365,
-      "stock": 10,
+      "stock": 9,
       "reserved": [
         {
           "id": "RSV1780362536090628",
