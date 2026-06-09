@@ -1821,15 +1821,10 @@
           "email": "umayapertiwi8@zumnime.me",
           "password": "masuk123",
           "addedAt": 1780979747280
-        },
-        {
-          "email": "ghanimulyani3@getmails.top",
-          "password": "masuk123",
-          "addedAt": 1780979747280
         }
       ],
       "sold": 2365,
-      "stock": 10,
+      "stock": 9,
       "reserved": [
         {
           "id": "RSV1780362536090628",
