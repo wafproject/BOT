@@ -1972,7 +1972,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2403,
+      "sold": 2404,
       "stock": 42,
       "reserved": [
         {
@@ -1986,18 +1986,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781013231018221",
-          "items": [
-            {
-              "email": "hartanaputra64@angiiidayyy.click",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-09T13:53:51.018Z"
         }
       ]
     },
