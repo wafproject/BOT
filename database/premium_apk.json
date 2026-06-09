@@ -1997,7 +1997,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2399,
+      "sold": 2400,
       "stock": 46,
       "reserved": [
         {
@@ -2011,18 +2011,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781009670975208",
-          "items": [
-            {
-              "email": "gamblangharyanto18@hungtpt.site",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-09T12:54:30.975Z"
         }
       ]
     },
