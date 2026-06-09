@@ -1983,7 +1983,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2404,
+      "sold": 2405,
       "stock": 41,
       "reserved": [
         {
@@ -1997,18 +1997,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781019293956181",
-          "items": [
-            {
-              "email": "vanesapuspasari95@dailynutria.com",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-09T15:34:53.956Z"
         }
       ]
     },
