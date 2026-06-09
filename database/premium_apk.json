@@ -1806,15 +1806,10 @@
           "email": "marwatauyainah41@passeone.com",
           "password": "masuk123",
           "addedAt": 1780979885105
-        },
-        {
-          "email": "janetpermadi30@passeone.com",
-          "password": "masuk123",
-          "addedAt": 1780979885105
         }
       ],
       "sold": 2365,
-      "stock": 7,
+      "stock": 6,
       "reserved": [
         {
           "id": "RSV1780362536090628",
