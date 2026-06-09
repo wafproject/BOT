@@ -1948,7 +1948,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2408,
+      "sold": 2409,
       "stock": 36,
       "reserved": [
         {
@@ -1974,18 +1974,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-09T16:40:03.435Z"
-        },
-        {
-          "id": "RSV1781023439237126",
-          "items": [
-            {
-              "email": "nasabsuryono87@hungtpt.site",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-09T16:43:59.237Z"
         }
       ]
     },
