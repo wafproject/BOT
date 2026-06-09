@@ -2022,7 +2022,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2393,
+      "sold": 2395,
       "stock": 51,
       "reserved": [
         {
@@ -2036,23 +2036,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781005293971183",
-          "items": [
-            {
-              "email": "wagesuryono92@hungtpt.site",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            },
-            {
-              "email": "adhiarjaprastuti55@himacreative.id",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-09T11:41:33.971Z"
         }
       ]
     },
