@@ -174,9 +174,29 @@
           "email": "wnkmn5k@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1780905501712
+        },
+        {
+          "email": "4w7getp@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1781013425041
+        },
+        {
+          "email": "p6lzpz2@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1781013425041
+        },
+        {
+          "email": "htiwrmi@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1781013425041
+        },
+        {
+          "email": "q4jww9r@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1781013425041
         }
       ],
-      "stock": 1,
+      "stock": 5,
       "sold": 296,
       "reserved": []
     },
