@@ -1948,7 +1948,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2409,
+      "sold": 2410,
       "stock": 36,
       "reserved": [
         {
@@ -1962,18 +1962,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781023835310687",
-          "items": [
-            {
-              "email": "maylinggayuliantovodkw@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-09T16:50:35.310Z"
         }
       ]
     },
