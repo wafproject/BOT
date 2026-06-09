@@ -1768,26 +1768,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "maryantodabukke17@dailynutria.com",
-          "password": "masuk123",
-          "addedAt": 1781001547113
-        },
-        {
-          "email": "irmamanullang34@blendlog.com",
-          "password": "masuk123",
-          "addedAt": 1781001547113
-        },
-        {
-          "email": "limansuryono7@americancivichub.com",
-          "password": "masuk123",
-          "addedAt": 1781001547113
-        },
-        {
-          "email": "rahmimardhiyah70@dailynutria.com",
-          "password": "masuk123",
-          "addedAt": 1781001547113
-        },
-        {
           "email": "dianpuspita39@getmails.top",
           "password": "masuk123",
           "addedAt": 1781001547113
@@ -1949,7 +1929,7 @@
         }
       ],
       "sold": 2410,
-      "stock": 36,
+      "stock": 32,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1962,6 +1942,33 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
+        },
+        {
+          "id": "RSV1781028428521435",
+          "items": [
+            {
+              "email": "maryantodabukke17@dailynutria.com",
+              "password": "masuk123",
+              "addedAt": 1781001547113
+            },
+            {
+              "email": "irmamanullang34@blendlog.com",
+              "password": "masuk123",
+              "addedAt": 1781001547113
+            },
+            {
+              "email": "limansuryono7@americancivichub.com",
+              "password": "masuk123",
+              "addedAt": 1781001547113
+            },
+            {
+              "email": "rahmimardhiyah70@dailynutria.com",
+              "password": "masuk123",
+              "addedAt": 1781001547113
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-06-09T18:07:08.521Z"
         }
       ]
     },
