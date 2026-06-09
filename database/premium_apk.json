@@ -1776,9 +1776,105 @@
       "price": 7000,
       "descShort": "Full Seat",
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
-      "items": [],
+      "items": [
+        {
+          "email": "ikhsanardianto6@wildan.tech",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "titihastuti33@shortweb.live",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "rahayuwidiastuti6@passeone.com",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "kartahutapea46@wildan.tech",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "karmahassanah64@passeone.com",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "marwatauyainah41@passeone.com",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "janetpermadi30@passeone.com",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "umayapertiwi8@zumnime.me",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "ghanimulyani3@getmails.top",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "puputhutasoit7@wildan.tech",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "yulianaprasetyo68@rexornge.site",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "dariminuwais52@rexornge.site",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "bahuwarnawinarno43@passeone.com",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "sabrisimbolon57@angiiidayyy.click",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "pancahasanah18@email-temp.com",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "suryanurdiyanti51@zumnime.me",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "ozyandriani30@snpmail.fun",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "agnessalahudin31@rexornge.site",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        },
+        {
+          "email": "stasyasoloveva@ipusku.com",
+          "password": "masuk123",
+          "addedAt": 1780979885105
+        }
+      ],
       "sold": 2365,
-      "stock": 0,
+      "stock": 19,
       "reserved": [
         {
           "id": "RSV1780362536090628",
