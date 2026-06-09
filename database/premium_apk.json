@@ -2032,7 +2032,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2392,
+      "sold": 2393,
       "stock": 53,
       "reserved": [
         {
@@ -2046,18 +2046,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781003164961449",
-          "items": [
-            {
-              "email": "taniawasita75@tools-capcut.com",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-09T11:06:04.961Z"
         }
       ]
     },
