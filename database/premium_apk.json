@@ -1853,7 +1853,7 @@
           "addedAt": 1780979949973
         }
       ],
-      "sold": 2365,
+      "sold": 2368,
       "stock": 15,
       "reserved": [
         {
@@ -1867,28 +1867,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1780980163528889",
-          "items": [
-            {
-              "email": "risolmatcha518@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780979949973
-            },
-            {
-              "email": "kgulaaren19@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1780979949973
-            },
-            {
-              "email": "ikhsanardianto6@wildan.tech",
-              "password": "masuk123",
-              "addedAt": 1780979949973
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-06-09T04:42:43.528Z"
         },
         {
           "id": "RSV1780980194638571",
