@@ -1841,15 +1841,10 @@
           "email": "bahuwarnawinarno43@passeone.com",
           "password": "masuk123",
           "addedAt": 1780979885105
-        },
-        {
-          "email": "sabrisimbolon57@angiiidayyy.click",
-          "password": "masuk123",
-          "addedAt": 1780979885105
         }
       ],
       "sold": 2365,
-      "stock": 14,
+      "stock": 13,
       "reserved": [
         {
           "id": "RSV1780362536090628",
