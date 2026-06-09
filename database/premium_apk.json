@@ -1777,7 +1777,7 @@
       "descShort": "Full Seat",
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [],
-      "sold": 2374,
+      "sold": 2383,
       "stock": 0,
       "reserved": [
         {
@@ -1813,58 +1813,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-09T04:43:14.638Z"
-        },
-        {
-          "id": "RSV1780980297329586",
-          "items": [
-            {
-              "email": "yulianaprasetyo68@rexornge.site",
-              "password": "masuk123",
-              "addedAt": 1780979949973
-            },
-            {
-              "email": "dariminuwais52@rexornge.site",
-              "password": "masuk123",
-              "addedAt": 1780979949973
-            },
-            {
-              "email": "bahuwarnawinarno43@passeone.com",
-              "password": "masuk123",
-              "addedAt": 1780979949973
-            },
-            {
-              "email": "sabrisimbolon57@angiiidayyy.click",
-              "password": "masuk123",
-              "addedAt": 1780979949973
-            },
-            {
-              "email": "pancahasanah18@email-temp.com",
-              "password": "masuk123",
-              "addedAt": 1780979949973
-            },
-            {
-              "email": "suryanurdiyanti51@zumnime.me",
-              "password": "masuk123",
-              "addedAt": 1780979949973
-            },
-            {
-              "email": "ozyandriani30@snpmail.fun",
-              "password": "masuk123",
-              "addedAt": 1780979949973
-            },
-            {
-              "email": "agnessalahudin31@rexornge.site",
-              "password": "masuk123",
-              "addedAt": 1780979949973
-            },
-            {
-              "email": "stasyasoloveva@ipusku.com",
-              "password": "masuk123",
-              "addedAt": 1780979949973
-            }
-          ],
-          "qty": 9,
-          "createdAt": "2026-06-09T04:44:57.329Z"
         }
       ]
     },
