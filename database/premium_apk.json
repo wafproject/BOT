@@ -1781,15 +1781,10 @@
           "email": "ikhsanardianto6@wildan.tech",
           "password": "masuk123",
           "addedAt": 1780979885105
-        },
-        {
-          "email": "titihastuti33@shortweb.live",
-          "password": "masuk123",
-          "addedAt": 1780979885105
         }
       ],
       "sold": 2365,
-      "stock": 2,
+      "stock": 1,
       "reserved": [
         {
           "id": "RSV1780362536090628",
