@@ -1968,7 +1968,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2406,
+      "sold": 2407,
       "stock": 38,
       "reserved": [
         {
@@ -1994,18 +1994,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-09T16:20:13.738Z"
-        },
-        {
-          "id": "RSV1781022240882405",
-          "items": [
-            {
-              "email": "jennaismabarkw@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-09T16:24:00.882Z"
         }
       ]
     },
