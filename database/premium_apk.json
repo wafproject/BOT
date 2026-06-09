@@ -2017,7 +2017,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2395,
+      "sold": 2396,
       "stock": 50,
       "reserved": [
         {
@@ -2031,18 +2031,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781008199715295",
-          "items": [
-            {
-              "email": "ranggasihotang32@getmails.top",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-09T12:29:59.715Z"
         }
       ]
     },
