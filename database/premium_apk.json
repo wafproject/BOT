@@ -2002,7 +2002,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2397,
+      "sold": 2399,
       "stock": 47,
       "reserved": [
         {
@@ -2016,23 +2016,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781008548067294",
-          "items": [
-            {
-              "email": "keziapurnawati24@hitbtcpool.cloud",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            },
-            {
-              "email": "hendrikuswandari4@angiiidayyy.click",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-09T12:35:48.067Z"
         }
       ]
     },
