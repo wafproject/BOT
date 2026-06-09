@@ -1861,15 +1861,10 @@
           "email": "suryanurdiyanti51@zumnime.me",
           "password": "masuk123",
           "addedAt": 1780979747280
-        },
-        {
-          "email": "ozyandriani30@snpmail.fun",
-          "password": "masuk123",
-          "addedAt": 1780979747280
         }
       ],
       "sold": 2365,
-      "stock": 18,
+      "stock": 17,
       "reserved": [
         {
           "id": "RSV1780362536090628",
