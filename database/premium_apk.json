@@ -1801,15 +1801,10 @@
           "email": "kartahutapea46@wildan.tech",
           "password": "masuk123",
           "addedAt": 1780979747280
-        },
-        {
-          "email": "karmahassanah64@passeone.com",
-          "password": "masuk123",
-          "addedAt": 1780979747280
         }
       ],
       "sold": 2365,
-      "stock": 6,
+      "stock": 5,
       "reserved": [
         {
           "id": "RSV1780362536090628",
