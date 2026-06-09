@@ -1928,7 +1928,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2410,
+      "sold": 2414,
       "stock": 32,
       "reserved": [
         {
@@ -1942,33 +1942,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781028428521435",
-          "items": [
-            {
-              "email": "maryantodabukke17@dailynutria.com",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            },
-            {
-              "email": "irmamanullang34@blendlog.com",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            },
-            {
-              "email": "limansuryono7@americancivichub.com",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            },
-            {
-              "email": "rahmimardhiyah70@dailynutria.com",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 4,
-          "createdAt": "2026-06-09T18:07:08.521Z"
         }
       ]
     },
