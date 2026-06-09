@@ -1851,15 +1851,10 @@
           "email": "sabrisimbolon57@angiiidayyy.click",
           "password": "masuk123",
           "addedAt": 1780979747280
-        },
-        {
-          "email": "pancahasanah18@email-temp.com",
-          "password": "masuk123",
-          "addedAt": 1780979747280
         }
       ],
       "sold": 2365,
-      "stock": 16,
+      "stock": 15,
       "reserved": [
         {
           "id": "RSV1780362536090628",
