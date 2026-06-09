@@ -2037,7 +2037,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2390,
+      "sold": 2392,
       "stock": 54,
       "reserved": [
         {
@@ -2051,23 +2051,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781002568208780",
-          "items": [
-            {
-              "email": "rahmisihombing80@seakuu.dev",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            },
-            {
-              "email": "puputnainggolan73@angiiidayyy.click",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-09T10:56:08.208Z"
         }
       ]
     },
