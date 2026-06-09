@@ -1831,15 +1831,10 @@
           "email": "yulianaprasetyo68@rexornge.site",
           "password": "masuk123",
           "addedAt": 1780979885105
-        },
-        {
-          "email": "dariminuwais52@rexornge.site",
-          "password": "masuk123",
-          "addedAt": 1780979885105
         }
       ],
       "sold": 2365,
-      "stock": 12,
+      "stock": 11,
       "reserved": [
         {
           "id": "RSV1780362536090628",
