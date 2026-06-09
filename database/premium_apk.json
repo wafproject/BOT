@@ -2002,7 +2002,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2396,
+      "sold": 2397,
       "stock": 47,
       "reserved": [
         {
@@ -2033,18 +2033,6 @@
           ],
           "qty": 2,
           "createdAt": "2026-06-09T12:35:48.067Z"
-        },
-        {
-          "id": "RSV1781008572376930",
-          "items": [
-            {
-              "email": "betaniapradipta70@mnvr.site",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-09T12:36:12.376Z"
         }
       ]
     },
