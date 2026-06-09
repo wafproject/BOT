@@ -1977,7 +1977,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2402,
+      "sold": 2403,
       "stock": 43,
       "reserved": [
         {
@@ -1991,18 +1991,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781013178995767",
-          "items": [
-            {
-              "email": "usyisuryono66@zenbada.com",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-09T13:52:58.995Z"
         }
       ]
     },
