@@ -1866,15 +1866,10 @@
           "email": "ozyandriani30@snpmail.fun",
           "password": "masuk123",
           "addedAt": 1780979747280
-        },
-        {
-          "email": "agnessalahudin31@rexornge.site",
-          "password": "masuk123",
-          "addedAt": 1780979747280
         }
       ],
       "sold": 2365,
-      "stock": 19,
+      "stock": 18,
       "reserved": [
         {
           "id": "RSV1780362536090628",
