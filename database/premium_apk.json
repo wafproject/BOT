@@ -1772,10 +1772,15 @@
           "email": "dexume@premisxv.web.id",
           "password": "masuk123",
           "addedAt": 1781087415461
+        },
+        {
+          "email": "ruzixi@mysexvs.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781090220828
         }
       ],
       "sold": 2504,
-      "stock": 5,
+      "stock": 6,
       "reserved": [
         {
           "id": "RSV1780362536090628",
