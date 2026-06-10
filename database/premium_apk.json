@@ -765,20 +765,8 @@
         }
       ],
       "stock": 38,
-      "sold": 491,
-      "reserved": [
-        {
-          "id": "RSV1781106512929119",
-          "items": [
-            {
-              "email": "n3ms@ourl.me",
-              "addedAt": 1774033629381
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-10T15:48:32.929Z"
-        }
-      ]
+      "sold": 492,
+      "reserved": []
     },
     {
       "code": "VIU",
