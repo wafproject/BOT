@@ -1874,7 +1874,7 @@
           "addedAt": 1781087415461
         }
       ],
-      "sold": 2477,
+      "sold": 2480,
       "stock": 25,
       "reserved": [
         {
@@ -1915,28 +1915,6 @@
           ],
           "qty": 4,
           "createdAt": "2026-06-10T10:51:35.121Z"
-        },
-        {
-          "id": "RSV178108872305095",
-          "items": [
-            {
-              "email": "tukaze@premisxv.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "podawu@brexyv.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "bepasu@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-06-10T10:52:03.050Z"
         }
       ]
     },
