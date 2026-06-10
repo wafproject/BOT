@@ -1923,7 +1923,7 @@
           "addedAt": 1781001547113
         }
       ],
-      "sold": 2414,
+      "sold": 2415,
       "stock": 31,
       "reserved": [
         {
@@ -1937,18 +1937,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781053648401675",
-          "items": [
-            {
-              "email": "dianpuspita39@getmails.top",
-              "password": "masuk123",
-              "addedAt": 1781001547113
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-10T01:07:28.401Z"
         }
       ]
     },
