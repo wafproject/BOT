@@ -1747,9 +1747,30 @@
       "price": 6000,
       "descShort": "Full Seat",
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
-      "items": [],
+      "items": [
+        {
+          "email": "layosi@xvsexv.web.id",
+          "password": "masuk123",
+          "addedAt": 1781087415461
+        },
+        {
+          "email": "vuduje@xvsexv.web.id",
+          "password": "masuk123",
+          "addedAt": 1781087415461
+        },
+        {
+          "email": "dexume@premisxv.web.id",
+          "password": "masuk123",
+          "addedAt": 1781087415461
+        },
+        {
+          "email": "ruzixi@mysexvs.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781090220828
+        }
+      ],
       "sold": 2506,
-      "stock": 0,
+      "stock": 4,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1762,33 +1783,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781093084558438",
-          "items": [
-            {
-              "email": "layosi@xvsexv.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "vuduje@xvsexv.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "dexume@premisxv.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "ruzixi@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781090220828
-            }
-          ],
-          "qty": 4,
-          "createdAt": "2026-06-10T12:04:44.558Z"
         }
       ]
     },
