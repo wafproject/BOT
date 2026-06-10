@@ -1749,21 +1749,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "volicu@xvsexv.web.id",
-          "password": "masuk123",
-          "addedAt": 1781087415461
-        },
-        {
-          "email": "faceka@oxygov.biz.id",
-          "password": "masuk123",
-          "addedAt": 1781087415461
-        },
-        {
-          "email": "vemari@matakaw.web.id",
-          "password": "masuk123",
-          "addedAt": 1781087415461
-        },
-        {
           "email": "cajapo@gwprems.biz.id",
           "password": "masuk123",
           "addedAt": 1781087415461
@@ -2065,7 +2050,7 @@
         }
       ],
       "sold": 2446,
-      "stock": 63,
+      "stock": 60,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2078,6 +2063,28 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
+        },
+        {
+          "id": "RSV1781087492864153",
+          "items": [
+            {
+              "email": "volicu@xvsexv.web.id",
+              "password": "masuk123",
+              "addedAt": 1781087415461
+            },
+            {
+              "email": "faceka@oxygov.biz.id",
+              "password": "masuk123",
+              "addedAt": 1781087415461
+            },
+            {
+              "email": "vemari@matakaw.web.id",
+              "password": "masuk123",
+              "addedAt": 1781087415461
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-06-10T10:31:32.864Z"
         }
       ]
     },
