@@ -1984,7 +1984,7 @@
           "addedAt": 1781087415461
         }
       ],
-      "sold": 2449,
+      "sold": 2452,
       "stock": 47,
       "reserved": [
         {
@@ -1998,28 +1998,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781087507065354",
-          "items": [
-            {
-              "email": "cajapo@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "fabuza@brexyv.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "nuluxo@brexyv.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-06-10T10:31:47.065Z"
         },
         {
           "id": "RSV1781087530304465",
