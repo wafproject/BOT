@@ -1934,7 +1934,7 @@
           "addedAt": 1781087415461
         }
       ],
-      "sold": 2470,
+      "sold": 2472,
       "stock": 37,
       "reserved": [
         {
@@ -1948,23 +1948,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781088311199606",
-          "items": [
-            {
-              "email": "zeboyo@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "zacebe@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-10T10:45:11.199Z"
         }
       ]
     },
