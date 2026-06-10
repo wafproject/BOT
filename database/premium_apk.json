@@ -1749,31 +1749,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "qobeze@premisxv.web.id",
-          "password": "masuk123",
-          "addedAt": 1781087415461
-        },
-        {
-          "email": "qonoxi@oxygov.biz.id",
-          "password": "masuk123",
-          "addedAt": 1781087415461
-        },
-        {
-          "email": "valupi@gwprems.biz.id",
-          "password": "masuk123",
-          "addedAt": 1781087415461
-        },
-        {
-          "email": "siheyi@oxygov.biz.id",
-          "password": "masuk123",
-          "addedAt": 1781087415461
-        },
-        {
-          "email": "bayase@mysexvs.biz.id",
-          "password": "masuk123",
-          "addedAt": 1781087415461
-        },
-        {
           "email": "tukaze@premisxv.web.id",
           "password": "masuk123",
           "addedAt": 1781087415461
@@ -1915,7 +1890,7 @@
         }
       ],
       "sold": 2472,
-      "stock": 33,
+      "stock": 28,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1955,6 +1930,38 @@
           ],
           "qty": 4,
           "createdAt": "2026-06-10T10:51:35.121Z"
+        },
+        {
+          "id": "RSV1781088698769105",
+          "items": [
+            {
+              "email": "qobeze@premisxv.web.id",
+              "password": "masuk123",
+              "addedAt": 1781087415461
+            },
+            {
+              "email": "qonoxi@oxygov.biz.id",
+              "password": "masuk123",
+              "addedAt": 1781087415461
+            },
+            {
+              "email": "valupi@gwprems.biz.id",
+              "password": "masuk123",
+              "addedAt": 1781087415461
+            },
+            {
+              "email": "siheyi@oxygov.biz.id",
+              "password": "masuk123",
+              "addedAt": 1781087415461
+            },
+            {
+              "email": "bayase@mysexvs.biz.id",
+              "password": "masuk123",
+              "addedAt": 1781087415461
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-06-10T10:51:38.769Z"
         }
       ]
     },
