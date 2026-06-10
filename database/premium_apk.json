@@ -1769,7 +1769,7 @@
           "addedAt": 1781090220828
         }
       ],
-      "sold": 2505,
+      "sold": 2506,
       "stock": 4,
       "reserved": [
         {
@@ -1783,18 +1783,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781093021308802",
-          "items": [
-            {
-              "email": "fiwaji@xvsexv.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-10T12:03:41.308Z"
         }
       ]
     },
