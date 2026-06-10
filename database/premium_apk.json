@@ -161,26 +161,33 @@
       "price": 3000,
       "descShort": "Bisa inv 100 member",
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/",
-      "items": [
-        {
-          "email": "p6lzpz2@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1781013425041
-        },
-        {
-          "email": "htiwrmi@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1781013425041
-        },
-        {
-          "email": "q4jww9r@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1781013425041
-        }
-      ],
-      "stock": 3,
+      "items": [],
+      "stock": 0,
       "sold": 298,
-      "reserved": []
+      "reserved": [
+        {
+          "id": "RSV1781095777666179",
+          "items": [
+            {
+              "email": "p6lzpz2@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1781013425041
+            },
+            {
+              "email": "htiwrmi@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1781013425041
+            },
+            {
+              "email": "q4jww9r@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1781013425041
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-06-10T12:49:37.666Z"
+        }
+      ]
     },
     {
       "code": "CANEDU",
