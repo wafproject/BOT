@@ -1824,7 +1824,7 @@
           "addedAt": 1781087415461
         }
       ],
-      "sold": 2484,
+      "sold": 2492,
       "stock": 15,
       "reserved": [
         {
@@ -1862,53 +1862,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-10T11:03:48.298Z"
-        },
-        {
-          "id": "RSV1781089574888721",
-          "items": [
-            {
-              "email": "yubeqa@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "nutepe@myrowsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "novulo@gxrevsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "pidoki@myrowsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "nolole@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "kicuva@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "xigani@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "kaguze@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            }
-          ],
-          "qty": 8,
-          "createdAt": "2026-06-10T11:06:14.888Z"
         }
       ]
     },
