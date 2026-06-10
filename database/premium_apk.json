@@ -1768,21 +1768,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "adhiarjaanggraini42@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1781001547113
-        },
-        {
-          "email": "pranawawaluyo10@premiumonebd.store",
-          "password": "masuk123",
-          "addedAt": 1781001547113
-        },
-        {
-          "email": "drajatsiregar28@premiumonebd.store",
-          "password": "masuk123",
-          "addedAt": 1781001547113
-        },
-        {
           "email": "bagyarajata78@binancepools.cloud",
           "password": "masuk123",
           "addedAt": 1781001547113
@@ -1909,7 +1894,7 @@
         }
       ],
       "sold": 2415,
-      "stock": 28,
+      "stock": 25,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1944,6 +1929,28 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-10T01:09:34.115Z"
+        },
+        {
+          "id": "RSV178105378432776",
+          "items": [
+            {
+              "email": "adhiarjaanggraini42@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1781001547113
+            },
+            {
+              "email": "pranawawaluyo10@premiumonebd.store",
+              "password": "masuk123",
+              "addedAt": 1781001547113
+            },
+            {
+              "email": "drajatsiregar28@premiumonebd.store",
+              "password": "masuk123",
+              "addedAt": 1781001547113
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-06-10T01:09:44.327Z"
         }
       ]
     },
