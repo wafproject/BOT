@@ -1759,7 +1759,7 @@
           "addedAt": 1781090220828
         }
       ],
-      "sold": 2507,
+      "sold": 2508,
       "stock": 2,
       "reserved": [
         {
@@ -1773,18 +1773,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781094988071752",
-          "items": [
-            {
-              "email": "vuduje@xvsexv.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-10T12:36:28.071Z"
         }
       ]
     },
