@@ -1779,7 +1779,7 @@
           "addedAt": 1781087415461
         }
       ],
-      "sold": 2492,
+      "sold": 2502,
       "stock": 6,
       "reserved": [
         {
@@ -1805,63 +1805,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-10T11:03:48.298Z"
-        },
-        {
-          "id": "RSV1781089931385559",
-          "items": [
-            {
-              "email": "mupehu@xvsexv.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "mesute@myrowsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "tuvasu@matakaw.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "tayise@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "hijoga@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "zimove@premisxv.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "redane@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "nezine@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "roxule@xvsexv.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "puvede@matakaw.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-10T11:12:11.385Z"
         }
       ]
     },
