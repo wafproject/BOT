@@ -1764,7 +1764,7 @@
           "addedAt": 1781090220828
         }
       ],
-      "sold": 2506,
+      "sold": 2507,
       "stock": 3,
       "reserved": [
         {
@@ -1778,18 +1778,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781094081971748",
-          "items": [
-            {
-              "email": "layosi@xvsexv.web.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-10T12:21:21.971Z"
         }
       ]
     },
