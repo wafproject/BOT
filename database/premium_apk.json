@@ -600,22 +600,9 @@
           "addedAt": 1780420730205
         }
       ],
-      "sold": 96,
+      "sold": 97,
       "stock": 2,
-      "reserved": [
-        {
-          "id": "RSV1781061767976397",
-          "items": [
-            {
-              "email": "m6qgnd2@kulipremium.biz.id",
-              "password": "Masuk12345",
-              "addedAt": 1780420730205
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-10T03:22:47.976Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "PICS",
