@@ -1749,26 +1749,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "zemazi@gwprems.biz.id",
-          "password": "masuk123",
-          "addedAt": 1781087415461
-        },
-        {
-          "email": "wegoyo@brexyv.biz.id",
-          "password": "masuk123",
-          "addedAt": 1781087415461
-        },
-        {
-          "email": "rikocu@mysexvs.biz.id",
-          "password": "masuk123",
-          "addedAt": 1781087415461
-        },
-        {
-          "email": "gabadu@xvsexv.web.id",
-          "password": "masuk123",
-          "addedAt": 1781087415461
-        },
-        {
           "email": "xuhufa@gxrevsx.web.id",
           "password": "masuk123",
           "addedAt": 1781087415461
@@ -1985,7 +1965,7 @@
         }
       ],
       "sold": 2462,
-      "stock": 47,
+      "stock": 43,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1998,6 +1978,33 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
+        },
+        {
+          "id": "RSV1781087689235684",
+          "items": [
+            {
+              "email": "zemazi@gwprems.biz.id",
+              "password": "masuk123",
+              "addedAt": 1781087415461
+            },
+            {
+              "email": "wegoyo@brexyv.biz.id",
+              "password": "masuk123",
+              "addedAt": 1781087415461
+            },
+            {
+              "email": "rikocu@mysexvs.biz.id",
+              "password": "masuk123",
+              "addedAt": 1781087415461
+            },
+            {
+              "email": "gabadu@xvsexv.web.id",
+              "password": "masuk123",
+              "addedAt": 1781087415461
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-06-10T10:34:49.235Z"
         }
       ]
     },
