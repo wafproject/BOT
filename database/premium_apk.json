@@ -1944,7 +1944,7 @@
           "addedAt": 1781087415461
         }
       ],
-      "sold": 2468,
+      "sold": 2470,
       "stock": 39,
       "reserved": [
         {
@@ -1958,23 +1958,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781087856233603",
-          "items": [
-            {
-              "email": "sufani@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            },
-            {
-              "email": "javulo@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781087415461
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-10T10:37:36.233Z"
         }
       ]
     },
