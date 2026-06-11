@@ -1829,7 +1829,7 @@
           "addedAt": 1781162024681
         }
       ],
-      "sold": 2534,
+      "sold": 2535,
       "stock": 22,
       "reserved": [
         {
@@ -1843,18 +1843,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781164357041655",
-          "items": [
-            {
-              "email": "cahyamelani7@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-11T07:52:37.041Z"
         }
       ]
     },
