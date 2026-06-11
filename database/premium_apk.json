@@ -588,19 +588,27 @@
       "snk": "* Garansi 5 hari dihitung sejak tanggal pembelian \n• Akses email : https://emailqu.com/",
       "items": [
         {
-          "email": "yedczxh@premaja.online",
-          "password": "Masuk123",
-          "addedAt": 1780073953718
-        },
-        {
           "email": "5r8ghvs@enziproject.web.id",
           "password": "Masuk123",
           "addedAt": 1780073953718
         }
       ],
-      "stock": 2,
+      "stock": 1,
       "sold": 36,
-      "reserved": []
+      "reserved": [
+        {
+          "id": "RSV1781152591723510",
+          "items": [
+            {
+              "email": "yedczxh@premaja.online",
+              "password": "Masuk123",
+              "addedAt": 1780073953718
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-11T04:36:31.723Z"
+        }
+      ]
     },
     {
       "code": "AM",
