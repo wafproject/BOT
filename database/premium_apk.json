@@ -1834,7 +1834,7 @@
           "addedAt": 1781162024681
         }
       ],
-      "sold": 2524,
+      "sold": 2534,
       "stock": 23,
       "reserved": [
         {
@@ -1848,63 +1848,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781162494378517",
-          "items": [
-            {
-              "email": "karjapalastri59@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "azaleahidayat72@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "yessipermata7@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "ranggalaksmiwati13@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "ekaprastuti46@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "wadiprastuti40@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "siskawinarsih99@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "karnapermadi6@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "dewiyuliarti27@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "hasnapudjiastuti15@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-11T07:21:34.378Z"
         }
       ]
     },
