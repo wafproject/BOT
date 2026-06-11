@@ -1754,7 +1754,7 @@
           "addedAt": 1781162024681
         }
       ],
-      "sold": 2545,
+      "sold": 2550,
       "stock": 7,
       "reserved": [
         {
@@ -1768,38 +1768,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781167427609851",
-          "items": [
-            {
-              "email": "shakilanasyiah29@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "galangmanullang39@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "yusufaryani58@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "gadinglaksita54@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            },
-            {
-              "email": "karimansihotang77@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781162024681
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-06-11T08:43:47.609Z"
         }
       ]
     },
