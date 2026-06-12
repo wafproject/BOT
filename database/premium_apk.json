@@ -1916,15 +1916,10 @@
           "email": "ranggawasita29@cosoinan.com",
           "password": "cosoinan.com",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "ajimansamosir50@cosoinan.com",
-          "password": "cosoinan.com",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 30,
+      "stock": 29,
       "reserved": [
         {
           "id": "RSV1780362536090628",
