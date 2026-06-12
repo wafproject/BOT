@@ -1876,15 +1876,10 @@
           "email": "mursitapradipta82@cosoinan.com",
           "password": "masuk123",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "tirawahyudin94@cosoinan.com",
-          "password": "cosoinan.com",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 22,
+      "stock": 21,
       "reserved": [
         {
           "id": "RSV1780362536090628",
