@@ -1976,15 +1976,10 @@
           "email": "rikanurdiyanti73@cosoinan.com",
           "password": "cosoinan.com",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "diahpuspasari48@cosoinan.com",
-          "password": "cosoinan.com",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 42,
+      "stock": 41,
       "reserved": [
         {
           "id": "RSV1780362536090628",
