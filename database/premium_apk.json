@@ -1781,15 +1781,10 @@
           "email": "gardarajasa19@cosoinan.com",
           "password": "masuk123",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "halimnuraini29@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 3,
+      "stock": 2,
       "reserved": [
         {
           "id": "RSV1780362536090628",
