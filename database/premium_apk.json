@@ -2046,15 +2046,10 @@
           "email": "galihhardiansyah98@cosoinan.com",
           "password": "masuk123",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "galionoandriani65@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 56,
+      "stock": 55,
       "reserved": [
         {
           "id": "RSV1780362536090628",
