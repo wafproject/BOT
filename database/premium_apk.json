@@ -2031,15 +2031,10 @@
           "email": "radikatampubolon83@cosoinan.com",
           "password": "masuk123",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "unjanithamrin92@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 53,
+      "stock": 52,
       "reserved": [
         {
           "id": "RSV1780362536090628",
