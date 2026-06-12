@@ -2021,15 +2021,10 @@
           "email": "dacinwahyuni20@cosoinan.com",
           "password": "masuk123",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "karnalailasari79@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 51,
+      "stock": 50,
       "reserved": [
         {
           "id": "RSV1780362536090628",
