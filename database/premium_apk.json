@@ -1773,31 +1773,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "karyahastuti16@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781266323056
-        },
-        {
-          "email": "ikapranowo86@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781266323056
-        },
-        {
-          "email": "jaimanmandasari90@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781266323056
-        },
-        {
-          "email": "laswipurwanti72@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781266323056
-        },
-        {
-          "email": "marsudizulkarnain78@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781266323056
-        },
-        {
           "email": "ginamardhiyah29@cosoinan.com",
           "password": "masuk123",
           "addedAt": 1781266323056
@@ -2004,7 +1979,7 @@
         }
       ],
       "sold": 2590,
-      "stock": 46,
+      "stock": 41,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2017,6 +1992,38 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
+        },
+        {
+          "id": "RSV1781266810902523",
+          "items": [
+            {
+              "email": "karyahastuti16@cosoinan.com",
+              "password": "masuk123",
+              "addedAt": 1781266323056
+            },
+            {
+              "email": "ikapranowo86@cosoinan.com",
+              "password": "masuk123",
+              "addedAt": 1781266323056
+            },
+            {
+              "email": "jaimanmandasari90@cosoinan.com",
+              "password": "masuk123",
+              "addedAt": 1781266323056
+            },
+            {
+              "email": "laswipurwanti72@cosoinan.com",
+              "password": "masuk123",
+              "addedAt": 1781266323056
+            },
+            {
+              "email": "marsudizulkarnain78@cosoinan.com",
+              "password": "masuk123",
+              "addedAt": 1781266323056
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-06-12T12:20:10.902Z"
         }
       ],
       "bulk_active": true,
