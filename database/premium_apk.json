@@ -596,9 +596,49 @@
           "email": "5r8ghvs@enziproject.web.id",
           "password": "Masuk123",
           "addedAt": 1780073953718
+        },
+        {
+          "email": "udrfeqm@enziproject.my.id",
+          "password": "Masuk123",
+          "addedAt": 1781249227952
+        },
+        {
+          "email": "kv3k4cr@premaja.online",
+          "password": "Masuk123",
+          "addedAt": 1781249227952
+        },
+        {
+          "email": "4704iqw@enzipro.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1781249227952
+        },
+        {
+          "email": "0j52xx5@premaja.online",
+          "password": "Masuk123",
+          "addedAt": 1781249227952
+        },
+        {
+          "email": "v95y8ff@wafprem.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1781249227952
+        },
+        {
+          "email": "stw0ewi@enziproject.my.id",
+          "password": "Masuk123",
+          "addedAt": 1781249227952
+        },
+        {
+          "email": "6p5y0cd@enziproject.web.id",
+          "password": "Masuk123",
+          "addedAt": 1781249227952
+        },
+        {
+          "email": "9wq9pv5@premaja.online",
+          "password": "Masuk123",
+          "addedAt": 1781249227952
         }
       ],
-      "stock": 1,
+      "stock": 9,
       "sold": 37,
       "reserved": [],
       "bulk_active": false,
