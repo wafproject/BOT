@@ -2108,16 +2108,16 @@
       "bulk_active": true,
       "bulk_prices": [
         {
-          "minQty": 10,
+          "minQty": 5,
           "price": 5500
         },
         {
-          "minQty": 25,
+          "minQty": 15,
           "price": 5000
         },
         {
-          "minQty": 50,
-          "price": 4000
+          "minQty": 25,
+          "price": 4500
         }
       ]
     },
