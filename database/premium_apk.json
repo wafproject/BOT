@@ -2041,15 +2041,10 @@
           "email": "pangestudabukke65@cosoinan.com",
           "password": "masuk123",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "galihhardiansyah98@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 55,
+      "stock": 54,
       "reserved": [
         {
           "id": "RSV1780362536090628",
