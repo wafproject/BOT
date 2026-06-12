@@ -1966,15 +1966,10 @@
           "email": "agusramadan51@cosoinan.com",
           "password": "cosoinan.com",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "suryazulkarnain1@cosoinan.com",
-          "password": "cosoinan.com",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 40,
+      "stock": 39,
       "reserved": [
         {
           "id": "RSV1780362536090628",
