@@ -1921,15 +1921,10 @@
           "email": "ajimansamosir50@cosoinan.com",
           "password": "cosoinan.com",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "herusihotang72@cosoinan.com",
-          "password": "cosoinan.com",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 31,
+      "stock": 30,
       "reserved": [
         {
           "id": "RSV1780362536090628",
