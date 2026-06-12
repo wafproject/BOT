@@ -2059,7 +2059,7 @@
           "addedAt": 1781249712610
         }
       ],
-      "sold": 2575,
+      "sold": 2580,
       "stock": 56,
       "reserved": [
         {
@@ -2073,38 +2073,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781262002041945",
-          "items": [
-            {
-              "email": "wisnumangunsong8@cosoinan.com",
-              "password": "masuk123",
-              "addedAt": 1781249712610
-            },
-            {
-              "email": "ajiminmegantara77@cosoinan.com",
-              "password": "masuk123",
-              "addedAt": 1781249712610
-            },
-            {
-              "email": "waluyomaulana56@cosoinan.com",
-              "password": "masuk123",
-              "addedAt": 1781249712610
-            },
-            {
-              "email": "ratihagustina16@cosoinan.com",
-              "password": "masuk123",
-              "addedAt": 1781249712610
-            },
-            {
-              "email": "nurulwidiastuti35@cosoinan.com",
-              "password": "masuk123",
-              "addedAt": 1781249712610
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-06-12T11:00:02.041Z"
         }
       ],
       "bulk_active": true,
