@@ -2006,15 +2006,10 @@
           "email": "paramitasuryatmi23@cosoinan.com",
           "password": "cosoinan.com",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "marsitosaputra60@cosoinan.com",
-          "password": "cosoinan.com",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 48,
+      "stock": 47,
       "reserved": [
         {
           "id": "RSV1780362536090628",
