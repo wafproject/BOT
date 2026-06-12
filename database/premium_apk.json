@@ -2089,7 +2089,7 @@
           "addedAt": 1781249712610
         }
       ],
-      "sold": 2573,
+      "sold": 2574,
       "stock": 62,
       "reserved": [
         {
@@ -2103,18 +2103,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781260071211890",
-          "items": [
-            {
-              "email": "cpolands@cosoinan.com",
-              "password": "masuk123",
-              "addedAt": 1781249712610
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-12T10:27:51.211Z"
         }
       ],
       "bulk_active": true,
