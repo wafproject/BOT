@@ -563,62 +563,9 @@
       "descShort": " Garansi 20 hari",
       "snk": " Garansi 20 Hari",
       "items": [],
-      "sold": 98,
+      "sold": 107,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV1781250880024827",
-          "items": [
-            {
-              "email": "3euaifw@enziproject.web.id",
-              "password": "Masuk12345",
-              "addedAt": 1780420730205
-            },
-            {
-              "email": "pettatampanghardians@yotube.online",
-              "password": "Masuk123@",
-              "addedAt": 1781249265832
-            },
-            {
-              "email": "bungaanjanijambak@yotube.online",
-              "password": "Masuk123@",
-              "addedAt": 1781249265832
-            },
-            {
-              "email": "isabellybraga@yotube.online",
-              "password": "Masuk123@",
-              "addedAt": 1781249265832
-            },
-            {
-              "email": "ambroisieremy@yotube.online",
-              "password": "Masuk123@",
-              "addedAt": 1781249265832
-            },
-            {
-              "email": "dewapintaulisurbakti@yotube.online",
-              "password": "Masuk123@",
-              "addedAt": 1781249265832
-            },
-            {
-              "email": "cengkalkawilarangsum@yotube.online",
-              "password": "Masuk123@",
-              "addedAt": 1781249265832
-            },
-            {
-              "email": "garangjatitarigan@yotube.online",
-              "password": "Masuk123@",
-              "addedAt": 1781249265832
-            },
-            {
-              "email": "anggabayalobo@yotube.online",
-              "password": "Masuk123@",
-              "addedAt": 1781249265832
-            }
-          ],
-          "qty": 9,
-          "createdAt": "2026-06-12T07:54:40.024Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
