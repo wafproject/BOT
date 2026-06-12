@@ -1896,15 +1896,10 @@
           "email": "ibraniwaluyo83@cosoinan.com",
           "password": "cosoinan.com",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "asmuniwidiastuti68@cosoinan.com",
-          "password": "cosoinan.com",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 26,
+      "stock": 25,
       "reserved": [
         {
           "id": "RSV1780362536090628",
