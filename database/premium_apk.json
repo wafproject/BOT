@@ -654,10 +654,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "stephenmballard@linkbm365.com",
-          "addedAt": 1774033630273
-        },
-        {
           "email": "willic5@premipay.io",
           "addedAt": 1774033632084
         },
@@ -806,9 +802,21 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 38,
+      "stock": 37,
       "sold": 492,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1781252965908362",
+          "items": [
+            {
+              "email": "stephenmballard@linkbm365.com",
+              "addedAt": 1774033630273
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-12T08:29:25.908Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
