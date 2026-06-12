@@ -1956,15 +1956,10 @@
           "email": "martaniyuniar50@cosoinan.com",
           "password": "cosoinan.com",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "ulvayuniar62@cosoinan.com",
-          "password": "cosoinan.com",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 38,
+      "stock": 37,
       "reserved": [
         {
           "id": "RSV1780362536090628",
