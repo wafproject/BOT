@@ -1759,7 +1759,16 @@
         }
       ],
       "bulk_active": true,
-      "bulk_prices": []
+      "bulk_prices": [
+        {
+          "minQty": 10,
+          "price": 5500
+        },
+        {
+          "minQty": 25,
+          "price": 5000
+        }
+      ]
     },
     {
       "code": "GPPLUSPRIVFULL",
