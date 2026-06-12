@@ -147,7 +147,9 @@
           "qty": 1,
           "createdAt": "2026-06-01T08:15:30.382Z"
         }
-      ]
+      ],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "CANHEAD",
@@ -160,7 +162,9 @@
       "items": [],
       "stock": 0,
       "sold": 301,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "CANEDU",
@@ -512,7 +516,9 @@
           "qty": 1,
           "createdAt": "2026-05-27T11:42:34.946Z"
         }
-      ]
+      ],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "APMEMBER",
@@ -524,7 +530,9 @@
       "snk": " SILAHKAN KIRIM EMAIL KE ADMIN wa.me/6287731282876 | @enziwaf",
       "items": [],
       "sold": 65,
-      "stock": 0
+      "stock": 0,
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "APHEAD",
@@ -536,7 +544,9 @@
       "snk": " * Sistem MBO (Make By Order) * Akun dari seller * Full Garansi 1 Bulan * Only Android",
       "items": [],
       "sold": 55,
-      "stock": 0
+      "stock": 0,
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "SCRIBD",
@@ -555,7 +565,9 @@
       ],
       "sold": 98,
       "stock": 1,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "PICS",
@@ -567,7 +579,9 @@
       "snk": " Garansi 5 hari",
       "items": [],
       "sold": 47,
-      "stock": 0
+      "stock": 0,
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "ZOOM",
@@ -586,7 +600,9 @@
       ],
       "stock": 1,
       "sold": 37,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "AM",
@@ -752,7 +768,9 @@
       ],
       "stock": 38,
       "sold": 492,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "VIU",
@@ -1119,7 +1137,9 @@
           "qty": 1,
           "createdAt": "2026-05-20T17:59:38.691Z"
         }
-      ]
+      ],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "SPO1BNOGAR",
@@ -1131,7 +1151,9 @@
       "snk": " * Produk ini no garansi * Akun strong full awet, paid legal * Akun dari seller , tidak bisa akun buyer",
       "items": [],
       "stock": 0,
-      "sold": 245
+      "sold": 245,
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "SPO1BFULLGAR",
@@ -1205,7 +1227,9 @@
       ],
       "stock": 20,
       "sold": 150,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "YTJASPAY",
@@ -1261,7 +1285,9 @@
       ],
       "stock": 14,
       "sold": 6,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "PICS1B",
@@ -1273,7 +1299,9 @@
       "snk": " * No Garansi • Dilarang otak atik akun • Dilarang otak atik billing/Subscriptions • Jika ketahuan akun akan ditarik dan denda 50K • Dilarang ganti email & Password • Akun private bukan sharing",
       "items": [],
       "stock": 0,
-      "sold": 15
+      "sold": 15,
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "VISION",
@@ -1285,7 +1313,9 @@
       "snk": "* Akun private bukan sharing\n* No Garansi (Pasti awet)\n* 20 - 30 hari terhitung 1 Bulan\n* Setelah login langsung cek durasi jika kurang dari 20 hari bisa hub admin @enziwaf | wa.me/6287731282876",
       "items": [],
       "sold": 1,
-      "stock": 0
+      "stock": 0,
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "VIDTV",
@@ -1654,7 +1684,9 @@
       ],
       "sold": 485,
       "stock": 71,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "GROK3D",
@@ -1667,7 +1699,9 @@
       "items": [],
       "sold": 99,
       "stock": 0,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "GPPLUSPRIV",
@@ -1680,7 +1714,9 @@
       "items": [],
       "sold": 683,
       "stock": 0,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "CC1B",
@@ -1693,7 +1729,9 @@
       "items": [],
       "sold": 534,
       "stock": 0,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "CC7D",
@@ -1719,7 +1757,9 @@
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
         }
-      ]
+      ],
+      "bulk_active": true,
+      "bulk_prices": []
     },
     {
       "code": "GPPLUSPRIVFULL",
@@ -1731,7 +1771,9 @@
       "snk": "* login biasa bukan google (KENA VERIF? KODE KESINI https://tmail.wafproject.my.id)\n• login bisa lewat web atau aplikasi\n• full garansi 25 hari \n• garansi backfree dan suspend, ce tidak termasuk\n• plan chatgpt plus\n• dilarang mengotak-atik yang berkaitan dengan akun termasuk bagian pembayaran\n• tolong kirim bukti berhasil login agar seller mengetahui, tidak kirim maka tidak bisa klaim garansi (no komplain)\n• GARANSI BERLAKU SELAMA METODE TIDAK KOID",
       "items": [],
       "sold": 845,
-      "stock": 0
+      "stock": 0,
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "GPPLUSNOGAR",
@@ -1743,7 +1785,9 @@
       "snk": "* Login biasa menggunakan email, JANGAN klik \"Lanjutkan dengan Google\". Jika diminta kode verifikasi, cek di: https://tmail.wafproject.my.id\n‎\n‎• Bisa digunakan melalui web browser maupun aplikasi resmi.\n‎\n‎• No Garansi.\n‎\n‎• Dijual Sharing? Resiko tanggung sendiri.\n‎\n‎• Dilarang keras mengotak-atik pengaturan akun, termasuk bagian pembayaran.\n‎\n‎• Hindari terlalu sering logout-login agar akun tetap aman.\n‎\n‎• Max login 2 device jika mau akun awet\n‎\n‎• Tidak ada reffund setelah pembelian sukses.",
       "items": [],
       "sold": 679,
-      "stock": 0
+      "stock": 0,
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "GTC",
@@ -1756,7 +1800,9 @@
       "items": [],
       "sold": 319,
       "stock": 0,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "CCHEAD",
@@ -1768,7 +1814,9 @@
       "snk": "Garansi 5 Hari",
       "items": [],
       "sold": 106,
-      "stock": 0
+      "stock": 0,
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "AMBUYER",
@@ -1866,7 +1914,9 @@
       ],
       "sold": 3,
       "stock": 21,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     },
     {
       "code": "NETC",
@@ -1879,7 +1929,9 @@
       "items": [],
       "sold": 32,
       "stock": 0,
-      "reserved": []
+      "reserved": [],
+      "bulk_active": false,
+      "bulk_prices": []
     }
   ],
   "meta": {
