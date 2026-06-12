@@ -1996,15 +1996,10 @@
           "email": "kamidinirawan6@cosoinan.com",
           "password": "cosoinan.com",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "jagahardiansyah74@cosoinan.com",
-          "password": "cosoinan.com",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 46,
+      "stock": 45,
       "reserved": [
         {
           "id": "RSV1780362536090628",
