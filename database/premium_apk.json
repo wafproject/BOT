@@ -1981,15 +1981,10 @@
           "email": "diahpuspasari48@cosoinan.com",
           "password": "cosoinan.com",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "syahrininapitupulu77@cosoinan.com",
-          "password": "cosoinan.com",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 43,
+      "stock": 42,
       "reserved": [
         {
           "id": "RSV1780362536090628",
