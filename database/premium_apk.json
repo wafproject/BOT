@@ -2001,15 +2001,10 @@
           "email": "jagahardiansyah74@cosoinan.com",
           "password": "cosoinan.com",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "paramitasuryatmi23@cosoinan.com",
-          "password": "cosoinan.com",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 47,
+      "stock": 46,
       "reserved": [
         {
           "id": "RSV1780362536090628",
