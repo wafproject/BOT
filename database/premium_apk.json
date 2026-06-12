@@ -1906,15 +1906,10 @@
           "email": "jailjailani54@cosoinan.com",
           "password": "cosoinan.com",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "yunimanullang38@cosoinan.com",
-          "password": "cosoinan.com",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 28,
+      "stock": 27,
       "reserved": [
         {
           "id": "RSV1780362536090628",
