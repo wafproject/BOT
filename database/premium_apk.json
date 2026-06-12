@@ -1826,15 +1826,10 @@
           "email": "karyahastuti16@cosoinan.com",
           "password": "masuk123",
           "addedAt": 1781249712610
-        },
-        {
-          "email": "ikapranowo86@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781249712610
         }
       ],
       "sold": 2580,
-      "stock": 12,
+      "stock": 11,
       "reserved": [
         {
           "id": "RSV1780362536090628",
