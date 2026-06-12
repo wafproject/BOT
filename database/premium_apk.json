@@ -2094,7 +2094,7 @@
           "addedAt": 1781249712610
         }
       ],
-      "sold": 2572,
+      "sold": 2573,
       "stock": 63,
       "reserved": [
         {
@@ -2108,18 +2108,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781259964732945",
-          "items": [
-            {
-              "email": "cuytre@cosoinan.com",
-              "password": "masuk123",
-              "addedAt": 1781249712610
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-12T10:26:04.732Z"
         }
       ],
       "bulk_active": true,
