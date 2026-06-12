@@ -1899,7 +1899,7 @@
           "addedAt": 1781266323056
         }
       ],
-      "sold": 2609,
+      "sold": 2610,
       "stock": 26,
       "reserved": [
         {
@@ -1913,18 +1913,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781268413934816",
-          "items": [
-            {
-              "email": "ajimansamosir50@cosoinan.com",
-              "password": "cosoinan.com",
-              "addedAt": 1781266323056
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-12T12:46:53.934Z"
         }
       ],
       "bulk_active": true,
