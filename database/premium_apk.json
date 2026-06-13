@@ -2019,7 +2019,7 @@
           "addedAt": 1781331210919
         }
       ],
-      "sold": 2650,
+      "sold": 2651,
       "stock": 44,
       "reserved": [
         {
@@ -2033,18 +2033,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781332538172259",
-          "items": [
-            {
-              "email": "sakuraagustina76@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781331210918
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-13T06:35:38.172Z"
         }
       ],
       "bulk_active": true,
