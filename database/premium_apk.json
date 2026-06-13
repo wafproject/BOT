@@ -1799,21 +1799,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "elvinapuspasari12@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1781331210918
-        },
-        {
-          "email": "bakiantomarbun16@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1781331210918
-        },
-        {
-          "email": "hestikurniawan60@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1781331210918
-        },
-        {
           "email": "cahyadamanik70@cihuy.net",
           "password": "masuk123",
           "addedAt": 1781331210918
@@ -2055,7 +2040,7 @@
         }
       ],
       "sold": 2644,
-      "stock": 51,
+      "stock": 48,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2068,6 +2053,28 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
+        },
+        {
+          "id": "RSV1781331768907808",
+          "items": [
+            {
+              "email": "elvinapuspasari12@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1781331210918
+            },
+            {
+              "email": "bakiantomarbun16@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1781331210918
+            },
+            {
+              "email": "hestikurniawan60@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1781331210918
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-06-13T06:22:48.907Z"
         }
       ],
       "bulk_active": true,
