@@ -2014,7 +2014,7 @@
           "addedAt": 1781331210919
         }
       ],
-      "sold": 2651,
+      "sold": 2652,
       "stock": 43,
       "reserved": [
         {
@@ -2028,18 +2028,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781332627432621",
-          "items": [
-            {
-              "email": "mahesasihombing14@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781331210918
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-13T06:37:07.432Z"
         }
       ],
       "bulk_active": true,
