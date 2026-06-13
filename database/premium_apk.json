@@ -1799,46 +1799,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
-          "email": "karnalailasari79@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781266323056
-        },
-        {
-          "email": "radikatampubolon83@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781266323056
-        },
-        {
-          "email": "unjanithamrin92@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781266323056
-        },
-        {
-          "email": "pangestudabukke65@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781266323056
-        },
-        {
-          "email": "galihhardiansyah98@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781266323056
-        },
-        {
-          "email": "galionoandriani65@cosoinan.com",
-          "password": "masuk123",
-          "addedAt": 1781266323056
-        },
-        {
-          "email": "hasnaprastuti68@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1781331210918
-        },
-        {
-          "email": "sabrinanuraini28@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1781331210918
-        },
-        {
           "email": "ivanwastuti94@cihuy.net",
           "password": "masuk123",
           "addedAt": 1781331210918
@@ -2125,7 +2085,7 @@
         }
       ],
       "sold": 2630,
-      "stock": 65,
+      "stock": 57,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2138,6 +2098,53 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
+        },
+        {
+          "id": "RSV1781331336221964",
+          "items": [
+            {
+              "email": "karnalailasari79@cosoinan.com",
+              "password": "masuk123",
+              "addedAt": 1781266323056
+            },
+            {
+              "email": "radikatampubolon83@cosoinan.com",
+              "password": "masuk123",
+              "addedAt": 1781266323056
+            },
+            {
+              "email": "unjanithamrin92@cosoinan.com",
+              "password": "masuk123",
+              "addedAt": 1781266323056
+            },
+            {
+              "email": "pangestudabukke65@cosoinan.com",
+              "password": "masuk123",
+              "addedAt": 1781266323056
+            },
+            {
+              "email": "galihhardiansyah98@cosoinan.com",
+              "password": "masuk123",
+              "addedAt": 1781266323056
+            },
+            {
+              "email": "galionoandriani65@cosoinan.com",
+              "password": "masuk123",
+              "addedAt": 1781266323056
+            },
+            {
+              "email": "hasnaprastuti68@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1781331210918
+            },
+            {
+              "email": "sabrinanuraini28@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1781331210918
+            }
+          ],
+          "qty": 8,
+          "createdAt": "2026-06-13T06:15:36.221Z"
         }
       ],
       "bulk_active": true,
