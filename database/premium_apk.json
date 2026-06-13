@@ -2004,7 +2004,7 @@
           "addedAt": 1781331210919
         }
       ],
-      "sold": 2653,
+      "sold": 2654,
       "stock": 41,
       "reserved": [
         {
@@ -2018,18 +2018,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781333435552337",
-          "items": [
-            {
-              "email": "maidalestari89@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781331210918
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-13T06:50:35.552Z"
         }
       ],
       "bulk_active": true,
