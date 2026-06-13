@@ -1821,11 +1821,11 @@
           "price": 4500
         },
         {
-          "minQty": 25,
+          "minQty": 30,
           "price": 4000
         },
         {
-          "minQty": 50,
+          "minQty": 60,
           "price": 3500
         }
       ]
