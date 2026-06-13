@@ -1745,6 +1745,11 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n\nHarap gunakan akun dengan bijak.",
       "items": [
         {
+          "email": "jagahardiansyah74@cosoinan.com",
+          "password": "cosoinan.com",
+          "addedAt": 1781266323056
+        },
+        {
           "email": "paramitasuryatmi23@cosoinan.com",
           "password": "cosoinan.com",
           "addedAt": 1781266323056
@@ -1796,7 +1801,7 @@
         }
       ],
       "sold": 2625,
-      "stock": 10,
+      "stock": 11,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1809,18 +1814,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781311373643998",
-          "items": [
-            {
-              "email": "jagahardiansyah74@cosoinan.com",
-              "password": "cosoinan.com",
-              "addedAt": 1781266323056
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-13T00:42:53.643Z"
         }
       ],
       "bulk_active": true,
