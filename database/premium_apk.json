@@ -2054,7 +2054,7 @@
           "addedAt": 1781331210919
         }
       ],
-      "sold": 2638,
+      "sold": 2644,
       "stock": 51,
       "reserved": [
         {
@@ -2068,43 +2068,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781331391246959",
-          "items": [
-            {
-              "email": "ivanwastuti94@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781331210918
-            },
-            {
-              "email": "putiwulandari51@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781331210918
-            },
-            {
-              "email": "malikpertiwi48@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781331210918
-            },
-            {
-              "email": "galurpurwanti52@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781331210918
-            },
-            {
-              "email": "zaenabhabibi21@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781331210918
-            },
-            {
-              "email": "kardiutama80@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781331210918
-            }
-          ],
-          "qty": 6,
-          "createdAt": "2026-06-13T06:16:31.246Z"
         }
       ],
       "bulk_active": true,
