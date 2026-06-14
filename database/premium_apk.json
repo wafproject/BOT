@@ -2167,15 +2167,10 @@
           "email": "jay106y@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373948
-        },
-        {
-          "email": "jduresadg@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373948
         }
       ],
       "sold": 2708,
-      "stock": 76,
+      "stock": 75,
       "reserved": [
         {
           "id": "RSV1780362536090628",
