@@ -2027,15 +2027,10 @@
           "email": "raharjaprasetya68@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373946
-        },
-        {
-          "email": "maryadilaksita57@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373946
         }
       ],
       "sold": 2708,
-      "stock": 48,
+      "stock": 47,
       "reserved": [
         {
           "id": "RSV1780362536090628",
