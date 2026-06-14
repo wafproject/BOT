@@ -2187,15 +2187,10 @@
           "email": "xiutresd@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373948
-        },
-        {
-          "email": "syredirewq@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373948
         }
       ],
       "sold": 2708,
-      "stock": 80,
+      "stock": 79,
       "reserved": [
         {
           "id": "RSV1780362536090628",
