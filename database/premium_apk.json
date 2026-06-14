@@ -694,10 +694,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "wirus456@naverapp.com",
-          "addedAt": 1774033637376
-        },
-        {
           "email": "maria06@0xmiikee.com",
           "addedAt": 1774033638544
         },
@@ -826,8 +822,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 33,
-      "sold": 496,
+      "stock": 32,
+      "sold": 497,
       "reserved": [
         {
           "id": "RSV1781452043087359",
