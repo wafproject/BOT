@@ -1982,15 +1982,10 @@
           "email": "irianagunarto21@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373946
-        },
-        {
-          "email": "mustofayuliarti9@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373946
         }
       ],
       "sold": 2708,
-      "stock": 39,
+      "stock": 38,
       "reserved": [
         {
           "id": "RSV1780362536090628",
