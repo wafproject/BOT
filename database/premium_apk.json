@@ -2122,15 +2122,10 @@
           "email": "cintamulyani22@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373948
-        },
-        {
-          "email": "rachelyuniar14@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373948
         }
       ],
       "sold": 2708,
-      "stock": 67,
+      "stock": 66,
       "reserved": [
         {
           "id": "RSV1780362536090628",
