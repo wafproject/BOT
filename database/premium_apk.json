@@ -1897,15 +1897,10 @@
           "email": "belindaprayoga2@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373946
-        },
-        {
-          "email": "hildasihombing13@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373946
         }
       ],
       "sold": 2708,
-      "stock": 22,
+      "stock": 21,
       "reserved": [
         {
           "id": "RSV1780362536090628",
