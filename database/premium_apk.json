@@ -1827,15 +1827,10 @@
           "email": "shakilaagustina54@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373946
-        },
-        {
-          "email": "ellabudiyanto74@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373946
         }
       ],
       "sold": 2708,
-      "stock": 8,
+      "stock": 7,
       "reserved": [
         {
           "id": "RSV1780362536090628",
