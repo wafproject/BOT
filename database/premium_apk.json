@@ -2261,15 +2261,15 @@
       "bulk_prices": [
         {
           "minQty": 5,
-          "price": 4500
-        },
-        {
-          "minQty": 25,
           "price": 4000
         },
         {
-          "minQty": 50,
+          "minQty": 30,
           "price": 3500
+        },
+        {
+          "minQty": 60,
+          "price": 3000
         }
       ]
     },
