@@ -1819,7 +1819,7 @@
           "addedAt": 1781437885833
         }
       ],
-      "sold": 2786,
+      "sold": 2787,
       "stock": 5,
       "reserved": [
         {
@@ -1855,18 +1855,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781440390297530",
-          "items": [
-            {
-              "email": "syredirewq@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781437885833
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-14T12:33:10.297Z"
         }
       ],
       "bulk_active": true,
