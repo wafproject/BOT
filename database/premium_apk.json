@@ -2062,15 +2062,10 @@
           "email": "rahmatsitompul72@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373948
-        },
-        {
-          "email": "ozywidodo86@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373948
         }
       ],
       "sold": 2708,
-      "stock": 55,
+      "stock": 54,
       "reserved": [
         {
           "id": "RSV1780362536090628",
