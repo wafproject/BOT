@@ -1967,15 +1967,10 @@
           "email": "kambalisihombing16@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373946
-        },
-        {
-          "email": "nyanaramadan57@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373946
         }
       ],
       "sold": 2708,
-      "stock": 36,
+      "stock": 35,
       "reserved": [
         {
           "id": "RSV1780362536090628",
