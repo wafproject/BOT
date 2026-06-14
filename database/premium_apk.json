@@ -1947,15 +1947,10 @@
           "email": "melindaastuti75@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373946
-        },
-        {
-          "email": "kandapradana37@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373946
         }
       ],
       "sold": 2708,
-      "stock": 32,
+      "stock": 31,
       "reserved": [
         {
           "id": "RSV1780362536090628",
