@@ -591,22 +591,9 @@
           "addedAt": 1781330631434
         }
       ],
-      "sold": 107,
+      "sold": 108,
       "stock": 14,
-      "reserved": [
-        {
-          "id": "RSV1781424782857888",
-          "items": [
-            {
-              "email": "polver@cuaks.fun",
-              "password": "masuk1234@",
-              "addedAt": 1781330631434
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-14T08:13:02.858Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
