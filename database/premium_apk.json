@@ -1794,36 +1794,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "kokosantoso30@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781437885833
-        },
-        {
-          "email": "hanipermadi55@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781437885833
-        },
-        {
-          "email": "jay106y@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781437885833
-        },
-        {
-          "email": "jduresadg@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781437885833
-        },
-        {
-          "email": "porsenihg@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781437885833
-        },
-        {
-          "email": "xfhjfd6@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781437885833
-        },
-        {
           "email": "xiutresd@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781437885833
@@ -1855,7 +1825,7 @@
         }
       ],
       "sold": 2780,
-      "stock": 12,
+      "stock": 6,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -1890,6 +1860,43 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
+        },
+        {
+          "id": "RSV1781439093818413",
+          "items": [
+            {
+              "email": "kokosantoso30@jagomail.com",
+              "password": "masuk123",
+              "addedAt": 1781437885833
+            },
+            {
+              "email": "hanipermadi55@jagomail.com",
+              "password": "masuk123",
+              "addedAt": 1781437885833
+            },
+            {
+              "email": "jay106y@jagomail.com",
+              "password": "masuk123",
+              "addedAt": 1781437885833
+            },
+            {
+              "email": "jduresadg@jagomail.com",
+              "password": "masuk123",
+              "addedAt": 1781437885833
+            },
+            {
+              "email": "porsenihg@jagomail.com",
+              "password": "masuk123",
+              "addedAt": 1781437885833
+            },
+            {
+              "email": "xfhjfd6@jagomail.com",
+              "password": "masuk123",
+              "addedAt": 1781437885833
+            }
+          ],
+          "qty": 6,
+          "createdAt": "2026-06-14T12:11:33.818Z"
         }
       ],
       "bulk_active": true,
