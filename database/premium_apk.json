@@ -2087,15 +2087,10 @@
           "email": "malikawibowo83@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373948
-        },
-        {
-          "email": "farhunnisautama8@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373948
         }
       ],
       "sold": 2708,
-      "stock": 60,
+      "stock": 59,
       "reserved": [
         {
           "id": "RSV1780362536090628",
