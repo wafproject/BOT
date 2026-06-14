@@ -2162,15 +2162,10 @@
           "email": "hanipermadi55@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373948
-        },
-        {
-          "email": "jay106y@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373948
         }
       ],
       "sold": 2708,
-      "stock": 75,
+      "stock": 74,
       "reserved": [
         {
           "id": "RSV1780362536090628",
