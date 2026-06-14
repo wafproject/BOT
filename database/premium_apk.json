@@ -694,10 +694,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "mejustnme@nguyenvuquocanh.com",
-          "addedAt": 1774033635522
-        },
-        {
           "email": "wirus456@naverapp.com",
           "addedAt": 1774033637376
         },
@@ -830,9 +826,21 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 34,
+      "stock": 33,
       "sold": 496,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1781452043087359",
+          "items": [
+            {
+              "email": "mejustnme@nguyenvuquocanh.com",
+              "addedAt": 1774033635522
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-14T15:47:23.087Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
