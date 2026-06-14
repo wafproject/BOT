@@ -2152,15 +2152,10 @@
           "email": "simonpuspasari27@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373948
-        },
-        {
-          "email": "kokosantoso30@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373948
         }
       ],
       "sold": 2708,
-      "stock": 73,
+      "stock": 72,
       "reserved": [
         {
           "id": "RSV1780362536090628",
