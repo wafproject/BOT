@@ -2007,15 +2007,10 @@
           "email": "evapermata24@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373946
-        },
-        {
-          "email": "putiutami85@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373946
         }
       ],
       "sold": 2708,
-      "stock": 44,
+      "stock": 43,
       "reserved": [
         {
           "id": "RSV1780362536090628",
