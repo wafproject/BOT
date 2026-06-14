@@ -1794,31 +1794,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "rachelyuniar14@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781437885833
-        },
-        {
-          "email": "ibrahimpuspita69@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781437885833
-        },
-        {
-          "email": "cemetimaulana5@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781437885833
-        },
-        {
-          "email": "darmajidamanik46@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781437885833
-        },
-        {
-          "email": "mulyonosaptono63@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781437885833
-        },
-        {
           "email": "simonpuspasari27@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781437885833
@@ -1885,7 +1860,7 @@
         }
       ],
       "sold": 2714,
-      "stock": 18,
+      "stock": 13,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2227,6 +2202,38 @@
           ],
           "qty": 60,
           "createdAt": "2026-06-14T11:56:08.935Z"
+        },
+        {
+          "id": "RSV178143819426690",
+          "items": [
+            {
+              "email": "rachelyuniar14@jagomail.com",
+              "password": "masuk123",
+              "addedAt": 1781437885833
+            },
+            {
+              "email": "ibrahimpuspita69@jagomail.com",
+              "password": "masuk123",
+              "addedAt": 1781437885833
+            },
+            {
+              "email": "cemetimaulana5@jagomail.com",
+              "password": "masuk123",
+              "addedAt": 1781437885833
+            },
+            {
+              "email": "darmajidamanik46@jagomail.com",
+              "password": "masuk123",
+              "addedAt": 1781437885833
+            },
+            {
+              "email": "mulyonosaptono63@jagomail.com",
+              "password": "masuk123",
+              "addedAt": 1781437885833
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-06-14T11:56:34.266Z"
         }
       ],
       "bulk_active": true,
