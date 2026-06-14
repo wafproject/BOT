@@ -2197,15 +2197,10 @@
           "email": "xiutppp@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373948
-        },
-        {
-          "email": "hermansidj@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373948
         }
       ],
       "sold": 2708,
-      "stock": 82,
+      "stock": 81,
       "reserved": [
         {
           "id": "RSV1780362536090628",
