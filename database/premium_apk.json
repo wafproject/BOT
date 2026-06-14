@@ -2258,11 +2258,11 @@
           "price": 4500
         },
         {
-          "minQty": 30,
+          "minQty": 25,
           "price": 4000
         },
         {
-          "minQty": 60,
+          "minQty": 50,
           "price": 3500
         }
       ]
