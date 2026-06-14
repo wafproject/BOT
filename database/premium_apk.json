@@ -2230,7 +2230,7 @@
           "addedAt": 1781426373948
         }
       ],
-      "sold": 2703,
+      "sold": 2704,
       "stock": 91,
       "reserved": [
         {
@@ -2244,18 +2244,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-02T01:08:56.090Z"
-        },
-        {
-          "id": "RSV1781426795963178",
-          "items": [
-            {
-              "email": "prakosapurwanti97@jagomail.com",
-              "password": "masuk123",
-              "addedAt": 1781426373946
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-14T08:46:35.963Z"
         }
       ],
       "bulk_active": true,
