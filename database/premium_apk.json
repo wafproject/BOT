@@ -1917,15 +1917,10 @@
           "email": "umaythamrin76@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373946
-        },
-        {
-          "email": "yahyanovitasari75@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373946
         }
       ],
       "sold": 2708,
-      "stock": 26,
+      "stock": 25,
       "reserved": [
         {
           "id": "RSV1780362536090628",
