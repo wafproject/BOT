@@ -1977,15 +1977,10 @@
           "email": "jarwadipertiwi71@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373946
-        },
-        {
-          "email": "irianagunarto21@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373946
         }
       ],
       "sold": 2708,
-      "stock": 38,
+      "stock": 37,
       "reserved": [
         {
           "id": "RSV1780362536090628",
