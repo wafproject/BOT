@@ -2102,15 +2102,10 @@
           "email": "zulaikhajanuar99@jagomail.com",
           "password": "masuk123",
           "addedAt": 1781426373948
-        },
-        {
-          "email": "taliasiregar54@jagomail.com",
-          "password": "masuk123",
-          "addedAt": 1781426373948
         }
       ],
       "sold": 2708,
-      "stock": 63,
+      "stock": 62,
       "reserved": [
         {
           "id": "RSV1780362536090628",
