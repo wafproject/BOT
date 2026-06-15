@@ -793,13 +793,9 @@
         {
           "email": "anjolie@ohgitu.me",
           "addedAt": 1774033667256
-        },
-        {
-          "email": "urlstaff12@izhowto.com",
-          "addedAt": 1774033668328
         }
       ],
-      "stock": 30,
+      "stock": 29,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
