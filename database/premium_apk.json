@@ -2340,7 +2340,7 @@
           "addedAt": 1781504683463
         }
       ],
-      "sold": 2860,
+      "sold": 2865,
       "stock": 17,
       "reserved": [
         {
@@ -2376,38 +2376,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV178151446295830",
-          "items": [
-            {
-              "email": "gabriellasaptono91@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "fitrianikurniawan88@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "karmanbudiman31@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "radenprayoga32@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "darunahassanah1@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-06-15T09:07:42.958Z"
         }
       ],
       "bulk_active": true,
