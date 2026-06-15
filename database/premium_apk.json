@@ -458,12 +458,9 @@
         },
         {
           "text": "Via Invite Email"
-        },
-        {
-          "text": "Via Invite Email"
         }
       ],
-      "stock": 105,
+      "stock": 104,
       "sold": 120,
       "reserved": [
         {
@@ -475,6 +472,16 @@
           ],
           "qty": 1,
           "createdAt": "2026-05-27T11:42:34.946Z"
+        },
+        {
+          "id": "RSV1781500740749134",
+          "items": [
+            {
+              "text": "Via Invite Email"
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-15T05:19:00.749Z"
         }
       ],
       "bulk_active": false,
