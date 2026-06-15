@@ -753,13 +753,9 @@
         {
           "email": "kyliethornton@macmail.info",
           "addedAt": 1774033657726
-        },
-        {
-          "email": "shandyrichard@kwinx.click",
-          "addedAt": 1774033658650
         }
       ],
-      "stock": 20,
+      "stock": 19,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
