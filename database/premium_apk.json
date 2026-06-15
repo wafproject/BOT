@@ -765,13 +765,9 @@
         {
           "email": "viktorzoy@healthsoulger.com",
           "addedAt": 1774033660460
-        },
-        {
-          "email": "cicero54@code-gmail.com",
-          "addedAt": 1774033661510
         }
       ],
-      "stock": 23,
+      "stock": 22,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
