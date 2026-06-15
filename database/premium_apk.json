@@ -773,13 +773,9 @@
         {
           "email": "jeremymg1@thip-like.com",
           "addedAt": 1774033662404
-        },
-        {
-          "email": "hirono@peakwavepro.com",
-          "addedAt": 1774033663250
         }
       ],
-      "stock": 25,
+      "stock": 24,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
