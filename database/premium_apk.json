@@ -729,13 +729,9 @@
         {
           "email": "kaplus7@winmail.vip",
           "addedAt": 1774033652079
-        },
-        {
-          "email": "azink@appremiums.pro",
-          "addedAt": 1774033652945
         }
       ],
-      "stock": 14,
+      "stock": 13,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
