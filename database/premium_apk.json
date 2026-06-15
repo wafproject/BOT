@@ -710,13 +710,9 @@
         {
           "email": "opensky18@leoin.eu.cc|https://lisensify.com/inbox/opensky18%40leoin.eu.cc",
           "addedAt": 1781503932970
-        },
-        {
-          "email": "slowhare66@netpriv.biz.id|https://lisensify.com/inbox/slowhare66%40netpriv.biz.id",
-          "addedAt": 1781503932970
         }
       ],
-      "stock": 10,
+      "stock": 9,
       "sold": 499,
       "reserved": [],
       "bulk_active": false,
