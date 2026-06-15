@@ -713,13 +713,9 @@
         {
           "email": "sicklesell@yaholo.cloud",
           "addedAt": 1774033647165
-        },
-        {
-          "email": "f8yu2wqd@foxnew.info",
-          "addedAt": 1774033648290
         }
       ],
-      "stock": 10,
+      "stock": 9,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
