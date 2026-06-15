@@ -2379,7 +2379,7 @@
           "addedAt": 1781504683463
         }
       ],
-      "sold": 2857,
+      "sold": 2858,
       "stock": 24,
       "reserved": [
         {
@@ -2415,18 +2415,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781512455403315",
-          "items": [
-            {
-              "email": "caturanggasimbolon2@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-15T08:34:15.403Z"
         }
       ],
       "bulk_active": true,
