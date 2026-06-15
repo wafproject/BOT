@@ -77,9 +77,13 @@
         {
           "link": "https://www.canva.com/brand/join?token=X9AlibVlBDDvCvneIrVFsw&referrer=team-invite",
           "addedAt": 1781427793327
+        },
+        {
+          "link": "https://www.canva.com/brand/join?token=X9AlibVlBDDvCvneIrVFsw&referrer=team-invite",
+          "addedAt": 1781427793327
         }
       ],
-      "stock": 4,
+      "stock": 5,
       "sold": 588,
       "reserved": [
         {
@@ -114,17 +118,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-01T08:15:30.382Z"
-        },
-        {
-          "id": "RSV1781489980801832",
-          "items": [
-            {
-              "link": "https://www.canva.com/brand/join?token=X9AlibVlBDDvCvneIrVFsw&referrer=team-invite",
-              "addedAt": 1781427793327
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-15T02:19:40.801Z"
         }
       ],
       "bulk_active": false,
