@@ -714,13 +714,9 @@
         {
           "email": "slowhare66@netpriv.biz.id|https://lisensify.com/inbox/slowhare66%40netpriv.biz.id",
           "addedAt": 1781503932970
-        },
-        {
-          "email": "gentleheron28@getcodemail.eu.cc|https://lisensify.com/inbox/gentleheron28%40getcodemail.eu.cc",
-          "addedAt": 1781503932970
         }
       ],
-      "stock": 11,
+      "stock": 10,
       "sold": 499,
       "reserved": [],
       "bulk_active": false,
