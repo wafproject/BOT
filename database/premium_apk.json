@@ -693,13 +693,9 @@
         {
           "email": "yackiejackie123@ngontol.com",
           "addedAt": 1774033641475
-        },
-        {
-          "email": "prstrd@ninepacman.com",
-          "addedAt": 1774033642476
         }
       ],
-      "stock": 5,
+      "stock": 4,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
