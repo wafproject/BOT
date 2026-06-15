@@ -769,13 +769,9 @@
         {
           "email": "cicero54@code-gmail.com",
           "addedAt": 1774033661510
-        },
-        {
-          "email": "jeremymg1@thip-like.com",
-          "addedAt": 1774033662404
         }
       ],
-      "stock": 24,
+      "stock": 23,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
