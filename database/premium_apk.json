@@ -705,13 +705,9 @@
         {
           "email": "moonlalamorales@muagicungre.com",
           "addedAt": 1774033645307
-        },
-        {
-          "email": "misspresent@ohgitu.me",
-          "addedAt": 1774033646185
         }
       ],
-      "stock": 8,
+      "stock": 7,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
