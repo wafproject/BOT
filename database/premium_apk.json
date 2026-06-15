@@ -681,13 +681,9 @@
         {
           "email": "maria06@0xmiikee.com",
           "addedAt": 1774033638544
-        },
-        {
-          "email": "mariantabaabu@gmail2.gq",
-          "addedAt": 1774033639471
         }
       ],
-      "stock": 2,
+      "stock": 1,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
