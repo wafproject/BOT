@@ -3463,11 +3463,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "yahyapadmasari78@belicapcut.app",
-          "password": "masuk123",
-          "addedAt": 1781504683463
-        },
-        {
           "email": "kanifirgantoro55@belicapcut.app",
           "password": "masuk123",
           "addedAt": 1781504683463
@@ -3859,7 +3854,7 @@
         }
       ],
       "sold": 2803,
-      "stock": 79,
+      "stock": 78,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -3894,6 +3889,18 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
+        },
+        {
+          "id": "RSV1781506564557934",
+          "items": [
+            {
+              "email": "yahyapadmasari78@belicapcut.app",
+              "password": "masuk123",
+              "addedAt": 1781504683463
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-15T06:56:04.557Z"
         }
       ],
       "bulk_active": true,
