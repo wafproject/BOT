@@ -674,13 +674,8 @@
       "price": 500,
       "descShort": "Email seller",
       "snk": " Akses Email https://generator.email/",
-      "items": [
-        {
-          "email": "tes",
-          "addedAt": 1781504131145
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 499,
       "reserved": [],
       "bulk_active": false,
