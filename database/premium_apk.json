@@ -2255,31 +2255,6 @@
       "snk": "* Akun private (bukan sharing)\n• Garansi aktif selama 3 hari setelah tanggal pembelian \n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "gabriellasaptono91@belicapcut.app",
-          "password": "masuk123",
-          "addedAt": 1781504683463
-        },
-        {
-          "email": "fitrianikurniawan88@belicapcut.app",
-          "password": "masuk123",
-          "addedAt": 1781504683463
-        },
-        {
-          "email": "karmanbudiman31@belicapcut.app",
-          "password": "masuk123",
-          "addedAt": 1781504683463
-        },
-        {
-          "email": "radenprayoga32@belicapcut.app",
-          "password": "masuk123",
-          "addedAt": 1781504683463
-        },
-        {
-          "email": "darunahassanah1@belicapcut.app",
-          "password": "masuk123",
-          "addedAt": 1781504683463
-        },
-        {
           "email": "sucihalim96@belicapcut.app",
           "password": "masuk123",
           "addedAt": 1781504683463
@@ -2366,7 +2341,7 @@
         }
       ],
       "sold": 2860,
-      "stock": 22,
+      "stock": 17,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2401,6 +2376,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
+        },
+        {
+          "id": "RSV178151446295830",
+          "items": [
+            {
+              "email": "gabriellasaptono91@belicapcut.app",
+              "password": "masuk123",
+              "addedAt": 1781504683463
+            },
+            {
+              "email": "fitrianikurniawan88@belicapcut.app",
+              "password": "masuk123",
+              "addedAt": 1781504683463
+            },
+            {
+              "email": "karmanbudiman31@belicapcut.app",
+              "password": "masuk123",
+              "addedAt": 1781504683463
+            },
+            {
+              "email": "radenprayoga32@belicapcut.app",
+              "password": "masuk123",
+              "addedAt": 1781504683463
+            },
+            {
+              "email": "darunahassanah1@belicapcut.app",
+              "password": "masuk123",
+              "addedAt": 1781504683463
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-06-15T09:07:42.958Z"
         }
       ],
       "bulk_active": true,
