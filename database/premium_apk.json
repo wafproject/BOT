@@ -761,13 +761,9 @@
         {
           "email": "trp2433@alvaxio.com",
           "addedAt": 1774033659658
-        },
-        {
-          "email": "viktorzoy@healthsoulger.com",
-          "addedAt": 1774033660460
         }
       ],
-      "stock": 22,
+      "stock": 21,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
