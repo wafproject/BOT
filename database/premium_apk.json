@@ -801,13 +801,9 @@
         {
           "email": "donnafisher@alightmotion.top",
           "addedAt": 1774033670230
-        },
-        {
-          "email": "kandralla@giangholang.xyz",
-          "addedAt": 1774033671515
         }
       ],
-      "stock": 32,
+      "stock": 31,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
