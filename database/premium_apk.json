@@ -679,10 +679,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "mejustnme@nguyenvuquocanh.com",
-          "addedAt": 1774033635522
-        },
-        {
           "email": "maria06@0xmiikee.com",
           "addedAt": 1774033638544
         },
@@ -811,8 +807,8 @@
           "addedAt": 1774033671515
         }
       ],
-      "stock": 33,
-      "sold": 497,
+      "stock": 32,
+      "sold": 498,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
