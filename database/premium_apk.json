@@ -757,13 +757,9 @@
         {
           "email": "shandyrichard@kwinx.click",
           "addedAt": 1774033658650
-        },
-        {
-          "email": "trp2433@alvaxio.com",
-          "addedAt": 1774033659658
         }
       ],
-      "stock": 21,
+      "stock": 20,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
