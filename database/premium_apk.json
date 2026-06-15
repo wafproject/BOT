@@ -701,13 +701,9 @@
         {
           "email": "iceecube@hotmeil.net",
           "addedAt": 1774033644341
-        },
-        {
-          "email": "moonlalamorales@muagicungre.com",
-          "addedAt": 1774033645307
         }
       ],
-      "stock": 7,
+      "stock": 6,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
