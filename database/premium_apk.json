@@ -2335,7 +2335,7 @@
           "addedAt": 1781504683463
         }
       ],
-      "sold": 2865,
+      "sold": 2866,
       "stock": 16,
       "reserved": [
         {
@@ -2371,18 +2371,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781514692405520",
-          "items": [
-            {
-              "email": "sucihalim96@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-15T09:11:32.405Z"
         }
       ],
       "bulk_active": true,
