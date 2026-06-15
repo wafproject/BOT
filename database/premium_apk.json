@@ -797,13 +797,9 @@
         {
           "email": "urlstaff12@izhowto.com",
           "addedAt": 1774033668328
-        },
-        {
-          "email": "donnafisher@alightmotion.top",
-          "addedAt": 1774033670230
         }
       ],
-      "stock": 31,
+      "stock": 30,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
