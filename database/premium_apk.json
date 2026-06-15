@@ -677,13 +677,8 @@
       "price": 500,
       "descShort": "Email seller",
       "snk": " Akses Email https://generator.email/",
-      "items": [
-        {
-          "email": "maria06@0xmiikee.com",
-          "addedAt": 1774033638544
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
