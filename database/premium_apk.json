@@ -3894,11 +3894,7 @@
       "bulk_active": true,
       "bulk_prices": [
         {
-          "minQty": 5,
-          "price": 4000
-        },
-        {
-          "minQty": 25,
+          "minQty": 10,
           "price": 3500
         },
         {
