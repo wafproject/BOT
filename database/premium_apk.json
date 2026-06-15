@@ -737,13 +737,9 @@
         {
           "email": "timmybarthez@infoisp.me",
           "addedAt": 1774033653805
-        },
-        {
-          "email": "hoohoocat@igdinhcao.com",
-          "addedAt": 1774033654850
         }
       ],
-      "stock": 16,
+      "stock": 15,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
