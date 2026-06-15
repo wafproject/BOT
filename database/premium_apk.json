@@ -697,13 +697,9 @@
         {
           "email": "prstrd@ninepacman.com",
           "addedAt": 1774033642476
-        },
-        {
-          "email": "iceecube@hotmeil.net",
-          "addedAt": 1774033644341
         }
       ],
-      "stock": 6,
+      "stock": 5,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
