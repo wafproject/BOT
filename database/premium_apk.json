@@ -676,10 +676,6 @@
       "snk": " Akses Email https://generator.email/",
       "items": [
         {
-          "email": "suavebyte51@narcoboy.sbs|https://lisensify.com/inbox/suavebyte51%40narcoboy.sbs",
-          "addedAt": 1781503932970
-        },
-        {
           "email": "saltyzac38@leoin.eu.cc|https://lisensify.com/inbox/saltyzac38%40leoin.eu.cc",
           "addedAt": 1781503932970
         },
@@ -772,8 +768,8 @@
           "addedAt": 1781503932970
         }
       ],
-      "stock": 24,
-      "sold": 498,
+      "stock": 23,
+      "sold": 499,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
