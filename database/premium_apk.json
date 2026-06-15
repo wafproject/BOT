@@ -674,13 +674,8 @@
       "price": 500,
       "descShort": "Email seller",
       "snk": " Akses Email https://generator.email/",
-      "items": [
-        {
-          "email": "saltyzac38@leoin.eu.cc|https://lisensify.com/inbox/saltyzac38%40leoin.eu.cc",
-          "addedAt": 1781503932970
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 499,
       "reserved": [],
       "bulk_active": false,
