@@ -2507,23 +2507,19 @@
       "bulk_prices": [
         {
           "minQty": 10,
-          "price": 3000
+          "price": 300
         },
         {
           "minQty": 50,
-          "price": 5000
+          "price": 100
         },
         {
           "minQty": 100,
-          "price": 8000
+          "price": 80
         },
         {
           "minQty": 200,
-          "price": 10000
-        },
-        {
-          "minQty": 500,
-          "price": 25000
+          "price": 50
         }
       ]
     },
