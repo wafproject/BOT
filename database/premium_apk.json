@@ -672,10 +672,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "smartray67@leobad.eu.cc|https://lisensify.com/inbox/smartray67%40leobad.eu.cc",
-          "addedAt": 1781504428996
-        },
-        {
           "email": "punchyswan55@kicau.sapiderman.eu.cc|https://lisensify.com/inbox/punchyswan55%40kicau.sapiderman.eu.cc",
           "addedAt": 1781504428996
         },
@@ -1300,8 +1296,8 @@
           "addedAt": 1781504508128
         }
       ],
-      "stock": 157,
-      "sold": 799,
+      "stock": 156,
+      "sold": 800,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
