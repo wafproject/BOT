@@ -745,13 +745,9 @@
         {
           "email": "galoiuroxana@akuadalah.dev",
           "addedAt": 1774033655656
-        },
-        {
-          "email": "brunetkamili@tokito.sbs",
-          "addedAt": 1774033656639
         }
       ],
-      "stock": 18,
+      "stock": 17,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
