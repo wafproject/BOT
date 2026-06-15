@@ -721,13 +721,9 @@
         {
           "email": "erebakan2011@brankasmu.com",
           "addedAt": 1774033649579
-        },
-        {
-          "email": "murzema@infoisp.me",
-          "addedAt": 1774033650575
         }
       ],
-      "stock": 12,
+      "stock": 11,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
