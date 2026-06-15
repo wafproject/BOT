@@ -741,13 +741,9 @@
         {
           "email": "hoohoocat@igdinhcao.com",
           "addedAt": 1774033654850
-        },
-        {
-          "email": "galoiuroxana@akuadalah.dev",
-          "addedAt": 1774033655656
         }
       ],
-      "stock": 17,
+      "stock": 16,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
