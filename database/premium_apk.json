@@ -709,13 +709,9 @@
         {
           "email": "misspresent@ohgitu.me",
           "addedAt": 1774033646185
-        },
-        {
-          "email": "sicklesell@yaholo.cloud",
-          "addedAt": 1774033647165
         }
       ],
-      "stock": 9,
+      "stock": 8,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
