@@ -717,13 +717,9 @@
         {
           "email": "f8yu2wqd@foxnew.info",
           "addedAt": 1774033648290
-        },
-        {
-          "email": "erebakan2011@brankasmu.com",
-          "addedAt": 1774033649579
         }
       ],
-      "stock": 11,
+      "stock": 10,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
