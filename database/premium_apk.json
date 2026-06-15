@@ -2555,6 +2555,20 @@
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
+    },
+    {
+      "code": "CCRL",
+      "name": "Crunchyroll Crack",
+      "category": "Crunchyroll Crack",
+      "type": "akun",
+      "price": 1000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "Garansi 3 Jam setelah pemebelian",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
