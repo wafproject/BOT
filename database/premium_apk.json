@@ -2508,7 +2508,28 @@
       "sold": 499,
       "reserved": [],
       "bulk_active": false,
-      "bulk_prices": []
+      "bulk_prices": [
+        {
+          "minQty": 10,
+          "price": 3000
+        },
+        {
+          "minQty": 50,
+          "price": 5000
+        },
+        {
+          "minQty": 100,
+          "price": 8000
+        },
+        {
+          "minQty": 200,
+          "price": 10000
+        },
+        {
+          "minQty": 500,
+          "price": 25000
+        }
+      ]
     },
     {
       "code": "VIU",
