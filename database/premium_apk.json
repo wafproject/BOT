@@ -749,13 +749,9 @@
         {
           "email": "brunetkamili@tokito.sbs",
           "addedAt": 1774033656639
-        },
-        {
-          "email": "kyliethornton@macmail.info",
-          "addedAt": 1774033657726
         }
       ],
-      "stock": 19,
+      "stock": 18,
       "sold": 498,
       "reserved": [],
       "bulk_active": false,
