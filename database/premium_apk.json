@@ -711,10 +711,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "fullzoo60@netpriv.biz.id|https://lisensify.com/inbox/fullzoo60%40netpriv.biz.id",
-          "addedAt": 1781504428996
-        },
-        {
           "email": "silentman02@narcoboy.sbs|https://lisensify.com/inbox/silentman02%40narcoboy.sbs",
           "addedAt": 1781504428996
         },
@@ -1331,8 +1327,8 @@
           "addedAt": 1781504508128
         }
       ],
-      "stock": 155,
-      "sold": 801,
+      "stock": 154,
+      "sold": 802,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
