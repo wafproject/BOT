@@ -2279,7 +2279,7 @@
           "addedAt": 1781582315354
         }
       ],
-      "sold": 2918,
+      "sold": 2919,
       "stock": 3,
       "reserved": [
         {
@@ -2315,18 +2315,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV178161142000957",
-          "items": [
-            {
-              "email": "riopunyanisa43@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-16T12:03:40.009Z"
         }
       ],
       "bulk_active": true,
