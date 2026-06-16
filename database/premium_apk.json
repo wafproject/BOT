@@ -2389,7 +2389,7 @@
           "addedAt": 1781582315354
         }
       ],
-      "sold": 2898,
+      "sold": 2899,
       "stock": 23,
       "reserved": [
         {
@@ -2425,18 +2425,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781594238292692",
-          "items": [
-            {
-              "email": "entengnurdiyanti36@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-16T07:17:18.292Z"
         }
       ],
       "bulk_active": true,
