@@ -2319,7 +2319,7 @@
           "addedAt": 1781582315354
         }
       ],
-      "sold": 2902,
+      "sold": 2912,
       "stock": 9,
       "reserved": [
         {
@@ -2367,63 +2367,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-16T10:08:35.076Z"
-        },
-        {
-          "id": "RSV1781604562682575",
-          "items": [
-            {
-              "email": "yessiyuliarti57@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            },
-            {
-              "email": "irsadhasanah32@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            },
-            {
-              "email": "gambiratarihoran55@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            },
-            {
-              "email": "wahyuhidayat64@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            },
-            {
-              "email": "ulyamandasari22@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            },
-            {
-              "email": "galionopradipta79@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            },
-            {
-              "email": "pranawawasita74@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            },
-            {
-              "email": "ejawahyuni55@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            },
-            {
-              "email": "diahhutasoit81@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            },
-            {
-              "email": "yonoanggriawan11@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-16T10:09:22.682Z"
         }
       ],
       "bulk_active": true,
