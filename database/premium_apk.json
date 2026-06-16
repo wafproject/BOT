@@ -2265,7 +2265,7 @@
           "addedAt": 1781582315354
         }
       ],
-      "sold": 2920,
+      "sold": 2921,
       "stock": 1,
       "reserved": [
         {
@@ -2301,18 +2301,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781612763205733",
-          "items": [
-            {
-              "email": "robiharifan@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-16T12:26:03.205Z"
         }
       ],
       "bulk_active": true,
