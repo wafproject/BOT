@@ -2470,7 +2470,7 @@
           "addedAt": 1781582315354
         }
       ],
-      "sold": 2884,
+      "sold": 2885,
       "stock": 37,
       "reserved": [
         {
@@ -2506,18 +2506,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781582475717648",
-          "items": [
-            {
-              "email": "galangtamba80@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315353
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-16T04:01:15.717Z"
         }
       ],
       "bulk_active": true,
