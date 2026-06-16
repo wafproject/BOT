@@ -2374,7 +2374,7 @@
           "addedAt": 1781582315354
         }
       ],
-      "sold": 2901,
+      "sold": 2902,
       "stock": 20,
       "reserved": [
         {
@@ -2410,18 +2410,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781597736417223",
-          "items": [
-            {
-              "email": "pangestumaryati34@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-16T08:15:36.417Z"
         }
       ],
       "bulk_active": true,
