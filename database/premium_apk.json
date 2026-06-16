@@ -2274,7 +2274,7 @@
           "addedAt": 1781582315354
         }
       ],
-      "sold": 2919,
+      "sold": 2920,
       "stock": 2,
       "reserved": [
         {
@@ -2310,18 +2310,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV178161209635138",
-          "items": [
-            {
-              "email": "farelfarelgan48@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1781582315354
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-16T12:14:56.351Z"
         }
       ],
       "bulk_active": true,
