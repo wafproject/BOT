@@ -2300,7 +2300,7 @@
           "addedAt": 1781504683463
         }
       ],
-      "sold": 2869,
+      "sold": 2879,
       "stock": 3,
       "reserved": [
         {
@@ -2336,63 +2336,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781568998635705",
-          "items": [
-            {
-              "email": "aninurdiyanti61@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "edisonnasyiah32@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "padmawidodo50@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "limarmangunsong21@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "jagaragamandala58@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "latikamarpaung64@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "daniswaraagustina72@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "artantojanuar11@belicapcut.app",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "cintamantan379@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            },
-            {
-              "email": "j3je1001@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1781504683463
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-16T00:16:38.635Z"
         }
       ],
       "bulk_active": true,
