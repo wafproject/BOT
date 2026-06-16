@@ -694,10 +694,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "jumpyking23@kingleo.eu.cc|https://lisensify.com/inbox/jumpyking23%40kingleo.eu.cc",
-          "addedAt": 1781504428996
-        },
-        {
           "email": "mintayu69@leogo.eu.cc|https://lisensify.com/inbox/mintayu69%40leogo.eu.cc",
           "addedAt": 1781504428996
         },
@@ -1306,8 +1302,8 @@
           "addedAt": 1781504508128
         }
       ],
-      "stock": 153,
-      "sold": 803,
+      "stock": 152,
+      "sold": 804,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
