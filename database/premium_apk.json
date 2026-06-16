@@ -2404,7 +2404,7 @@
           "addedAt": 1781582315354
         }
       ],
-      "sold": 2895,
+      "sold": 2896,
       "stock": 26,
       "reserved": [
         {
@@ -2440,18 +2440,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781591097917199",
-          "items": [
-            {
-              "email": "irfanhalimah50@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315353
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-16T06:24:57.917Z"
         }
       ],
       "bulk_active": true,
