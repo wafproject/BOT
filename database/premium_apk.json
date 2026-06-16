@@ -2258,7 +2258,7 @@
           "addedAt": 1781617479015
         }
       ],
-      "sold": 2939,
+      "sold": 2940,
       "stock": 2,
       "reserved": [
         {
@@ -2294,18 +2294,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781630803815822",
-          "items": [
-            {
-              "email": "salsabilaastuti74@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781617479015
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-16T17:26:43.815Z"
         }
       ],
       "bulk_active": true,
