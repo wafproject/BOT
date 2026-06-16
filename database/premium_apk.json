@@ -2282,7 +2282,7 @@
           "addedAt": 1781617479015
         }
       ],
-      "sold": 2926,
+      "sold": 2936,
       "stock": 6,
       "reserved": [
         {
@@ -2318,63 +2318,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781621853448566",
-          "items": [
-            {
-              "email": "suryasihotang39@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781617479015
-            },
-            {
-              "email": "anomsamosir69@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781617479015
-            },
-            {
-              "email": "zulaikhafarida32@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781617479015
-            },
-            {
-              "email": "a6f090wv@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781617479015
-            },
-            {
-              "email": "ramasuwarno15@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781617479015
-            },
-            {
-              "email": "mursininhutapea5@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781617479015
-            },
-            {
-              "email": "yahyawulandari46@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781617479015
-            },
-            {
-              "email": "hartolaksmiwati67@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781617479015
-            },
-            {
-              "email": "saktiwastuti23@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781617479015
-            },
-            {
-              "email": "yulianamangunsong70@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781617479015
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-16T14:57:33.448Z"
         }
       ],
       "bulk_active": true,
