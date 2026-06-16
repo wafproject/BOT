@@ -2283,9 +2283,210 @@
       "price": 4000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
-      "items": [],
+      "items": [
+        {
+          "email": "rahmigunawan1@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "kiandrasaefullah34@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "galangtamba80@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "sariwaskita81@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "pangesturamadan57@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "rahmitampubolon26@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "dianawulandari65@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "padmidongoran89@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "jokoyuliarti61@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "irasafitri31@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "ademaheswara91@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "radenpermata16@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "bagyapertiwi98@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "irfanhalimah50@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315353
+        },
+        {
+          "email": "rosmanardianto13@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "hasnaardianto81@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "entengnurdiyanti36@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "galuhpertiwi75@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "pangestumaryati34@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "cahyohalimah25@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "caturanggamansur79@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "yessiyuliarti57@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "irsadhasanah32@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "gambiratarihoran55@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "wahyuhidayat64@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "ulyamandasari22@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "galionopradipta79@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "pranawawasita74@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "ejawahyuni55@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "diahhutasoit81@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "yonoanggriawan11@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "galihfirgantoro61@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "prayogasuartini10@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "wagesimbolon97@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "farahprasetyo97@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "ulinasyiah77@cihuy.net",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "riopunyanisa43@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "farelfarelgan48@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "robiharifan@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        },
+        {
+          "email": "purbayaracing049@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1781582315354
+        }
+      ],
       "sold": 2882,
-      "stock": 0,
+      "stock": 40,
       "reserved": [
         {
           "id": "RSV1780362536090628",
