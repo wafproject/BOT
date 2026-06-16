@@ -2409,7 +2409,7 @@
           "addedAt": 1781582315354
         }
       ],
-      "sold": 2894,
+      "sold": 2895,
       "stock": 27,
       "reserved": [
         {
@@ -2445,18 +2445,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781590150931926",
-          "items": [
-            {
-              "email": "bagyapertiwi98@cihuy.net",
-              "password": "masuk123",
-              "addedAt": 1781582315353
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-16T06:09:10.931Z"
         }
       ],
       "bulk_active": true,
