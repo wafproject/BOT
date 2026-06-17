@@ -2275,7 +2275,7 @@
           "addedAt": 1781688105496
         }
       ],
-      "sold": 2953,
+      "sold": 2954,
       "stock": 8,
       "reserved": [
         {
@@ -2311,18 +2311,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781690899117249",
-          "items": [
-            {
-              "email": "xitapa@brexyv.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781688105496
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-17T10:08:19.117Z"
         }
       ],
       "bulk_active": true,
