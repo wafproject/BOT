@@ -2280,7 +2280,7 @@
           "addedAt": 1781688105496
         }
       ],
-      "sold": 2952,
+      "sold": 2953,
       "stock": 9,
       "reserved": [
         {
@@ -2316,18 +2316,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781689275304813",
-          "items": [
-            {
-              "email": "humuju@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781688105496
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-17T09:41:15.304Z"
         }
       ],
       "bulk_active": true,
