@@ -1785,14 +1785,22 @@
         },
         {
           "text": "Kirim data ke admin wa/6287731282876 / @enziwaf"
-        },
-        {
-          "text": "Kirim data ke admin wa/6287731282876 / @enziwaf"
         }
       ],
-      "stock": 13,
+      "stock": 12,
       "sold": 7,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV178171016711267",
+          "items": [
+            {
+              "text": "Kirim data ke admin wa/6287731282876 / @enziwaf"
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-17T15:29:27.112Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
