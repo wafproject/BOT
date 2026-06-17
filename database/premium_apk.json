@@ -2231,36 +2231,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "soloasesoriasasmd@gmells.com",
-          "password": "masuk123",
-          "addedAt": 1781733841321
-        },
-        {
-          "email": "sasewaqe5@gmells.com",
-          "password": "masuk123",
-          "addedAt": 1781733841321
-        },
-        {
-          "email": "dagelsuryatmi71@gmells.com",
-          "password": "masuk123",
-          "addedAt": 1781733841321
-        },
-        {
-          "email": "mahfudpradana50@gmells.com",
-          "password": "masuk123",
-          "addedAt": 1781733841321
-        },
-        {
-          "email": "aswaniwaskita38@gmells.com",
-          "password": "masuk123",
-          "addedAt": 1781733841321
-        },
-        {
-          "email": "agneswidiastuti36@gmells.com",
-          "password": "masuk123",
-          "addedAt": 1781733841321
-        },
-        {
           "email": "irianasihotang46@gmells.com",
           "password": "masuk123",
           "addedAt": 1781733841321
@@ -2332,7 +2302,7 @@
         }
       ],
       "sold": 2982,
-      "stock": 20,
+      "stock": 14,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2367,6 +2337,43 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
+        },
+        {
+          "id": "RSV1781735612226506",
+          "items": [
+            {
+              "email": "soloasesoriasasmd@gmells.com",
+              "password": "masuk123",
+              "addedAt": 1781733841321
+            },
+            {
+              "email": "sasewaqe5@gmells.com",
+              "password": "masuk123",
+              "addedAt": 1781733841321
+            },
+            {
+              "email": "dagelsuryatmi71@gmells.com",
+              "password": "masuk123",
+              "addedAt": 1781733841321
+            },
+            {
+              "email": "mahfudpradana50@gmells.com",
+              "password": "masuk123",
+              "addedAt": 1781733841321
+            },
+            {
+              "email": "aswaniwaskita38@gmells.com",
+              "password": "masuk123",
+              "addedAt": 1781733841321
+            },
+            {
+              "email": "agneswidiastuti36@gmells.com",
+              "password": "masuk123",
+              "addedAt": 1781733841321
+            }
+          ],
+          "qty": 6,
+          "createdAt": "2026-06-17T22:33:32.226Z"
         }
       ],
       "bulk_active": true,
