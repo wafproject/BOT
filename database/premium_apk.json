@@ -2270,7 +2270,7 @@
           "addedAt": 1781688105496
         }
       ],
-      "sold": 2954,
+      "sold": 2955,
       "stock": 7,
       "reserved": [
         {
@@ -2306,18 +2306,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV178169151603590",
-          "items": [
-            {
-              "email": "degura@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781688105496
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-17T10:18:36.035Z"
         }
       ],
       "bulk_active": true,
