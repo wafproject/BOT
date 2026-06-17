@@ -2301,7 +2301,7 @@
           "addedAt": 1781733841321
         }
       ],
-      "sold": 2982,
+      "sold": 2988,
       "stock": 14,
       "reserved": [
         {
@@ -2337,43 +2337,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781735612226506",
-          "items": [
-            {
-              "email": "soloasesoriasasmd@gmells.com",
-              "password": "masuk123",
-              "addedAt": 1781733841321
-            },
-            {
-              "email": "sasewaqe5@gmells.com",
-              "password": "masuk123",
-              "addedAt": 1781733841321
-            },
-            {
-              "email": "dagelsuryatmi71@gmells.com",
-              "password": "masuk123",
-              "addedAt": 1781733841321
-            },
-            {
-              "email": "mahfudpradana50@gmells.com",
-              "password": "masuk123",
-              "addedAt": 1781733841321
-            },
-            {
-              "email": "aswaniwaskita38@gmells.com",
-              "password": "masuk123",
-              "addedAt": 1781733841321
-            },
-            {
-              "email": "agneswidiastuti36@gmells.com",
-              "password": "masuk123",
-              "addedAt": 1781733841321
-            }
-          ],
-          "qty": 6,
-          "createdAt": "2026-06-17T22:33:32.226Z"
         }
       ],
       "bulk_active": true,
