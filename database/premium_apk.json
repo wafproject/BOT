@@ -2240,7 +2240,7 @@
           "addedAt": 1781688105496
         }
       ],
-      "sold": 2957,
+      "sold": 2961,
       "stock": 1,
       "reserved": [
         {
@@ -2276,33 +2276,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781694021007285",
-          "items": [
-            {
-              "email": "miwugo@matakaw.web.id",
-              "password": "masuk123",
-              "addedAt": 1781688105496
-            },
-            {
-              "email": "hiceke@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1781688105496
-            },
-            {
-              "email": "fidisa@gxrevsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1781688105496
-            },
-            {
-              "email": "silviaanisafatima@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1781688105496
-            }
-          ],
-          "qty": 4,
-          "createdAt": "2026-06-17T11:00:21.007Z"
         }
       ],
       "bulk_active": true,
