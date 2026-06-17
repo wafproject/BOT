@@ -2229,9 +2229,110 @@
       "price": 4500,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
-      "items": [],
+      "items": [
+        {
+          "email": "sizuno@gxrevsx.web.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "pakagi@premisxv.web.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "pimixa@xvsexv.web.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "dupudo@xvsexv.web.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "tiyuna@matakaw.web.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "roqubu@gwprems.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "tocosi@gwprems.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "comoko@gwprems.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "fixeru@brexyv.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "hikugu@oxygov.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "humuju@oxygov.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "xitapa@brexyv.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "degura@mysexvs.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781712250595
+        },
+        {
+          "email": "nipozi@gwprems.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781712250596
+        },
+        {
+          "email": "mazige@mysexvs.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781712250598
+        },
+        {
+          "email": "miwugo@matakaw.web.id",
+          "password": "masuk123",
+          "addedAt": 1781712250598
+        },
+        {
+          "email": "hiceke@oxygov.biz.id",
+          "password": "masuk123",
+          "addedAt": 1781712250598
+        },
+        {
+          "email": "fidisa@gxrevsx.web.id",
+          "password": "masuk123",
+          "addedAt": 1781712250598
+        },
+        {
+          "email": "silviaanisafatima@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1781712250598
+        },
+        {
+          "email": "nayacutecat13@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1781712250598
+        }
+      ],
       "sold": 2962,
-      "stock": 0,
+      "stock": 20,
       "reserved": [
         {
           "id": "RSV1780362536090628",
