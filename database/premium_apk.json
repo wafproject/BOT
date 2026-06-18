@@ -2368,7 +2368,7 @@
           "addedAt": 1781756478015
         }
       ],
-      "sold": 3012,
+      "sold": 3022,
       "stock": 28,
       "reserved": [
         {
@@ -2416,63 +2416,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-18T04:22:58.376Z"
-        },
-        {
-          "id": "RSV178175659473137",
-          "items": [
-            {
-              "email": "baktimansur1@reapsa.com",
-              "password": "masukaja",
-              "addedAt": 1781756478015
-            },
-            {
-              "email": "kairavaryani77@reapsa.com",
-              "password": "masukaja",
-              "addedAt": 1781756478015
-            },
-            {
-              "email": "hildaprakasa47@reapsa.com",
-              "password": "masukaja",
-              "addedAt": 1781756478015
-            },
-            {
-              "email": "ajionokuswoyo67@reapsa.com",
-              "password": "masukaja",
-              "addedAt": 1781756478015
-            },
-            {
-              "email": "ameliaardianto14@reapsa.com",
-              "password": "masukaja",
-              "addedAt": 1781756478015
-            },
-            {
-              "email": "cayadihassanah26@reapsa.com",
-              "password": "masukaja",
-              "addedAt": 1781756478015
-            },
-            {
-              "email": "irnantowacana64@reapsa.com",
-              "password": "masukaja",
-              "addedAt": 1781756478015
-            },
-            {
-              "email": "damarpratiwi66@reapsa.com",
-              "password": "masukaja",
-              "addedAt": 1781756478015
-            },
-            {
-              "email": "restumarbun32@reapsa.com",
-              "password": "masukaja",
-              "addedAt": 1781756478015
-            },
-            {
-              "email": "cindypangestu24@reapsa.com",
-              "password": "masukaja",
-              "addedAt": 1781756478015
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-18T04:23:14.731Z"
         }
       ],
       "bulk_active": true,
