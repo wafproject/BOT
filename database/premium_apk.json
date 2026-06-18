@@ -2258,7 +2258,7 @@
           "addedAt": 1781789193984
         }
       ],
-      "sold": 3080,
+      "sold": 3081,
       "stock": 8,
       "reserved": [
         {
@@ -2294,18 +2294,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV178178960395413",
-          "items": [
-            {
-              "email": "hendriprasetyo45@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-18T13:33:23.955Z"
         },
         {
           "id": "RSV1781789623992737",
