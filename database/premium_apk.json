@@ -2218,56 +2218,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "galurwibisono87@quinz.me",
-          "password": "masuk123",
-          "addedAt": 1781789193984
-        },
-        {
-          "email": "utamaiswahyudi33@quinz.me",
-          "password": "masuk123",
-          "addedAt": 1781789193984
-        },
-        {
-          "email": "galarwacana93@quinz.me",
-          "password": "masuk123",
-          "addedAt": 1781789193984
-        },
-        {
-          "email": "hendriprasetyo45@quinz.me",
-          "password": "masuk123",
-          "addedAt": 1781789193984
-        },
-        {
-          "email": "tomiwahyuni29@quinz.me",
-          "password": "masuk123",
-          "addedAt": 1781789193984
-        },
-        {
-          "email": "raditirawan94@quinz.me",
-          "password": "masuk123",
-          "addedAt": 1781789193984
-        },
-        {
-          "email": "mustikamaryadi1@quinz.me",
-          "password": "masuk123",
-          "addedAt": 1781789193984
-        },
-        {
-          "email": "naradidamanik13@quinz.me",
-          "password": "masuk123",
-          "addedAt": 1781789193984
-        },
-        {
-          "email": "agusnugroho58@quinz.me",
-          "password": "masuk123",
-          "addedAt": 1781789193984
-        },
-        {
-          "email": "unggulhidayat53@quinz.me",
-          "password": "masuk123",
-          "addedAt": 1781789193984
-        },
-        {
           "email": "gamantomanullang53@quinz.me",
           "password": "masuk123",
           "addedAt": 1781789193984
@@ -2394,7 +2344,7 @@
         }
       ],
       "sold": 3051,
-      "stock": 35,
+      "stock": 25,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2461,6 +2411,63 @@
           ],
           "qty": 5,
           "createdAt": "2026-06-18T13:28:15.434Z"
+        },
+        {
+          "id": "RSV1781789299710910",
+          "items": [
+            {
+              "email": "galurwibisono87@quinz.me",
+              "password": "masuk123",
+              "addedAt": 1781789193984
+            },
+            {
+              "email": "utamaiswahyudi33@quinz.me",
+              "password": "masuk123",
+              "addedAt": 1781789193984
+            },
+            {
+              "email": "galarwacana93@quinz.me",
+              "password": "masuk123",
+              "addedAt": 1781789193984
+            },
+            {
+              "email": "hendriprasetyo45@quinz.me",
+              "password": "masuk123",
+              "addedAt": 1781789193984
+            },
+            {
+              "email": "tomiwahyuni29@quinz.me",
+              "password": "masuk123",
+              "addedAt": 1781789193984
+            },
+            {
+              "email": "raditirawan94@quinz.me",
+              "password": "masuk123",
+              "addedAt": 1781789193984
+            },
+            {
+              "email": "mustikamaryadi1@quinz.me",
+              "password": "masuk123",
+              "addedAt": 1781789193984
+            },
+            {
+              "email": "naradidamanik13@quinz.me",
+              "password": "masuk123",
+              "addedAt": 1781789193984
+            },
+            {
+              "email": "agusnugroho58@quinz.me",
+              "password": "masuk123",
+              "addedAt": 1781789193984
+            },
+            {
+              "email": "unggulhidayat53@quinz.me",
+              "password": "masuk123",
+              "addedAt": 1781789193984
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-06-18T13:28:19.710Z"
         }
       ],
       "bulk_active": true,
