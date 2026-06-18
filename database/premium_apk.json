@@ -2157,22 +2157,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 488,
+      "sold": 489,
       "stock": 67,
-      "reserved": [
-        {
-          "id": "RSV178178898017919",
-          "items": [
-            {
-              "email": "ttxdyn398@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042837131
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-18T13:23:00.179Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
