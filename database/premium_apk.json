@@ -2243,7 +2243,7 @@
           "addedAt": 1781789193984
         }
       ],
-      "sold": 3061,
+      "sold": 3066,
       "stock": 5,
       "reserved": [
         {
@@ -2279,38 +2279,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781789295434981",
-          "items": [
-            {
-              "email": "karjapangestu5@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "pandusaragih56@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "sabripurwanti73@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "darupradana21@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "keishahartati56@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-06-18T13:28:15.434Z"
         },
         {
           "id": "RSV1781789307053676",
