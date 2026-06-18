@@ -2227,7 +2227,7 @@
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [],
-      "sold": 3050,
+      "sold": 3051,
       "stock": 0,
       "reserved": [
         {
@@ -2263,18 +2263,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781756578375378",
-          "items": [
-            {
-              "email": "taufanmangunsong23@reapsa.com",
-              "password": "masukaja",
-              "addedAt": 1781756478015
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-18T04:22:58.376Z"
         }
       ],
       "bulk_active": true,
