@@ -2238,7 +2238,7 @@
           "addedAt": 1781789193984
         }
       ],
-      "sold": 3066,
+      "sold": 3076,
       "stock": 4,
       "reserved": [
         {
@@ -2331,63 +2331,6 @@
           ],
           "qty": 10,
           "createdAt": "2026-06-18T13:28:27.053Z"
-        },
-        {
-          "id": "RSV1781789322366673",
-          "items": [
-            {
-              "email": "gamantomanullang53@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "jaisnarpati37@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "gabriellapangestu21@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "najwakurniawan4@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "yanceusamah42@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "martanarajasa60@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "rahmatthamrin87@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "utamawaluyo68@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "marsitomulyani59@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "latifsantoso31@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-18T13:28:42.366Z"
         },
         {
           "id": "RSV1781789362711867",
