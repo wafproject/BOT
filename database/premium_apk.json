@@ -2228,56 +2228,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "jaishutasoit99@reapsa.com",
-          "password": "masukaja",
-          "addedAt": 1781756478015
-        },
-        {
-          "email": "arsipatradabukke48@reapsa.com",
-          "password": "masukaja",
-          "addedAt": 1781756478015
-        },
-        {
-          "email": "halimardianto94@reapsa.com",
-          "password": "masukaja",
-          "addedAt": 1781756478015
-        },
-        {
-          "email": "pangestujailani87@reapsa.com",
-          "password": "masukaja",
-          "addedAt": 1781756478015
-        },
-        {
-          "email": "victoriauwais20@reapsa.com",
-          "password": "masukaja",
-          "addedAt": 1781756478015
-        },
-        {
-          "email": "alikasaputra7@reapsa.com",
-          "password": "masukaja",
-          "addedAt": 1781756478015
-        },
-        {
-          "email": "zulfakuswandari36@reapsa.com",
-          "password": "masukaja",
-          "addedAt": 1781756478015
-        },
-        {
-          "email": "akarsanapudjiastuti41@reapsa.com",
-          "password": "masukaja",
-          "addedAt": 1781756478015
-        },
-        {
-          "email": "siskakusumo91@reapsa.com",
-          "password": "masukaja",
-          "addedAt": 1781756478015
-        },
-        {
-          "email": "tariwahyuni78@reapsa.com",
-          "password": "masukaja",
-          "addedAt": 1781756478015
-        },
-        {
           "email": "baktimansur1@reapsa.com",
           "password": "masukaja",
           "addedAt": 1781756478015
@@ -2469,7 +2419,7 @@
         }
       ],
       "sold": 3002,
-      "stock": 48,
+      "stock": 38,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2516,6 +2466,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-18T04:22:58.376Z"
+        },
+        {
+          "id": "RSV1781756582457441",
+          "items": [
+            {
+              "email": "jaishutasoit99@reapsa.com",
+              "password": "masukaja",
+              "addedAt": 1781756478015
+            },
+            {
+              "email": "arsipatradabukke48@reapsa.com",
+              "password": "masukaja",
+              "addedAt": 1781756478015
+            },
+            {
+              "email": "halimardianto94@reapsa.com",
+              "password": "masukaja",
+              "addedAt": 1781756478015
+            },
+            {
+              "email": "pangestujailani87@reapsa.com",
+              "password": "masukaja",
+              "addedAt": 1781756478015
+            },
+            {
+              "email": "victoriauwais20@reapsa.com",
+              "password": "masukaja",
+              "addedAt": 1781756478015
+            },
+            {
+              "email": "alikasaputra7@reapsa.com",
+              "password": "masukaja",
+              "addedAt": 1781756478015
+            },
+            {
+              "email": "zulfakuswandari36@reapsa.com",
+              "password": "masukaja",
+              "addedAt": 1781756478015
+            },
+            {
+              "email": "akarsanapudjiastuti41@reapsa.com",
+              "password": "masukaja",
+              "addedAt": 1781756478015
+            },
+            {
+              "email": "siskakusumo91@reapsa.com",
+              "password": "masukaja",
+              "addedAt": 1781756478015
+            },
+            {
+              "email": "tariwahyuni78@reapsa.com",
+              "password": "masukaja",
+              "addedAt": 1781756478015
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-06-18T04:23:02.457Z"
         }
       ],
       "bulk_active": true,
