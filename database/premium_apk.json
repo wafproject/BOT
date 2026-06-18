@@ -2248,7 +2248,7 @@
           "addedAt": 1781789193984
         }
       ],
-      "sold": 3083,
+      "sold": 3085,
       "stock": 6,
       "reserved": [
         {
@@ -2284,23 +2284,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781789639520940",
-          "items": [
-            {
-              "email": "raisarahimah40@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            },
-            {
-              "email": "vinsensudiati78@quinz.me",
-              "password": "masuk123",
-              "addedAt": 1781789193984
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-18T13:33:59.520Z"
         }
       ],
       "bulk_active": true,
