@@ -2269,15 +2269,10 @@
           "email": "sasrgggho@gerv.app",
           "password": "masukaja",
           "addedAt": 1781853832041
-        },
-        {
-          "email": "qaweqapors@gerv.app",
-          "password": "masukaja",
-          "addedAt": 1781853832041
         }
       ],
       "sold": 3119,
-      "stock": 14,
+      "stock": 13,
       "reserved": [
         {
           "id": "RSV1780362536090628",
