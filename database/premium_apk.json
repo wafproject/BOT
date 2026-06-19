@@ -2244,15 +2244,10 @@
           "email": "irwanjailani76@gerv.app",
           "password": "masukaja",
           "addedAt": 1781853832041
-        },
-        {
-          "email": "balamantrinasyiah27@gerv.app",
-          "password": "masukaja",
-          "addedAt": 1781853832041
         }
       ],
       "sold": 3119,
-      "stock": 9,
+      "stock": 8,
       "reserved": [
         {
           "id": "RSV1780362536090628",
