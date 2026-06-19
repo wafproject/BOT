@@ -2249,15 +2249,10 @@
           "email": "balamantrinasyiah27@gerv.app",
           "password": "masukaja",
           "addedAt": 1781853832041
-        },
-        {
-          "email": "prabawazulaika36@gerv.app",
-          "password": "masukaja",
-          "addedAt": 1781853832041
         }
       ],
       "sold": 3119,
-      "stock": 10,
+      "stock": 9,
       "reserved": [
         {
           "id": "RSV1780362536090628",
