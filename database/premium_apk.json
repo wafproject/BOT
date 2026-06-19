@@ -2184,16 +2184,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "jaemannarpati35@gerv.app",
-          "password": "masukaja",
-          "addedAt": 1781853832041
-        },
-        {
-          "email": "gaimanbudiman60@gerv.app",
-          "password": "masukaja",
-          "addedAt": 1781853832041
-        },
-        {
           "email": "raihananggriawan64@gerv.app",
           "password": "masukaja",
           "addedAt": 1781853832041
@@ -2350,7 +2340,7 @@
         }
       ],
       "sold": 3108,
-      "stock": 33,
+      "stock": 31,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2385,6 +2375,23 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
+        },
+        {
+          "id": "RSV178185501371759",
+          "items": [
+            {
+              "email": "jaemannarpati35@gerv.app",
+              "password": "masukaja",
+              "addedAt": 1781853832041
+            },
+            {
+              "email": "gaimanbudiman60@gerv.app",
+              "password": "masukaja",
+              "addedAt": 1781853832041
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-06-19T07:43:33.717Z"
         }
       ],
       "bulk_active": false,
