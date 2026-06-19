@@ -2306,7 +2306,7 @@
           "addedAt": 1781862365614
         }
       ],
-      "sold": 3120,
+      "sold": 3121,
       "stock": 20,
       "reserved": [
         {
@@ -2386,18 +2386,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1781866296258670",
-          "items": [
-            {
-              "email": "keishaanggraini74@gerv.app",
-              "password": "masukaja",
-              "addedAt": 1781862365611
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-19T10:51:36.263Z"
         }
       ],
       "bulk_active": false,
