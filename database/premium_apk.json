@@ -2189,26 +2189,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "adikaratarihoran35@gerv.app",
-          "password": "masukaja",
-          "addedAt": 1781853832041
-        },
-        {
-          "email": "dirjagunarto50@gerv.app",
-          "password": "masukaja",
-          "addedAt": 1781853832041
-        },
-        {
-          "email": "sarahmardhiyah73@gerv.app",
-          "password": "masukaja",
-          "addedAt": 1781853832041
-        },
-        {
-          "email": "putritampubolon9@gerv.app",
-          "password": "masukaja",
-          "addedAt": 1781853832041
-        },
-        {
           "email": "wulannababan48@gerv.app",
           "password": "masukaja",
           "addedAt": 1781853832041
@@ -2390,7 +2370,7 @@
         }
       ],
       "sold": 3101,
-      "stock": 40,
+      "stock": 36,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2425,6 +2405,33 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
+        },
+        {
+          "id": "RSV178185403698239",
+          "items": [
+            {
+              "email": "adikaratarihoran35@gerv.app",
+              "password": "masukaja",
+              "addedAt": 1781853832041
+            },
+            {
+              "email": "dirjagunarto50@gerv.app",
+              "password": "masukaja",
+              "addedAt": 1781853832041
+            },
+            {
+              "email": "sarahmardhiyah73@gerv.app",
+              "password": "masukaja",
+              "addedAt": 1781853832041
+            },
+            {
+              "email": "putritampubolon9@gerv.app",
+              "password": "masukaja",
+              "addedAt": 1781853832041
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-06-19T07:27:16.982Z"
         }
       ],
       "bulk_active": false,
