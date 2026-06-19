@@ -2259,15 +2259,10 @@
           "email": "jayatamba96@gerv.app",
           "password": "masukaja",
           "addedAt": 1781853832041
-        },
-        {
-          "email": "edikkolitenco@gerv.app",
-          "password": "masukaja",
-          "addedAt": 1781853832041
         }
       ],
       "sold": 3119,
-      "stock": 12,
+      "stock": 11,
       "reserved": [
         {
           "id": "RSV1780362536090628",
