@@ -2257,7 +2257,7 @@
           "addedAt": 1781862365614
         }
       ],
-      "sold": 3124,
+      "sold": 3130,
       "stock": 11,
       "reserved": [
         {
@@ -2337,43 +2337,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV178187660479675",
-          "items": [
-            {
-              "email": "opheliasaptono98@gerv.app",
-              "password": "masukaja",
-              "addedAt": 1781862365611
-            },
-            {
-              "email": "catursantoso38@gerv.app",
-              "password": "masukaja",
-              "addedAt": 1781862365611
-            },
-            {
-              "email": "prasetyosirait39@gerv.app",
-              "password": "masukaja",
-              "addedAt": 1781862365611
-            },
-            {
-              "email": "hastahariyah67@gerv.app",
-              "password": "masukaja",
-              "addedAt": 1781862365611
-            },
-            {
-              "email": "galihmustofa10@gerv.app",
-              "password": "masukaja",
-              "addedAt": 1781862365611
-            },
-            {
-              "email": "rainahutagalung91@gerv.app",
-              "password": "masukaja",
-              "addedAt": 1781862365611
-            }
-          ],
-          "qty": 6,
-          "createdAt": "2026-06-19T13:43:24.796Z"
         }
       ],
       "bulk_active": false,
