@@ -143,14 +143,9 @@
           "email": "k64kadx@wafprem.biz.id",
           "password": "Masuk123, eetik3s@wafprem.biz.id",
           "addedAt": 1781859586428
-        },
-        {
-          "email": "5fqos0o@premaja.online",
-          "password": "Masuk123, qsk8rhk@premaja.online",
-          "addedAt": 1781859586428
         }
       ],
-      "stock": 2,
+      "stock": 1,
       "sold": 302,
       "reserved": [],
       "bulk_active": false,
