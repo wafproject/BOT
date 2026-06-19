@@ -2229,15 +2229,10 @@
           "email": "rainahutagalung91@gerv.app",
           "password": "masukaja",
           "addedAt": 1781853832041
-        },
-        {
-          "email": "auroramandasari65@gerv.app",
-          "password": "masukaja",
-          "addedAt": 1781853832041
         }
       ],
       "sold": 3119,
-      "stock": 6,
+      "stock": 5,
       "reserved": [
         {
           "id": "RSV1780362536090628",
