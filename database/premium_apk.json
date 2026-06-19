@@ -2389,7 +2389,7 @@
           "addedAt": 1781853832041
         }
       ],
-      "sold": 3099,
+      "sold": 3101,
       "stock": 40,
       "reserved": [
         {
@@ -2425,23 +2425,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-14T08:57:25.182Z"
-        },
-        {
-          "id": "RSV1781854002832107",
-          "items": [
-            {
-              "email": "kasiyahutama20@gerv.app",
-              "password": "masukaja",
-              "addedAt": 1781853832041
-            },
-            {
-              "email": "bakimanfirmansyah89@gerv.app",
-              "password": "masukaja",
-              "addedAt": 1781853832041
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-19T07:26:42.832Z"
         }
       ],
       "bulk_active": false,
