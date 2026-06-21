@@ -2377,7 +2377,7 @@
           "addedAt": 1782048651644
         }
       ],
-      "sold": 3184,
+      "sold": 3186,
       "stock": 5,
       "reserved": [
         {
@@ -2457,23 +2457,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782051615360946",
-          "items": [
-            {
-              "email": "rahmansafitri22@pawobby.cfd",
-              "password": "masuk123",
-              "addedAt": 1782048651644
-            },
-            {
-              "email": "novarahayu40@cuaks.fun",
-              "password": "masuk123",
-              "addedAt": 1782048651644
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-21T14:20:15.360Z"
         }
       ],
       "bulk_active": true,
