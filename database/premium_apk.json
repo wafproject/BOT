@@ -663,13 +663,10 @@
         },
         {
           "text": "Via Invite Email"
-        },
-        {
-          "text": "Via Invite Email"
         }
       ],
-      "stock": 101,
-      "sold": 124,
+      "stock": 100,
+      "sold": 125,
       "reserved": [
         {
           "id": "RSV1779882154946780",
