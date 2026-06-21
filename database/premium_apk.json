@@ -2361,106 +2361,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "donomangunsong31@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "ilyassafitri32@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "ridwanwacana66@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "mumpunipradana2@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "oktathamrin48@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "fatihatusrisky1912w@gmail.com",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "liyamuktidyriw@gmail.com",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "jumadihidayanto21@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "silviarahayu31@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "gangsazulkarnain48@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "fitrianugroho63@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "viktoruwais5@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "gadahutapea64@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "panjithamrin7@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "cahyonoagustina56@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "violetsuryono52@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "corneliahalim1@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "tomikusmawati76@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "larasharyanti44@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
-          "email": "hartanasirait25@cihuy.net",
-          "password": "masuk123",
-          "addedAt": 1782021131201
-        },
-        {
           "email": "kartautama2@cihuy.net",
           "password": "masuk123",
           "addedAt": 1782021131201
@@ -2512,7 +2412,7 @@
         }
       ],
       "sold": 3151,
-      "stock": 30,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2591,6 +2491,113 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
+        },
+        {
+          "id": "RSV1782023588699728",
+          "items": [
+            {
+              "email": "donomangunsong31@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "ilyassafitri32@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "ridwanwacana66@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "mumpunipradana2@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "oktathamrin48@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "fatihatusrisky1912w@gmail.com",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "liyamuktidyriw@gmail.com",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "jumadihidayanto21@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "silviarahayu31@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "gangsazulkarnain48@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "fitrianugroho63@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "viktoruwais5@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "gadahutapea64@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "panjithamrin7@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "cahyonoagustina56@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "violetsuryono52@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "corneliahalim1@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "tomikusmawati76@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "larasharyanti44@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            },
+            {
+              "email": "hartanasirait25@cihuy.net",
+              "password": "masuk123",
+              "addedAt": 1782021131201
+            }
+          ],
+          "qty": 20,
+          "createdAt": "2026-06-21T06:33:08.699Z"
         }
       ],
       "bulk_active": true,
