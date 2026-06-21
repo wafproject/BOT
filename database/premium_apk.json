@@ -2362,7 +2362,7 @@
           "addedAt": 1782048651644
         }
       ],
-      "sold": 3188,
+      "sold": 3189,
       "stock": 2,
       "reserved": [
         {
@@ -2442,18 +2442,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782054603119467",
-          "items": [
-            {
-              "email": "teguhnainggolan52@submitreports.com",
-              "password": "masuk123",
-              "addedAt": 1782048651644
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-21T15:10:03.119Z"
         }
       ],
       "bulk_active": true,
