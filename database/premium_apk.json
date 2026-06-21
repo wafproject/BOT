@@ -2397,7 +2397,7 @@
           "addedAt": 1782048651644
         }
       ],
-      "sold": 3181,
+      "sold": 3182,
       "stock": 9,
       "reserved": [
         {
@@ -2477,18 +2477,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782048860372729",
-          "items": [
-            {
-              "email": "banaraaryani52@submitreports.com",
-              "password": "masuk123",
-              "addedAt": 1782048651644
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-21T13:34:20.372Z"
         }
       ],
       "bulk_active": true,
