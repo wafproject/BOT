@@ -2367,7 +2367,7 @@
           "addedAt": 1782048651644
         }
       ],
-      "sold": 3187,
+      "sold": 3188,
       "stock": 3,
       "reserved": [
         {
@@ -2447,18 +2447,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782053197936948",
-          "items": [
-            {
-              "email": "dewimandala45@gmailxsn.site",
-              "password": "masuk123",
-              "addedAt": 1782048651644
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-21T14:46:37.936Z"
         }
       ],
       "bulk_active": true,
