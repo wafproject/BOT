@@ -2392,7 +2392,7 @@
           "addedAt": 1782048651644
         }
       ],
-      "sold": 3182,
+      "sold": 3183,
       "stock": 8,
       "reserved": [
         {
@@ -2472,18 +2472,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782049051743217",
-          "items": [
-            {
-              "email": "mahesanashiruddin52@paratrabajar.xyz",
-              "password": "masuk123",
-              "addedAt": 1782048651644
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-21T13:37:31.743Z"
         }
       ],
       "bulk_active": true,
