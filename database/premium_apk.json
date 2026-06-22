@@ -838,10 +838,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "happyhope87@vykue.my.id|https://lisensify.com/inbox/happyhope87%40vykue.my.id",
-          "addedAt": 1781504428996
-        },
-        {
           "email": "wittylava09@leobad.eu.cc|https://lisensify.com/inbox/wittylava09%40leobad.eu.cc",
           "addedAt": 1781504428996
         },
@@ -1726,8 +1722,8 @@
           "addedAt": 1782104767227
         }
       ],
-      "stock": 222,
-      "sold": 806,
+      "stock": 221,
+      "sold": 807,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
