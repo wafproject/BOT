@@ -1734,20 +1734,8 @@
         }
       ],
       "stock": 222,
-      "sold": 805,
-      "reserved": [
-        {
-          "id": "RSV1782115998403973",
-          "items": [
-            {
-              "email": "promptdoor75@leoku.eu.cc|https://lisensify.com/inbox/promptdoor75%40leoku.eu.cc",
-              "addedAt": 1781504428996
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-22T08:13:18.403Z"
-        }
-      ],
+      "sold": 806,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
