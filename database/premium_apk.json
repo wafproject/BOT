@@ -845,10 +845,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "promptdoor75@leoku.eu.cc|https://lisensify.com/inbox/promptdoor75%40leoku.eu.cc",
-          "addedAt": 1781504428996
-        },
-        {
           "email": "happyhope87@vykue.my.id|https://lisensify.com/inbox/happyhope87%40vykue.my.id",
           "addedAt": 1781504428996
         },
@@ -1737,9 +1733,21 @@
           "addedAt": 1782104767227
         }
       ],
-      "stock": 223,
+      "stock": 222,
       "sold": 805,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1782115998403973",
+          "items": [
+            {
+              "email": "promptdoor75@leoku.eu.cc|https://lisensify.com/inbox/promptdoor75%40leoku.eu.cc",
+              "addedAt": 1781504428996
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-22T08:13:18.403Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
