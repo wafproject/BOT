@@ -2583,56 +2583,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "darunovitasari85@vexaluno.xyz",
-          "password": "masuk123",
-          "addedAt": 1782168642639
-        },
-        {
-          "email": "irfanprayoga80@ichecker.tech",
-          "password": "masuk123",
-          "addedAt": 1782168642639
-        },
-        {
-          "email": "mayawijaya80@sugarloafstudios.net",
-          "password": "masuk123",
-          "addedAt": 1782168642639
-        },
-        {
-          "email": "rahmansaragih33@vexaluno.xyz",
-          "password": "masuk123",
-          "addedAt": 1782168642639
-        },
-        {
-          "email": "lailalazuardi43@xsnipersquad.com",
-          "password": "masuk123",
-          "addedAt": 1782168642639
-        },
-        {
-          "email": "harjabudiman96@mengundang.live",
-          "password": "masuk123",
-          "addedAt": 1782168642639
-        },
-        {
-          "email": "bagyamaulana18@vexaluno.xyz",
-          "password": "masuk123",
-          "addedAt": 1782168642639
-        },
-        {
-          "email": "balijaniswahyudi75@ichecker.tech",
-          "password": "masuk123",
-          "addedAt": 1782168642639
-        },
-        {
-          "email": "4727d264@enziproject.my.id",
-          "password": "masuk123",
-          "addedAt": 1782168642639
-        },
-        {
-          "email": "fd16a05d@enziproject.web.id",
-          "password": "masuk123",
-          "addedAt": 1782168642639
-        },
-        {
           "email": "6336ac20@enziproject.web.id",
           "password": "masuk123",
           "addedAt": 1782168642639
@@ -2829,7 +2779,7 @@
         }
       ],
       "sold": 3241,
-      "stock": 49,
+      "stock": 39,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2908,6 +2858,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
+        },
+        {
+          "id": "RSV1782170000993962",
+          "items": [
+            {
+              "email": "darunovitasari85@vexaluno.xyz",
+              "password": "masuk123",
+              "addedAt": 1782168642639
+            },
+            {
+              "email": "irfanprayoga80@ichecker.tech",
+              "password": "masuk123",
+              "addedAt": 1782168642639
+            },
+            {
+              "email": "mayawijaya80@sugarloafstudios.net",
+              "password": "masuk123",
+              "addedAt": 1782168642639
+            },
+            {
+              "email": "rahmansaragih33@vexaluno.xyz",
+              "password": "masuk123",
+              "addedAt": 1782168642639
+            },
+            {
+              "email": "lailalazuardi43@xsnipersquad.com",
+              "password": "masuk123",
+              "addedAt": 1782168642639
+            },
+            {
+              "email": "harjabudiman96@mengundang.live",
+              "password": "masuk123",
+              "addedAt": 1782168642639
+            },
+            {
+              "email": "bagyamaulana18@vexaluno.xyz",
+              "password": "masuk123",
+              "addedAt": 1782168642639
+            },
+            {
+              "email": "balijaniswahyudi75@ichecker.tech",
+              "password": "masuk123",
+              "addedAt": 1782168642639
+            },
+            {
+              "email": "4727d264@enziproject.my.id",
+              "password": "masuk123",
+              "addedAt": 1782168642639
+            },
+            {
+              "email": "fd16a05d@enziproject.web.id",
+              "password": "masuk123",
+              "addedAt": 1782168642639
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-06-22T23:13:20.993Z"
         }
       ],
       "bulk_active": true,
