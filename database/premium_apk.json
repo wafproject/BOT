@@ -333,21 +333,8 @@
         }
       ],
       "stock": 4,
-      "sold": 302,
-      "reserved": [
-        {
-          "id": "RSV1782098638293263",
-          "items": [
-            {
-              "email": "/addstok canhead",
-              "password": "k64kadx@wafprem.biz.id",
-              "addedAt": 1781861247367
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-22T03:23:58.293Z"
-        }
-      ],
+      "sold": 303,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
