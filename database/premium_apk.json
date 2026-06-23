@@ -2632,7 +2632,7 @@
           "addedAt": 1782234636197
         }
       ],
-      "sold": 3346,
+      "sold": 3356,
       "stock": 14,
       "reserved": [
         {
@@ -2712,63 +2712,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782234733355612",
-          "items": [
-            {
-              "email": "1a9666cc@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "5707478b@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "b62d671b@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "dac20feb@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "da51fa19@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "3aa634ff@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "0defbe44@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "4739cb08@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "93f90c56@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "0850e465@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-23T17:12:13.355Z"
         }
       ],
       "bulk_active": true,
