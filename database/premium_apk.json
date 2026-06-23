@@ -2632,7 +2632,7 @@
           "addedAt": 1782234636197
         }
       ],
-      "sold": 3343,
+      "sold": 3346,
       "stock": 14,
       "reserved": [
         {
@@ -2769,28 +2769,6 @@
           ],
           "qty": 10,
           "createdAt": "2026-06-23T17:12:13.355Z"
-        },
-        {
-          "id": "RSV1782234762698370",
-          "items": [
-            {
-              "email": "6b8a81a7@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "f283ed7f@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "6b6546e3@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-06-23T17:12:42.698Z"
         }
       ],
       "bulk_active": true,
