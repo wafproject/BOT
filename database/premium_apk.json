@@ -2561,7 +2561,7 @@
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [],
-      "sold": 3356,
+      "sold": 3370,
       "stock": 0,
       "reserved": [
         {
@@ -2641,83 +2641,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782234982707379",
-          "items": [
-            {
-              "email": "0f1ddbae@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "0b927e85@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "118d9ad5@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "9a5e25e6@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "4de3b0da@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "243b7439@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "e5067c29@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "08308552@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "e657d83d@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "41fb2cb5@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "c4ij1ei@enzipro.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "pcz71nt@premiummin.store",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "qids61r@enziproject.my.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "sdpf8ap@enzipro.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            }
-          ],
-          "qty": 14,
-          "createdAt": "2026-06-23T17:16:22.707Z"
         }
       ],
       "bulk_active": true,
