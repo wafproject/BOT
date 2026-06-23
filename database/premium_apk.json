@@ -2647,7 +2647,7 @@
           "addedAt": 1782234636197
         }
       ],
-      "sold": 3332,
+      "sold": 3343,
       "stock": 17,
       "reserved": [
         {
@@ -2727,68 +2727,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782234713355878",
-          "items": [
-            {
-              "email": "80ada598@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "74561a5b@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "ff7c27df@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "6ac4d853@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "8cadedb4@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "ba510638@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "b9322952@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "a00bc760@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "7687e6f9@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "e6cffa6a@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            },
-            {
-              "email": "ad22a212@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782234636197
-            }
-          ],
-          "qty": 11,
-          "createdAt": "2026-06-23T17:11:53.355Z"
         },
         {
           "id": "RSV1782234733355612",
