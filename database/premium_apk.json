@@ -2813,7 +2813,7 @@
           "addedAt": 1782300286298
         }
       ],
-      "sold": 3504,
+      "sold": 3514,
       "stock": 53,
       "reserved": [
         {
@@ -2893,63 +2893,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782301889249658",
-          "items": [
-            {
-              "email": "86d19e14@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "ccc2de9e@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "84dc984b@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "ab68aa9a@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "c3237b16@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "a758110a@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "dc720b0e@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "9a949383@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "e40b05f2@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "1f5418c0@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-24T11:51:29.249Z"
         },
         {
           "id": "RSV1782302063883489",
