@@ -2898,7 +2898,7 @@
           "addedAt": 1782300286298
         }
       ],
-      "sold": 3489,
+      "sold": 3499,
       "stock": 70,
       "reserved": [
         {
@@ -2978,63 +2978,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782300438748388",
-          "items": [
-            {
-              "email": "10884b58@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "2eaaea2e@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "db78b1c9@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "9fc19264@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "7949019d@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "de2d77f0@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "8df42573@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "2a2b4ae3@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "928b02f7@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "098bc0ce@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-24T11:27:18.748Z"
         }
       ],
       "bulk_active": true,
