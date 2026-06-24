@@ -2818,15 +2818,11 @@
       "bulk_prices": [
         {
           "minQty": 10,
-          "price": 6500
-        },
-        {
-          "minQty": 50,
           "price": 6000
         },
         {
-          "minQty": 80,
-          "price": 5000
+          "minQty": 30,
+          "price": 5500
         }
       ]
     },
