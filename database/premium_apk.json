@@ -2898,7 +2898,7 @@
           "addedAt": 1782300286298
         }
       ],
-      "sold": 3479,
+      "sold": 3489,
       "stock": 70,
       "reserved": [
         {
@@ -2978,63 +2978,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782300417385672",
-          "items": [
-            {
-              "email": "1dca3560@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286296
-            },
-            {
-              "email": "ef2c2984@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286296
-            },
-            {
-              "email": "4a610885@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286296
-            },
-            {
-              "email": "649f7cfc@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286296
-            },
-            {
-              "email": "7f08d2df@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286296
-            },
-            {
-              "email": "e8ec20b1@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "7c82954c@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "022033b6@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "14611e43@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "46b05efa@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-24T11:26:57.385Z"
         },
         {
           "id": "RSV1782300438748388",
