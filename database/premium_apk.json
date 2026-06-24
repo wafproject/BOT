@@ -2607,7 +2607,7 @@
           "addedAt": 1782300286298
         }
       ],
-      "sold": 3553,
+      "sold": 3554,
       "stock": 15,
       "reserved": [
         {
@@ -2687,18 +2687,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782322545041454",
-          "items": [
-            {
-              "email": "965ff4c3@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-24T17:35:45.041Z"
         }
       ],
       "bulk_active": true,
