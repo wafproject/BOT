@@ -2546,9 +2546,510 @@
       "price": 8000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
-      "items": [],
+      "items": [
+        {
+          "email": "1dca3560@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286296
+        },
+        {
+          "email": "ef2c2984@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286296
+        },
+        {
+          "email": "4a610885@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286296
+        },
+        {
+          "email": "649f7cfc@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286296
+        },
+        {
+          "email": "7f08d2df@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286296
+        },
+        {
+          "email": "e8ec20b1@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "7c82954c@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "022033b6@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "14611e43@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "46b05efa@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "cc25f468@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "76ba3388@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "36091128@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "5a09fe1e@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "7d116854@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "c626bba6@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "68312fcd@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "772b036c@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "bd9e2e0e@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "b49116e4@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "10884b58@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "2eaaea2e@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "db78b1c9@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "9fc19264@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "7949019d@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "de2d77f0@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "8df42573@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "2a2b4ae3@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "928b02f7@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "098bc0ce@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "7e785e22@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "ffe17e3a@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "a11da280@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "0e9e8f2e@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "86d19e14@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "ccc2de9e@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "84dc984b@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "ab68aa9a@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "c3237b16@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "a758110a@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "dc720b0e@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "9a949383@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "e40b05f2@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "1f5418c0@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "c1e325f1@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "8a08f29f@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "610275db@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "511dd454@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "50f35efe@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "824f47a0@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "620f9c64@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "83161a82@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "341fa30e@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "f9164871@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "9d84c152@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "adfa778e@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "86609f99@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "428c2a55@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "33f01a70@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "03159f5b@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "01075553@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "b783ecdb@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "92ae106a@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "016a05ed@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "e11931c4@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "fb5fb6eb@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "aa1b8ad1@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "f7689c87@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "06a00d6c@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "c35c0280@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "3ea038c1@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "f13ff9e6@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "d53cab22@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "780c799c@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "8e5ba8d2@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "d01b0c4f@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "3acb34bf@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "a2e55d46@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "be1e20c9@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "902b7494@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "63c39516@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "4ad0ff43@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "06d82534@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "b24aba9a@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "965ff4c3@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "ee986e0d@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "7d1bf26e@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "37950073@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "330f35c5@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "a13dd42a@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "gd7y3nl@enzipro.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "7yrjiqx@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "aobvi6q@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "4q9sz9x@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "tsgch1f@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "hp5erdz@enziproject.web.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "mq6mvf9@enziproject.my.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "yfdwg1v@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "arooev0@enzipro.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        },
+        {
+          "email": "62zrlgm@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782300286298
+        }
+      ],
       "sold": 3469,
-      "stock": 0,
+      "stock": 100,
       "reserved": [
         {
           "id": "RSV1780362536090628",
