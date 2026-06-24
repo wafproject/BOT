@@ -2747,7 +2747,7 @@
           "addedAt": 1782300286298
         }
       ],
-      "sold": 3525,
+      "sold": 3526,
       "stock": 43,
       "reserved": [
         {
@@ -2827,18 +2827,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782312841609868",
-          "items": [
-            {
-              "email": "86609f99@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-24T14:54:01.609Z"
         }
       ],
       "bulk_active": true,
