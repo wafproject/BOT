@@ -2548,16 +2548,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "8a08f29f@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782300286298
-        },
-        {
-          "email": "610275db@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782300286298
-        },
-        {
           "email": "511dd454@kulipremium.biz.id",
           "password": "masuk123",
           "addedAt": 1782300286298
@@ -2824,7 +2814,7 @@
         }
       ],
       "sold": 3503,
-      "stock": 55,
+      "stock": 53,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2972,6 +2962,23 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-24T11:53:44.838Z"
+        },
+        {
+          "id": "RSV1782302063883489",
+          "items": [
+            {
+              "email": "8a08f29f@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782300286298
+            },
+            {
+              "email": "610275db@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782300286298
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-06-24T11:54:23.883Z"
         }
       ],
       "bulk_active": true,
