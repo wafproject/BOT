@@ -2524,56 +2524,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "a8895c59@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782382029392
-        },
-        {
-          "email": "25c3b118@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782382029392
-        },
-        {
-          "email": "de2896f4@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782382029392
-        },
-        {
-          "email": "af1a416d@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782382029392
-        },
-        {
-          "email": "7a2559a1@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782382029392
-        },
-        {
-          "email": "826fcb1f@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782382029392
-        },
-        {
-          "email": "2896d422@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782382029392
-        },
-        {
-          "email": "81fff634@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782382029392
-        },
-        {
-          "email": "23d0a1ff@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782382029392
-        },
-        {
-          "email": "8f179efa@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782382029392
-        },
-        {
           "email": "04c51b83@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1782382029392
@@ -2700,7 +2650,7 @@
         }
       ],
       "sold": 3574,
-      "stock": 35,
+      "stock": 25,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2836,6 +2786,63 @@
           ],
           "qty": 10,
           "createdAt": "2026-06-25T10:09:29.244Z"
+        },
+        {
+          "id": "RSV178238222829846",
+          "items": [
+            {
+              "email": "a8895c59@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782382029392
+            },
+            {
+              "email": "25c3b118@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782382029392
+            },
+            {
+              "email": "de2896f4@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782382029392
+            },
+            {
+              "email": "af1a416d@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782382029392
+            },
+            {
+              "email": "7a2559a1@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782382029392
+            },
+            {
+              "email": "826fcb1f@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782382029392
+            },
+            {
+              "email": "2896d422@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782382029392
+            },
+            {
+              "email": "81fff634@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782382029392
+            },
+            {
+              "email": "23d0a1ff@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782382029392
+            },
+            {
+              "email": "8f179efa@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782382029392
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-06-25T10:10:28.298Z"
         }
       ],
       "bulk_active": true,
