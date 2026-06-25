@@ -2547,7 +2547,7 @@
           "addedAt": 1782300286298
         }
       ],
-      "sold": 3556,
+      "sold": 3566,
       "stock": 3,
       "reserved": [
         {
@@ -2627,63 +2627,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782349435201195",
-          "items": [
-            {
-              "email": "37950073@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "330f35c5@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "a13dd42a@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "gd7y3nl@enzipro.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "7yrjiqx@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "aobvi6q@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "4q9sz9x@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "tsgch1f@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "hp5erdz@enziproject.web.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            },
-            {
-              "email": "mq6mvf9@enziproject.my.id",
-              "password": "masuk123",
-              "addedAt": 1782300286298
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-25T01:03:55.201Z"
         }
       ],
       "bulk_active": true,
