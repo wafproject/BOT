@@ -2493,56 +2493,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "8791519d@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782412656107
-        },
-        {
-          "email": "49785e71@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782412656107
-        },
-        {
-          "email": "ae6a95d4@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782412656107
-        },
-        {
-          "email": "8d60a50a@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782412656107
-        },
-        {
-          "email": "4301f50f@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782412656107
-        },
-        {
-          "email": "41ae1ee0@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782412656107
-        },
-        {
-          "email": "36945f50@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782412656107
-        },
-        {
-          "email": "db561b3e@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782412656107
-        },
-        {
-          "email": "diahaqg@enzipro.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782412656107
-        },
-        {
-          "email": "aaen1ur@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782412656107
-        },
-        {
           "email": "9lox5gt@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1782412656107
@@ -2559,7 +2509,7 @@
         }
       ],
       "sold": 3656,
-      "stock": 13,
+      "stock": 3,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2638,6 +2588,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
+        },
+        {
+          "id": "RSV1782428873850624",
+          "items": [
+            {
+              "email": "8791519d@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782412656107
+            },
+            {
+              "email": "49785e71@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782412656107
+            },
+            {
+              "email": "ae6a95d4@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782412656107
+            },
+            {
+              "email": "8d60a50a@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782412656107
+            },
+            {
+              "email": "4301f50f@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782412656107
+            },
+            {
+              "email": "41ae1ee0@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782412656107
+            },
+            {
+              "email": "36945f50@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782412656107
+            },
+            {
+              "email": "db561b3e@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782412656107
+            },
+            {
+              "email": "diahaqg@enzipro.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782412656107
+            },
+            {
+              "email": "aaen1ur@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782412656107
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-06-25T23:07:53.850Z"
         }
       ],
       "bulk_active": true,
