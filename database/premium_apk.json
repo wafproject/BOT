@@ -66,10 +66,6 @@
       "snk": "* SETELAH JOIN WAJIB SETOR EMAIL KE ADMIN, JIKA TIDAK SETOR AKAN DI KICK! * 1 LINK UNTUK 1 USER! KETAHUAN KICK ALL",
       "items": [
         {
-          "link": "https://www.canva.com/brand/join?token=QdQcB5vNAK1HIL4ypUIDpA&referrer=team-invite",
-          "addedAt": 1781978815817
-        },
-        {
           "link": "https://www.canva.com/brand/join?token=eI2r7uTg0EEEUK2WTtZAMw&referrer=team-invite",
           "addedAt": 1781978815817
         },
@@ -242,8 +238,8 @@
           "addedAt": 1781978815817
         }
       ],
-      "stock": 44,
-      "sold": 613,
+      "stock": 43,
+      "sold": 614,
       "reserved": [
         {
           "id": "RSV1779749464287750",
