@@ -2504,7 +2504,7 @@
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [],
-      "sold": 3617,
+      "sold": 3618,
       "stock": 0,
       "reserved": [
         {
@@ -2584,18 +2584,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782397111641938",
-          "items": [
-            {
-              "email": "5agfxas@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782382029392
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-25T14:18:31.641Z"
         },
         {
           "id": "RSV1782397148948432",
