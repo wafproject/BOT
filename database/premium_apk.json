@@ -713,22 +713,9 @@
           "addedAt": 1781330631434
         }
       ],
-      "sold": 108,
+      "sold": 109,
       "stock": 13,
-      "reserved": [
-        {
-          "id": "RSV1782382576999170",
-          "items": [
-            {
-              "email": "laztanaj@zumnime.me",
-              "password": "masuk1234@",
-              "addedAt": 1781330631434
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-25T10:16:16.999Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
