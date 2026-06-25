@@ -2520,7 +2520,7 @@
           "addedAt": 1782382029392
         }
       ],
-      "sold": 3606,
+      "sold": 3616,
       "stock": 3,
       "reserved": [
         {
@@ -2600,63 +2600,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782396058490172",
-          "items": [
-            {
-              "email": "d56d79fe@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782382029392
-            },
-            {
-              "email": "0e14e0dc@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782382029392
-            },
-            {
-              "email": "f03625bb@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782382029392
-            },
-            {
-              "email": "598b2b84@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782382029392
-            },
-            {
-              "email": "eac94d9e@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782382029392
-            },
-            {
-              "email": "e88e2538@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782382029392
-            },
-            {
-              "email": "d0ffb142@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782382029392
-            },
-            {
-              "email": "48f0b4dc@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782382029392
-            },
-            {
-              "email": "wjedcqj@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782382029392
-            },
-            {
-              "email": "pbmrz3d@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782382029392
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-06-25T14:00:58.490Z"
         }
       ],
       "bulk_active": true,
