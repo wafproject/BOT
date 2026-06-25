@@ -2725,7 +2725,7 @@
       "bulk_prices": [
         {
           "minQty": 10,
-          "price": 6000
+          "price": 5500
         },
         {
           "minQty": 30,
