@@ -2493,16 +2493,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "6e29c216@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782412656107
-        },
-        {
-          "email": "d6614e28@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782412656107
-        },
-        {
           "email": "cf985ae7@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1782412656107
@@ -2679,7 +2669,7 @@
         }
       ],
       "sold": 3629,
-      "stock": 37,
+      "stock": 35,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2780,6 +2770,23 @@
           ],
           "qty": 3,
           "createdAt": "2026-06-25T18:42:02.305Z"
+        },
+        {
+          "id": "RSV1782413002982741",
+          "items": [
+            {
+              "email": "6e29c216@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782412656107
+            },
+            {
+              "email": "d6614e28@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782412656107
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-06-25T18:43:22.982Z"
         }
       ],
       "bulk_active": true,
