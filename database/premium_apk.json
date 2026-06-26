@@ -2396,7 +2396,7 @@
           "addedAt": 1782458187937
         }
       ],
-      "sold": 3695,
+      "sold": 3696,
       "stock": 13,
       "reserved": [
         {
@@ -2476,18 +2476,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782465073488738",
-          "items": [
-            {
-              "email": "97fb8315@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782458187937
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-26T09:11:13.488Z"
         }
       ],
       "bulk_active": true,
