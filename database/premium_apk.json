@@ -571,11 +571,6 @@
       "snk": "* Garansi 5 hari dihitung sejak tanggal pembelian \n• Akses email : https://emailqu.com/",
       "items": [
         {
-          "email": "0j52xx5@premaja.online",
-          "password": "Masuk123",
-          "addedAt": 1781249227952
-        },
-        {
           "email": "v95y8ff@wafprem.biz.id",
           "password": "Masuk123",
           "addedAt": 1781249227952
@@ -596,9 +591,22 @@
           "addedAt": 1781249227952
         }
       ],
-      "stock": 5,
+      "stock": 4,
       "sold": 41,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1782483710335323",
+          "items": [
+            {
+              "email": "0j52xx5@premaja.online",
+              "password": "Masuk123",
+              "addedAt": 1781249227952
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-26T14:21:50.335Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
