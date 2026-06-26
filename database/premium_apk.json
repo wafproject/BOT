@@ -2230,22 +2230,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 496,
+      "sold": 497,
       "stock": 59,
-      "reserved": [
-        {
-          "id": "RSV1782484160791310",
-          "items": [
-            {
-              "email": "nhcxou306@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042844837
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-26T14:29:20.791Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
