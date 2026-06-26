@@ -2264,22 +2264,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 495,
+      "sold": 496,
       "stock": 60,
-      "reserved": [
-        {
-          "id": "RSV1782462771237441",
-          "items": [
-            {
-              "email": "oyotqd20@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042844057
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-26T08:32:51.237Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
