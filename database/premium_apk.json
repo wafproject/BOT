@@ -584,14 +584,9 @@
           "email": "6p5y0cd@enziproject.web.id",
           "password": "Masuk123",
           "addedAt": 1781249227952
-        },
-        {
-          "email": "9wq9pv5@premaja.online",
-          "password": "Masuk123",
-          "addedAt": 1781249227952
         }
       ],
-      "stock": 4,
+      "stock": 3,
       "sold": 42,
       "reserved": [],
       "bulk_active": false,
