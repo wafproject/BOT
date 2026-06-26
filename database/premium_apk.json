@@ -579,14 +579,9 @@
           "email": "stw0ewi@enziproject.my.id",
           "password": "Masuk123",
           "addedAt": 1781249227952
-        },
-        {
-          "email": "6p5y0cd@enziproject.web.id",
-          "password": "Masuk123",
-          "addedAt": 1781249227952
         }
       ],
-      "stock": 3,
+      "stock": 2,
       "sold": 42,
       "reserved": [],
       "bulk_active": false,
