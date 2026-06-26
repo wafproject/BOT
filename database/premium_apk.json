@@ -2474,22 +2474,9 @@
           "addedAt": 1782458130612
         }
       ],
-      "sold": 535,
+      "sold": 536,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV1782458259477930",
-          "items": [
-            {
-              "email": "6ak9soi@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782458130612
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-26T07:17:39.477Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
