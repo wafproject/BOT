@@ -574,14 +574,9 @@
           "email": "v95y8ff@wafprem.biz.id",
           "password": "Masuk123",
           "addedAt": 1781249227952
-        },
-        {
-          "email": "stw0ewi@enziproject.my.id",
-          "password": "Masuk123",
-          "addedAt": 1781249227952
         }
       ],
-      "stock": 2,
+      "stock": 1,
       "sold": 42,
       "reserved": [],
       "bulk_active": false,
