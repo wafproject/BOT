@@ -2865,7 +2865,7 @@
           "addedAt": 1782508975046
         }
       ],
-      "sold": 3720,
+      "sold": 3725,
       "stock": 84,
       "reserved": [
         {
@@ -2945,38 +2945,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782516423592437",
-          "items": [
-            {
-              "email": "73866303@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1782508975045
-            },
-            {
-              "email": "dc91c502@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1782508975045
-            },
-            {
-              "email": "93a8195e@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1782508975045
-            },
-            {
-              "email": "c7244891@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1782508975045
-            },
-            {
-              "email": "27a6c6a5@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1782508975045
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-06-26T23:27:03.592Z"
         }
       ],
       "bulk_active": true,
