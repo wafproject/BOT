@@ -2633,6 +2633,20 @@
       "items": [],
       "sold": 0,
       "stock": 0
+    },
+    {
+      "code": "CC21D",
+      "name": "Capcut Pro Indplan 21D Private",
+      "category": "capcut pro",
+      "type": "akun",
+      "price": 15000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "tes",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
