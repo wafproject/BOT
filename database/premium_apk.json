@@ -2423,16 +2423,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n• Akses email https://tmail.wafproject.my.id",
       "items": [
         {
-          "email": "79c54e5a@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "f9729bac@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
           "email": "0629c6d6@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1782508975046
@@ -2504,7 +2494,7 @@
         }
       ],
       "sold": 3793,
-      "stock": 16,
+      "stock": 14,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2583,6 +2573,23 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
+        },
+        {
+          "id": "RSV1782545923938806",
+          "items": [
+            {
+              "email": "79c54e5a@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "f9729bac@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-06-27T07:38:43.938Z"
         }
       ],
       "bulk_active": true,
