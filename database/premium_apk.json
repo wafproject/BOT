@@ -704,11 +704,6 @@
       "snk": "* Garansi 5 hari dihitung sejak tanggal pembelian \n• Akses email : https://emailqu.com/",
       "items": [
         {
-          "email": "ltvttpb@wafprem.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1782488271426
-        },
-        {
           "email": "f9umt15@enzipro.biz.id",
           "password": "Masuk123",
           "addedAt": 1782488271426
@@ -724,8 +719,8 @@
           "addedAt": 1782488271426
         }
       ],
-      "stock": 4,
-      "sold": 42,
+      "stock": 3,
+      "sold": 43,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
