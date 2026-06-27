@@ -2576,7 +2576,7 @@
           "addedAt": 1782508975046
         }
       ],
-      "sold": 3774,
+      "sold": 3780,
       "stock": 29,
       "reserved": [
         {
@@ -2656,43 +2656,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782541669204386",
-          "items": [
-            {
-              "email": "c5173101@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782508975046
-            },
-            {
-              "email": "2bcb755a@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782508975046
-            },
-            {
-              "email": "152ca23e@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782508975046
-            },
-            {
-              "email": "98b43ca8@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782508975046
-            },
-            {
-              "email": "f80d71dc@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782508975046
-            },
-            {
-              "email": "e8ec8053@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782508975046
-            }
-          ],
-          "qty": 6,
-          "createdAt": "2026-06-27T06:27:49.205Z"
         }
       ],
       "bulk_active": true,
