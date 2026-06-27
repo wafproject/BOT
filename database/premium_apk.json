@@ -2588,24 +2588,11 @@
       "descShort": "10 Seats",
       "snk": "* Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Garansi hanya berlaku kendala backfree\n• Akses email https://tmail.wafproject.my.id",
       "items": [],
-      "sold": 107,
+      "sold": 108,
       "stock": 0,
       "bulk_active": false,
       "bulk_prices": [],
-      "reserved": [
-        {
-          "id": "RSV178255406783166",
-          "items": [
-            {
-              "email": "stniz1d@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782552782373
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-27T09:54:27.831Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "AMBUYER",
