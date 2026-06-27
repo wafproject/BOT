@@ -2431,36 +2431,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n• Akses email https://tmail.wafproject.my.id",
       "items": [
         {
-          "email": "c5173101@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "2bcb755a@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "152ca23e@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "98b43ca8@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "f80d71dc@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "e8ec8053@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
           "email": "00c14eba@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1782508975046
@@ -2607,7 +2577,7 @@
         }
       ],
       "sold": 3774,
-      "stock": 35,
+      "stock": 29,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2686,6 +2656,43 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
+        },
+        {
+          "id": "RSV1782541669204386",
+          "items": [
+            {
+              "email": "c5173101@wafprem.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "2bcb755a@wafprem.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "152ca23e@wafprem.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "98b43ca8@wafprem.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "f80d71dc@wafprem.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "e8ec8053@wafprem.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            }
+          ],
+          "qty": 6,
+          "createdAt": "2026-06-27T06:27:49.205Z"
         }
       ],
       "bulk_active": true,
