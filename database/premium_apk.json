@@ -2431,51 +2431,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n• Akses email https://tmail.wafproject.my.id",
       "items": [
         {
-          "email": "00c14eba@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "9b363be9@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "b56aa3f7@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "fdfa9603@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "096dd980@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "33e5057b@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "ed4d8561@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "3eccfc8e@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "112f3ef9@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
           "email": "d25e2f1c@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1782508975046
@@ -2577,7 +2532,7 @@
         }
       ],
       "sold": 3780,
-      "stock": 29,
+      "stock": 20,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2656,6 +2611,58 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
+        },
+        {
+          "id": "RSV1782542453188587",
+          "items": [
+            {
+              "email": "00c14eba@wafprem.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "9b363be9@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "b56aa3f7@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "fdfa9603@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "096dd980@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "33e5057b@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "ed4d8561@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "3eccfc8e@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "112f3ef9@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            }
+          ],
+          "qty": 9,
+          "createdAt": "2026-06-27T06:40:53.188Z"
         }
       ],
       "bulk_active": true,
