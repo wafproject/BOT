@@ -2445,106 +2445,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "bbe4d251@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975045
-        },
-        {
-          "email": "77e7f475@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975045
-        },
-        {
-          "email": "41f4ac77@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975045
-        },
-        {
-          "email": "3cdb1742@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975045
-        },
-        {
-          "email": "488077b1@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "42fa72aa@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "3ed21e01@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "d39cc901@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "0216f719@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "510177e9@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "42262f31@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "4b7d237a@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "4e028f13@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "e62b5b10@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "cb477dbc@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "c215dc78@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "cb693302@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "2638e10c@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "eefb5c37@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
-          "email": "13b17bb3@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782508975046
-        },
-        {
           "email": "fc3f2b9d@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1782508975046
@@ -2861,7 +2761,7 @@
         }
       ],
       "sold": 3726,
-      "stock": 83,
+      "stock": 63,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2940,6 +2840,113 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
+        },
+        {
+          "id": "RSV1782519302570805",
+          "items": [
+            {
+              "email": "bbe4d251@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975045
+            },
+            {
+              "email": "77e7f475@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975045
+            },
+            {
+              "email": "41f4ac77@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975045
+            },
+            {
+              "email": "3cdb1742@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975045
+            },
+            {
+              "email": "488077b1@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "42fa72aa@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "3ed21e01@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "d39cc901@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "0216f719@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "510177e9@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "42262f31@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "4b7d237a@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "4e028f13@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "e62b5b10@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "cb477dbc@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "c215dc78@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "cb693302@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "2638e10c@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "eefb5c37@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            },
+            {
+              "email": "13b17bb3@wafprem.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782508975046
+            }
+          ],
+          "qty": 20,
+          "createdAt": "2026-06-27T00:15:02.570Z"
         }
       ],
       "bulk_active": true,
