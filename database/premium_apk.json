@@ -2587,15 +2587,9 @@
       "price": 10000,
       "descShort": "15 SEATS",
       "snk": "Garansi 5 Hari",
-      "items": [
-        {
-          "email": "tes",
-          "password": "tes",
-          "addedAt": 1782552547667
-        }
-      ],
-      "sold": 106,
-      "stock": 1,
+      "items": [],
+      "sold": 107,
+      "stock": 0,
       "bulk_active": false,
       "bulk_prices": []
     },
