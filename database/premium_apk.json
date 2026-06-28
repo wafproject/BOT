@@ -2662,16 +2662,23 @@
       "bulk_prices": [],
       "descShort": "Full Garansi",
       "snk": "* Akun Private\n• Full Garansi 10 Hari\n• Jual sharing resiko tanggung sendiri",
-      "items": [
-        {
-          "email": "bt8u3tp@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782642964947
-        }
-      ],
+      "items": [],
       "sold": 44,
-      "stock": 1,
-      "reserved": []
+      "stock": 0,
+      "reserved": [
+        {
+          "id": "RSV1782653025829218",
+          "items": [
+            {
+              "email": "bt8u3tp@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782642964947
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-28T13:23:45.829Z"
+        }
+      ]
     }
   ],
   "meta": {
