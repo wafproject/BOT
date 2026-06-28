@@ -2427,7 +2427,7 @@
           "addedAt": 1782624904433
         }
       ],
-      "sold": 3811,
+      "sold": 3812,
       "stock": 6,
       "reserved": [
         {
@@ -2507,18 +2507,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV178262505578348",
-          "items": [
-            {
-              "email": "purwanababan77@tidylifehub.com",
-              "password": "masuk123",
-              "addedAt": 1782624904433
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-28T05:37:35.783Z"
         },
         {
           "id": "RSV1782625069926325",
