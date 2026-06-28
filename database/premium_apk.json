@@ -2689,22 +2689,9 @@
           "addedAt": 1782642964947
         }
       ],
-      "sold": 42,
+      "sold": 43,
       "stock": 2,
-      "reserved": [
-        {
-          "id": "RSV1782645077911965",
-          "items": [
-            {
-              "email": "ng1wowg@enzipro.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782642964947
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-28T11:11:17.911Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
