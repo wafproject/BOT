@@ -576,11 +576,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "gkopina@fviamail.com",
-          "password": "masuk1234@",
-          "addedAt": 1781330631434
-        },
-        {
           "email": "kgeist@hayys.app",
           "password": "masuk1234@",
           "addedAt": 1781330631434
@@ -642,8 +637,21 @@
         }
       ],
       "sold": 109,
-      "stock": 13,
-      "reserved": [],
+      "stock": 12,
+      "reserved": [
+        {
+          "id": "RSV1782652834288883",
+          "items": [
+            {
+              "email": "gkopina@fviamail.com",
+              "password": "masuk1234@",
+              "addedAt": 1781330631434
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-28T13:20:34.288Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
