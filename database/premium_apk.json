@@ -2395,9 +2395,110 @@
       "price": 5500,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n• Akses email https://tmail.wafproject.my.id",
-      "items": [],
+      "items": [
+        {
+          "email": "hestisitumorang27@enyashan.cfd",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "irnantowasita46@lellol.dev",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "purwanababan77@tidylifehub.com",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "galihharyanti4@gmail-xsniper.com",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "kayunmahendra97@enyashan.cfd",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "kamalhassanah62@yellofdf2.click",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "paimanhassanah69@lellol.dev",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "garangramadan63@gudri.com",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "balanggapratiwi76@reestore.site",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "ifahutapea95@yellofdf2.click",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "olivamardhiyah55@makertrial.com",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "balijangunawan83@hutathuww.org",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "zaenabmaulana30@angiiidayyy.click",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "nyanamandala76@hutathuww.org",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "farahanggriawan68@makertrial.com",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "kusumaagustina80@gudri.com",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "garapangestu79@submitreports.com",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "karyajailani21@lellol.dev",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "tq59f6s@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        },
+        {
+          "email": "karrqt621@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1782624904433
+        }
+      ],
       "sold": 3809,
-      "stock": 0,
+      "stock": 20,
       "reserved": [
         {
           "id": "RSV1780362536090628",
