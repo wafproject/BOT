@@ -2395,40 +2395,9 @@
       "price": 6000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n• Akses email https://tmail.wafproject.my.id",
-      "items": [
-        {
-          "email": "farahanggriawan68@makertrial.com",
-          "password": "masuk123",
-          "addedAt": 1782624904433
-        },
-        {
-          "email": "kusumaagustina80@gudri.com",
-          "password": "masuk123",
-          "addedAt": 1782624904433
-        },
-        {
-          "email": "garapangestu79@submitreports.com",
-          "password": "masuk123",
-          "addedAt": 1782624904433
-        },
-        {
-          "email": "karyajailani21@lellol.dev",
-          "password": "masuk123",
-          "addedAt": 1782624904433
-        },
-        {
-          "email": "tq59f6s@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782624904433
-        },
-        {
-          "email": "karrqt621@gmail.com",
-          "password": "masuk123",
-          "addedAt": 1782624904433
-        }
-      ],
+      "items": [],
       "sold": 3823,
-      "stock": 6,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2507,6 +2476,43 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
+        },
+        {
+          "id": "RSV1782625909419872",
+          "items": [
+            {
+              "email": "farahanggriawan68@makertrial.com",
+              "password": "masuk123",
+              "addedAt": 1782624904433
+            },
+            {
+              "email": "kusumaagustina80@gudri.com",
+              "password": "masuk123",
+              "addedAt": 1782624904433
+            },
+            {
+              "email": "garapangestu79@submitreports.com",
+              "password": "masuk123",
+              "addedAt": 1782624904433
+            },
+            {
+              "email": "karyajailani21@lellol.dev",
+              "password": "masuk123",
+              "addedAt": 1782624904433
+            },
+            {
+              "email": "tq59f6s@wafprem.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782624904433
+            },
+            {
+              "email": "karrqt621@gmail.com",
+              "password": "masuk123",
+              "addedAt": 1782624904433
+            }
+          ],
+          "qty": 6,
+          "createdAt": "2026-06-28T05:51:49.419Z"
         }
       ],
       "bulk_active": false,
