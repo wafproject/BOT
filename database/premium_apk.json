@@ -2674,19 +2674,27 @@
       "snk": "* Akun Private\n• Full Garansi 10 Hari\n• Jual sharing resiko tanggung sendiri",
       "items": [
         {
-          "email": "j245omk@enzipro.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782642964947
-        },
-        {
           "email": "bt8u3tp@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1782642964947
         }
       ],
       "sold": 43,
-      "stock": 2,
-      "reserved": []
+      "stock": 1,
+      "reserved": [
+        {
+          "id": "RSV1782646486810610",
+          "items": [
+            {
+              "email": "j245omk@enzipro.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782642964947
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-28T11:34:46.810Z"
+        }
+      ]
     }
   ],
   "meta": {
