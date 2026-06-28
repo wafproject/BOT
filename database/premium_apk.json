@@ -2394,7 +2394,7 @@
           "addedAt": 1782635514743
         }
       ],
-      "sold": 3837,
+      "sold": 3838,
       "stock": 1,
       "reserved": [
         {
@@ -2474,18 +2474,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782636614149606",
-          "items": [
-            {
-              "email": "cawuklailasari85@reclameaqui.services",
-              "password": "masuk123",
-              "addedAt": 1782635514743
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-28T08:50:14.149Z"
         }
       ],
       "bulk_active": false,
