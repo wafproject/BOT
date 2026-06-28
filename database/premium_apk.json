@@ -2666,6 +2666,20 @@
       "items": [],
       "sold": 0,
       "stock": 0
+    },
+    {
+      "code": "WETV15",
+      "name": "WeTV VIP 15 Day Private",
+      "category": "WETV PREMIUM",
+      "type": "akun",
+      "price": 5000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "Nanti",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
