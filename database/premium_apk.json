@@ -2397,16 +2397,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n• Akses email https://tmail.wafproject.my.id",
       "items": [
         {
-          "email": "hestisitumorang27@enyashan.cfd",
-          "password": "masuk123",
-          "addedAt": 1782624904433
-        },
-        {
-          "email": "irnantowasita46@lellol.dev",
-          "password": "masuk123",
-          "addedAt": 1782624904433
-        },
-        {
           "email": "purwanababan77@tidylifehub.com",
           "password": "masuk123",
           "addedAt": 1782624904433
@@ -2498,7 +2488,7 @@
         }
       ],
       "sold": 3809,
-      "stock": 20,
+      "stock": 18,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2577,6 +2567,23 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
+        },
+        {
+          "id": "RSV1782625026392838",
+          "items": [
+            {
+              "email": "hestisitumorang27@enyashan.cfd",
+              "password": "masuk123",
+              "addedAt": 1782624904433
+            },
+            {
+              "email": "irnantowasita46@lellol.dev",
+              "password": "masuk123",
+              "addedAt": 1782624904433
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-06-28T05:37:06.392Z"
         }
       ],
       "bulk_active": false,
