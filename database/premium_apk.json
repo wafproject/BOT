@@ -2399,7 +2399,7 @@
           "addedAt": 1782635514743
         }
       ],
-      "sold": 3836,
+      "sold": 3837,
       "stock": 2,
       "reserved": [
         {
@@ -2479,18 +2479,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782636330881276",
-          "items": [
-            {
-              "email": "drajattampubolon86@gaskuy.me",
-              "password": "masuk123",
-              "addedAt": 1782635514743
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-28T08:45:30.881Z"
         }
       ],
       "bulk_active": false,
