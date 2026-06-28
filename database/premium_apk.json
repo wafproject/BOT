@@ -2694,22 +2694,9 @@
           "addedAt": 1782642964947
         }
       ],
-      "sold": 41,
+      "sold": 42,
       "stock": 3,
-      "reserved": [
-        {
-          "id": "RSV1782644158665737",
-          "items": [
-            {
-              "email": "ihkobdl@enziproject.my.id",
-              "password": "masuk123",
-              "addedAt": 1782642964947
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-28T10:55:58.665Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
