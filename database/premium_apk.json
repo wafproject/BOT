@@ -2387,9 +2387,60 @@
       "price": 6000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
-      "items": [],
+      "items": [
+        {
+          "email": "akarsanapertiwi50@gmaill.click",
+          "password": "masuk123",
+          "addedAt": 1782635514743
+        },
+        {
+          "email": "citrasinaga16@flatimostore.cloud",
+          "password": "masuk123",
+          "addedAt": 1782635514743
+        },
+        {
+          "email": "putisuryono99@okmabuiyak.tech",
+          "password": "masuk123",
+          "addedAt": 1782635514743
+        },
+        {
+          "email": "cakrajiyawijayanti79@rilzz.store",
+          "password": "masuk123",
+          "addedAt": 1782635514743
+        },
+        {
+          "email": "cakrawalazulkarnain86@cuscuscuspen.life",
+          "password": "masuk123",
+          "addedAt": 1782635514743
+        },
+        {
+          "email": "farahhidayanto71@pawobby.cfd",
+          "password": "masuk123",
+          "addedAt": 1782635514743
+        },
+        {
+          "email": "saadatardianto11@okmabuiyak.tech",
+          "password": "masuk123",
+          "addedAt": 1782635514743
+        },
+        {
+          "email": "drajattampubolon86@gaskuy.me",
+          "password": "masuk123",
+          "addedAt": 1782635514743
+        },
+        {
+          "email": "cawuklailasari85@reclameaqui.services",
+          "password": "masuk123",
+          "addedAt": 1782635514743
+        },
+        {
+          "email": "zssiwfv@enziproject.my.id",
+          "password": "masuk123",
+          "addedAt": 1782635514743
+        }
+      ],
       "sold": 3829,
-      "stock": 0,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1780362536090628",
