@@ -2427,7 +2427,7 @@
           "addedAt": 1782624904433
         }
       ],
-      "sold": 3812,
+      "sold": 3813,
       "stock": 6,
       "reserved": [
         {
@@ -2564,18 +2564,6 @@
           ],
           "qty": 10,
           "createdAt": "2026-06-28T05:37:49.926Z"
-        },
-        {
-          "id": "RSV1782625094843501",
-          "items": [
-            {
-              "email": "nyanamandala76@hutathuww.org",
-              "password": "masuk123",
-              "addedAt": 1782624904433
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-28T05:38:14.843Z"
         }
       ],
       "bulk_active": false,
