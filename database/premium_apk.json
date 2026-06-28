@@ -2404,7 +2404,7 @@
           "addedAt": 1782635514743
         }
       ],
-      "sold": 3829,
+      "sold": 3834,
       "stock": 3,
       "reserved": [
         {
@@ -2484,38 +2484,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782635569970629",
-          "items": [
-            {
-              "email": "akarsanapertiwi50@gmaill.click",
-              "password": "masuk123",
-              "addedAt": 1782635514743
-            },
-            {
-              "email": "citrasinaga16@flatimostore.cloud",
-              "password": "masuk123",
-              "addedAt": 1782635514743
-            },
-            {
-              "email": "putisuryono99@okmabuiyak.tech",
-              "password": "masuk123",
-              "addedAt": 1782635514743
-            },
-            {
-              "email": "cakrajiyawijayanti79@rilzz.store",
-              "password": "masuk123",
-              "addedAt": 1782635514743
-            },
-            {
-              "email": "cakrawalazulkarnain86@cuscuscuspen.life",
-              "password": "masuk123",
-              "addedAt": 1782635514743
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-06-28T08:32:49.970Z"
         },
         {
           "id": "RSV178263560302276",
