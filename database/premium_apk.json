@@ -2367,7 +2367,7 @@
           "addedAt": 1782724527245
         }
       ],
-      "sold": 3842,
+      "sold": 3844,
       "stock": 4,
       "reserved": [
         {
@@ -2447,23 +2447,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782724610712408",
-          "items": [
-            {
-              "email": "gemasa@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782724527245
-            },
-            {
-              "email": "binuko@premisxv.web.id",
-              "password": "masuk123",
-              "addedAt": 1782724527245
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-29T09:16:50.712Z"
         },
         {
           "id": "RSV1782724648109700",
