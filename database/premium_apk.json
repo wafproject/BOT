@@ -2501,11 +2501,6 @@
       "snk": "* Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Garansi hanya berlaku kendala backfree\n• Akses email https://tmail.wafproject.my.id",
       "items": [
         {
-          "email": "489djyc@enzipro.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782724545383
-        },
-        {
           "email": "hma5dkl@gsuite.biz.id",
           "password": "masuk123",
           "addedAt": 1782724545383
@@ -2522,10 +2517,23 @@
         }
       ],
       "sold": 108,
-      "stock": 4,
+      "stock": 3,
       "bulk_active": false,
       "bulk_prices": [],
-      "reserved": []
+      "reserved": [
+        {
+          "id": "RSV1782725244183228",
+          "items": [
+            {
+              "email": "489djyc@enzipro.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782724545383
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-29T09:27:24.183Z"
+        }
+      ]
     },
     {
       "code": "AMBUYER",
