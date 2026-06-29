@@ -2494,29 +2494,11 @@
           "addedAt": 1782724545383
         }
       ],
-      "sold": 109,
+      "sold": 111,
       "stock": 1,
       "bulk_active": false,
       "bulk_prices": [],
-      "reserved": [
-        {
-          "id": "RSV1782726669188382",
-          "items": [
-            {
-              "email": "hma5dkl@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782724545383
-            },
-            {
-              "email": "49xuvw7@enzipro.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782724545383
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-29T09:51:09.188Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "AMBUYER",
