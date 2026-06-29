@@ -2322,9 +2322,260 @@
       "price": 6000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
-      "items": [],
+      "items": [
+        {
+          "email": "ae967d24@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "5dc3d5eb@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "f1d728eb@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "0f003f8a@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "edff0018@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "086be201@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "34934951@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "8a177fe6@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "cfc1fb61@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "26597ec6@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "1878c033@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "4d2e10a6@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "1a177886@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "ac559016@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "adda51dc@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "911aacba@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "514323b5@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "f97a9c54@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "9a1a3794@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "cfac6a26@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "66537578@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "79194c80@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "9f73f5d6@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "ff77f2cb@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "5d150478@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "bf5c10d2@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "d5bdb45e@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "2561b590@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "9038d751@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "ec7451e6@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "73281a0b@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "rujayo@gxrevsx.web.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "baluba@gwprems.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "rabofa@oxygov.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "runolo@matakaw.web.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "kahifa@matakaw.web.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "picire@xvsexv.web.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "barodo@oxygov.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "donazo@oxygov.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "rufano@gxrevsx.web.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "gamare@matakaw.web.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "nuxino@oxygov.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "sivuca@premisxv.web.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "gazari@mysexvs.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "bipaya@oxygov.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "b51z54s@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "d8g3d67@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "cqhrxqv@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "z2gl2pk@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        },
+        {
+          "email": "i6ho3af@enzipro.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770607178
+        }
+      ],
       "sold": 3859,
-      "stock": 0,
+      "stock": 50,
       "reserved": [
         {
           "id": "RSV1780362536090628",
