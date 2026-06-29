@@ -2365,15 +2365,10 @@
           "email": "lewapi@gxrevsx.web.id",
           "password": "masuk123",
           "addedAt": 1782724466394
-        },
-        {
-          "email": "yiwofi@gwprems.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782724466394
         }
       ],
       "sold": 3839,
-      "stock": 5,
+      "stock": 4,
       "reserved": [
         {
           "id": "RSV1780362536090628",
