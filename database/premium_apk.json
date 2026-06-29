@@ -2370,15 +2370,10 @@
           "email": "yiwofi@gwprems.biz.id",
           "password": "masuk123",
           "addedAt": 1782724466394
-        },
-        {
-          "email": "eqiffq1@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782724466394
         }
       ],
       "sold": 3839,
-      "stock": 6,
+      "stock": 5,
       "reserved": [
         {
           "id": "RSV1780362536090628",
