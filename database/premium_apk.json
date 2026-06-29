@@ -2367,7 +2367,7 @@
           "addedAt": 1782724527245
         }
       ],
-      "sold": 3839,
+      "sold": 3842,
       "stock": 4,
       "reserved": [
         {
@@ -2464,28 +2464,6 @@
           ],
           "qty": 2,
           "createdAt": "2026-06-29T09:16:50.712Z"
-        },
-        {
-          "id": "RSV1782724621847304",
-          "items": [
-            {
-              "email": "xetiwo@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782724527245
-            },
-            {
-              "email": "lewapi@gxrevsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1782724527245
-            },
-            {
-              "email": "yiwofi@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782724527245
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-06-29T09:17:01.847Z"
         },
         {
           "id": "RSV1782724648109700",
