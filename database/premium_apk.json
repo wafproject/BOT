@@ -2390,10 +2390,15 @@
           "email": "prime.guru@bapaklo.my.id",
           "password": "masuk123",
           "addedAt": 1782727136889
+        },
+        {
+          "email": "4bgkiwy@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782727260384
         }
       ],
       "sold": 3849,
-      "stock": 9,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1780362536090628",
