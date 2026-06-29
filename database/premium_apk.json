@@ -2362,7 +2362,7 @@
           "addedAt": 1782724527245
         }
       ],
-      "sold": 3844,
+      "sold": 3845,
       "stock": 3,
       "reserved": [
         {
@@ -2442,18 +2442,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-19T09:20:29.488Z"
-        },
-        {
-          "id": "RSV1782724648109700",
-          "items": [
-            {
-              "email": "bitavo@premisxv.web.id",
-              "password": "masuk123",
-              "addedAt": 1782724527245
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-29T09:17:28.109Z"
         },
         {
           "id": "RSV1782724670953850",
