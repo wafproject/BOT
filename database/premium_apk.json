@@ -2355,15 +2355,10 @@
           "email": "binuko@premisxv.web.id",
           "password": "masuk123",
           "addedAt": 1782724466394
-        },
-        {
-          "email": "xetiwo@mysexvs.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782724466394
         }
       ],
       "sold": 3839,
-      "stock": 3,
+      "stock": 2,
       "reserved": [
         {
           "id": "RSV1780362536090628",
