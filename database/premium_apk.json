@@ -2757,29 +2757,11 @@
           "addedAt": 1782770636602
         }
       ],
-      "sold": 111,
+      "sold": 113,
       "stock": 8,
       "bulk_active": false,
       "bulk_prices": [],
-      "reserved": [
-        {
-          "id": "RSV1782770749179687",
-          "items": [
-            {
-              "email": "lq4r6j5@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782770636602
-            },
-            {
-              "email": "udhqlc4@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1782770636602
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-29T22:05:49.179Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "AMBUYER",
