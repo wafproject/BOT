@@ -2709,9 +2709,40 @@
       "bulk_prices": [],
       "descShort": "Full Garansi",
       "snk": "* Akun Private\n• Full Garansi 10 Hari\n• Jual sharing resiko tanggung sendiri",
-      "items": [],
+      "items": [
+        {
+          "email": "cpp4t5s@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1782724563707
+        },
+        {
+          "email": "3sjnt8v@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1782724563707
+        },
+        {
+          "email": "wfh1w2j@enziproject.web.id",
+          "password": "masuk123",
+          "addedAt": 1782724563707
+        },
+        {
+          "email": "fwry782@enziproject.my.id",
+          "password": "masuk123",
+          "addedAt": 1782724563707
+        },
+        {
+          "email": "947v0ih@enziproject.web.id",
+          "password": "masuk123",
+          "addedAt": 1782724563707
+        },
+        {
+          "email": "8pvsk45@enziproject.my.id",
+          "password": "masuk123",
+          "addedAt": 1782724563707
+        }
+      ],
       "sold": 45,
-      "stock": 0,
+      "stock": 6,
       "reserved": []
     }
   ],
