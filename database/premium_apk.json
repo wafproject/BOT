@@ -2404,7 +2404,7 @@
           "addedAt": 1782770607178
         }
       ],
-      "sold": 3871,
+      "sold": 3876,
       "stock": 17,
       "reserved": [
         {
@@ -2571,38 +2571,6 @@
           ],
           "qty": 16,
           "createdAt": "2026-06-30T00:16:25.702Z"
-        },
-        {
-          "id": "RSV1782781654953280",
-          "items": [
-            {
-              "email": "9038d751@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782770607178
-            },
-            {
-              "email": "ec7451e6@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782770607178
-            },
-            {
-              "email": "73281a0b@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782770607178
-            },
-            {
-              "email": "rujayo@gxrevsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1782770607178
-            },
-            {
-              "email": "baluba@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782770607178
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-06-30T01:07:34.953Z"
         }
       ],
       "bulk_active": false,
