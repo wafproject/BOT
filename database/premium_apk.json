@@ -2410,7 +2410,7 @@
           "addedAt": 1782806015737
         }
       ],
-      "sold": 3902,
+      "sold": 3903,
       "stock": 20,
       "reserved": [
         {
@@ -2577,18 +2577,6 @@
           ],
           "qty": 16,
           "createdAt": "2026-06-30T00:16:25.702Z"
-        },
-        {
-          "id": "RSV1782806436179731",
-          "items": [
-            {
-              "email": "azaleafirmansyah23@teamtitan.co",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-30T08:00:36.179Z"
         }
       ],
       "bulk_active": false,
