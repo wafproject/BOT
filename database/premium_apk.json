@@ -574,15 +574,10 @@
           "email": "karpeevart@code-gmail.com",
           "password": "masuk1234@",
           "addedAt": 1781330631434
-        },
-        {
-          "email": "uemit1980@remahankerupuk.com",
-          "password": "masuk1234@",
-          "addedAt": 1781330631434
         }
       ],
       "sold": 110,
-      "stock": 4,
+      "stock": 3,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
