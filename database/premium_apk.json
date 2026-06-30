@@ -2409,7 +2409,7 @@
           "addedAt": 1782806015737
         }
       ],
-      "sold": 3901,
+      "sold": 3902,
       "stock": 21,
       "reserved": [
         {
@@ -2576,18 +2576,6 @@
           ],
           "qty": 16,
           "createdAt": "2026-06-30T00:16:25.702Z"
-        },
-        {
-          "id": "RSV1782806193335288",
-          "items": [
-            {
-              "email": "irfanwidodo4@tirasya.pro",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-30T07:56:33.335Z"
         }
       ],
       "bulk_active": false,
