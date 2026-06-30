@@ -579,15 +579,10 @@
           "email": "uemit1980@remahankerupuk.com",
           "password": "masuk1234@",
           "addedAt": 1781330631434
-        },
-        {
-          "email": "takaylacaldwell@cuaks.fun",
-          "password": "masuk1234@",
-          "addedAt": 1781330631434
         }
       ],
       "sold": 110,
-      "stock": 5,
+      "stock": 4,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
