@@ -2359,7 +2359,7 @@
           "addedAt": 1782806015737
         }
       ],
-      "sold": 3911,
+      "sold": 3912,
       "stock": 11,
       "reserved": [
         {
@@ -2526,18 +2526,6 @@
           ],
           "qty": 16,
           "createdAt": "2026-06-30T00:16:25.702Z"
-        },
-        {
-          "id": "RSV1782810013743748",
-          "items": [
-            {
-              "email": "mayasimbolon91@konterkulo.com",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-30T09:00:13.743Z"
         }
       ],
       "bulk_active": false,
