@@ -2303,7 +2303,7 @@
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [],
-      "sold": 3921,
+      "sold": 3923,
       "stock": 0,
       "reserved": [
         {
@@ -2470,23 +2470,6 @@
           ],
           "qty": 16,
           "createdAt": "2026-06-30T00:16:25.702Z"
-        },
-        {
-          "id": "RSV1782821421487659",
-          "items": [
-            {
-              "email": "sda0y9i@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1782806015737
-            },
-            {
-              "email": "keb14lr@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1782806015737
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-30T12:10:21.487Z"
         }
       ],
       "bulk_active": false,
