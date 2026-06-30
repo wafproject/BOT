@@ -2606,11 +2606,6 @@
       "snk": "* Akun Private\n• Full Garansi 10 Hari\n• Jual sharing resiko tanggung sendiri",
       "items": [
         {
-          "email": "cpp4t5s@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1782724563707
-        },
-        {
           "email": "3sjnt8v@kulipremium.web.id",
           "password": "masuk123",
           "addedAt": 1782724563707
@@ -2636,8 +2631,8 @@
           "addedAt": 1782724563707
         }
       ],
-      "sold": 45,
-      "stock": 6,
+      "sold": 46,
+      "stock": 5,
       "reserved": []
     }
   ],
