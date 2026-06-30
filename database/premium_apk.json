@@ -2324,7 +2324,7 @@
           "addedAt": 1782806015737
         }
       ],
-      "sold": 3915,
+      "sold": 3919,
       "stock": 4,
       "reserved": [
         {
@@ -2491,33 +2491,6 @@
           ],
           "qty": 16,
           "createdAt": "2026-06-30T00:16:25.702Z"
-        },
-        {
-          "id": "RSV1782817743176977",
-          "items": [
-            {
-              "email": "halimtampubolon86@termweave.life",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            },
-            {
-              "email": "hartakautama47@hitbtcpool.cloud",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            },
-            {
-              "email": "kenziesuartini32@teamtitan.co",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            },
-            {
-              "email": "rinakusmawati99@f2pools.info",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            }
-          ],
-          "qty": 4,
-          "createdAt": "2026-06-30T11:09:03.176Z"
         }
       ],
       "bulk_active": false,
