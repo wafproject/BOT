@@ -2409,7 +2409,7 @@
           "addedAt": 1782806015737
         }
       ],
-      "sold": 3893,
+      "sold": 3901,
       "stock": 21,
       "reserved": [
         {
@@ -2576,53 +2576,6 @@
           ],
           "qty": 16,
           "createdAt": "2026-06-30T00:16:25.702Z"
-        },
-        {
-          "id": "RSV1782806171363396",
-          "items": [
-            {
-              "email": "kasimwahyudin2@viewmuse.com",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            },
-            {
-              "email": "harimurtigunarto49@sad23321adja.cn",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            },
-            {
-              "email": "asirwadasaputra59@tirasya.pro",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            },
-            {
-              "email": "umayasafitri83@tirasya.pro",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            },
-            {
-              "email": "siskasimbolon7@emailviettel.my",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            },
-            {
-              "email": "darmanzulaika75@sparkpool.info",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            },
-            {
-              "email": "karjajanuar47@mailvip.net",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            },
-            {
-              "email": "argonowulandari82@mailvip.net",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            }
-          ],
-          "qty": 8,
-          "createdAt": "2026-06-30T07:56:11.363Z"
         },
         {
           "id": "RSV1782806193335288",
