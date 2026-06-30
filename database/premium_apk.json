@@ -609,15 +609,10 @@
           "email": "squirmy1673@binancepools.cloud",
           "password": "masuk1234@",
           "addedAt": 1781330631434
-        },
-        {
-          "email": "helipro@airmail.top",
-          "password": "masuk1234@",
-          "addedAt": 1781330631434
         }
       ],
       "sold": 110,
-      "stock": 11,
+      "stock": 10,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
