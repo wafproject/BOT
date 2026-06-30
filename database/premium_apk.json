@@ -2684,7 +2684,7 @@
           "addedAt": 1782770636602
         }
       ],
-      "sold": 113,
+      "sold": 116,
       "stock": 4,
       "bulk_active": false,
       "bulk_prices": [],
@@ -2700,28 +2700,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-30T00:17:27.066Z"
-        },
-        {
-          "id": "RSV1782778691341388",
-          "items": [
-            {
-              "email": "c2zx9vq@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782770636602
-            },
-            {
-              "email": "tt3rcs8@enzipro.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782770636602
-            },
-            {
-              "email": "gaohndi@enzipro.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782770636602
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-06-30T00:18:11.341Z"
         }
       ]
     },
