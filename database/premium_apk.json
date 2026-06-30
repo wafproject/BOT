@@ -594,15 +594,10 @@
           "email": "ksyuhadacko@edankeunwe.site",
           "password": "masuk1234@",
           "addedAt": 1781330631434
-        },
-        {
-          "email": "alexvizcarra@himacreative.id",
-          "password": "masuk1234@",
-          "addedAt": 1781330631434
         }
       ],
       "sold": 110,
-      "stock": 8,
+      "stock": 7,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
