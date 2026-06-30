@@ -2354,7 +2354,7 @@
           "addedAt": 1782806015737
         }
       ],
-      "sold": 3912,
+      "sold": 3913,
       "stock": 10,
       "reserved": [
         {
@@ -2521,18 +2521,6 @@
           ],
           "qty": 16,
           "createdAt": "2026-06-30T00:16:25.702Z"
-        },
-        {
-          "id": "RSV1782811332434843",
-          "items": [
-            {
-              "email": "arismaheswara35@xsnipersquad.space",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-30T09:22:12.434Z"
         }
       ],
       "bulk_active": false,
