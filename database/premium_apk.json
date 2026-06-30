@@ -604,15 +604,10 @@
           "email": "tduwes@jiangwy.one",
           "password": "masuk1234@",
           "addedAt": 1781330631434
-        },
-        {
-          "email": "squirmy1673@binancepools.cloud",
-          "password": "masuk1234@",
-          "addedAt": 1781330631434
         }
       ],
       "sold": 110,
-      "stock": 10,
+      "stock": 9,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
