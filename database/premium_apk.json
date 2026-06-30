@@ -584,15 +584,10 @@
           "email": "takaylacaldwell@cuaks.fun",
           "password": "masuk1234@",
           "addedAt": 1781330631434
-        },
-        {
-          "email": "dbrnjhjdbx2@rexornge.site",
-          "password": "masuk1234@",
-          "addedAt": 1781330631434
         }
       ],
       "sold": 110,
-      "stock": 6,
+      "stock": 5,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
