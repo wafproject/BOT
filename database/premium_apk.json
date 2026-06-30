@@ -2662,25 +2662,18 @@
       "price": 50000,
       "descShort": "10 Seats",
       "snk": "* Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Garansi hanya berlaku kendala backfree\n• Akses email https://tmail.wafproject.my.id",
-      "items": [],
+      "items": [
+        {
+          "email": "rlsqece@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1782770636602
+        }
+      ],
       "sold": 120,
-      "stock": 0,
+      "stock": 1,
       "bulk_active": false,
       "bulk_prices": [],
-      "reserved": [
-        {
-          "id": "RSV1782778647066257",
-          "items": [
-            {
-              "email": "rlsqece@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782770636602
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-30T00:17:27.066Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "AMBUYER",
