@@ -564,15 +564,10 @@
           "email": "kgeist@hayys.app",
           "password": "masuk1234@",
           "addedAt": 1781330631434
-        },
-        {
-          "email": "sniffpanty@managedisabled.online",
-          "password": "masuk1234@",
-          "addedAt": 1781330631434
         }
       ],
       "sold": 110,
-      "stock": 2,
+      "stock": 1,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
