@@ -2394,7 +2394,7 @@
           "addedAt": 1782770607178
         }
       ],
-      "sold": 3876,
+      "sold": 3878,
       "stock": 15,
       "reserved": [
         {
@@ -2561,23 +2561,6 @@
           ],
           "qty": 16,
           "createdAt": "2026-06-30T00:16:25.702Z"
-        },
-        {
-          "id": "RSV1782781999156927",
-          "items": [
-            {
-              "email": "rabofa@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1782770607178
-            },
-            {
-              "email": "runolo@matakaw.web.id",
-              "password": "masuk123",
-              "addedAt": 1782770607178
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-06-30T01:13:19.156Z"
         }
       ],
       "bulk_active": false,
