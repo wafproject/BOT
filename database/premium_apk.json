@@ -2349,7 +2349,7 @@
           "addedAt": 1782806015737
         }
       ],
-      "sold": 3913,
+      "sold": 3914,
       "stock": 9,
       "reserved": [
         {
@@ -2516,18 +2516,6 @@
           ],
           "qty": 16,
           "createdAt": "2026-06-30T00:16:25.702Z"
-        },
-        {
-          "id": "RSV178281251177227",
-          "items": [
-            {
-              "email": "ridwanpalastri73@workhere.store",
-              "password": "masuk123",
-              "addedAt": 1782806015736
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-06-30T09:41:51.772Z"
         }
       ],
       "bulk_active": false,
