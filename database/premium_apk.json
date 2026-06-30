@@ -2662,30 +2662,9 @@
       "price": 50000,
       "descShort": "10 Seats",
       "snk": "* Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Garansi hanya berlaku kendala backfree\n• Akses email https://tmail.wafproject.my.id",
-      "items": [
-        {
-          "email": "g8zpz5o@kulipremium.web.id",
-          "password": "masuk123",
-          "addedAt": 1782770636602
-        },
-        {
-          "email": "59k0822@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782770636602
-        },
-        {
-          "email": "hfgtgq5@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782770636602
-        },
-        {
-          "email": "adm60ny@kulipremium.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782770636602
-        }
-      ],
+      "items": [],
       "sold": 116,
-      "stock": 4,
+      "stock": 0,
       "bulk_active": false,
       "bulk_prices": [],
       "reserved": [
@@ -2700,6 +2679,33 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-30T00:17:27.066Z"
+        },
+        {
+          "id": "RSV1782778827803268",
+          "items": [
+            {
+              "email": "g8zpz5o@kulipremium.web.id",
+              "password": "masuk123",
+              "addedAt": 1782770636602
+            },
+            {
+              "email": "59k0822@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782770636602
+            },
+            {
+              "email": "hfgtgq5@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782770636602
+            },
+            {
+              "email": "adm60ny@kulipremium.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782770636602
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-06-30T00:20:27.803Z"
         }
       ]
     },
