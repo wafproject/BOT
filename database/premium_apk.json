@@ -589,15 +589,10 @@
           "email": "dbrnjhjdbx2@rexornge.site",
           "password": "masuk1234@",
           "addedAt": 1781330631434
-        },
-        {
-          "email": "ksyuhadacko@edankeunwe.site",
-          "password": "masuk1234@",
-          "addedAt": 1781330631434
         }
       ],
       "sold": 110,
-      "stock": 7,
+      "stock": 6,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
