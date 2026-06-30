@@ -559,15 +559,9 @@
       "price": 3000,
       "descShort": " Garansi 20 hari",
       "snk": " Garansi 20 Hari",
-      "items": [
-        {
-          "email": "kgeist@hayys.app",
-          "password": "masuk1234@",
-          "addedAt": 1781330631434
-        }
-      ],
+      "items": [],
       "sold": 110,
-      "stock": 1,
+      "stock": 0,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
