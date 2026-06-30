@@ -2807,11 +2807,6 @@
       "snk": "* Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Garansi hanya berlaku kendala backfree\n• Akses email https://generator.email",
       "items": [
         {
-          "email": "postika9@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1782853333418
-        },
-        {
           "email": "moisya@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1782853333418
@@ -2858,10 +2853,23 @@
         }
       ],
       "sold": 121,
-      "stock": 10,
+      "stock": 9,
       "bulk_active": false,
       "bulk_prices": [],
-      "reserved": []
+      "reserved": [
+        {
+          "id": "RSV178285345847693",
+          "items": [
+            {
+              "email": "postika9@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1782853333418
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-06-30T21:04:18.476Z"
+        }
+      ]
     },
     {
       "code": "AMBUYER",
