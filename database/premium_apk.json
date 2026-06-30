@@ -599,15 +599,10 @@
           "email": "alexvizcarra@himacreative.id",
           "password": "masuk1234@",
           "addedAt": 1781330631434
-        },
-        {
-          "email": "tduwes@jiangwy.one",
-          "password": "masuk1234@",
-          "addedAt": 1781330631434
         }
       ],
       "sold": 110,
-      "stock": 9,
+      "stock": 8,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
