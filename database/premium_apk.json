@@ -2319,16 +2319,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "rabofa@oxygov.biz.id",
-          "password": "masuk123",
-          "addedAt": 1782770607178
-        },
-        {
-          "email": "runolo@matakaw.web.id",
-          "password": "masuk123",
-          "addedAt": 1782770607178
-        },
-        {
           "email": "kahifa@matakaw.web.id",
           "password": "masuk123",
           "addedAt": 1782770607178
@@ -2405,7 +2395,7 @@
         }
       ],
       "sold": 3876,
-      "stock": 17,
+      "stock": 15,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2571,6 +2561,23 @@
           ],
           "qty": 16,
           "createdAt": "2026-06-30T00:16:25.702Z"
+        },
+        {
+          "id": "RSV1782781999156927",
+          "items": [
+            {
+              "email": "rabofa@oxygov.biz.id",
+              "password": "masuk123",
+              "addedAt": 1782770607178
+            },
+            {
+              "email": "runolo@matakaw.web.id",
+              "password": "masuk123",
+              "addedAt": 1782770607178
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-06-30T01:13:19.156Z"
         }
       ],
       "bulk_active": false,
