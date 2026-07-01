@@ -2615,10 +2615,14 @@
         {
           "text": "https://netflix.com/YourAccount?nftoken=Bgi8u+vcAxL+AaCn2pFZiCe5+sL8PDg0u3xTZxyMyDksAsxwCII2aS+4za1SxKEfDZq8+VWglNFZavihqtLykdiwuzVX5K1RCKYl8Xg/RCui12LfMR4etxyDaG1ZoEWjqxty5gmO2y4O4aGA3Uf01FQpNGA8c4UjwuhGphFe1SrgxgoxRx8gdHp+II8COcknZwZGB7UMsCKztmUkxCeCEGHEMdCZa+IKJdxHV+HlF1Q6PrhLnEOVV5ZahPLhQuygiGgNkTNsry9LyVT3l1ko0nbqpZSd1RdVHISlGHH0r51bZOLrEjbGyx4+oNSKjkXGX5Bzly8lXnDsKhflSwdu8k1cBPugoqjZGAYiDgoMQcfE0otYvGSm+XaN",
           "addedAt": 1782911740462
+        },
+        {
+          "text": "https://netflix.com/YourAccount?nftoken=Bgi8u+vcAxL+Aceo4byr85h6cruVcFSjj3aqBz5RvYaNfRNmviHYED0Ugs3trgSkNFIu/bPr5mEEc4uB4kll/MPF64mnwGofD3Ljka+MNX5IQdoIUv5OuigqU810fCcXOIL4wX4B/wZYrhO6+y/sX9zh7/Q2QJ94jSFt6JPR2m8tjyV5s5Hr7bKVDdcen+xpg+z9aiPtsYv0/CYq+pxdynazNeQN7G3C6L9ynZElW1xanta+SD8NKGAbRhqoPaRMnXhWP50wSrLXWW2VzxFpbnv5e0wgfjKbuBwaijOHRqXwLF0Yfp5eDR2QWefx9VGx2kDackINn4oFAQz5EZ5YZwkYKUMMynX0GAYiDgoMoK/LWEQxNE27evCF",
+          "addedAt": 1782911860412
         }
       ],
       "sold": 32,
-      "stock": 6,
+      "stock": 7,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
