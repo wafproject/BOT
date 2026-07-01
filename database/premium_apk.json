@@ -2756,54 +2756,11 @@
       "descShort": "10 Seats",
       "snk": "* Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Garansi hanya berlaku kendala backfree\n• Akses email https://generator.email",
       "items": [],
-      "sold": 124,
+      "sold": 131,
       "stock": 0,
       "bulk_active": false,
       "bulk_prices": [],
-      "reserved": [
-        {
-          "id": "RSV1782865386922625",
-          "items": [
-            {
-              "email": "nori921@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782853333418
-            },
-            {
-              "email": "dvjkward@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782853333418
-            },
-            {
-              "email": "elenau1979@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782853333418
-            },
-            {
-              "email": "varvica@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782853333418
-            },
-            {
-              "email": "cali25458125@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782853333418
-            },
-            {
-              "email": "mhudish@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782853333418
-            },
-            {
-              "email": "sashckakorepanowa@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782853333418
-            }
-          ],
-          "qty": 7,
-          "createdAt": "2026-07-01T00:23:06.922Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "AMBUYER",
