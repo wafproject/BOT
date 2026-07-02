@@ -2923,24 +2923,11 @@
           "addedAt": 1782958337475
         }
       ],
-      "sold": 131,
+      "sold": 132,
       "stock": 6,
       "bulk_active": false,
       "bulk_prices": [],
-      "reserved": [
-        {
-          "id": "RSV1782959203264363",
-          "items": [
-            {
-              "email": "mehmetaksit@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782958337475
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-02T02:26:43.264Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "AMBUYER",
