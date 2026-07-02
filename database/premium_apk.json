@@ -2443,7 +2443,7 @@
           "addedAt": 1783029284996
         }
       ],
-      "sold": 4141,
+      "sold": 4142,
       "stock": 49,
       "reserved": [
         {
@@ -2634,18 +2634,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV1783032015904180",
-          "items": [
-            {
-              "email": "cososa@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-02T22:40:15.904Z"
         }
       ],
       "bulk_active": true,
