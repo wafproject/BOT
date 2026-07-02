@@ -2462,15 +2462,11 @@
         },
         {
           "text": "Baca deskripsi",
-          "addedAt": 1778525042875
-        },
-        {
-          "text": "Baca deskripsi",
           "addedAt": 1778525042887
         }
       ],
       "sold": 4,
-      "stock": 19,
+      "stock": 18,
       "reserved": [
         {
           "id": "RSV1781539597787255",
@@ -2482,6 +2478,17 @@
           ],
           "qty": 1,
           "createdAt": "2026-06-15T16:06:37.787Z"
+        },
+        {
+          "id": "RSV1783002912391406",
+          "items": [
+            {
+              "text": "Baca deskripsi",
+              "addedAt": 1778525042875
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-02T14:35:12.391Z"
         }
       ],
       "bulk_active": false,
