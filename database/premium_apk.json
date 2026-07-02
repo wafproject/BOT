@@ -2212,9 +2212,460 @@
       "price": 6000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n• Akses email https://generator.email",
-      "items": [],
+      "items": [
+        {
+          "email": "munihakim89@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "elonsalahudin82@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "jagapatimarbun73@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "adewijayanti37@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "kuncaranamaga56@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "kusumafarida92@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "zizitarihoran92@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "karnawijayanti75@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "vimanmulyani54@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "taufanpertiwi54@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "putrisitompul76@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "himawanrajata43@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "rainafirmansyah10@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "ilsasitompul80@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "paramitadabukke17@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "raisaanggriawan80@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "bambangsimbolon57@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "aristhamrin98@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "baktiantosuartini14@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "jagaragapranowo50@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "taufikmardhiyah20@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "saktisetiawan13@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "citraanggraini30@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "nyanairawan44@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "gamanisuryatmi67@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "taufannovitasari86@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "waniputra7@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "radenharyanto18@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "usyisiregar85@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "kayunnainggolan30@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "purwawijaya25@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "hamzahutama28@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "estiawanlailasari19@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "ianpratama78@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "cakrabirawarajasa88@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "padmimandala79@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "irnantonuraini33@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "adikahartati4@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "gandaiswahyudi50@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "sarahhassanah85@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "harjayatamba50@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "dianwasita56@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "harihalimah79@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "paulinsiregar3@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "jelitamandasari54@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "opungriyanti51@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "cicihalimah59@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "bancarpangestu14@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "dacinwijayanti57@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "yononovitasari86@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "harjasawastuti29@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "lukitawahyudin21@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "unjaniusamah68@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "rahmifujiati41@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "banawadongoran57@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "elmapurnawati67@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "caketyuniar56@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "dwiyuniar59@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "jagaragawidodo21@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "anamanullang58@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "aswanisaefullah31@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "cahyonosimanjuntak63@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "utamafujiati2@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "wakimanwibisono32@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "adhiarjawahyuni60@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "najibagustina94@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "ellishutagalung28@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "adityaramadan92@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "satyasinaga23@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "hartolaksmiwati3@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "capawaskita54@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "jaimanpuspita61@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "dadapkuswoyo65@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "michellepratama62@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "lukmanlazuardi70@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "dwihastuti31@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "mamanwulandari2@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "noviuwais23@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "kandamandala70@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "harilailasari60@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "muhammadrajata19@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "notaricn@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "zixtar@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "dagaevayuliya@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "lewisandclarke4@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "cthuttdyf@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "combozagr@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "mihailsk77@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "corjac1936@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        },
+        {
+          "email": "tomas55@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1782958313629
+        }
+      ],
       "sold": 4021,
-      "stock": 0,
+      "stock": 90,
       "reserved": [
         {
           "id": "RSV1780362536090628",
