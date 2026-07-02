@@ -2770,7 +2770,7 @@
           "addedAt": 1782958337475
         }
       ],
-      "sold": 133,
+      "sold": 134,
       "stock": 4,
       "bulk_active": true,
       "bulk_prices": [
@@ -2779,20 +2779,7 @@
           "price": 35000
         }
       ],
-      "reserved": [
-        {
-          "id": "RSV1782970572038889",
-          "items": [
-            {
-              "email": "girlritabest@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782958337475
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-02T05:36:12.038Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "AMBUYER",
