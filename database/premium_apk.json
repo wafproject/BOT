@@ -2415,7 +2415,7 @@
           "addedAt": 1782958313629
         }
       ],
-      "sold": 4068,
+      "sold": 4069,
       "stock": 42,
       "reserved": [
         {
@@ -2606,18 +2606,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV1782980086538973",
-          "items": [
-            {
-              "email": "bancarpangestu14@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782958313629
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-02T08:14:46.538Z"
         }
       ],
       "bulk_active": true,
