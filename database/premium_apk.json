@@ -593,10 +593,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "wittylava09@leobad.eu.cc|https://lisensify.com/inbox/wittylava09%40leobad.eu.cc",
-          "addedAt": 1781504428996
-        },
-        {
           "email": "pluckyjack10@leotop.eu.cc|https://lisensify.com/inbox/pluckyjack10%40leotop.eu.cc",
           "addedAt": 1781504428996
         },
@@ -1477,9 +1473,21 @@
           "addedAt": 1782104767227
         }
       ],
-      "stock": 221,
+      "stock": 220,
       "sold": 807,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1782993135556120",
+          "items": [
+            {
+              "email": "wittylava09@leobad.eu.cc|https://lisensify.com/inbox/wittylava09%40leobad.eu.cc",
+              "addedAt": 1781504428996
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-02T11:52:15.556Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
