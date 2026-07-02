@@ -2198,56 +2198,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n• Akses email https://generator.email & https://zovlyx.fun",
       "items": [
         {
-          "email": "pranawaagustina8@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "cakethalimah52@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "umaynamaga40@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "emongdamanik61@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "bakiantoprasasta82@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "jamalmansur20@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "kandanovitasari30@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "jarwadihartati11@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "purwasusanti45@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "radensinaga32@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
           "email": "wisnunugroho56@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1783029284996
@@ -2599,7 +2549,7 @@
         }
       ],
       "sold": 4111,
-      "stock": 80,
+      "stock": 70,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2789,6 +2739,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
+        },
+        {
+          "id": "RSV1783029929298669",
+          "items": [
+            {
+              "email": "pranawaagustina8@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "cakethalimah52@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "umaynamaga40@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "emongdamanik61@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "bakiantoprasasta82@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "jamalmansur20@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "kandanovitasari30@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "jarwadihartati11@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "purwasusanti45@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "radensinaga32@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-07-02T22:05:29.298Z"
         }
       ],
       "bulk_active": true,
