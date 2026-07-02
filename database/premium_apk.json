@@ -2796,7 +2796,7 @@
           "addedAt": 1782958337475
         }
       ],
-      "sold": 132,
+      "sold": 133,
       "stock": 5,
       "bulk_active": true,
       "bulk_prices": [
@@ -2805,20 +2805,7 @@
           "price": 40000
         }
       ],
-      "reserved": [
-        {
-          "id": "RSV1782968575983200",
-          "items": [
-            {
-              "email": "chqlx@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782958337475
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-02T05:02:55.983Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "AMBUYER",
