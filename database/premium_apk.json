@@ -593,46 +593,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "spicyfinn04@leoreal.eu.cc|https://lisensify.com/inbox/spicyfinn04%40leoreal.eu.cc",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "divineram44@sman1ponorogo.web.id|https://lisensify.com/inbox/divineram44%40sman1ponorogo.web.id",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "brazenrae48@hileo.eu.cc|https://lisensify.com/inbox/brazenrae48%40hileo.eu.cc",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "simplescout78@imleo.eu.cc|https://lisensify.com/inbox/simplescout78%40imleo.eu.cc",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "avidali86@seedx.site|https://lisensify.com/inbox/avidali86%40seedx.site",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "miniwolf98@kicau.eu.cc|https://lisensify.com/inbox/miniwolf98%40kicau.eu.cc",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "miniowl23@leobeat.eu.cc|https://lisensify.com/inbox/miniowl23%40leobeat.eu.cc",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "balmyjay12@leotop.eu.cc|https://lisensify.com/inbox/balmyjay12%40leotop.eu.cc",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "openina21@myleo.eu.cc|https://lisensify.com/inbox/openina21%40myleo.eu.cc",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "slymark79@leotop.eu.cc|https://lisensify.com/inbox/slymark79%40leotop.eu.cc",
-          "addedAt": 1781504441912
-        },
-        {
           "email": "quietstag93@kicau.eu.cc|https://lisensify.com/inbox/quietstag93%40kicau.eu.cc",
           "addedAt": 1781504441912
         },
@@ -1433,9 +1393,57 @@
           "addedAt": 1782104767227
         }
       ],
-      "stock": 210,
+      "stock": 200,
       "sold": 818,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV178299784903242",
+          "items": [
+            {
+              "email": "spicyfinn04@leoreal.eu.cc|https://lisensify.com/inbox/spicyfinn04%40leoreal.eu.cc",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "divineram44@sman1ponorogo.web.id|https://lisensify.com/inbox/divineram44%40sman1ponorogo.web.id",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "brazenrae48@hileo.eu.cc|https://lisensify.com/inbox/brazenrae48%40hileo.eu.cc",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "simplescout78@imleo.eu.cc|https://lisensify.com/inbox/simplescout78%40imleo.eu.cc",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "avidali86@seedx.site|https://lisensify.com/inbox/avidali86%40seedx.site",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "miniwolf98@kicau.eu.cc|https://lisensify.com/inbox/miniwolf98%40kicau.eu.cc",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "miniowl23@leobeat.eu.cc|https://lisensify.com/inbox/miniowl23%40leobeat.eu.cc",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "balmyjay12@leotop.eu.cc|https://lisensify.com/inbox/balmyjay12%40leotop.eu.cc",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "openina21@myleo.eu.cc|https://lisensify.com/inbox/openina21%40myleo.eu.cc",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "slymark79@leotop.eu.cc|https://lisensify.com/inbox/slymark79%40leotop.eu.cc",
+              "addedAt": 1781504441912
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-07-02T13:10:49.032Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
