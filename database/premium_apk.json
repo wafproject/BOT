@@ -612,14 +612,8 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": "* Garansi 5 hari dihitung sejak tanggal pembelian \n• Akses email : https://emailqu.com/",
-      "items": [
-        {
-          "email": "zmrwkjo@premaja.online",
-          "password": "Masuk123",
-          "addedAt": 1783029345029
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 44,
       "reserved": [],
       "bulk_active": false,
