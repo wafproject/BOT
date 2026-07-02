@@ -2864,7 +2864,12 @@
       "sold": 132,
       "stock": 6,
       "bulk_active": false,
-      "bulk_prices": [],
+      "bulk_prices": [
+        {
+          "minQty": 5,
+          "price": 40000
+        }
+      ],
       "reserved": []
     },
     {
