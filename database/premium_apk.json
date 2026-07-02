@@ -2448,7 +2448,7 @@
           "addedAt": 1783029284996
         }
       ],
-      "sold": 4121,
+      "sold": 4141,
       "stock": 50,
       "reserved": [
         {
@@ -2639,113 +2639,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV1783030913072985",
-          "items": [
-            {
-              "email": "wisnunugroho56@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "dariatiadriansyah11@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "jamaliahutagalung59@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "jaswadiutama52@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "endrarahmawati56@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "danangwibowo39@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "kemalsaragih34@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "lalitamaryati31@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "nerijo@myrowsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "lonemo@myrowsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "pusiva@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "nediva@brexyv.biz.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "rumeba@gxrevsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "kilunu@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "gozafo@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "famofa@myrowsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "jusubo@premisxv.web.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "pohori@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "zudizu@brexyv.biz.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            },
-            {
-              "email": "wusaze@gxrevsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            }
-          ],
-          "qty": 20,
-          "createdAt": "2026-07-02T22:21:53.072Z"
         }
       ],
       "bulk_active": true,
