@@ -1434,56 +1434,8 @@
         }
       ],
       "stock": 210,
-      "sold": 808,
-      "reserved": [
-        {
-          "id": "RSV1782993537571433",
-          "items": [
-            {
-              "email": "pluckyjack10@leotop.eu.cc|https://lisensify.com/inbox/pluckyjack10%40leotop.eu.cc",
-              "addedAt": 1781504428996
-            },
-            {
-              "email": "plainnora25@kingleo.eu.cc|https://lisensify.com/inbox/plainnora25%40kingleo.eu.cc",
-              "addedAt": 1781504428996
-            },
-            {
-              "email": "cheerylab93@leogo.eu.cc|https://lisensify.com/inbox/cheerylab93%40leogo.eu.cc",
-              "addedAt": 1781504441912
-            },
-            {
-              "email": "jovialcrow98@leogo.eu.cc|https://lisensify.com/inbox/jovialcrow98%40leogo.eu.cc",
-              "addedAt": 1781504441912
-            },
-            {
-              "email": "cosmicpup23@leobeat.eu.cc|https://lisensify.com/inbox/cosmicpup23%40leobeat.eu.cc",
-              "addedAt": 1781504441912
-            },
-            {
-              "email": "tallstag72@theleo.eu.cc|https://lisensify.com/inbox/tallstag72%40theleo.eu.cc",
-              "addedAt": 1781504441912
-            },
-            {
-              "email": "upbeatspark83@theleo.eu.cc|https://lisensify.com/inbox/upbeatspark83%40theleo.eu.cc",
-              "addedAt": 1781504441912
-            },
-            {
-              "email": "brazenabe14@leomine.eu.cc|https://lisensify.com/inbox/brazenabe14%40leomine.eu.cc",
-              "addedAt": 1781504441912
-            },
-            {
-              "email": "cozyhook04@leonew.eu.cc|https://lisensify.com/inbox/cozyhook04%40leonew.eu.cc",
-              "addedAt": 1781504441912
-            },
-            {
-              "email": "pinkjunk45@leoreal.eu.cc|https://lisensify.com/inbox/pinkjunk45%40leoreal.eu.cc",
-              "addedAt": 1781504441912
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-07-02T11:58:57.571Z"
-        }
-      ],
+      "sold": 818,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
