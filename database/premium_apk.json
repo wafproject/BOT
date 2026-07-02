@@ -2146,7 +2146,7 @@
           "addedAt": 1782958313629
         }
       ],
-      "sold": 4103,
+      "sold": 4106,
       "stock": 5,
       "reserved": [
         {
@@ -2337,28 +2337,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV1783000664995843",
-          "items": [
-            {
-              "email": "zixtar@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782958313629
-            },
-            {
-              "email": "dagaevayuliya@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782958313629
-            },
-            {
-              "email": "lewisandclarke4@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1782958313629
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-07-02T13:57:44.995Z"
         }
       ],
       "bulk_active": false,
