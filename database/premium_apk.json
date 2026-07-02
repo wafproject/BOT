@@ -2781,7 +2781,7 @@
       "bulk_prices": [
         {
           "minQty": 5,
-          "price": 40000
+          "price": 35000
         }
       ],
       "reserved": []
