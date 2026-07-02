@@ -612,8 +612,59 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": "* Garansi 5 hari dihitung sejak tanggal pembelian \n• Akses email : https://emailqu.com/",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "zmrwkjo@premaja.online",
+          "password": "Masuk123",
+          "addedAt": 1783029437831
+        },
+        {
+          "email": "fxpnd8l@enzipro.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1783029437831
+        },
+        {
+          "email": "xpykg91@wafprem.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1783029437831
+        },
+        {
+          "email": "tcfv4tm@enzipro.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1783029437831
+        },
+        {
+          "email": "444onb2@wafprem.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1783029437831
+        },
+        {
+          "email": "s7ptj4r@enziproject.my.id",
+          "password": "Masuk123",
+          "addedAt": 1783029437831
+        },
+        {
+          "email": "47t23qd@enziproject.web.id",
+          "password": "Masuk123",
+          "addedAt": 1783029437831
+        },
+        {
+          "email": "3jo31ae@enzipro.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1783029437831
+        },
+        {
+          "email": "x5g3y8x@enzipro.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1783029437831
+        },
+        {
+          "email": "3yygoec@enzipro.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1783029437831
+        }
+      ],
+      "stock": 10,
       "sold": 44,
       "reserved": [],
       "bulk_active": false,
