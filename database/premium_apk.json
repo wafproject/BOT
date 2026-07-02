@@ -632,14 +632,9 @@
           "email": "tcfv4tm@enzipro.biz.id",
           "password": "Masuk123",
           "addedAt": 1783029345029
-        },
-        {
-          "email": "444onb2@wafprem.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1783029345029
         }
       ],
-      "stock": 5,
+      "stock": 4,
       "sold": 44,
       "reserved": [],
       "bulk_active": false,
