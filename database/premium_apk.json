@@ -680,6 +680,10 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
+          "email": "quietstag93@kicau.eu.cc|https://lisensify.com/inbox/quietstag93%40kicau.eu.cc",
+          "addedAt": 1781504441912
+        },
+        {
           "email": "starkhero43@leodaily.eu.cc|https://lisensify.com/inbox/starkhero43%40leodaily.eu.cc",
           "addedAt": 1781504441912
         },
@@ -1476,21 +1480,9 @@
           "addedAt": 1782104767227
         }
       ],
-      "stock": 199,
+      "stock": 200,
       "sold": 828,
-      "reserved": [
-        {
-          "id": "RSV1783041234758829",
-          "items": [
-            {
-              "email": "quietstag93@kicau.eu.cc|https://lisensify.com/inbox/quietstag93%40kicau.eu.cc",
-              "addedAt": 1781504441912
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-03T01:13:54.758Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
