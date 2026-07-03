@@ -2363,20 +2363,6 @@
       "bulk_prices": []
     },
     {
-      "code": "CCRL",
-      "name": "Crunchyroll Crack",
-      "category": "Crunchyroll Crack",
-      "type": "akun",
-      "price": 1000,
-      "bulk_active": false,
-      "bulk_prices": [],
-      "descShort": "Durasi Random",
-      "snk": "Garansi 3 Jam setelah pemebelian",
-      "items": [],
-      "sold": 0,
-      "stock": 0
-    },
-    {
       "code": "WETV15",
       "name": "WeTV VIP 15 Day Private",
       "category": "WETV PREMIUM",
