@@ -2017,7 +2017,7 @@
           "addedAt": 1783073961697
         }
       ],
-      "sold": 4272,
+      "sold": 4273,
       "stock": 8,
       "reserved": [
         {
@@ -2208,18 +2208,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV1783091475639460",
-          "items": [
-            {
-              "email": "kartapertiwi56@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783073961697
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-03T15:11:15.639Z"
         }
       ],
       "bulk_active": true,
