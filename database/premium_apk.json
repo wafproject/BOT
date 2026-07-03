@@ -1277,20 +1277,8 @@
         }
       ],
       "stock": 149,
-      "sold": 878,
-      "reserved": [
-        {
-          "id": "RSV1783051600698761",
-          "items": [
-            {
-              "email": "comfycrew52@leoplay.eu.cc|https://lisensify.com/inbox/comfycrew52%40leoplay.eu.cc",
-              "addedAt": 1781504466143
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-03T04:06:40.698Z"
-        }
-      ],
+      "sold": 879,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
