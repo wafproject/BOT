@@ -2334,15 +2334,11 @@
         },
         {
           "text": "Baca deskripsi",
-          "addedAt": 1778525042875
-        },
-        {
-          "text": "Baca deskripsi",
           "addedAt": 1778525042887
         }
       ],
-      "sold": 5,
-      "stock": 18,
+      "sold": 6,
+      "stock": 17,
       "reserved": [
         {
           "id": "RSV1781539597787255",
