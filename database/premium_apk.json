@@ -2283,7 +2283,7 @@
           "addedAt": 1783029284996
         }
       ],
-      "sold": 4173,
+      "sold": 4174,
       "stock": 17,
       "reserved": [
         {
@@ -2474,18 +2474,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV178303736255058",
-          "items": [
-            {
-              "email": "dukoxa@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1783029284996
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-03T00:09:22.550Z"
         }
       ],
       "bulk_active": true,
