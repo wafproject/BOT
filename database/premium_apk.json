@@ -1979,7 +1979,7 @@
           "addedAt": 1783073961697
         }
       ],
-      "sold": 4278,
+      "sold": 4279,
       "stock": 2,
       "reserved": [
         {
@@ -2170,18 +2170,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV178309424294811",
-          "items": [
-            {
-              "email": "tinahottie9000@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783073961697
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-03T15:57:22.948Z"
         }
       ],
       "bulk_active": true,
