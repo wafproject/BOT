@@ -680,10 +680,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "comfycrew52@leoplay.eu.cc|https://lisensify.com/inbox/comfycrew52%40leoplay.eu.cc",
-          "addedAt": 1781504466143
-        },
-        {
           "email": "silkyed07@leoprem.eu.cc|https://lisensify.com/inbox/silkyed07%40leoprem.eu.cc",
           "addedAt": 1781504466143
         },
@@ -1280,9 +1276,21 @@
           "addedAt": 1782104767227
         }
       ],
-      "stock": 150,
+      "stock": 149,
       "sold": 878,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1783051600698761",
+          "items": [
+            {
+              "email": "comfycrew52@leoplay.eu.cc|https://lisensify.com/inbox/comfycrew52%40leoplay.eu.cc",
+              "addedAt": 1781504466143
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-03T04:06:40.698Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
