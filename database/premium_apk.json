@@ -2400,6 +2400,20 @@
       "items": [],
       "sold": 0,
       "stock": 0
+    },
+    {
+      "code": "NETSEMI",
+      "name": "Netflix Premium Semi Private 1 Bulan",
+      "category": "Netflix Premium",
+      "type": "akun",
+      "price": 30000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "nanti",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
