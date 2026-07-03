@@ -2198,81 +2198,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n• Akses email https://generator.email & https://zovlyx.fun",
       "items": [
         {
-          "email": "voyehu@brexyv.biz.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "kabixi@gwprems.biz.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "zunuva@myrowsx.web.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "kozomi@oxygov.biz.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "ritoda@myrowsx.web.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "vucabo@matakaw.web.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "cowiyo@myrowsx.web.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "luwubu@gwprems.biz.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "zaguqi@xvsexv.web.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "wiskykid@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "mjordan@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "maple14@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "marinermagazine@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "tigercubs@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
-          "email": "mikeann@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783029284996
-        },
-        {
           "email": "valdroi@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1783029284996
@@ -2284,7 +2209,7 @@
         }
       ],
       "sold": 4174,
-      "stock": 17,
+      "stock": 2,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2474,6 +2399,88 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
+        },
+        {
+          "id": "RSV1783037782842670",
+          "items": [
+            {
+              "email": "voyehu@brexyv.biz.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "kabixi@gwprems.biz.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "zunuva@myrowsx.web.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "kozomi@oxygov.biz.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "ritoda@myrowsx.web.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "vucabo@matakaw.web.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "cowiyo@myrowsx.web.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "luwubu@gwprems.biz.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "zaguqi@xvsexv.web.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "wiskykid@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "mjordan@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "maple14@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "marinermagazine@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "tigercubs@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            },
+            {
+              "email": "mikeann@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783029284996
+            }
+          ],
+          "qty": 15,
+          "createdAt": "2026-07-03T00:16:22.843Z"
         }
       ],
       "bulk_active": true,
