@@ -680,46 +680,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "quietstag93@kicau.eu.cc|https://lisensify.com/inbox/quietstag93%40kicau.eu.cc",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "starkhero43@leodaily.eu.cc|https://lisensify.com/inbox/starkhero43%40leodaily.eu.cc",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "safejoy49@modiminima.biz.id|https://lisensify.com/inbox/safejoy49%40modiminima.biz.id",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "opentom38@modiminima.biz.id|https://lisensify.com/inbox/opentom38%40modiminima.biz.id",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "eagerkey65@biwuw.biz.id|https://lisensify.com/inbox/eagerkey65%40biwuw.biz.id",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "roundrobin11@kwocag.my.id|https://lisensify.com/inbox/roundrobin11%40kwocag.my.id",
-          "addedAt": 1781504441912
-        },
-        {
-          "email": "starkpaw65@sapiderman.eu.cc|https://lisensify.com/inbox/starkpaw65%40sapiderman.eu.cc",
-          "addedAt": 1781504454130
-        },
-        {
-          "email": "snappyfile38@leoreal.eu.cc|https://lisensify.com/inbox/snappyfile38%40leoreal.eu.cc",
-          "addedAt": 1781504454130
-        },
-        {
-          "email": "primeken53@blumail.my.id|https://lisensify.com/inbox/primeken53%40blumail.my.id",
-          "addedAt": 1781504454130
-        },
-        {
-          "email": "slowland17@sapiderman.eu.cc|https://lisensify.com/inbox/slowland17%40sapiderman.eu.cc",
-          "addedAt": 1781504454130
-        },
-        {
           "email": "muteday32@myleo.eu.cc|https://lisensify.com/inbox/muteday32%40myleo.eu.cc",
           "addedAt": 1781504454130
         },
@@ -1480,9 +1440,57 @@
           "addedAt": 1782104767227
         }
       ],
-      "stock": 200,
+      "stock": 190,
       "sold": 828,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1783041892590181",
+          "items": [
+            {
+              "email": "quietstag93@kicau.eu.cc|https://lisensify.com/inbox/quietstag93%40kicau.eu.cc",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "starkhero43@leodaily.eu.cc|https://lisensify.com/inbox/starkhero43%40leodaily.eu.cc",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "safejoy49@modiminima.biz.id|https://lisensify.com/inbox/safejoy49%40modiminima.biz.id",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "opentom38@modiminima.biz.id|https://lisensify.com/inbox/opentom38%40modiminima.biz.id",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "eagerkey65@biwuw.biz.id|https://lisensify.com/inbox/eagerkey65%40biwuw.biz.id",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "roundrobin11@kwocag.my.id|https://lisensify.com/inbox/roundrobin11%40kwocag.my.id",
+              "addedAt": 1781504441912
+            },
+            {
+              "email": "starkpaw65@sapiderman.eu.cc|https://lisensify.com/inbox/starkpaw65%40sapiderman.eu.cc",
+              "addedAt": 1781504454130
+            },
+            {
+              "email": "snappyfile38@leoreal.eu.cc|https://lisensify.com/inbox/snappyfile38%40leoreal.eu.cc",
+              "addedAt": 1781504454130
+            },
+            {
+              "email": "primeken53@blumail.my.id|https://lisensify.com/inbox/primeken53%40blumail.my.id",
+              "addedAt": 1781504454130
+            },
+            {
+              "email": "slowland17@sapiderman.eu.cc|https://lisensify.com/inbox/slowland17%40sapiderman.eu.cc",
+              "addedAt": 1781504454130
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-07-03T01:24:52.590Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
