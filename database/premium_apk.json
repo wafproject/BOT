@@ -2386,6 +2386,20 @@
       "sold": 46,
       "stock": 5,
       "reserved": []
+    },
+    {
+      "code": "NET1U",
+      "name": "Netflix Premium 1P1U 1 Bulan",
+      "category": "Netflix Premium",
+      "type": "akun",
+      "price": 25000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "nanti",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
