@@ -1994,18 +1994,13 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n• Akses email https://generator.email & https://zovlyx.fun",
       "items": [
         {
-          "email": "audioteck@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783060768434
-        },
-        {
           "email": "shulikjar@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1783060768434
         }
       ],
-      "sold": 4249,
-      "stock": 2,
+      "sold": 4250,
+      "stock": 1,
       "reserved": [
         {
           "id": "RSV1780362536090628",
