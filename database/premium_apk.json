@@ -676,10 +676,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "soundeva31@leospace.eu.cc|https://lisensify.com/inbox/soundeva31%40leospace.eu.cc",
-          "addedAt": 1781504466143
-        },
-        {
           "email": "alertcult25@seedx.site|https://lisensify.com/inbox/alertcult25%40seedx.site",
           "addedAt": 1781504479929
         },
@@ -1268,8 +1264,8 @@
           "addedAt": 1782104767227
         }
       ],
-      "stock": 148,
-      "sold": 880,
+      "stock": 147,
+      "sold": 881,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
