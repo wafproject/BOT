@@ -2404,22 +2404,9 @@
           "addedAt": 1783119729537
         }
       ],
-      "sold": 422,
+      "sold": 423,
       "stock": 3,
-      "reserved": [
-        {
-          "id": "RSV1783156960248670",
-          "items": [
-            {
-              "email": "enzi29@bengkel.vip",
-              "password": "minta kode ke admin @enziwaf",
-              "addedAt": 1783119710369
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-04T09:22:40.248Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
