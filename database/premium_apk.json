@@ -2332,9 +2332,15 @@
       "bulk_prices": [],
       "descShort": "Full Garansi",
       "snk": "* Akun Private\n• Full Garansi 10 Hari\n• Jual sharing resiko tanggung sendiri",
-      "items": [],
+      "items": [
+        {
+          "email": "czmy6ud81ukt60lf@zovlyx.fun",
+          "password": "masuk123",
+          "addedAt": 1783182584552
+        }
+      ],
       "sold": 47,
-      "stock": 0,
+      "stock": 1,
       "reserved": []
     },
     {
