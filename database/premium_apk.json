@@ -2337,15 +2337,10 @@
           "email": "wfh1w2j@enziproject.web.id",
           "password": "masuk123",
           "addedAt": 1782724563707
-        },
-        {
-          "email": "fwry782@enziproject.my.id",
-          "password": "masuk123",
-          "addedAt": 1782724563707
         }
       ],
       "sold": 47,
-      "stock": 2,
+      "stock": 1,
       "reserved": []
     },
     {
