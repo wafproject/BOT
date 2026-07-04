@@ -2347,15 +2347,10 @@
           "email": "947v0ih@enziproject.web.id",
           "password": "masuk123",
           "addedAt": 1782724563707
-        },
-        {
-          "email": "8pvsk45@enziproject.my.id",
-          "password": "masuk123",
-          "addedAt": 1782724563707
         }
       ],
       "sold": 47,
-      "stock": 4,
+      "stock": 3,
       "reserved": []
     },
     {
