@@ -2407,15 +2407,10 @@
           "email": "enzi29@bengkel.vip",
           "password": "minta kode ke admin @enziwaf",
           "addedAt": 1783119729537
-        },
-        {
-          "email": "enzi29@bengkel.vip",
-          "password": "minta kode ke admin @enziwaf",
-          "addedAt": 1783119729537
         }
       ],
-      "sold": 421,
-      "stock": 4,
+      "sold": 422,
+      "stock": 3,
       "reserved": [
         {
           "id": "RSV1783156960248670",
