@@ -2332,15 +2332,9 @@
       "bulk_prices": [],
       "descShort": "Full Garansi",
       "snk": "* Akun Private\n• Full Garansi 10 Hari\n• Jual sharing resiko tanggung sendiri",
-      "items": [
-        {
-          "email": "wfh1w2j@enziproject.web.id",
-          "password": "masuk123",
-          "addedAt": 1782724563707
-        }
-      ],
+      "items": [],
       "sold": 47,
-      "stock": 1,
+      "stock": 0,
       "reserved": []
     },
     {
