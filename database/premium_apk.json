@@ -2334,11 +2334,6 @@
       "snk": "* Akun Private\n• Full Garansi 10 Hari\n• Jual sharing resiko tanggung sendiri",
       "items": [
         {
-          "email": "3sjnt8v@kulipremium.web.id",
-          "password": "masuk123",
-          "addedAt": 1782724563707
-        },
-        {
           "email": "wfh1w2j@enziproject.web.id",
           "password": "masuk123",
           "addedAt": 1782724563707
@@ -2359,8 +2354,8 @@
           "addedAt": 1782724563707
         }
       ],
-      "sold": 46,
-      "stock": 5,
+      "sold": 47,
+      "stock": 4,
       "reserved": []
     },
     {
