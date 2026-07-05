@@ -2273,13 +2273,9 @@
         {
           "email": "m2nmx@cunan.store|https://generator.email/m2nmx@cunan.store",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "eoghanmac@sugarloafstudios.net|https://generator.email/eoghanmac@sugarloafstudios.net",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 402,
+      "stock": 401,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
