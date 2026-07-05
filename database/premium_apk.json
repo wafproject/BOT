@@ -2005,13 +2005,9 @@
         {
           "email": "rdj086@muralin-aja.com|https://generator.email/rdj086@muralin-aja.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "kinakost@gmailxsn.com|https://generator.email/kinakost@gmailxsn.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 335,
+      "stock": 334,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
