@@ -2233,13 +2233,9 @@
         {
           "email": "dernerfirespace@fboxmail.com|https://generator.email/dernerfirespace@fboxmail.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "katanawarong@acqq.dev|https://generator.email/katanawarong@acqq.dev",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 392,
+      "stock": 391,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
