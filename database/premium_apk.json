@@ -869,13 +869,9 @@
         {
           "email": "lerahhh@sentra-premium.com|https://generator.email/lerahhh@sentra-premium.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "badwis2@cangcud.com|https://generator.email/badwis2@cangcud.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 51,
+      "stock": 50,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
