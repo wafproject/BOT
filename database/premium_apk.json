@@ -1469,13 +1469,9 @@
         {
           "email": "mc2744@highstudios.net|https://generator.email/mc2744@highstudios.net",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "eyalriva111@wintersmail.site|https://generator.email/eyalriva111@wintersmail.site",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 201,
+      "stock": 200,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
