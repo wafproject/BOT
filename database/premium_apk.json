@@ -681,13 +681,9 @@
         {
           "email": "yanapokemon@cloudyourfast.net|https://generator.email/yanapokemon@cloudyourfast.net",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "anisimova000@xsnipersquad.site|https://generator.email/anisimova000@xsnipersquad.site",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 4,
+      "stock": 3,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
