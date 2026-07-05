@@ -2181,13 +2181,9 @@
         {
           "email": "alvinakaravan@softbank.id|https://generator.email/alvinakaravan@softbank.id",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "dikoi@bosakun.com|https://generator.email/dikoi@bosakun.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 379,
+      "stock": 378,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
