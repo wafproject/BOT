@@ -2953,13 +2953,9 @@
         {
           "email": "jsalmon@mnvr.site|https://generator.email/jsalmon@mnvr.site",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "andygb@kenari.online|https://generator.email/andygb@kenari.online",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 572,
+      "stock": 571,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
