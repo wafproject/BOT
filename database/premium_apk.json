@@ -1805,13 +1805,9 @@
         {
           "email": "mustafi4@mailphu.com|https://generator.email/mustafi4@mailphu.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "sbakalec@cuscuscuspen.life|https://generator.email/sbakalec@cuscuscuspen.life",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 285,
+      "stock": 284,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
