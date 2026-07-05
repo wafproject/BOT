@@ -2977,13 +2977,9 @@
         {
           "email": "rolakokn@fboxmail.com|https://generator.email/rolakokn@fboxmail.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "iamtwo@starcheck.in|https://generator.email/iamtwo@starcheck.in",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 578,
+      "stock": 577,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
