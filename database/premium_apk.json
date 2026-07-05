@@ -1477,13 +1477,9 @@
         {
           "email": "hurstjg@emailasia1.com|https://generator.email/hurstjg@emailasia1.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "rosewoodjames@kintil.buzz|https://generator.email/rosewoodjames@kintil.buzz",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 203,
+      "stock": 202,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
