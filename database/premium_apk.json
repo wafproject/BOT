@@ -797,13 +797,9 @@
         {
           "email": "whiterabbitkai@powerdea.me|https://generator.email/whiterabbitkai@powerdea.me",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "sanderge@kawneha.site|https://generator.email/sanderge@kawneha.site",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 33,
+      "stock": 32,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
