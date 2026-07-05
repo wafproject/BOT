@@ -2949,13 +2949,9 @@
         {
           "email": "talm@hilmipremindo.com|https://generator.email/talm@hilmipremindo.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "jsalmon@mnvr.site|https://generator.email/jsalmon@mnvr.site",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 571,
+      "stock": 570,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
