@@ -753,13 +753,9 @@
         {
           "email": "underredskies@jiangwy.one|https://generator.email/underredskies@jiangwy.one",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "sss2009@starcheck.in|https://generator.email/sss2009@starcheck.in",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 22,
+      "stock": 21,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
