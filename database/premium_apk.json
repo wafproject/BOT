@@ -2017,13 +2017,9 @@
         {
           "email": "elhalev@starcheck.in|https://generator.email/elhalev@starcheck.in",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "joannaparvin@tidylifehub.com|https://generator.email/joannaparvin@tidylifehub.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 338,
+      "stock": 337,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
