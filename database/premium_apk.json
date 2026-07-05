@@ -2885,13 +2885,9 @@
         {
           "email": "melvin@fbins001mail.com|https://generator.email/melvin@fbins001mail.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "4187@gdfgergrer.online|https://generator.email/4187@gdfgergrer.online",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 555,
+      "stock": 554,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
