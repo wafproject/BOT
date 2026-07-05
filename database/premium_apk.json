@@ -2157,13 +2157,9 @@
         {
           "email": "teleneve@clousy.site|https://generator.email/teleneve@clousy.site",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "pkill9@gdfgergrer.online|https://generator.email/pkill9@gdfgergrer.online",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 373,
+      "stock": 372,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
