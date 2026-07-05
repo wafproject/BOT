@@ -1293,13 +1293,9 @@
         {
           "email": "sandy54@ferd.live|https://generator.email/sandy54@ferd.live",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "cmcbig10@submitreports.com|https://generator.email/cmcbig10@submitreports.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 157,
+      "stock": 156,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
