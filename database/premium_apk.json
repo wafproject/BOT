@@ -2837,13 +2837,9 @@
         {
           "email": "lincoln12@watsawang.com|https://generator.email/lincoln12@watsawang.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "riker45@powerdea.me|https://generator.email/riker45@powerdea.me",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 543,
+      "stock": 542,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
