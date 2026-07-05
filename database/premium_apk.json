@@ -849,13 +849,9 @@
         {
           "email": "nelsonjh@mailfirefly.com|https://generator.email/nelsonjh@mailfirefly.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "dxjlmalder2002@dailynutria.com|https://generator.email/dxjlmalder2002@dailynutria.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 46,
+      "stock": 45,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
