@@ -1845,13 +1845,9 @@
         {
           "email": "steelerdawg@cangcud.com|https://generator.email/steelerdawg@cangcud.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "nikolaydudko@makoli.sbs|https://generator.email/nikolaydudko@makoli.sbs",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 295,
+      "stock": 294,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
