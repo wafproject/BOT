@@ -1345,13 +1345,9 @@
         {
           "email": "psmales@gerv.app|https://generator.email/psmales@gerv.app",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "mikpavlov@reestore.site|https://generator.email/mikpavlov@reestore.site",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 170,
+      "stock": 169,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
