@@ -1941,13 +1941,9 @@
         {
           "email": "fouhad25@senvas.me|https://generator.email/fouhad25@senvas.me",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "nettakix@sendokai.click|https://generator.email/nettakix@sendokai.click",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 319,
+      "stock": 318,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
