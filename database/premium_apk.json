@@ -1193,13 +1193,9 @@
         {
           "email": "abes@wintersmail.site|https://generator.email/abes@wintersmail.site",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "grim6901@tidylifehub.com|https://generator.email/grim6901@tidylifehub.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 132,
+      "stock": 131,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
