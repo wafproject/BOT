@@ -729,13 +729,9 @@
         {
           "email": "david2602@nanopools.info|https://generator.email/david2602@nanopools.info",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "balmes08@wintersmail.site|https://generator.email/balmes08@wintersmail.site",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 16,
+      "stock": 15,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
