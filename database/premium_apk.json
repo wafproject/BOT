@@ -1437,13 +1437,9 @@
         {
           "email": "phat@makeraura.online|https://generator.email/phat@makeraura.online",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "redmann@mnvr.site|https://generator.email/redmann@mnvr.site",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 193,
+      "stock": 192,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
