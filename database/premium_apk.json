@@ -2189,13 +2189,9 @@
         {
           "email": "forgottennn@emailuae.com|https://generator.email/forgottennn@emailuae.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "rampinchon@arkoo.site|https://generator.email/rampinchon@arkoo.site",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 381,
+      "stock": 380,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
