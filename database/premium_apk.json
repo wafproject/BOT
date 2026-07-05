@@ -1421,13 +1421,9 @@
         {
           "email": "markmiller8@mailphu.com|https://generator.email/markmiller8@mailphu.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "moreninha2mil@theking.id|https://generator.email/moreninha2mil@theking.id",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 189,
+      "stock": 188,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
