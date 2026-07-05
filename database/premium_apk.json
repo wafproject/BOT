@@ -1993,13 +1993,9 @@
         {
           "email": "kgill@arkoo.site|https://generator.email/kgill@arkoo.site",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "sandylbsb@fbins001mail.com|https://generator.email/sandylbsb@fbins001mail.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 332,
+      "stock": 331,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
