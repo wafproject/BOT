@@ -1893,13 +1893,9 @@
         {
           "email": "grogodiil@kintil.buzz|https://generator.email/grogodiil@kintil.buzz",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "cgwjr@kintil.buzz|https://generator.email/cgwjr@kintil.buzz",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 307,
+      "stock": 306,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
