@@ -1189,13 +1189,9 @@
         {
           "email": "embatiewise@acqq.dev|https://generator.email/embatiewise@acqq.dev",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "abes@wintersmail.site|https://generator.email/abes@wintersmail.site",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 131,
+      "stock": 130,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
