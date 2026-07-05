@@ -789,13 +789,9 @@
         {
           "email": "volleyvel@cunan.store|https://generator.email/volleyvel@cunan.store",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "chief00@phuongnhicare.com|https://generator.email/chief00@phuongnhicare.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 31,
+      "stock": 30,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
