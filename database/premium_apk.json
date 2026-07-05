@@ -773,13 +773,9 @@
         {
           "email": "duekhiindera@owo-mailteam.bond|https://generator.email/duekhiindera@owo-mailteam.bond",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "dadstoyuk@sugarloafstudios.net|https://generator.email/dadstoyuk@sugarloafstudios.net",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 27,
+      "stock": 26,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
