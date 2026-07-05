@@ -1417,13 +1417,9 @@
         {
           "email": "gief641@ipusku.com|https://generator.email/gief641@ipusku.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "markmiller8@mailphu.com|https://generator.email/markmiller8@mailphu.com",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 188,
+      "stock": 187,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
