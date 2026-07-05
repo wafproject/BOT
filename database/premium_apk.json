@@ -1849,13 +1849,9 @@
         {
           "email": "nikolaydudko@makoli.sbs|https://generator.email/nikolaydudko@makoli.sbs",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "pip381ha@fbins001mail.com|https://generator.email/pip381ha@fbins001mail.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 296,
+      "stock": 295,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
