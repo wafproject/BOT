@@ -1373,13 +1373,9 @@
         {
           "email": "thumbstick@xsnipersquad.com|https://generator.email/thumbstick@xsnipersquad.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "bossss@muareview.com|https://generator.email/bossss@muareview.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 177,
+      "stock": 176,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
