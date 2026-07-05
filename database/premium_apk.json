@@ -1305,13 +1305,9 @@
         {
           "email": "sjpark2@gmailxsn.com|https://generator.email/sjpark2@gmailxsn.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "chiefcaren@jiangwy.one|https://generator.email/chiefcaren@jiangwy.one",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 160,
+      "stock": 159,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
