@@ -1833,13 +1833,9 @@
         {
           "email": "takenman@ichecker.tech|https://generator.email/takenman@ichecker.tech",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "fvfvfvv@rexornge.site|https://generator.email/fvfvfvv@rexornge.site",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 292,
+      "stock": 291,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
