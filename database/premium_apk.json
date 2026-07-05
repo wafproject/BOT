@@ -2169,13 +2169,9 @@
         {
           "email": "vladliderman@jiangwy.one|https://generator.email/vladliderman@jiangwy.one",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "knehttt@thuongxg.com|https://generator.email/knehttt@thuongxg.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 376,
+      "stock": 375,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
