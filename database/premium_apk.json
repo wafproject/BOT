@@ -1693,13 +1693,9 @@
         {
           "email": "shawn0@xazymarcie.space|https://generator.email/shawn0@xazymarcie.space",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "fuli99@mengundang.live|https://generator.email/fuli99@mengundang.live",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 257,
+      "stock": 256,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
