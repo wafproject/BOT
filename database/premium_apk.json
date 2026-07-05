@@ -1461,13 +1461,9 @@
         {
           "email": "kbdgram@hotrokh.com|https://generator.email/kbdgram@hotrokh.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "hmichelle@kintil.buzz|https://generator.email/hmichelle@kintil.buzz",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 199,
+      "stock": 198,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
