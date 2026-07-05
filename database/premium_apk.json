@@ -1997,13 +1997,9 @@
         {
           "email": "sandylbsb@fbins001mail.com|https://generator.email/sandylbsb@fbins001mail.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "kchong2005@gmail-xsniper.com|https://generator.email/kchong2005@gmail-xsniper.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 333,
+      "stock": 332,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
