@@ -689,13 +689,9 @@
         {
           "email": "andrypo1@shortweb.live|https://generator.email/andrypo1@shortweb.live",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "thorse@tidylifehub.com|https://generator.email/thorse@tidylifehub.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 6,
+      "stock": 5,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
