@@ -1313,13 +1313,9 @@
         {
           "email": "paoloventurelli@cuscuscuspen.life|https://generator.email/paoloventurelli@cuscuscuspen.life",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "herigo@acqq.dev|https://generator.email/herigo@acqq.dev",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 162,
+      "stock": 161,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
