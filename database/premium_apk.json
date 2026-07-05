@@ -2328,9 +2328,35 @@
       "bulk_prices": [],
       "descShort": "Full Garansi",
       "snk": "* Akun Private\n• Full Garansi 10 Hari\n• Jual sharing resiko tanggung sendiri",
-      "items": [],
+      "items": [
+        {
+          "email": "battlefield.martabak@zovlyx.sbs",
+          "password": "masuk123",
+          "addedAt": 1783226419729
+        },
+        {
+          "email": "0r7m43jw1xkgn22z@zovlyx.web.id",
+          "password": "masuk123",
+          "addedAt": 1783226419729
+        },
+        {
+          "email": "guruur7kd@bapaklo.my.id",
+          "password": "masuk123",
+          "addedAt": 1783226419729
+        },
+        {
+          "email": "3vm8nvmr9k4n9eax@cuekin.my.id",
+          "password": "masuk123",
+          "addedAt": 1783226419729
+        },
+        {
+          "email": "golangking7735@zovlyx.web.id",
+          "password": "masuk123",
+          "addedAt": 1783226419729
+        }
+      ],
       "sold": 48,
-      "stock": 0,
+      "stock": 5,
       "reserved": []
     },
     {
