@@ -1585,13 +1585,9 @@
         {
           "email": "jdmx123@moreglass.vn|https://generator.email/jdmx123@moreglass.vn",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "vsobchuk@phuongnhicare.com|https://generator.email/vsobchuk@phuongnhicare.com",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 230,
+      "stock": 229,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
