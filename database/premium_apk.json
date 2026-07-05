@@ -1609,13 +1609,9 @@
         {
           "email": "fot@thuongxg.com|https://generator.email/fot@thuongxg.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "sv200967@hilmipremindo.com|https://generator.email/sv200967@hilmipremindo.com",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 236,
+      "stock": 235,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
