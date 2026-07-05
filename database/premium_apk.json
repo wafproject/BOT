@@ -1733,13 +1733,9 @@
         {
           "email": "ayno88@reestore.site|https://generator.email/ayno88@reestore.site",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "nemen75@lellol.dev|https://generator.email/nemen75@lellol.dev",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 267,
+      "stock": 266,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
