@@ -2829,13 +2829,9 @@
         {
           "email": "gorduck@nanopools.info|https://generator.email/gorduck@nanopools.info",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "roman3ran@hutathuww.org|https://generator.email/roman3ran@hutathuww.org",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 541,
+      "stock": 540,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
