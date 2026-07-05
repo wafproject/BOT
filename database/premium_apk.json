@@ -1113,13 +1113,9 @@
         {
           "email": "scroggle@emailasia1.com|https://generator.email/scroggle@emailasia1.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "margitich@docse.site|https://generator.email/margitich@docse.site",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 112,
+      "stock": 111,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
