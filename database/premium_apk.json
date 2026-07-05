@@ -2893,13 +2893,9 @@
         {
           "email": "birylika@nabomail.com|https://generator.email/birylika@nabomail.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "seipherdj@gudri.com|https://generator.email/seipherdj@gudri.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 557,
+      "stock": 556,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
