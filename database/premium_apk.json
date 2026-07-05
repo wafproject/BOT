@@ -1853,13 +1853,9 @@
         {
           "email": "pip381ha@fbins001mail.com|https://generator.email/pip381ha@fbins001mail.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "kreiter@polysolextcoin.cloud|https://generator.email/kreiter@polysolextcoin.cloud",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 297,
+      "stock": 296,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
