@@ -2045,13 +2045,9 @@
         {
           "email": "carlosiran1@vectorbrasil.app|https://generator.email/carlosiran1@vectorbrasil.app",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "shuvalovairisha@tiendadezapasok.com|https://generator.email/shuvalovairisha@tiendadezapasok.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 345,
+      "stock": 344,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
