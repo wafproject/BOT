@@ -1229,13 +1229,9 @@
         {
           "email": "meramich@starcheck.in|https://generator.email/meramich@starcheck.in",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "maristeladeola@nanopools.info|https://generator.email/maristeladeola@nanopools.info",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 141,
+      "stock": 140,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
