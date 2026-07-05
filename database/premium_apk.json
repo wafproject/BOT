@@ -1605,13 +1605,9 @@
         {
           "email": "mvk351@emailjps.com|https://generator.email/mvk351@emailjps.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "fot@thuongxg.com|https://generator.email/fot@thuongxg.com",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 235,
+      "stock": 234,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
