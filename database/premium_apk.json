@@ -881,13 +881,9 @@
         {
           "email": "renkluaf@reclameaqui.services|https://generator.email/renkluaf@reclameaqui.services",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "jaxvill@mengundang.live|https://generator.email/jaxvill@mengundang.live",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 54,
+      "stock": 53,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
