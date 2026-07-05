@@ -1077,13 +1077,9 @@
         {
           "email": "michull@powerdea.me|https://generator.email/michull@powerdea.me",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "punisher1@docse.site|https://generator.email/punisher1@docse.site",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 103,
+      "stock": 102,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
