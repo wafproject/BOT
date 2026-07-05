@@ -697,13 +697,9 @@
         {
           "email": "ab118616483@vothanhtuan.shop|https://generator.email/ab118616483@vothanhtuan.shop",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "joepupkin@kenari.online|https://generator.email/joepupkin@kenari.online",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 8,
+      "stock": 7,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
