@@ -2573,13 +2573,9 @@
         {
           "email": "nitsievskaya@getmails.top|https://generator.email/nitsievskaya@getmails.top",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "anisimov2011@code-gmail.com|https://generator.email/anisimov2011@code-gmail.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 477,
+      "stock": 476,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
