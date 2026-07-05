@@ -1949,13 +1949,9 @@
         {
           "email": "krani1@gdfgergrer.online|https://generator.email/krani1@gdfgergrer.online",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "goscharedozubov@powerdea.me|https://generator.email/goscharedozubov@powerdea.me",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 321,
+      "stock": 320,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
