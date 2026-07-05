@@ -1093,13 +1093,9 @@
         {
           "email": "korioles@mailphu.com|https://generator.email/korioles@mailphu.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "brilians1@agencysq.store|https://generator.email/brilians1@agencysq.store",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 107,
+      "stock": 106,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
