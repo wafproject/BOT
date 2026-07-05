@@ -1939,21 +1939,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n• Akses email https://generator.email & https://zovlyx.fun",
       "items": [
         {
-          "email": "bajraginsirait65@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783242268514
-        },
-        {
-          "email": "warjinovitasari87@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783242268514
-        },
-        {
-          "email": "gatrarahmawati35@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1783242268514
-        },
-        {
           "email": "cemplunktampubolon65@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1783242268514
@@ -1980,7 +1965,7 @@
         }
       ],
       "sold": 4304,
-      "stock": 8,
+      "stock": 5,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -2187,6 +2172,28 @@
           ],
           "qty": 2,
           "createdAt": "2026-07-05T09:05:43.915Z"
+        },
+        {
+          "id": "RSV1783242357054884",
+          "items": [
+            {
+              "email": "bajraginsirait65@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783242268514
+            },
+            {
+              "email": "warjinovitasari87@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783242268514
+            },
+            {
+              "email": "gatrarahmawati35@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1783242268514
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-07-05T09:05:57.054Z"
         }
       ],
       "bulk_active": false,
