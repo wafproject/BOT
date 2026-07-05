@@ -2453,13 +2453,9 @@
         {
           "email": "manniaugust@runcubesapps.id|https://generator.email/manniaugust@runcubesapps.id",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "sprinter09@gdfgergrer.online|https://generator.email/sprinter09@gdfgergrer.online",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 447,
+      "stock": 446,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
