@@ -2505,13 +2505,9 @@
         {
           "email": "ms2580@rilzz.store|https://generator.email/ms2580@rilzz.store",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "mukdima@sugarloafstudios.net|https://generator.email/mukdima@sugarloafstudios.net",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 460,
+      "stock": 459,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
