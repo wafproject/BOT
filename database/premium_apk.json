@@ -2105,13 +2105,9 @@
         {
           "email": "darkshadowz@cutevi.us|https://generator.email/darkshadowz@cutevi.us",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "toriana@kintil.buzz|https://generator.email/toriana@kintil.buzz",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 360,
+      "stock": 359,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
