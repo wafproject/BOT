@@ -689,13 +689,9 @@
         {
           "email": "ukhan99@cloudyourfast.net|https://generator.email/ukhan99@cloudyourfast.net",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "dannysbabes@watsawang.com|https://generator.email/dannysbabes@watsawang.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 6,
+      "stock": 5,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
