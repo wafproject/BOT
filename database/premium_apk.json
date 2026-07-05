@@ -2873,13 +2873,9 @@
         {
           "email": "bradmarie@pawobby.cfd|https://generator.email/bradmarie@pawobby.cfd",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "zaite@pawobby.cfd|https://generator.email/zaite@pawobby.cfd",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 552,
+      "stock": 551,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
