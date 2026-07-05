@@ -2897,13 +2897,9 @@
         {
           "email": "seipherdj@gudri.com|https://generator.email/seipherdj@gudri.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "baryshevanastya@clousy.site|https://generator.email/baryshevanastya@clousy.site",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 558,
+      "stock": 557,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
