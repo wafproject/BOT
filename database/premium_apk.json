@@ -845,13 +845,9 @@
         {
           "email": "kawon1@agencysq.store|https://generator.email/kawon1@agencysq.store",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "nelsonjh@mailfirefly.com|https://generator.email/nelsonjh@mailfirefly.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 45,
+      "stock": 44,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
