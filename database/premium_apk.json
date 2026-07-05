@@ -817,13 +817,9 @@
         {
           "email": "losey@ichecker.tech|https://generator.email/losey@ichecker.tech",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "marle453@docse.site|https://generator.email/marle453@docse.site",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 38,
+      "stock": 37,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
