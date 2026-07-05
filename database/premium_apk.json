@@ -2445,13 +2445,9 @@
         {
           "email": "genkin@getmails.top|https://generator.email/genkin@getmails.top",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "guruto@ptnstudio.vn|https://generator.email/guruto@ptnstudio.vn",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 445,
+      "stock": 444,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
