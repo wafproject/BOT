@@ -2697,13 +2697,9 @@
         {
           "email": "babbo1@pawobby.cfd|https://generator.email/babbo1@pawobby.cfd",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "myjh@shortweb.live|https://generator.email/myjh@shortweb.live",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 508,
+      "stock": 507,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
