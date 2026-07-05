@@ -1445,13 +1445,9 @@
         {
           "email": "hockirulz@tiendadezapasok.com|https://generator.email/hockirulz@tiendadezapasok.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "olimkrim@makeraura.online|https://generator.email/olimkrim@makeraura.online",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 195,
+      "stock": 194,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
