@@ -813,13 +813,9 @@
         {
           "email": "elucera@sentra-premium.com|https://generator.email/elucera@sentra-premium.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "losey@ichecker.tech|https://generator.email/losey@ichecker.tech",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 37,
+      "stock": 36,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
