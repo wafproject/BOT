@@ -1961,13 +1961,9 @@
         {
           "email": "smfreit@acqq.dev|https://generator.email/smfreit@acqq.dev",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "boichenko53@gmaill.click|https://generator.email/boichenko53@gmaill.click",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 324,
+      "stock": 323,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
