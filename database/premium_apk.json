@@ -2145,13 +2145,9 @@
         {
           "email": "entichan@sugarloafstudios.net|https://generator.email/entichan@sugarloafstudios.net",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "win870@gmaill.click|https://generator.email/win870@gmaill.click",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 370,
+      "stock": 369,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
