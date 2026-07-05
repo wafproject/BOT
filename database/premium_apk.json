@@ -761,13 +761,9 @@
         {
           "email": "terence1968@softbank.id|https://generator.email/terence1968@softbank.id",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "anekajust@sentra-premium.com|https://generator.email/anekajust@sentra-premium.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 24,
+      "stock": 23,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
