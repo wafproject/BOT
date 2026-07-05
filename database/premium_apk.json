@@ -1349,13 +1349,9 @@
         {
           "email": "mikpavlov@reestore.site|https://generator.email/mikpavlov@reestore.site",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "crazy00p@leviacerman.store|https://generator.email/crazy00p@leviacerman.store",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 171,
+      "stock": 170,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
