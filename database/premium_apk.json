@@ -2537,13 +2537,9 @@
         {
           "email": "tam1960@jiangwy.one|https://generator.email/tam1960@jiangwy.one",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "sashaskenev@flews.app|https://generator.email/sashaskenev@flews.app",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 468,
+      "stock": 467,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
