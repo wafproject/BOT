@@ -709,13 +709,9 @@
         {
           "email": "sharkjoeee@mailfirefly.com|https://generator.email/sharkjoeee@mailfirefly.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "rxazrez@sugarloafstudios.net|https://generator.email/rxazrez@sugarloafstudios.net",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 11,
+      "stock": 10,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
