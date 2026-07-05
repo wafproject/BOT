@@ -1665,13 +1665,9 @@
         {
           "email": "trebre11@leviacerman.store|https://generator.email/trebre11@leviacerman.store",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "chaitheclub@boxmail1.com|https://generator.email/chaitheclub@boxmail1.com",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 250,
+      "stock": 249,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
