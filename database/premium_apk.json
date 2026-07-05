@@ -1053,13 +1053,9 @@
         {
           "email": "bono78@fboxmail.com|https://generator.email/bono78@fboxmail.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "finnucane@mailphu.com|https://generator.email/finnucane@mailphu.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 97,
+      "stock": 96,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
