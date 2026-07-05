@@ -2729,13 +2729,9 @@
         {
           "email": "jam251@cttnoot.us|https://generator.email/jam251@cttnoot.us",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "jtaggs@softbank.id|https://generator.email/jtaggs@softbank.id",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 516,
+      "stock": 515,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
