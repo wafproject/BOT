@@ -2569,13 +2569,9 @@
         {
           "email": "p450@aircourriel.com|https://generator.email/p450@aircourriel.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "nitsievskaya@getmails.top|https://generator.email/nitsievskaya@getmails.top",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 476,
+      "stock": 475,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
