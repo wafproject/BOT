@@ -789,13 +789,9 @@
         {
           "email": "gheaney@nabomail.com|https://generator.email/gheaney@nabomail.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "speedptofi@waroengpremium.com|https://generator.email/speedptofi@waroengpremium.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 31,
+      "stock": 30,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
