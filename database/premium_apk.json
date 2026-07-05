@@ -1597,13 +1597,9 @@
         {
           "email": "jcghenriquez@ichecker.tech|https://generator.email/jcghenriquez@ichecker.tech",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "abm@appremiums.pro|https://generator.email/abm@appremiums.pro",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 233,
+      "stock": 232,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
