@@ -1977,13 +1977,9 @@
         {
           "email": "avrapolina@gerv.app|https://generator.email/avrapolina@gerv.app",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "vikaarendarenko@acqq.dev|https://generator.email/vikaarendarenko@acqq.dev",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 328,
+      "stock": 327,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
