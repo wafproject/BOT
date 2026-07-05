@@ -969,13 +969,9 @@
         {
           "email": "bitwizer@shortweb.live|https://generator.email/bitwizer@shortweb.live",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "mobrow@kawneha.site|https://generator.email/mobrow@kawneha.site",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 76,
+      "stock": 75,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
