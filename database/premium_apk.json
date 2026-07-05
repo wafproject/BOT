@@ -1005,13 +1005,9 @@
         {
           "email": "fus83hcg@alightmotion.cloud|https://generator.email/fus83hcg@alightmotion.cloud",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "venkatsrini@banri.xyz|https://generator.email/venkatsrini@banri.xyz",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 85,
+      "stock": 84,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
