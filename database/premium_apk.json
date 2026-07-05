@@ -941,13 +941,9 @@
         {
           "email": "quarried@xxvd.net|https://generator.email/quarried@xxvd.net",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "evgeniyatani@ichecker.tech|https://generator.email/evgeniyatani@ichecker.tech",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 69,
+      "stock": 68,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
