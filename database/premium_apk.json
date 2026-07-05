@@ -1985,13 +1985,9 @@
         {
           "email": "lakesider@ichecker.tech|https://generator.email/lakesider@ichecker.tech",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "oljoy@emailjps.com|https://generator.email/oljoy@emailjps.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 330,
+      "stock": 329,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
