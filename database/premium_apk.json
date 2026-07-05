@@ -2293,13 +2293,9 @@
         {
           "email": "altauk@taischaves.com|https://generator.email/altauk@taischaves.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "nigel245@capcut.space|https://generator.email/nigel245@capcut.space",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 407,
+      "stock": 406,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
