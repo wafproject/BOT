@@ -2337,13 +2337,9 @@
         {
           "email": "z3yzes@fboxmail.com|https://generator.email/z3yzes@fboxmail.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "missignatova@cttnoot.us|https://generator.email/missignatova@cttnoot.us",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 418,
+      "stock": 417,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
