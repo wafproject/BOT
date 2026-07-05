@@ -1989,13 +1989,9 @@
         {
           "email": "oljoy@emailjps.com|https://generator.email/oljoy@emailjps.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "kgill@arkoo.site|https://generator.email/kgill@arkoo.site",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 331,
+      "stock": 330,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
