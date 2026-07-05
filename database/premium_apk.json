@@ -885,13 +885,9 @@
         {
           "email": "jaxvill@mengundang.live|https://generator.email/jaxvill@mengundang.live",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "giacomo70@banri.xyz|https://generator.email/giacomo70@banri.xyz",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 55,
+      "stock": 54,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
