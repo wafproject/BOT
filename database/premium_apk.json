@@ -669,13 +669,8 @@
       "price": 500,
       "descShort": "Email seller",
       "snk": "Akses email ada di samping email di file txt diatas",
-      "items": [
-        {
-          "email": "boriska48@vexaluno.xyz|https://generator.email/boriska48@vexaluno.xyz",
-          "addedAt": 1783262649754
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
