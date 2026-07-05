@@ -2733,13 +2733,9 @@
         {
           "email": "jtaggs@softbank.id|https://generator.email/jtaggs@softbank.id",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "andy8507@hutathuww.org|https://generator.email/andy8507@hutathuww.org",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 517,
+      "stock": 516,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
