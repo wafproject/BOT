@@ -705,13 +705,9 @@
         {
           "email": "searover1@xsnipersquad.com|https://generator.email/searover1@xsnipersquad.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "dzhabbarov@gmailxsn.space|https://generator.email/dzhabbarov@gmailxsn.space",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 10,
+      "stock": 9,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
