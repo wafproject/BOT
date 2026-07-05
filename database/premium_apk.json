@@ -1913,13 +1913,9 @@
         {
           "email": "smalen@dailynove.com|https://generator.email/smalen@dailynove.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "23964572@cangcud.com|https://generator.email/23964572@cangcud.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 312,
+      "stock": 311,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
