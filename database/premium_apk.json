@@ -1393,13 +1393,9 @@
         {
           "email": "phildman@owo-mailteam.bond|https://generator.email/phildman@owo-mailteam.bond",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "pboatman@aircourriel.com|https://generator.email/pboatman@aircourriel.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 182,
+      "stock": 181,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
