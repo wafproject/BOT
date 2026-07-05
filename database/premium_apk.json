@@ -889,13 +889,9 @@
         {
           "email": "giacomo70@banri.xyz|https://generator.email/giacomo70@banri.xyz",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "ededelnyc76@banri.xyz|https://generator.email/ededelnyc76@banri.xyz",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 56,
+      "stock": 55,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
