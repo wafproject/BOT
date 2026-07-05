@@ -1981,13 +1981,9 @@
         {
           "email": "vikaarendarenko@acqq.dev|https://generator.email/vikaarendarenko@acqq.dev",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "lakesider@ichecker.tech|https://generator.email/lakesider@ichecker.tech",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 329,
+      "stock": 328,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
