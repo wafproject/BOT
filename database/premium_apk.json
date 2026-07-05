@@ -809,13 +809,9 @@
         {
           "email": "sharps007@cutevi.us|https://generator.email/sharps007@cutevi.us",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "elucera@sentra-premium.com|https://generator.email/elucera@sentra-premium.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 36,
+      "stock": 35,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
