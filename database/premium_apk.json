@@ -841,13 +841,9 @@
         {
           "email": "denis78n@tidylifehub.com|https://generator.email/denis78n@tidylifehub.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "kawon1@agencysq.store|https://generator.email/kawon1@agencysq.store",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 44,
+      "stock": 43,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
