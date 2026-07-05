@@ -825,13 +825,9 @@
         {
           "email": "anubis730@nanopools.info|https://generator.email/anubis730@nanopools.info",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "vitekpop@emailjps.com|https://generator.email/vitekpop@emailjps.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 40,
+      "stock": 39,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
