@@ -749,13 +749,9 @@
         {
           "email": "sophiakwong@aircourriel.com|https://generator.email/sophiakwong@aircourriel.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "buffon76@reestore.site|https://generator.email/buffon76@reestore.site",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 21,
+      "stock": 20,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
