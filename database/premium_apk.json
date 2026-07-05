@@ -2681,13 +2681,9 @@
         {
           "email": "assassinsartem@kenari.online|https://generator.email/assassinsartem@kenari.online",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "burmik@fboxmail.com|https://generator.email/burmik@fboxmail.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 504,
+      "stock": 503,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
