@@ -2493,13 +2493,9 @@
         {
           "email": "parvinh@powerdea.me|https://generator.email/parvinh@powerdea.me",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "prostun@tidylifehub.com|https://generator.email/prostun@tidylifehub.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 457,
+      "stock": 456,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
