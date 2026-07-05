@@ -1581,13 +1581,9 @@
         {
           "email": "2114das@cuaks.fun|https://generator.email/2114das@cuaks.fun",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "jdmx123@moreglass.vn|https://generator.email/jdmx123@moreglass.vn",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 229,
+      "stock": 228,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
