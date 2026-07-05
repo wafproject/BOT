@@ -1009,13 +1009,9 @@
         {
           "email": "venkatsrini@banri.xyz|https://generator.email/venkatsrini@banri.xyz",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "voltq@agencysq.store|https://generator.email/voltq@agencysq.store",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 86,
+      "stock": 85,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
