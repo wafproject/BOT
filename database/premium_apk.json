@@ -733,13 +733,9 @@
         {
           "email": "dimontkash@sendokai.click|https://generator.email/dimontkash@sendokai.click",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "corpeye@powerdea.me|https://generator.email/corpeye@powerdea.me",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 17,
+      "stock": 16,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
