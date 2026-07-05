@@ -793,13 +793,9 @@
         {
           "email": "speedptofi@waroengpremium.com|https://generator.email/speedptofi@waroengpremium.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "whiterabbitkai@powerdea.me|https://generator.email/whiterabbitkai@powerdea.me",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 32,
+      "stock": 31,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
