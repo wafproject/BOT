@@ -1401,13 +1401,9 @@
         {
           "email": "yht988@traz.xyz|https://generator.email/yht988@traz.xyz",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "infine4ka@bnrlner.shop|https://generator.email/infine4ka@bnrlner.shop",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 184,
+      "stock": 183,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
