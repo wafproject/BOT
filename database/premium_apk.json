@@ -2265,13 +2265,9 @@
         {
           "email": "topbabe1@rilzz.store|https://generator.email/topbabe1@rilzz.store",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "aamando7@sugarloafstudios.net|https://generator.email/aamando7@sugarloafstudios.net",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 400,
+      "stock": 399,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
