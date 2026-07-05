@@ -1289,13 +1289,9 @@
         {
           "email": "mikejarjar1@ferd.live|https://generator.email/mikejarjar1@ferd.live",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "sandy54@ferd.live|https://generator.email/sandy54@ferd.live",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 156,
+      "stock": 155,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
