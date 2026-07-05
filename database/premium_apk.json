@@ -693,13 +693,9 @@
         {
           "email": "thorse@tidylifehub.com|https://generator.email/thorse@tidylifehub.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "ab118616483@vothanhtuan.shop|https://generator.email/ab118616483@vothanhtuan.shop",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 7,
+      "stock": 6,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
