@@ -2921,13 +2921,9 @@
         {
           "email": "bikeman59@kenari.online|https://generator.email/bikeman59@kenari.online",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "hedo013@managedisabled.online|https://generator.email/hedo013@managedisabled.online",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 564,
+      "stock": 563,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
