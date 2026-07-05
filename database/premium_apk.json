@@ -2593,13 +2593,9 @@
         {
           "email": "dubazaev@taischaves.com|https://generator.email/dubazaev@taischaves.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "kfosterhome@hutathuww.org|https://generator.email/kfosterhome@hutathuww.org",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 482,
+      "stock": 481,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
