@@ -1021,13 +1021,9 @@
         {
           "email": "dobs562@nabomail.com|https://generator.email/dobs562@nabomail.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "naitli1986@alightmotion.cloud|https://generator.email/naitli1986@alightmotion.cloud",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 89,
+      "stock": 88,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
