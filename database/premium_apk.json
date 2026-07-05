@@ -681,13 +681,9 @@
         {
           "email": "nocountry96@clousy.site|https://generator.email/nocountry96@clousy.site",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "th3rdtimeround@xsnipersquad.com|https://generator.email/th3rdtimeround@xsnipersquad.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 4,
+      "stock": 3,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
