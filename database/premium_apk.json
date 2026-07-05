@@ -1765,13 +1765,9 @@
         {
           "email": "danmc22@senvas.me|https://generator.email/danmc22@senvas.me",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "pozerzer@tools-capcut.com|https://generator.email/pozerzer@tools-capcut.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 275,
+      "stock": 274,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
