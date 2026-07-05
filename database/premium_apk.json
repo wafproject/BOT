@@ -765,13 +765,9 @@
         {
           "email": "avieira@cuscuscuspen.life|https://generator.email/avieira@cuscuscuspen.life",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "aleatrix@kawneha.site|https://generator.email/aleatrix@kawneha.site",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 25,
+      "stock": 24,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
