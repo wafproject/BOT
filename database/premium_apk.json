@@ -2177,13 +2177,9 @@
         {
           "email": "perchic2007@ichecker.tech|https://generator.email/perchic2007@ichecker.tech",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "alvinakaravan@softbank.id|https://generator.email/alvinakaravan@softbank.id",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 378,
+      "stock": 377,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
