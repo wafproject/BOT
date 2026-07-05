@@ -1117,13 +1117,9 @@
         {
           "email": "margitich@docse.site|https://generator.email/margitich@docse.site",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "bilkoa@docse.site|https://generator.email/bilkoa@docse.site",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 113,
+      "stock": 112,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
