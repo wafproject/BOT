@@ -1589,13 +1589,9 @@
         {
           "email": "vsobchuk@phuongnhicare.com|https://generator.email/vsobchuk@phuongnhicare.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "zaynabagaeva@vectorbrasil.app|https://generator.email/zaynabagaeva@vectorbrasil.app",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 231,
+      "stock": 230,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
