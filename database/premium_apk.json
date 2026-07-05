@@ -721,13 +721,9 @@
         {
           "email": "jaroslavpypin@rexornge.site|https://generator.email/jaroslavpypin@rexornge.site",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "haug1@code-gmail.com|https://generator.email/haug1@code-gmail.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 14,
+      "stock": 13,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
