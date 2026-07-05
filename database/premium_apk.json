@@ -805,13 +805,9 @@
         {
           "email": "nachfins@sentra-premium.com|https://generator.email/nachfins@sentra-premium.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "jkot100@banri.xyz|https://generator.email/jkot100@banri.xyz",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 35,
+      "stock": 34,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
