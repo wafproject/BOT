@@ -1677,13 +1677,9 @@
         {
           "email": "natysiabtast@muralin-aja.com|https://generator.email/natysiabtast@muralin-aja.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "jragun32@managedisabled.online|https://generator.email/jragun32@managedisabled.online",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 253,
+      "stock": 252,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
