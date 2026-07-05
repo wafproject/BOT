@@ -781,13 +781,9 @@
         {
           "email": "dukhnov@cttnoot.us|https://generator.email/dukhnov@cttnoot.us",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "smadniall@ptnstudio.vn|https://generator.email/smadniall@ptnstudio.vn",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 29,
+      "stock": 28,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
