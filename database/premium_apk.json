@@ -2481,13 +2481,9 @@
         {
           "email": "tk5626@xxvd.net|https://generator.email/tk5626@xxvd.net",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "hoanghiep@ptnstudio.vn|https://generator.email/hoanghiep@ptnstudio.vn",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 454,
+      "stock": 453,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
