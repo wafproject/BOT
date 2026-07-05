@@ -1857,13 +1857,9 @@
         {
           "email": "kreiter@polysolextcoin.cloud|https://generator.email/kreiter@polysolextcoin.cloud",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "fortes275@kaptencpl.com|https://generator.email/fortes275@kaptencpl.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 298,
+      "stock": 297,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
