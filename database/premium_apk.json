@@ -1785,13 +1785,9 @@
         {
           "email": "juergenhamel123@binancepools.cloud|https://generator.email/juergenhamel123@binancepools.cloud",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "otfcokeboyz@paratrabajar.xyz|https://generator.email/otfcokeboyz@paratrabajar.xyz",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 280,
+      "stock": 279,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
