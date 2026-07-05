@@ -1133,13 +1133,9 @@
         {
           "email": "degtev255@alightmotion.cloud|https://generator.email/degtev255@alightmotion.cloud",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "aazzab@xsnipersquad.com|https://generator.email/aazzab@xsnipersquad.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 117,
+      "stock": 116,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
