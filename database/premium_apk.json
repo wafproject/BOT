@@ -2013,13 +2013,9 @@
         {
           "email": "deremixsupport@arkoo.site|https://generator.email/deremixsupport@arkoo.site",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "elhalev@starcheck.in|https://generator.email/elhalev@starcheck.in",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 337,
+      "stock": 336,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
