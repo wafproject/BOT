@@ -2881,13 +2881,9 @@
         {
           "email": "inkky100@ptnstudio.vn|https://generator.email/inkky100@ptnstudio.vn",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "melvin@fbins001mail.com|https://generator.email/melvin@fbins001mail.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 554,
+      "stock": 553,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
