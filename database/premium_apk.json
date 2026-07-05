@@ -2437,13 +2437,9 @@
         {
           "email": "evgeniyafetisova@ichecker.tech|https://generator.email/evgeniyafetisova@ichecker.tech",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "karfreitag@ketua.id|https://generator.email/karfreitag@ketua.id",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 443,
+      "stock": 442,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
