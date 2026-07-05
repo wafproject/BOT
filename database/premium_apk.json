@@ -865,13 +865,9 @@
         {
           "email": "g09greend@jiangwy.one|https://generator.email/g09greend@jiangwy.one",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "imnotcool@ichecker.tech|https://generator.email/imnotcool@ichecker.tech",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 50,
+      "stock": 49,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
