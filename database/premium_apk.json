@@ -1161,13 +1161,9 @@
         {
           "email": "cris1234@gudri.com|https://generator.email/cris1234@gudri.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "nadina2694@managedisabled.online|https://generator.email/nadina2694@managedisabled.online",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 124,
+      "stock": 123,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
