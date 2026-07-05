@@ -1713,13 +1713,9 @@
         {
           "email": "0chellonl@softbank.id|https://generator.email/0chellonl@softbank.id",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "loganln@watsawang.com|https://generator.email/loganln@watsawang.com",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 262,
+      "stock": 261,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
