@@ -2512,6 +2512,20 @@
       ],
       "sold": 443,
       "stock": 8
+    },
+    {
+      "code": "NETRANDOM",
+      "name": "Netflix Crack Plan Random",
+      "category": "Netflix Crack",
+      "type": "link",
+      "price": 1500,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "-",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
