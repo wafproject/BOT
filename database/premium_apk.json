@@ -2717,13 +2717,9 @@
         {
           "email": "zari0495@gudri.com|https://generator.email/zari0495@gudri.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "tazotov@gmailxsn.space|https://generator.email/tazotov@gmailxsn.space",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 513,
+      "stock": 512,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
