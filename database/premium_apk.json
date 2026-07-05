@@ -1069,13 +1069,9 @@
         {
           "email": "trulyyours@kaptencpl.com|https://generator.email/trulyyours@kaptencpl.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "gaimersanya@reestore.site|https://generator.email/gaimersanya@reestore.site",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 101,
+      "stock": 100,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
