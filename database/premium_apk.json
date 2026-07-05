@@ -1173,13 +1173,9 @@
         {
           "email": "cpalabonne@tidylifehub.com|https://generator.email/cpalabonne@tidylifehub.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "wwwkoroko@emailasia1.com|https://generator.email/wwwkoroko@emailasia1.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 127,
+      "stock": 126,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
