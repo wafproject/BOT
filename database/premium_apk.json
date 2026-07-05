@@ -1881,13 +1881,9 @@
         {
           "email": "dorry@submitreports.com|https://generator.email/dorry@submitreports.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "olorinr@reestore.site|https://generator.email/olorinr@reestore.site",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 304,
+      "stock": 303,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
