@@ -2685,13 +2685,9 @@
         {
           "email": "burmik@fboxmail.com|https://generator.email/burmik@fboxmail.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "truche@managedisabled.online|https://generator.email/truche@managedisabled.online",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 505,
+      "stock": 504,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
