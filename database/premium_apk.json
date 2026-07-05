@@ -1089,13 +1089,9 @@
         {
           "email": "jrhyde@xsnipersquad.com|https://generator.email/jrhyde@xsnipersquad.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "korioles@mailphu.com|https://generator.email/korioles@mailphu.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 106,
+      "stock": 105,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
