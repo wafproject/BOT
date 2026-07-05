@@ -829,13 +829,9 @@
         {
           "email": "eagerfog63@blumail.my.id|https://lisensify.com/inbox/eagerfog63%40blumail.my.id",
           "addedAt": 1781504494695
-        },
-        {
-          "email": "mutecrane22@raidenshop.biz.id|https://lisensify.com/inbox/mutecrane22%40raidenshop.biz.id",
-          "addedAt": 1781504494695
         }
       ],
-      "stock": 41,
+      "stock": 40,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
