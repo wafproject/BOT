@@ -809,13 +809,9 @@
         {
           "email": "jkot100@banri.xyz|https://generator.email/jkot100@banri.xyz",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "lefout@rexornge.net|https://generator.email/lefout@rexornge.net",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 36,
+      "stock": 35,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
