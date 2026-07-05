@@ -2637,13 +2637,9 @@
         {
           "email": "nazman67@submitreports.com|https://generator.email/nazman67@submitreports.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "6978869@getmails.top|https://generator.email/6978869@getmails.top",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 493,
+      "stock": 492,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
