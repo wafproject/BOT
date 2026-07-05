@@ -873,13 +873,9 @@
         {
           "email": "badwis2@cangcud.com|https://generator.email/badwis2@cangcud.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "antonkrivon@fbins001mail.com|https://generator.email/antonkrivon@fbins001mail.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 52,
+      "stock": 51,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
