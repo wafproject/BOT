@@ -1701,13 +1701,9 @@
         {
           "email": "lutz@starcheck.in|https://generator.email/lutz@starcheck.in",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "te1977@lellol.dev|https://generator.email/te1977@lellol.dev",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 259,
+      "stock": 258,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
