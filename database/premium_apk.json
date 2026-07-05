@@ -2309,13 +2309,9 @@
         {
           "email": "shutovz@emailuae.com|https://generator.email/shutovz@emailuae.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "acidvenus@xsnipersquad.space|https://generator.email/acidvenus@xsnipersquad.space",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 411,
+      "stock": 410,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
