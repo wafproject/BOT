@@ -841,13 +841,9 @@
         {
           "email": "hiraken@alightmotion.cloud|https://generator.email/hiraken@alightmotion.cloud",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "edubsb2008@cuscuscuspen.life|https://generator.email/edubsb2008@cuscuscuspen.life",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 44,
+      "stock": 43,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
