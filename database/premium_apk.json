@@ -2073,13 +2073,9 @@
         {
           "email": "dokrau@dailynove.com|https://generator.email/dokrau@dailynove.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "justyk1@tidylifehub.com|https://generator.email/justyk1@tidylifehub.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 352,
+      "stock": 351,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
