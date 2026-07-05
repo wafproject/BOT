@@ -669,13 +669,8 @@
       "price": 500,
       "descShort": "Email seller",
       "snk": "Akses email ada di samping email di file txt diatas",
-      "items": [
-        {
-          "email": "alertcult25@seedx.site|https://lisensify.com/inbox/alertcult25%40seedx.site",
-          "addedAt": 1781504479929
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
