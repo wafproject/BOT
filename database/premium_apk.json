@@ -733,13 +733,9 @@
         {
           "email": "balmes08@wintersmail.site|https://generator.email/balmes08@wintersmail.site",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "deathratedrums@starcheck.in|https://generator.email/deathratedrums@starcheck.in",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 17,
+      "stock": 16,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
