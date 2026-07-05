@@ -2269,13 +2269,9 @@
         {
           "email": "aamando7@sugarloafstudios.net|https://generator.email/aamando7@sugarloafstudios.net",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "m2nmx@cunan.store|https://generator.email/m2nmx@cunan.store",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 401,
+      "stock": 400,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
