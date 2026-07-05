@@ -3386,7 +3386,7 @@
           "addedAt": 1783279218125
         }
       ],
-      "sold": 4334,
+      "sold": 4344,
       "stock": 25,
       "reserved": [
         {
@@ -3577,63 +3577,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV1783279554213256",
-          "items": [
-            {
-              "email": "dinaprasasta54@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783279218125
-            },
-            {
-              "email": "yogamulyani72@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783279218125
-            },
-            {
-              "email": "mursitawasita84@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783279218125
-            },
-            {
-              "email": "irwanthamrin36@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783279218125
-            },
-            {
-              "email": "lanangmegantara12@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783279218125
-            },
-            {
-              "email": "emildabukke87@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783279218125
-            },
-            {
-              "email": "fitrianiutami34@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783279218125
-            },
-            {
-              "email": "balamantribudiman4@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783279218125
-            },
-            {
-              "email": "estiawansitorus57@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783279218125
-            },
-            {
-              "email": "jumadimangunsong36@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783279218125
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-07-05T19:25:54.213Z"
         },
         {
           "id": "RSV1783279630614121",
