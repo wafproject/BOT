@@ -769,13 +769,9 @@
         {
           "email": "hamjr2000@lellol.dev|https://generator.email/hamjr2000@lellol.dev",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "duekhiindera@owo-mailteam.bond|https://generator.email/duekhiindera@owo-mailteam.bond",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 26,
+      "stock": 25,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
