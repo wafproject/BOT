@@ -2513,13 +2513,9 @@
         {
           "email": "veilrock@code-gmail.com|https://generator.email/veilrock@code-gmail.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "tonysahansra@cutevi.us|https://generator.email/tonysahansra@cutevi.us",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 462,
+      "stock": 461,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
