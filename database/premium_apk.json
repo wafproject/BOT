@@ -1493,13 +1493,9 @@
         {
           "email": "ramosfernande@contactpage.online|https://generator.email/ramosfernande@contactpage.online",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "clairestewart@tmxttvmail.com|https://generator.email/clairestewart@tmxttvmail.com",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 207,
+      "stock": 206,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
