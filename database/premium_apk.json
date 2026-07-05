@@ -2621,13 +2621,9 @@
         {
           "email": "szetochung@ichecker.tech|https://generator.email/szetochung@ichecker.tech",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "ruggles269@jiongguo.top|https://generator.email/ruggles269@jiongguo.top",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 489,
+      "stock": 488,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
