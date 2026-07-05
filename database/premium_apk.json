@@ -1705,13 +1705,9 @@
         {
           "email": "te1977@lellol.dev|https://generator.email/te1977@lellol.dev",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "ch5y1@hutathuww.org|https://generator.email/ch5y1@hutathuww.org",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 260,
+      "stock": 259,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
