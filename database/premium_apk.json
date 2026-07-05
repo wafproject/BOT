@@ -2825,13 +2825,9 @@
         {
           "email": "ive223ran4@tunthuta.com|https://generator.email/ive223ran4@tunthuta.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "gorduck@nanopools.info|https://generator.email/gorduck@nanopools.info",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 540,
+      "stock": 539,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
