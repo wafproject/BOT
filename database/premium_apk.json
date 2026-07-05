@@ -709,13 +709,9 @@
         {
           "email": "dzhabbarov@gmailxsn.space|https://generator.email/dzhabbarov@gmailxsn.space",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "aleksijch@tools-capcut.com|https://generator.email/aleksijch@tools-capcut.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 11,
+      "stock": 10,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
