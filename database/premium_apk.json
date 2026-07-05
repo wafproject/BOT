@@ -1369,13 +1369,9 @@
         {
           "email": "arkan71u@flews.app|https://generator.email/arkan71u@flews.app",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "thumbstick@xsnipersquad.com|https://generator.email/thumbstick@xsnipersquad.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 176,
+      "stock": 175,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
