@@ -2577,13 +2577,9 @@
         {
           "email": "anisimov2011@code-gmail.com|https://generator.email/anisimov2011@code-gmail.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "aemerson@cuscuscuspen.life|https://generator.email/aemerson@cuscuscuspen.life",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 478,
+      "stock": 477,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
