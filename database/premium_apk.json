@@ -785,13 +785,9 @@
         {
           "email": "smadniall@ptnstudio.vn|https://generator.email/smadniall@ptnstudio.vn",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "volleyvel@cunan.store|https://generator.email/volleyvel@cunan.store",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 30,
+      "stock": 29,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
