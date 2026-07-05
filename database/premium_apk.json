@@ -845,13 +845,9 @@
         {
           "email": "extraowl91@blumail.my.id|https://lisensify.com/inbox/extraowl91%40blumail.my.id",
           "addedAt": 1781504494695
-        },
-        {
-          "email": "strictayu60@leobox.eu.cc|https://lisensify.com/inbox/strictayu60%40leobox.eu.cc",
-          "addedAt": 1781504494695
         }
       ],
-      "stock": 45,
+      "stock": 44,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
