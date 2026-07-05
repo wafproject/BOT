@@ -2001,13 +2001,9 @@
         {
           "email": "kchong2005@gmail-xsniper.com|https://generator.email/kchong2005@gmail-xsniper.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "rdj086@muralin-aja.com|https://generator.email/rdj086@muralin-aja.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 334,
+      "stock": 333,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
