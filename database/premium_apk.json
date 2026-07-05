@@ -1121,13 +1121,9 @@
         {
           "email": "bilkoa@docse.site|https://generator.email/bilkoa@docse.site",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "jaydawg2@hilmipremindo.com|https://generator.email/jaydawg2@hilmipremindo.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 114,
+      "stock": 113,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
