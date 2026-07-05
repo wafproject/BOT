@@ -741,13 +741,9 @@
         {
           "email": "sip240@remahankerupuk.com|https://generator.email/sip240@remahankerupuk.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "mikepj21@emailuae.com|https://generator.email/mikepj21@emailuae.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 19,
+      "stock": 18,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
