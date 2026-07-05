@@ -837,13 +837,9 @@
         {
           "email": "stephine@vothanhtuan.shop|https://generator.email/stephine@vothanhtuan.shop",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "denis78n@tidylifehub.com|https://generator.email/denis78n@tidylifehub.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 43,
+      "stock": 42,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
