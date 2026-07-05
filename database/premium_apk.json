@@ -2345,13 +2345,9 @@
         {
           "email": "yoguijr@aircourriel.com|https://generator.email/yoguijr@aircourriel.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "sian123@nabomail.com|https://generator.email/sian123@nabomail.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 420,
+      "stock": 419,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
