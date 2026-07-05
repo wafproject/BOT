@@ -961,13 +961,9 @@
         {
           "email": "villin@docse.site|https://generator.email/villin@docse.site",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "suhoveckaya74@softbank.id|https://generator.email/suhoveckaya74@softbank.id",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 74,
+      "stock": 73,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
