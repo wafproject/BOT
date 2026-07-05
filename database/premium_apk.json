@@ -1285,13 +1285,9 @@
         {
           "email": "mbutler412@phuongnhicare.com|https://generator.email/mbutler412@phuongnhicare.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "mikejarjar1@ferd.live|https://generator.email/mikejarjar1@ferd.live",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 155,
+      "stock": 154,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
