@@ -2365,13 +2365,9 @@
         {
           "email": "igosha6@tidylifehub.com|https://generator.email/igosha6@tidylifehub.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "974173352@gerv.app|https://generator.email/974173352@gerv.app",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 425,
+      "stock": 424,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
