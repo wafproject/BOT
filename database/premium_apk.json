@@ -1905,13 +1905,9 @@
         {
           "email": "benz9c09b@gmailxsn.com|https://generator.email/benz9c09b@gmailxsn.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "senamo@gudri.com|https://generator.email/senamo@gudri.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 310,
+      "stock": 309,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
