@@ -2021,13 +2021,9 @@
         {
           "email": "joannaparvin@tidylifehub.com|https://generator.email/joannaparvin@tidylifehub.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "nndoktor@cuaks.fun|https://generator.email/nndoktor@cuaks.fun",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 339,
+      "stock": 338,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
