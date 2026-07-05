@@ -2441,13 +2441,9 @@
         {
           "email": "karfreitag@ketua.id|https://generator.email/karfreitag@ketua.id",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "genkin@getmails.top|https://generator.email/genkin@getmails.top",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 444,
+      "stock": 443,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
