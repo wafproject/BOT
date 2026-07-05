@@ -2077,13 +2077,9 @@
         {
           "email": "justyk1@tidylifehub.com|https://generator.email/justyk1@tidylifehub.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "zinur84@senvas.me|https://generator.email/zinur84@senvas.me",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 353,
+      "stock": 352,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
