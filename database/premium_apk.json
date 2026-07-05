@@ -2781,13 +2781,9 @@
         {
           "email": "lestat40@sad23321adja.cn|https://generator.email/lestat40@sad23321adja.cn",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "soundtouch@nabomail.com|https://generator.email/soundtouch@nabomail.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 529,
+      "stock": 528,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
