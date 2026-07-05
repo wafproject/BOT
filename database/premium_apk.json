@@ -2305,13 +2305,9 @@
         {
           "email": "funkypatter@makeraura.online|https://generator.email/funkypatter@makeraura.online",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "shutovz@emailuae.com|https://generator.email/shutovz@emailuae.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 410,
+      "stock": 409,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
