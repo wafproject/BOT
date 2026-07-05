@@ -1017,13 +1017,9 @@
         {
           "email": "gwbowman@gerv.app|https://generator.email/gwbowman@gerv.app",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "dobs562@nabomail.com|https://generator.email/dobs562@nabomail.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 88,
+      "stock": 87,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
