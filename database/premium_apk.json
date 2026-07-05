@@ -2376,9 +2376,50 @@
       "bulk_prices": [],
       "descShort": "",
       "snk": "-",
-      "items": [],
+      "items": [
+        {
+          "email": "tedi.yulianti1@mangacin.com",
+          "password": "masuk123",
+          "addedAt": 1783223851441
+        },
+        {
+          "email": "tedi.yulianti1@mangacin.com",
+          "password": "masuk123",
+          "addedAt": 1783223851441
+        },
+        {
+          "email": "tedi.yulianti1@mangacin.com",
+          "password": "masuk123",
+          "addedAt": 1783223851441
+        },
+        {
+          "email": "tedi.yulianti1@mangacin.com",
+          "password": "masuk123",
+          "addedAt": 1783223851441
+        },
+        {
+          "email": "tedi.yulianti1@mangacin.com",
+          "password": "masuk123",
+          "addedAt": 1783223851441
+        },
+        {
+          "email": "tedi.yulianti1@mangacin.com",
+          "password": "masuk123",
+          "addedAt": 1783223851441
+        },
+        {
+          "email": "tedi.yulianti1@mangacin.com",
+          "password": "masuk123",
+          "addedAt": 1783223851441
+        },
+        {
+          "email": "tedi.yulianti1@mangacin.com",
+          "password": "masuk123",
+          "addedAt": 1783223851441
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 8
     },
     {
       "code": "BSTPRIV",
