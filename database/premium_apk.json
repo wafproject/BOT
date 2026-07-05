@@ -2037,13 +2037,9 @@
         {
           "email": "wolikister@gerv.app|https://generator.email/wolikister@gerv.app",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "oguljahanbayramova@jiangwy.one|https://generator.email/oguljahanbayramova@jiangwy.one",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 343,
+      "stock": 342,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
