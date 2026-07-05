@@ -1929,13 +1929,9 @@
         {
           "email": "nik30051998@muareview.com|https://generator.email/nik30051998@muareview.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "mrscioara@cgi.lol|https://generator.email/mrscioara@cgi.lol",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 316,
+      "stock": 315,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
