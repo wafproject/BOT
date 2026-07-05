@@ -965,13 +965,9 @@
         {
           "email": "suhoveckaya74@softbank.id|https://generator.email/suhoveckaya74@softbank.id",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "bitwizer@shortweb.live|https://generator.email/bitwizer@shortweb.live",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 75,
+      "stock": 74,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
