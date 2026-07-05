@@ -2713,13 +2713,9 @@
         {
           "email": "lispms@gerv.app|https://generator.email/lispms@gerv.app",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "zari0495@gudri.com|https://generator.email/zari0495@gudri.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 512,
+      "stock": 511,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
