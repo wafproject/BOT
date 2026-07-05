@@ -877,13 +877,9 @@
         {
           "email": "antonkrivon@fbins001mail.com|https://generator.email/antonkrivon@fbins001mail.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "renkluaf@reclameaqui.services|https://generator.email/renkluaf@reclameaqui.services",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 53,
+      "stock": 52,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
