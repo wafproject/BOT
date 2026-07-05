@@ -1013,13 +1013,9 @@
         {
           "email": "voltq@agencysq.store|https://generator.email/voltq@agencysq.store",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "gwbowman@gerv.app|https://generator.email/gwbowman@gerv.app",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 87,
+      "stock": 86,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
