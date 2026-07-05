@@ -673,13 +673,9 @@
         {
           "email": "boriska48@vexaluno.xyz|https://generator.email/boriska48@vexaluno.xyz",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "korn88@owo-mailteam.bond|https://generator.email/korn88@owo-mailteam.bond",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 2,
+      "stock": 1,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
