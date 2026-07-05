@@ -1297,13 +1297,9 @@
         {
           "email": "cmcbig10@submitreports.com|https://generator.email/cmcbig10@submitreports.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "shannont@agencysq.store|https://generator.email/shannont@agencysq.store",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 158,
+      "stock": 157,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
