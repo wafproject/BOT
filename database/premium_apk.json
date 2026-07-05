@@ -2841,13 +2841,9 @@
         {
           "email": "riker45@powerdea.me|https://generator.email/riker45@powerdea.me",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "indy78@getmails.top|https://generator.email/indy78@getmails.top",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 544,
+      "stock": 543,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
