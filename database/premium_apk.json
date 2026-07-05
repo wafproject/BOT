@@ -1485,13 +1485,9 @@
         {
           "email": "padams24@watsawang.com|https://generator.email/padams24@watsawang.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "1lolosi1@owo-mailteam.cyou|https://generator.email/1lolosi1@owo-mailteam.cyou",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 205,
+      "stock": 204,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
