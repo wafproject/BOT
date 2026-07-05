@@ -1057,13 +1057,9 @@
         {
           "email": "finnucane@mailphu.com|https://generator.email/finnucane@mailphu.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "norimasa@ichecker.tech|https://generator.email/norimasa@ichecker.tech",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 98,
+      "stock": 97,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
