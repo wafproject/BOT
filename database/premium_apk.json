@@ -2689,13 +2689,9 @@
         {
           "email": "truche@managedisabled.online|https://generator.email/truche@managedisabled.online",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "chedworth@kenari.online|https://generator.email/chedworth@kenari.online",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 506,
+      "stock": 505,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
