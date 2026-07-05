@@ -1557,13 +1557,9 @@
         {
           "email": "tigragos@runcubesapps.id|https://generator.email/tigragos@runcubesapps.id",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "ktfred55@ankiclub.space|https://generator.email/ktfred55@ankiclub.space",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 223,
+      "stock": 222,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
