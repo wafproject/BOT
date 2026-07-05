@@ -1377,13 +1377,9 @@
         {
           "email": "bossss@muareview.com|https://generator.email/bossss@muareview.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "rjz@emailjps.com|https://generator.email/rjz@emailjps.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 178,
+      "stock": 177,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
