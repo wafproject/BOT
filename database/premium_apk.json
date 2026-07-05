@@ -1257,13 +1257,9 @@
         {
           "email": "binyamin@cloudyourfast.net|https://generator.email/binyamin@cloudyourfast.net",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "r17@emailjps.com|https://generator.email/r17@emailjps.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 148,
+      "stock": 147,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
