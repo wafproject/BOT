@@ -2349,13 +2349,9 @@
         {
           "email": "sian123@nabomail.com|https://generator.email/sian123@nabomail.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "wwrsc3@submitreports.com|https://generator.email/wwrsc3@submitreports.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 421,
+      "stock": 420,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
