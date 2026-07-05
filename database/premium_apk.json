@@ -2365,6 +2365,20 @@
       "sold": 425,
       "stock": 0,
       "reserved": []
+    },
+    {
+      "code": "BSTSHAR",
+      "name": "Bstation Premium Sharing 7D",
+      "category": "BSTATION PREMIUM",
+      "type": "akun",
+      "price": 500,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "-",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
