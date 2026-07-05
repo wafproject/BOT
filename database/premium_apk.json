@@ -737,13 +737,9 @@
         {
           "email": "corpeye@powerdea.me|https://generator.email/corpeye@powerdea.me",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "sip240@remahankerupuk.com|https://generator.email/sip240@remahankerupuk.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 18,
+      "stock": 17,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
