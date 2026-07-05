@@ -805,13 +805,9 @@
         {
           "email": "kchose@getmails.top|https://generator.email/kchose@getmails.top",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "sharps007@cutevi.us|https://generator.email/sharps007@cutevi.us",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 35,
+      "stock": 34,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
