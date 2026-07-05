@@ -2809,13 +2809,9 @@
         {
           "email": "rockwelp@mnvr.site|https://generator.email/rockwelp@mnvr.site",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "miv070383@mailfirefly.com|https://generator.email/miv070383@mailfirefly.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 536,
+      "stock": 535,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
