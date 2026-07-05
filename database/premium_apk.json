@@ -2413,13 +2413,9 @@
         {
           "email": "mofuer@fboxmail.com|https://generator.email/mofuer@fboxmail.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "nimo3600@gudri.com|https://generator.email/nimo3600@gudri.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 437,
+      "stock": 436,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
