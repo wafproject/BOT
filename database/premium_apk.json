@@ -669,13 +669,8 @@
       "price": 500,
       "descShort": "Email seller",
       "snk": "Akses email ada di samping email di file txt diatas",
-      "items": [
-        {
-          "email": "joheyjohey@submitreports.com|https://generator.email/joheyjohey@submitreports.com",
-          "addedAt": 1783266331925
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
