@@ -725,13 +725,9 @@
         {
           "email": "rozaav@hutathuww.org|https://generator.email/rozaav@hutathuww.org",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "jaymas@duyquyen.site|https://generator.email/jaymas@duyquyen.site",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 15,
+      "stock": 14,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
