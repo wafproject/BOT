@@ -1697,13 +1697,9 @@
         {
           "email": "fuli99@mengundang.live|https://generator.email/fuli99@mengundang.live",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "lutz@starcheck.in|https://generator.email/lutz@starcheck.in",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 258,
+      "stock": 257,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
