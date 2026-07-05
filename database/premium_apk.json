@@ -777,13 +777,9 @@
         {
           "email": "dadstoyuk@sugarloafstudios.net|https://generator.email/dadstoyuk@sugarloafstudios.net",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "dukhnov@cttnoot.us|https://generator.email/dukhnov@cttnoot.us",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 28,
+      "stock": 27,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
