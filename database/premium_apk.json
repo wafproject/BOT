@@ -761,13 +761,9 @@
         {
           "email": "jonathan1677@reclameaqui.services|https://generator.email/jonathan1677@reclameaqui.services",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "avieira@cuscuscuspen.life|https://generator.email/avieira@cuscuscuspen.life",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 24,
+      "stock": 23,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
