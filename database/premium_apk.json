@@ -2093,13 +2093,9 @@
         {
           "email": "imackess@agencysq.store|https://generator.email/imackess@agencysq.store",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "lewman0@muareview.com|https://generator.email/lewman0@muareview.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 357,
+      "stock": 356,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
