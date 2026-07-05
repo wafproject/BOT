@@ -909,13 +909,9 @@
         {
           "email": "arkveit@nabomail.com|https://generator.email/arkveit@nabomail.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "angelikev@cuaks.fun|https://generator.email/angelikev@cuaks.fun",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 61,
+      "stock": 60,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
