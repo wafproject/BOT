@@ -1649,13 +1649,9 @@
         {
           "email": "hrockx@imranbt.store|https://generator.email/hrockx@imranbt.store",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "gman67@jiangwy.one|https://generator.email/gman67@jiangwy.one",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 246,
+      "stock": 245,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
