@@ -1593,13 +1593,9 @@
         {
           "email": "zaynabagaeva@vectorbrasil.app|https://generator.email/zaynabagaeva@vectorbrasil.app",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "jcghenriquez@ichecker.tech|https://generator.email/jcghenriquez@ichecker.tech",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 232,
+      "stock": 231,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
