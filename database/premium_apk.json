@@ -753,13 +753,9 @@
         {
           "email": "buffon76@reestore.site|https://generator.email/buffon76@reestore.site",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "cadcam@mailfirefly.com|https://generator.email/cadcam@mailfirefly.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 22,
+      "stock": 21,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
