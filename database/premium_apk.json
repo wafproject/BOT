@@ -729,13 +729,9 @@
         {
           "email": "jaymas@duyquyen.site|https://generator.email/jaymas@duyquyen.site",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "dimontkash@sendokai.click|https://generator.email/dimontkash@sendokai.click",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 16,
+      "stock": 15,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
