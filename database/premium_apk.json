@@ -833,13 +833,9 @@
         {
           "email": "autoleet@emailuae.com|https://generator.email/autoleet@emailuae.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "stephine@vothanhtuan.shop|https://generator.email/stephine@vothanhtuan.shop",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 42,
+      "stock": 41,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
