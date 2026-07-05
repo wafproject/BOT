@@ -1065,13 +1065,9 @@
         {
           "email": "ilyutindobifuq@owo-mailteam.bond|https://generator.email/ilyutindobifuq@owo-mailteam.bond",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "trulyyours@kaptencpl.com|https://generator.email/trulyyours@kaptencpl.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 100,
+      "stock": 99,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
