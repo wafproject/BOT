@@ -2725,13 +2725,9 @@
         {
           "email": "pktaylor@jiangwy.one|https://generator.email/pktaylor@jiangwy.one",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "jam251@cttnoot.us|https://generator.email/jam251@cttnoot.us",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 515,
+      "stock": 514,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
