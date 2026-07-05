@@ -1909,13 +1909,9 @@
         {
           "email": "senamo@gudri.com|https://generator.email/senamo@gudri.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "smalen@dailynove.com|https://generator.email/smalen@dailynove.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 311,
+      "stock": 310,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
