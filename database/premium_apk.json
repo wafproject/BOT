@@ -713,13 +713,9 @@
         {
           "email": "rxazrez@sugarloafstudios.net|https://generator.email/rxazrez@sugarloafstudios.net",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "sanycherep@buyreview.us|https://generator.email/sanycherep@buyreview.us",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 12,
+      "stock": 11,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
