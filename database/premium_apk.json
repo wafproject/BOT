@@ -1781,13 +1781,9 @@
         {
           "email": "9d28r9@vectorbrasil.app|https://generator.email/9d28r9@vectorbrasil.app",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "juergenhamel123@binancepools.cloud|https://generator.email/juergenhamel123@binancepools.cloud",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 279,
+      "stock": 278,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
