@@ -813,13 +813,9 @@
         {
           "email": "lefout@rexornge.net|https://generator.email/lefout@rexornge.net",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "spudram11@herilev.top|https://generator.email/spudram11@herilev.top",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 37,
+      "stock": 36,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
