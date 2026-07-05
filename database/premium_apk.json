@@ -2117,13 +2117,9 @@
         {
           "email": "kalidonn@muralin-aja.com|https://generator.email/kalidonn@muralin-aja.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "arhi251dim@thuongxg.com|https://generator.email/arhi251dim@thuongxg.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 363,
+      "stock": 362,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
