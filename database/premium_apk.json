@@ -1685,13 +1685,9 @@
         {
           "email": "liviajunkur@cuaks.fun|https://generator.email/liviajunkur@cuaks.fun",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "olyaleluk87@ptnstudio.vn|https://generator.email/olyaleluk87@ptnstudio.vn",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 255,
+      "stock": 254,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
