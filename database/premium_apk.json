@@ -1717,13 +1717,9 @@
         {
           "email": "loganln@watsawang.com|https://generator.email/loganln@watsawang.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "bpfeffer1963@ichecker.tech|https://generator.email/bpfeffer1963@ichecker.tech",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 263,
+      "stock": 262,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
