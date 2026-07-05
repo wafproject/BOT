@@ -2541,13 +2541,9 @@
         {
           "email": "sashaskenev@flews.app|https://generator.email/sashaskenev@flews.app",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "firdavskhon@cipcup.site|https://generator.email/firdavskhon@cipcup.site",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 469,
+      "stock": 468,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
