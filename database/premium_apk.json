@@ -2237,13 +2237,9 @@
         {
           "email": "katanawarong@acqq.dev|https://generator.email/katanawarong@acqq.dev",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "raptorfan@sugarloafstudios.net|https://generator.email/raptorfan@sugarloafstudios.net",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 393,
+      "stock": 392,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
