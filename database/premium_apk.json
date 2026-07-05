@@ -1301,13 +1301,9 @@
         {
           "email": "shannont@agencysq.store|https://generator.email/shannont@agencysq.store",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "sjpark2@gmailxsn.com|https://generator.email/sjpark2@gmailxsn.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 159,
+      "stock": 158,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
