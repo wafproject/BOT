@@ -2153,13 +2153,9 @@
         {
           "email": "asiynka@arkoo.site|https://generator.email/asiynka@arkoo.site",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "teleneve@clousy.site|https://generator.email/teleneve@clousy.site",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 372,
+      "stock": 371,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
