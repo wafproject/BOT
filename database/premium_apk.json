@@ -945,13 +945,9 @@
         {
           "email": "evgeniyatani@ichecker.tech|https://generator.email/evgeniyatani@ichecker.tech",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "rxc6@jiongguo.top|https://generator.email/rxc6@jiongguo.top",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 70,
+      "stock": 69,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
