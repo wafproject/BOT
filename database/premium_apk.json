@@ -2125,13 +2125,9 @@
         {
           "email": "mazurinnikita@docse.site|https://generator.email/mazurinnikita@docse.site",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "tbschne@gmailxsn.space|https://generator.email/tbschne@gmailxsn.space",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 365,
+      "stock": 364,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
