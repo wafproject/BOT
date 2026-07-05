@@ -1081,13 +1081,9 @@
         {
           "email": "punisher1@docse.site|https://generator.email/punisher1@docse.site",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "luizfelper@reestore.site|https://generator.email/luizfelper@reestore.site",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 104,
+      "stock": 103,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
