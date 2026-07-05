@@ -1457,13 +1457,9 @@
         {
           "email": "mariaki@clousy.site|https://generator.email/mariaki@clousy.site",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "kbdgram@hotrokh.com|https://generator.email/kbdgram@hotrokh.com",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 198,
+      "stock": 197,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
