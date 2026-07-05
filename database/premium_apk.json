@@ -2333,13 +2333,9 @@
         {
           "email": "elielson@getmails.top|https://generator.email/elielson@getmails.top",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "z3yzes@fboxmail.com|https://generator.email/z3yzes@fboxmail.com",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 417,
+      "stock": 416,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
