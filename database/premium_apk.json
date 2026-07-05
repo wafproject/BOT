@@ -1689,13 +1689,9 @@
         {
           "email": "olyaleluk87@ptnstudio.vn|https://generator.email/olyaleluk87@ptnstudio.vn",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "shawn0@xazymarcie.space|https://generator.email/shawn0@xazymarcie.space",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 256,
+      "stock": 255,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
