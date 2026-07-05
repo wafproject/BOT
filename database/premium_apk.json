@@ -829,13 +829,9 @@
         {
           "email": "vitekpop@emailjps.com|https://generator.email/vitekpop@emailjps.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "aleksandrisako@managedisabled.online|https://generator.email/aleksandrisako@managedisabled.online",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 41,
+      "stock": 40,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
