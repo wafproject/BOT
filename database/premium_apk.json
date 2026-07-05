@@ -1213,13 +1213,9 @@
         {
           "email": "rrahim@phuongnhicare.com|https://generator.email/rrahim@phuongnhicare.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "raschav@cttnoot.us|https://generator.email/raschav@cttnoot.us",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 137,
+      "stock": 136,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
