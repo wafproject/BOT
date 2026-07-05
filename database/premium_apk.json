@@ -1381,13 +1381,9 @@
         {
           "email": "rjz@emailjps.com|https://generator.email/rjz@emailjps.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "hora89@phuongnhicare.com|https://generator.email/hora89@phuongnhicare.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 179,
+      "stock": 178,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
