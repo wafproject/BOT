@@ -2379,6 +2379,20 @@
       "items": [],
       "sold": 0,
       "stock": 0
+    },
+    {
+      "code": "BSTPRIV",
+      "name": "Bstation Premium Private 7D",
+      "category": "BSTATION PREMIUM",
+      "type": "akun",
+      "price": 4000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "-",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
