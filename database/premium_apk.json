@@ -1481,13 +1481,9 @@
         {
           "email": "rosewoodjames@kintil.buzz|https://generator.email/rosewoodjames@kintil.buzz",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "padams24@watsawang.com|https://generator.email/padams24@watsawang.com",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 204,
+      "stock": 203,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
