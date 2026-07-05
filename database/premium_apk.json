@@ -1429,13 +1429,9 @@
         {
           "email": "markden@tmxttvmail.com|https://generator.email/markden@tmxttvmail.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "mcsveta48@emailjps.com|https://generator.email/mcsveta48@emailjps.com",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 191,
+      "stock": 190,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
