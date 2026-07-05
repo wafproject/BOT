@@ -2141,13 +2141,9 @@
         {
           "email": "isenike@boxmail1.com|https://generator.email/isenike@boxmail1.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "entichan@sugarloafstudios.net|https://generator.email/entichan@sugarloafstudios.net",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 369,
+      "stock": 368,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
