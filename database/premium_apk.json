@@ -757,13 +757,9 @@
         {
           "email": "cadcam@mailfirefly.com|https://generator.email/cadcam@mailfirefly.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "jonathan1677@reclameaqui.services|https://generator.email/jonathan1677@reclameaqui.services",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 23,
+      "stock": 22,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
