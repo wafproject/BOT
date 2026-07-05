@@ -673,13 +673,9 @@
         {
           "email": "joheyjohey@submitreports.com|https://generator.email/joheyjohey@submitreports.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "mkarayianni@cangcud.com|https://generator.email/mkarayianni@cangcud.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 2,
+      "stock": 1,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
