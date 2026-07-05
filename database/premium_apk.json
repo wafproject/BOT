@@ -2845,13 +2845,9 @@
         {
           "email": "indy78@getmails.top|https://generator.email/indy78@getmails.top",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "mrlondon2u@flews.app|https://generator.email/mrlondon2u@flews.app",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 545,
+      "stock": 544,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
