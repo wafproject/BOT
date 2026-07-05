@@ -1169,13 +1169,9 @@
         {
           "email": "albertofrocio@getmails.top|https://generator.email/albertofrocio@getmails.top",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "cpalabonne@tidylifehub.com|https://generator.email/cpalabonne@tidylifehub.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 126,
+      "stock": 125,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
