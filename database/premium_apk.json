@@ -2165,13 +2165,9 @@
         {
           "email": "ottodin@reclameaqui.services|https://generator.email/ottodin@reclameaqui.services",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "vladliderman@jiangwy.one|https://generator.email/vladliderman@jiangwy.one",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 375,
+      "stock": 374,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
