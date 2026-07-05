@@ -821,13 +821,9 @@
         {
           "email": "antonovgeorgi@agencysq.store|https://generator.email/antonovgeorgi@agencysq.store",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "ujasa@gmailxsn.com|https://generator.email/ujasa@gmailxsn.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 39,
+      "stock": 38,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
