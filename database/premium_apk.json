@@ -1309,13 +1309,9 @@
         {
           "email": "chiefcaren@jiangwy.one|https://generator.email/chiefcaren@jiangwy.one",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "paoloventurelli@cuscuscuspen.life|https://generator.email/paoloventurelli@cuscuscuspen.life",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 161,
+      "stock": 160,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
