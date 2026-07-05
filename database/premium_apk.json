@@ -2645,13 +2645,9 @@
         {
           "email": "jahra@ferd.live|https://generator.email/jahra@ferd.live",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "kotovablag@reestore.site|https://generator.email/kotovablag@reestore.site",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 495,
+      "stock": 494,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
