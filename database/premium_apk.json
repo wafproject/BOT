@@ -701,13 +701,9 @@
         {
           "email": "joepupkin@kenari.online|https://generator.email/joepupkin@kenari.online",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "qarabsyed@gmailxsn.space|https://generator.email/qarabsyed@gmailxsn.space",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 9,
+      "stock": 8,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
