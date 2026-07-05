@@ -2209,13 +2209,9 @@
         {
           "email": "oakman56@powerdea.me|https://generator.email/oakman56@powerdea.me",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "stanislav170688@acqq.dev|https://generator.email/stanislav170688@acqq.dev",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 386,
+      "stock": 385,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
