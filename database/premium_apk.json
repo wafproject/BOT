@@ -801,13 +801,9 @@
         {
           "email": "elenamedve@taischaves.com|https://generator.email/elenamedve@taischaves.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "kchose@getmails.top|https://generator.email/kchose@getmails.top",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 34,
+      "stock": 33,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
