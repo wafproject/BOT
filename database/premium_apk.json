@@ -1317,13 +1317,9 @@
         {
           "email": "herigo@acqq.dev|https://generator.email/herigo@acqq.dev",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "rpgamer5000@kaptencpl.com|https://generator.email/rpgamer5000@kaptencpl.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 163,
+      "stock": 162,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
