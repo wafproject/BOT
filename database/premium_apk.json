@@ -1801,13 +1801,9 @@
         {
           "email": "artic16@gudri.com|https://generator.email/artic16@gudri.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "mustafi4@mailphu.com|https://generator.email/mustafi4@mailphu.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 284,
+      "stock": 283,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
