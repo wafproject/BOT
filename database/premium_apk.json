@@ -1937,13 +1937,9 @@
         {
           "email": "danielclarke82@gudri.com|https://generator.email/danielclarke82@gudri.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "fouhad25@senvas.me|https://generator.email/fouhad25@senvas.me",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 318,
+      "stock": 317,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
