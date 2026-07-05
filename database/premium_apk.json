@@ -1681,13 +1681,9 @@
         {
           "email": "jragun32@managedisabled.online|https://generator.email/jragun32@managedisabled.online",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "liviajunkur@cuaks.fun|https://generator.email/liviajunkur@cuaks.fun",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 254,
+      "stock": 253,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
