@@ -929,13 +929,9 @@
         {
           "email": "vladimir19953@code-gmail.com|https://generator.email/vladimir19953@code-gmail.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "ivanbauman20@pipmmotube.store|https://generator.email/ivanbauman20@pipmmotube.store",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 66,
+      "stock": 65,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
