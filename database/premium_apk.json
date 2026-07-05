@@ -1489,13 +1489,9 @@
         {
           "email": "1lolosi1@owo-mailteam.cyou|https://generator.email/1lolosi1@owo-mailteam.cyou",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "ramosfernande@contactpage.online|https://generator.email/ramosfernande@contactpage.online",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 206,
+      "stock": 205,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
