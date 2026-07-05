@@ -1261,13 +1261,9 @@
         {
           "email": "r17@emailjps.com|https://generator.email/r17@emailjps.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "sanata14@makeraura.online|https://generator.email/sanata14@makeraura.online",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 149,
+      "stock": 148,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
