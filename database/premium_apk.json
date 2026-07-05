@@ -1925,13 +1925,9 @@
         {
           "email": "fordpr@leviacerman.store|https://generator.email/fordpr@leviacerman.store",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "nik30051998@muareview.com|https://generator.email/nik30051998@muareview.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 315,
+      "stock": 314,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
