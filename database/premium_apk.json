@@ -1933,13 +1933,9 @@
         {
           "email": "mrscioara@cgi.lol|https://generator.email/mrscioara@cgi.lol",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "danielclarke82@gudri.com|https://generator.email/danielclarke82@gudri.com",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 317,
+      "stock": 316,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
