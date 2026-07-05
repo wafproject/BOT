@@ -781,13 +781,9 @@
         {
           "email": "johnyjq@paratrabajar.xyz|https://generator.email/johnyjq@paratrabajar.xyz",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "mgk64net@waroengpremium.com|https://generator.email/mgk64net@waroengpremium.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 29,
+      "stock": 28,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
