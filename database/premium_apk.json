@@ -1505,13 +1505,9 @@
         {
           "email": "buleikoby@nguyentinhblog.com|https://generator.email/buleikoby@nguyentinhblog.com",
           "addedAt": 1783263321721
-        },
-        {
-          "email": "sofiyaostanina@imranbt.store|https://generator.email/sofiyaostanina@imranbt.store",
-          "addedAt": 1783263321721
         }
       ],
-      "stock": 210,
+      "stock": 209,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
