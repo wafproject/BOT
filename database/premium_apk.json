@@ -2969,13 +2969,9 @@
         {
           "email": "shark8@emailjps.com|https://generator.email/shark8@emailjps.com",
           "addedAt": 1783264557875
-        },
-        {
-          "email": "alexa777z@yellofdf2.click|https://generator.email/alexa777z@yellofdf2.click",
-          "addedAt": 1783264557875
         }
       ],
-      "stock": 576,
+      "stock": 575,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
