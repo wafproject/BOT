@@ -1829,13 +1829,9 @@
         {
           "email": "dinislam007@passeone.com|https://generator.email/dinislam007@passeone.com",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "takenman@ichecker.tech|https://generator.email/takenman@ichecker.tech",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 291,
+      "stock": 290,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
