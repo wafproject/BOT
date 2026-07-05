@@ -677,13 +677,9 @@
         {
           "email": "korn88@owo-mailteam.bond|https://generator.email/korn88@owo-mailteam.bond",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "yanapokemon@cloudyourfast.net|https://generator.email/yanapokemon@cloudyourfast.net",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 3,
+      "stock": 2,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
