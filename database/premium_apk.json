@@ -1885,13 +1885,9 @@
         {
           "email": "olorinr@reestore.site|https://generator.email/olorinr@reestore.site",
           "addedAt": 1783263321722
-        },
-        {
-          "email": "iandoli@softbank.id|https://generator.email/iandoli@softbank.id",
-          "addedAt": 1783263321722
         }
       ],
-      "stock": 305,
+      "stock": 304,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
