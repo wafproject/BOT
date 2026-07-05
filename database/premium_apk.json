@@ -749,13 +749,9 @@
         {
           "email": "detroitmobstrs313dl@fboxmail.com|https://generator.email/detroitmobstrs313dl@fboxmail.com",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "underredskies@jiangwy.one|https://generator.email/underredskies@jiangwy.one",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 21,
+      "stock": 20,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
