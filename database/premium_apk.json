@@ -1049,13 +1049,9 @@
         {
           "email": "alf4y@flews.app|https://generator.email/alf4y@flews.app",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "bono78@fboxmail.com|https://generator.email/bono78@fboxmail.com",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 96,
+      "stock": 95,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
