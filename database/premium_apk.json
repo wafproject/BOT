@@ -757,13 +757,9 @@
         {
           "email": "sss2009@starcheck.in|https://generator.email/sss2009@starcheck.in",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "terence1968@softbank.id|https://generator.email/terence1968@softbank.id",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 23,
+      "stock": 22,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
