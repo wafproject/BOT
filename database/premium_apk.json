@@ -745,13 +745,9 @@
         {
           "email": "mikepj21@emailuae.com|https://generator.email/mikepj21@emailuae.com",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "sophiakwong@aircourriel.com|https://generator.email/sophiakwong@aircourriel.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 20,
+      "stock": 19,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
