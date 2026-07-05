@@ -1061,13 +1061,9 @@
         {
           "email": "norimasa@ichecker.tech|https://generator.email/norimasa@ichecker.tech",
           "addedAt": 1783262649754
-        },
-        {
-          "email": "ilyutindobifuq@owo-mailteam.bond|https://generator.email/ilyutindobifuq@owo-mailteam.bond",
-          "addedAt": 1783262649754
         }
       ],
-      "stock": 99,
+      "stock": 98,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
