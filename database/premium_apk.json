@@ -801,13 +801,9 @@
         {
           "email": "sanderge@kawneha.site|https://generator.email/sanderge@kawneha.site",
           "addedAt": 1783266331925
-        },
-        {
-          "email": "nachfins@sentra-premium.com|https://generator.email/nachfins@sentra-premium.com",
-          "addedAt": 1783266331925
         }
       ],
-      "stock": 34,
+      "stock": 33,
       "sold": 881,
       "reserved": [],
       "bulk_active": true,
