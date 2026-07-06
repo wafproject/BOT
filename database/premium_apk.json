@@ -540,16 +540,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "jjy05ty@wafprem.biz.id",
-          "password": "masuk1234@",
-          "addedAt": 1783029360176
-        },
-        {
-          "email": "0qf2j9e@enzipro.biz.id",
-          "password": "masuk1234@",
-          "addedAt": 1783029360176
-        },
-        {
           "email": "ytu4bm2@wafprem.biz.id",
           "password": "masuk1234@",
           "addedAt": 1783029360176
@@ -575,8 +565,8 @@
           "addedAt": 1783029360176
         }
       ],
-      "sold": 110,
-      "stock": 7,
+      "sold": 112,
+      "stock": 5,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
