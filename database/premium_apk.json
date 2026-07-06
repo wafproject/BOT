@@ -55,7 +55,7 @@
       "name": "WETV PREMIUM"
     },
     {
-      "name": "Netflix Premium"
+      "name": "Netflix Premium UHD"
     },
     {
       "name": "BSTATION PREMIUM"
@@ -6258,7 +6258,7 @@
     {
       "code": "NET1U",
       "name": "Netflix Premium 1P1U 1 Bulan",
-      "category": "Netflix Premium",
+      "category": "Netflix Premium UHD",
       "type": "akun",
       "price": 25000,
       "bulk_active": false,
@@ -6279,7 +6279,7 @@
     {
       "code": "NETSEMI",
       "name": "Netflix Premium Semi Private 1 Bulan",
-      "category": "Netflix Premium",
+      "category": "Netflix Premium UHD",
       "type": "akun",
       "price": 30000,
       "bulk_active": false,
