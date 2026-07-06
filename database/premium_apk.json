@@ -6485,21 +6485,9 @@
           "addedAt": 1783301800900
         }
       ],
-      "sold": 340,
+      "sold": 341,
       "stock": 4,
-      "reserved": [
-        {
-          "id": "RSV1783339906596174",
-          "items": [
-            {
-              "link": "nfvdid=BQFmAAEBEMsnTPQXHX6kmrHN9nnvZo1giqw6ZG-0n1VoXLGXu8LS-dsiXma75WpnKhSneuwlbK5w9PZjEw5Tbo54WbtK09spDCabFueAALg5fP3uiS-S8SXpJcH0P03dVhAae1jSI4xBbK9atmumL8czFQN4QWWn; NetflixId=v%3D3%26ct%3DBgjHlOvcAxKWAyT3Q2ck-2tMWvNmbYk-e7S9MMV-HoP1qBlFMqnVcJjKaMhjK5iYwne7NPV6_9aKVN0YwOCrHDLJMorMkLykDZNopgOOhsKQoQqyZYCNLyX-_UKw5O6cL8D4--dICpD_LmW5zf5s5m_OdGrZ66WUPEUq0cwQzh8_6C32PmoPcy58JhWjy4a3PS-V2DPlHpIBJlKnsXKIllCp5oRpCbZfa71AVf5eebBAiBFR5AAesUlt8ptMCYjT_JynwU1cV7tRdkugrVrMrorVJjhdT_eNcOhcoS-nYY7CjRkikkAhGdVWLXbxxYEJyzmSfLV3TdhjK9kM2B1utRajh10j9tcR9Z2x1X5ta-SmWRWi8r3w9t7O4YKpLk1Cz_xrmL-i62EgX9jNSHjzBdJV_lTH0eXk7bTvhvVDHp4IIh8WIzmM2IZTyT1t_pADfdMukbvV8ZX-XNKe__G_6AG_NP7bVy0BP_gMcE3zqcHxnZN73UuOjSb6__uCWFTos9JvviyrZ8zbnESow_O03gLdJS5LvxkAj0JZScsjr4wYBiIOCgzZMQeyKgmhbpyDf9k.%26pg%3DV2LFGIKP3ZHV3G3YPXJ4SIGHQY%26ch%3DAQEAEAABABSK_nahOgUuY9r__cVGndO4xBCDa3zmGxg.; SecureNetflixId=v%3D3%26mac%3DAQEAEQABABQihoxLcoC0twc9Ujn1idiSA5mhtB3Ct8s.%26dt%3D1783260507051; OptanonConsent=isGpcEnabled=0&datestamp=Sat+Sep+20+2025+20%3A31%3A55+GMT-0600+(hora+est%C3%A1ndar+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a91f5ac3-9f92-43ab-9e31-5c1a03e1d479&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false; flwssn=4312ed41-89fc-486e-be2c-7bb8f624bdaa; gsid=571442ad-0518-4837-9703-9fb93416ad08",
-              "addedAt": 1783260865310
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-06T12:11:46.596Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
