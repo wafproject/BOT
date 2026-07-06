@@ -4312,32 +4312,9 @@
       "descShort": "Full Garansi",
       "snk": "* Full Garansi 25 hari setelah pembelian\n• Durasi aktif akun 25 - 30 hari\n• Maksimal login 2 perangkat (antisipasi limit dari CapCut)\n• Tidak menerima garansi jika akun terkena limit perangkat \n• Garansi hanya berlaku untuk backfree (Pro hilang sebelum masa aktif habis)\n• Tidak berlaku jika kesalahan pengguna / pelanggaran aturan\n• Dijual sharing? Resiko tanggung sendiri\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Akses email https://tmail.wafproject.my.id/inbox\n• Trik jual sharing https://t.me/ccsharing6/3",
       "items": [],
-      "sold": 547,
+      "sold": 550,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV1783307076253514",
-          "items": [
-            {
-              "email": "yusiflituran@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783275653996
-            },
-            {
-              "email": "ernandesnando@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783275653996
-            },
-            {
-              "email": "tikeda@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1783275653996
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-07-06T03:04:36.253Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
