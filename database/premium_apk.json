@@ -5438,9 +5438,60 @@
       "price": 6000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda\n• Akses email https://generator.email & https://zovlyx.fun",
-      "items": [],
+      "items": [
+        {
+          "email": "sarahnuraini67@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1783327804211
+        },
+        {
+          "email": "sabrihutapea48@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1783327804211
+        },
+        {
+          "email": "nrimaprabowo82@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1783327804211
+        },
+        {
+          "email": "ekaandriani31@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1783327804211
+        },
+        {
+          "email": "umiwulandari30@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1783327804211
+        },
+        {
+          "email": "nurulwasita23@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1783327804211
+        },
+        {
+          "email": "cakrawangsalestari89@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1783327804211
+        },
+        {
+          "email": "gandamaulana83@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1783327804211
+        },
+        {
+          "email": "karsanawijaya52@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1783327804211
+        },
+        {
+          "email": "gino532@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1783327804211
+        }
+      ],
       "sold": 4384,
-      "stock": 0,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1780362536090628",
