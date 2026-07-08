@@ -5437,7 +5437,7 @@
           "addedAt": 1783499927219
         }
       ],
-      "sold": 4434,
+      "sold": 4435,
       "stock": 8,
       "reserved": [
         {
@@ -5640,18 +5640,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV178352776531921",
-          "items": [
-            {
-              "email": "aki_n.moisbran@hotmail.com",
-              "password": "Jitra9u93C8?",
-              "addedAt": 1783499927219
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-08T16:22:45.319Z"
         }
       ],
       "bulk_active": true,
