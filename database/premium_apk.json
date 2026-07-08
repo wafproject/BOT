@@ -5427,7 +5427,7 @@
           "addedAt": 1783499927219
         }
       ],
-      "sold": 4436,
+      "sold": 4437,
       "stock": 6,
       "reserved": [
         {
@@ -5630,18 +5630,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV178354569812381",
-          "items": [
-            {
-              "email": "ferneight_malh@hotmail.com",
-              "password": "BqfO3p5pk",
-              "addedAt": 1783499927219
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-08T21:21:38.123Z"
         }
       ],
       "bulk_active": true,
