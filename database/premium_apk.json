@@ -5447,7 +5447,7 @@
           "addedAt": 1783499927219
         }
       ],
-      "sold": 4432,
+      "sold": 4433,
       "stock": 10,
       "reserved": [
         {
@@ -5650,18 +5650,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783526601559401",
-          "items": [
-            {
-              "email": "denneight_max@hotmail.com",
-              "password": "9311PeZu14P11",
-              "addedAt": 1783499927219
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-08T16:03:21.564Z"
         }
       ],
       "bulk_active": true,
