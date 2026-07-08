@@ -6527,22 +6527,9 @@
           "addedAt": 1783481173980
         }
       ],
-      "sold": 30,
+      "sold": 31,
       "stock": 9,
-      "reserved": [
-        {
-          "id": "RSV1783482182538922",
-          "items": [
-            {
-              "email": "phidm47@capcut.team",
-              "password": "masuk123",
-              "addedAt": 1783481173980
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-08T03:43:02.538Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
