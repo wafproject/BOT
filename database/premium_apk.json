@@ -5397,11 +5397,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "roby_004.bal13@hotmail.com",
-          "password": "AlVnzo1984l",
-          "addedAt": 1783499927219
-        },
-        {
           "email": "denneight_max@hotmail.com",
           "password": "9311PeZu14P11",
           "addedAt": 1783499927219
@@ -5457,8 +5452,8 @@
           "addedAt": 1783499927219
         }
       ],
-      "sold": 4431,
-      "stock": 12,
+      "sold": 4432,
+      "stock": 11,
       "reserved": [
         {
           "id": "RSV1780362536090628",
