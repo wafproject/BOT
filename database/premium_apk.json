@@ -5462,7 +5462,7 @@
           "addedAt": 1783499927219
         }
       ],
-      "sold": 4430,
+      "sold": 4431,
       "stock": 13,
       "reserved": [
         {
@@ -5653,18 +5653,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV1783523971763536",
-          "items": [
-            {
-              "email": "yvonmo_96_235@hotmail.com",
-              "password": "1633kids",
-              "addedAt": 1783499927219
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-08T15:19:31.764Z"
         }
       ],
       "bulk_active": true,
