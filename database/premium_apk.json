@@ -5477,7 +5477,7 @@
           "addedAt": 1783499927219
         }
       ],
-      "sold": 4427,
+      "sold": 4428,
       "stock": 16,
       "reserved": [
         {
@@ -5668,18 +5668,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV178351694202259",
-          "items": [
-            {
-              "email": "paula_santo073@hotmail.com",
-              "password": "lawlX3M37",
-              "addedAt": 1783499927219
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-08T13:22:22.022Z"
         }
       ],
       "bulk_active": true,
