@@ -5432,7 +5432,7 @@
           "addedAt": 1783499927219
         }
       ],
-      "sold": 4435,
+      "sold": 4436,
       "stock": 7,
       "reserved": [
         {
@@ -5635,18 +5635,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783535888212163",
-          "items": [
-            {
-              "email": "yamchaoy_vilm@hotmail.com",
-              "password": "cJhibarra638N763",
-              "addedAt": 1783499927219
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-08T18:38:08.212Z"
         }
       ],
       "bulk_active": true,
