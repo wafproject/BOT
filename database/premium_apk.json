@@ -5592,7 +5592,7 @@
           "addedAt": 1783546138244
         }
       ],
-      "sold": 4437,
+      "sold": 4438,
       "stock": 39,
       "reserved": [
         {
@@ -5795,18 +5795,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783553126263215",
-          "items": [
-            {
-              "email": "amylineb87_algo@hotmail.com",
-              "password": "kQJss2neal",
-              "addedAt": 1783499927219
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-08T23:25:26.263Z"
         }
       ],
       "bulk_active": true,
