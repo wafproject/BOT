@@ -6507,16 +6507,6 @@
       "snk": "* max log 1 device dan WAJIB ANDRO\n• garansi only login max 2 hari\n• bisa replace akun jika ada problem incorect email/password. tidak bisa replace jika problemnya limit login/max attempt \n• USER IOS TIDAK BOLEH BUY CRACK!! jika maksa dan ketahuan denda 50k\n• crack dilarang change email/pw, karena akan lebih mudah backfree \n• WAJIB MENGIKUTI TIPS LOGIN https://t.me/penjelasan_cc/2\n• WAJIB SS LOGIN KE @enziwaf",
       "items": [
         {
-          "email": "ebkmw95@capcut.team",
-          "password": "masuk123",
-          "addedAt": 1783481173980
-        },
-        {
-          "email": "pwzok36@capcut.team",
-          "password": "masuk123",
-          "addedAt": 1783481173980
-        },
-        {
           "email": "cacjs28@capcut.team",
           "password": "masuk123",
           "addedAt": 1783481173980
@@ -6553,8 +6543,26 @@
         }
       ],
       "sold": 31,
-      "stock": 9,
-      "reserved": []
+      "stock": 7,
+      "reserved": [
+        {
+          "id": "RSV1783539246980429",
+          "items": [
+            {
+              "email": "ebkmw95@capcut.team",
+              "password": "masuk123",
+              "addedAt": 1783481173980
+            },
+            {
+              "email": "pwzok36@capcut.team",
+              "password": "masuk123",
+              "addedAt": 1783481173980
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-07-08T19:34:06.980Z"
+        }
+      ]
     }
   ],
   "meta": {
