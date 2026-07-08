@@ -5472,7 +5472,7 @@
           "addedAt": 1783499927219
         }
       ],
-      "sold": 4428,
+      "sold": 4429,
       "stock": 15,
       "reserved": [
         {
@@ -5663,18 +5663,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV1783519551252718",
-          "items": [
-            {
-              "email": "assa_edsix4000@hotmail.com",
-              "password": "da1i4l0411",
-              "addedAt": 1783499927219
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-08T14:05:51.259Z"
         }
       ],
       "bulk_active": true,
