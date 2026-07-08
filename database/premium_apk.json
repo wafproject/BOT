@@ -5492,7 +5492,7 @@
           "addedAt": 1783499927219
         }
       ],
-      "sold": 4425,
+      "sold": 4426,
       "stock": 18,
       "reserved": [
         {
@@ -5683,18 +5683,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV1783513187984459",
-          "items": [
-            {
-              "email": "kleitold_08@hotmail.com",
-              "password": "NaTrlyal9",
-              "addedAt": 1783499927219
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-08T12:19:47.984Z"
         }
       ],
       "bulk_active": true,
