@@ -5502,7 +5502,7 @@
           "addedAt": 1783499927219
         }
       ],
-      "sold": 4414,
+      "sold": 4425,
       "stock": 19,
       "reserved": [
         {
@@ -5693,68 +5693,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:08:41.461Z"
-        },
-        {
-          "id": "RSV1783500033473392",
-          "items": [
-            {
-              "email": "oguy_28mes19@hotmail.com",
-              "password": "swimKmer48q67",
-              "addedAt": 1783490911005
-            },
-            {
-              "email": "sa_ques11950@hotmail.com",
-              "password": "haydehnQ.3",
-              "addedAt": 1783490911005
-            },
-            {
-              "email": "paulrsa_calve@hotmail.com",
-              "password": "hgd02121492",
-              "addedAt": 1783490911005
-            },
-            {
-              "email": "sobrown_23_03@hotmail.com",
-              "password": "9irtkut",
-              "addedAt": 1783490911005
-            },
-            {
-              "email": "jeffcarlos_titi@hotmail.com",
-              "password": "billyFob1t3",
-              "addedAt": 1783499927219
-            },
-            {
-              "email": "cia_alguerrez3@hotmail.com",
-              "password": "9rZgtkbu",
-              "addedAt": 1783499927219
-            },
-            {
-              "email": "pkhally_127@hotmail.com",
-              "password": "aYkella6v",
-              "addedAt": 1783499927219
-            },
-            {
-              "email": "patrici_61B5@hotmail.com",
-              "password": "Bobase2k123",
-              "addedAt": 1783499927219
-            },
-            {
-              "email": "teknik_pica@hotmail.com",
-              "password": "CK20030330yX?",
-              "addedAt": 1783499927219
-            },
-            {
-              "email": "huggan_19909@hotmail.com",
-              "password": "Save4Vtripdn",
-              "addedAt": 1783499927219
-            },
-            {
-              "email": "kyler123_0805@hotmail.com",
-              "password": "Dawsono1013",
-              "addedAt": 1783499927219
-            }
-          ],
-          "qty": 11,
-          "createdAt": "2026-07-08T08:40:33.473Z"
         }
       ],
       "bulk_active": true,
