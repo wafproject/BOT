@@ -6489,22 +6489,9 @@
           "addedAt": 1783481173980
         }
       ],
-      "sold": 33,
+      "sold": 34,
       "stock": 6,
-      "reserved": [
-        {
-          "id": "RSV1783607257010597",
-          "items": [
-            {
-              "email": "cacjs28@capcut.team",
-              "password": "masuk123",
-              "addedAt": 1783481173980
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-09T14:27:37.010Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "NETPRIV",
