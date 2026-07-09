@@ -6606,22 +6606,9 @@
           "addedAt": 1783590174800
         }
       ],
-      "sold": 114,
+      "sold": 115,
       "stock": 3,
-      "reserved": [
-        {
-          "id": "RSV1783606032198805",
-          "items": [
-            {
-              "email": "pinterfabiano51@outlook.com",
-              "password": "Masuk123",
-              "addedAt": 1783576606794
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-09T14:07:12.199Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
