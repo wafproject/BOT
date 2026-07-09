@@ -6515,22 +6515,9 @@
           "addedAt": 1783606239712
         }
       ],
-      "sold": 115,
+      "sold": 116,
       "stock": 3,
-      "reserved": [
-        {
-          "id": "RSV1783608694475597",
-          "items": [
-            {
-              "email": "honzellglessing235@outlook.com",
-              "password": "Masuk123",
-              "addedAt": 1783576606794
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-09T14:51:34.475Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
