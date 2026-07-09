@@ -6632,10 +6632,15 @@
           "email": "andresenjenny8210@outlook.com",
           "password": "Masuk123",
           "addedAt": 1783576606794
+        },
+        {
+          "email": "mangieriferdinand86@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783590174800
         }
       ],
       "sold": 112,
-      "stock": 5,
+      "stock": 6,
       "reserved": []
     }
   ],
