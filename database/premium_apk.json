@@ -6604,10 +6604,15 @@
           "email": "mangieriferdinand86@outlook.com",
           "password": "Masuk123",
           "addedAt": 1783590174800
+        },
+        {
+          "email": "moyetbulluck758@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783606239712
         }
       ],
       "sold": 115,
-      "stock": 3,
+      "stock": 4,
       "reserved": []
     }
   ],
