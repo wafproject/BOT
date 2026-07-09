@@ -6530,6 +6530,20 @@
       "sold": 33,
       "stock": 7,
       "reserved": []
+    },
+    {
+      "code": "NETPRIV",
+      "name": "Netflix Private 1 Bulan Promo",
+      "category": "Netflix Premium UHD",
+      "type": "akun",
+      "price": 30000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "No Garansi",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
