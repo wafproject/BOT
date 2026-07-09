@@ -6370,11 +6370,6 @@
           "addedAt": 1783223851441
         },
         {
-          "email": "tedi.yulianti1@mangacin.com",
-          "password": "masuk123",
-          "addedAt": 1783223851441
-        },
-        {
           "email": "tedi.yulianti2@mangacin.com",
           "password": "masuk123",
           "addedAt": 1783225563077
@@ -6411,7 +6406,7 @@
         }
       ],
       "sold": 754,
-      "stock": 15
+      "stock": 14
     },
     {
       "code": "BSTPRIV",
