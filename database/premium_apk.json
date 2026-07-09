@@ -6312,16 +6312,24 @@
           "email": "samekstempel652@outlook.com",
           "password": "Masuk123",
           "addedAt": 1783589835619
-        },
-        {
-          "email": "samekstempel652@outlook.com",
-          "password": "Masuk123",
-          "addedAt": 1783589835619
         }
       ],
       "sold": 766,
-      "stock": 4,
-      "reserved": []
+      "stock": 3,
+      "reserved": [
+        {
+          "id": "RSV1783611770626659",
+          "items": [
+            {
+              "email": "samekstempel652@outlook.com",
+              "password": "Masuk123",
+              "addedAt": 1783589835619
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-09T15:42:50.626Z"
+        }
+      ]
     },
     {
       "code": "BSTSHAR",
