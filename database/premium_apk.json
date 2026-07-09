@@ -6253,11 +6253,6 @@
       "snk": "* Akun Private\n• Full Garansi 10 Hari\n• Jual sharing resiko tanggung sendiri",
       "items": [
         {
-          "email": "battlefield.martabak@zovlyx.sbs",
-          "password": "masuk123",
-          "addedAt": 1783226419729
-        },
-        {
           "email": "0r7m43jw1xkgn22z@zovlyx.web.id",
           "password": "masuk123",
           "addedAt": 1783226419729
@@ -6278,8 +6273,8 @@
           "addedAt": 1783226419729
         }
       ],
-      "sold": 48,
-      "stock": 5,
+      "sold": 49,
+      "stock": 4,
       "reserved": []
     },
     {
