@@ -6627,22 +6627,9 @@
           "addedAt": 1783576606794
         }
       ],
-      "sold": 11,
+      "sold": 12,
       "stock": 5,
-      "reserved": [
-        {
-          "id": "RSV1783576940041627",
-          "items": [
-            {
-              "email": "pruessbarnhouse718@outlook.com",
-              "password": "Masuk123",
-              "addedAt": 1783576606794
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-09T06:02:20.041Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
