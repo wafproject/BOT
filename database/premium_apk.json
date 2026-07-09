@@ -587,11 +587,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "uzv161x@enziproject.my.id",
-          "password": "masuk1234@",
-          "addedAt": 1783029360176
-        },
-        {
           "email": "3672nq0@premaja.online",
           "password": "masuk1234@",
           "addedAt": 1783029360176
@@ -643,8 +638,21 @@
         }
       ],
       "sold": 113,
-      "stock": 11,
-      "reserved": [],
+      "stock": 10,
+      "reserved": [
+        {
+          "id": "RSV1783579654757966",
+          "items": [
+            {
+              "email": "uzv161x@enziproject.my.id",
+              "password": "masuk1234@",
+              "addedAt": 1783029360176
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-09T06:47:34.757Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
