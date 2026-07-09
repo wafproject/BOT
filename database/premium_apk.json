@@ -6315,10 +6315,30 @@
           "email": "samekstempel652@outlook.com",
           "password": "Masuk123",
           "addedAt": 1783589818911
+        },
+        {
+          "email": "samekstempel652@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783589835619
+        },
+        {
+          "email": "samekstempel652@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783589835619
+        },
+        {
+          "email": "samekstempel652@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783589835619
+        },
+        {
+          "email": "samekstempel652@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783589835619
         }
       ],
       "sold": 765,
-      "stock": 1,
+      "stock": 5,
       "reserved": []
     },
     {
