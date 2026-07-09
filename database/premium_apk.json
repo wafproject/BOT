@@ -6388,15 +6388,10 @@
           "email": "tedi.yulianti3@mangacin.com",
           "password": "masuk123",
           "addedAt": 1783225598919
-        },
-        {
-          "email": "tedi.yulianti4@mangacin.com",
-          "password": "masuk123",
-          "addedAt": 1783225598919
         }
       ],
       "sold": 443,
-      "stock": 2
+      "stock": 1
     },
     {
       "code": "NETRANDOM",
