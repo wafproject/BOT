@@ -610,15 +610,10 @@
           "email": "11kbbnj@premaja.online",
           "password": "Masuk1234@",
           "addedAt": 1783331058977
-        },
-        {
-          "email": "h1piv8d@enziproject.web.id",
-          "password": "Masuk1234@",
-          "addedAt": 1783331058977
         }
       ],
       "sold": 113,
-      "stock": 6,
+      "stock": 5,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
