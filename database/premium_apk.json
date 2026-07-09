@@ -6324,22 +6324,9 @@
           "addedAt": 1783589835619
         }
       ],
-      "sold": 765,
+      "sold": 766,
       "stock": 4,
-      "reserved": [
-        {
-          "id": "RSV1783594631991277",
-          "items": [
-            {
-              "email": "samekstempel652@outlook.com",
-              "password": "Masuk123",
-              "addedAt": 1783589818911
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-09T10:57:11.991Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "BSTSHAR",
