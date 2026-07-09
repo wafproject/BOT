@@ -5587,7 +5587,7 @@
           "addedAt": 1783546138244
         }
       ],
-      "sold": 4438,
+      "sold": 4439,
       "stock": 38,
       "reserved": [
         {
@@ -5790,18 +5790,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783559970392425",
-          "items": [
-            {
-              "email": "manuysan_esp@hotmail.com",
-              "password": "ArtAich0kbes!",
-              "addedAt": 1783499927219
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-09T01:19:30.392Z"
         }
       ],
       "bulk_active": true,
