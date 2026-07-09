@@ -6310,9 +6310,15 @@
       "bulk_prices": [],
       "descShort": "No Garansi",
       "snk": "*No Garansi.\n• Login hanya di 1 device dan jangan berpindah-pindah device.\n• Login pakai data jangan wifi , supaya terhindar dari house hold netflix \n• Dilarang mengubah email, password, PIN, profil, atau plan. Pelanggaran dikenakan denda Rp300.000.\n• Jangan klik Cancel Membership.\n• Jika tidak mengirim bukti login dalam 24 jam setelah akun diterima, akan di kick.\n• Simpan data akun dengan baik dan jangan dibagikan kepada orang lain.",
-      "items": [],
+      "items": [
+        {
+          "email": "samekstempel652@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783589818911
+        }
+      ],
       "sold": 765,
-      "stock": 0,
+      "stock": 1,
       "reserved": []
     },
     {
