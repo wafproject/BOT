@@ -6616,27 +6616,9 @@
           "addedAt": 1783590174800
         }
       ],
-      "sold": 112,
+      "sold": 114,
       "stock": 4,
-      "reserved": [
-        {
-          "id": "RSV1783597753299737",
-          "items": [
-            {
-              "email": "monterrozaaguiler261@outlook.com",
-              "password": "Masuk123",
-              "addedAt": 1783576606794
-            },
-            {
-              "email": "olazabalkevin538@outlook.com",
-              "password": "Masuk123",
-              "addedAt": 1783576606794
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-09T11:49:13.299Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
