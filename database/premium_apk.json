@@ -6600,9 +6600,40 @@
       "bulk_prices": [],
       "descShort": "GET 5 PROFIL",
       "snk": "* CLEAR DATA DULU APK NETFLIX SEBELUM LOGIN, GUNAKAN PAKET DATA, JANGAN WIFI UNTUK PERTAMA LOGIN SUPAYA TIDAK TERKENA HOUSE HOLD.\n• NO GARANSI.\n• AKUN KAMU PEGANG = TANGGUNG JAWAB MU.\n• JANGAN PENCET TOMBOL CANCEL MEMBERSHIP.",
-      "items": [],
+      "items": [
+        {
+          "email": "pruessbarnhouse718@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783576606794
+        },
+        {
+          "email": "monterrozaaguiler261@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783576606794
+        },
+        {
+          "email": "olazabalkevin538@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783576606794
+        },
+        {
+          "email": "pinterfabiano51@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783576606794
+        },
+        {
+          "email": "honzellglessing235@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783576606794
+        },
+        {
+          "email": "andresenjenny8210@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783576606794
+        }
+      ],
       "sold": 11,
-      "stock": 0,
+      "stock": 6,
       "reserved": []
     }
   ],
