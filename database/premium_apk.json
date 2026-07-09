@@ -6542,22 +6542,9 @@
       "descShort": "GET 5 PROFIL",
       "snk": "* CLEAR DATA DULU APK NETFLIX SEBELUM LOGIN, GUNAKAN PAKET DATA, JANGAN WIFI UNTUK PERTAMA LOGIN SUPAYA TIDAK TERKENA HOUSE HOLD.\n• NO GARANSI.\n• AKUN KAMU PEGANG = TANGGUNG JAWAB MU.\n• JANGAN PENCET TOMBOL CANCEL MEMBERSHIP.",
       "items": [],
-      "sold": 10,
+      "sold": 11,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV1783571223318410",
-          "items": [
-            {
-              "email": "xiuxuxu@enzipro.biz.id",
-              "password": "Gergaji123",
-              "addedAt": 1783570822947
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-09T04:27:03.318Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
