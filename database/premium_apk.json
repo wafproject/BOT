@@ -625,15 +625,10 @@
           "email": "emnk4a4@wafprem.biz.id",
           "password": "Masuk1234@",
           "addedAt": 1783331058977
-        },
-        {
-          "email": "f596jj0@premaja.online",
-          "password": "Masuk1234@",
-          "addedAt": 1783331058977
         }
       ],
       "sold": 113,
-      "stock": 9,
+      "stock": 8,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
