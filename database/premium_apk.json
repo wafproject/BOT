@@ -6625,10 +6625,15 @@
           "email": "andresenjenny8210@outlook.com",
           "password": "Masuk123",
           "addedAt": 1783576606794
+        },
+        {
+          "email": "samekstempel652@outlook.com",
+          "password": "Masuk123",
+          "addedAt": 1783577727785
         }
       ],
       "sold": 12,
-      "stock": 5,
+      "stock": 6,
       "reserved": []
     }
   ],
