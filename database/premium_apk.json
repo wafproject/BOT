@@ -605,15 +605,10 @@
           "email": "du2h3ws@enziproject.my.id",
           "password": "masuk1234@",
           "addedAt": 1783029360176
-        },
-        {
-          "email": "11kbbnj@premaja.online",
-          "password": "Masuk1234@",
-          "addedAt": 1783331058977
         }
       ],
       "sold": 113,
-      "stock": 5,
+      "stock": 4,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
