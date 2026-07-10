@@ -6288,15 +6288,10 @@
           "email": "samekstempel652@outlook.com",
           "password": "Masuk123",
           "addedAt": 1783589835619
-        },
-        {
-          "email": "samekstempel652@outlook.com",
-          "password": "Masuk123",
-          "addedAt": 1783589835619
         }
       ],
       "sold": 767,
-      "stock": 2,
+      "stock": 1,
       "reserved": []
     },
     {
