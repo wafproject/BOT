@@ -6423,32 +6423,9 @@
       "descShort": "Garansi 48 jam",
       "snk": "* max log 1 device dan WAJIB ANDRO\n• garansi only login max 2 hari\n• bisa replace akun jika ada problem incorect email/password. tidak bisa replace jika problemnya limit login/max attempt \n• USER IOS TIDAK BOLEH BUY CRACK!! jika maksa dan ketahuan denda 50k\n• crack dilarang change email/pw, karena akan lebih mudah backfree \n• WAJIB MENGIKUTI TIPS LOGIN https://t.me/penjelasan_cc/2\n• WAJIB SS LOGIN KE @enziwaf",
       "items": [],
-      "sold": 37,
+      "sold": 40,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV1783649060314276",
-          "items": [
-            {
-              "email": "ndygp51@capcut.team",
-              "password": "masuk123",
-              "addedAt": 1783481173980
-            },
-            {
-              "email": "ibwwa84@capcut.team",
-              "password": "masuk123",
-              "addedAt": 1783481173980
-            },
-            {
-              "email": "pibez82@capcut.team",
-              "password": "masuk123",
-              "addedAt": 1783481173980
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-07-10T02:04:20.314Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "NETPRIV",
