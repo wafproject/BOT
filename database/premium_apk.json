@@ -6396,21 +6396,9 @@
           "addedAt": 1783445788281
         }
       ],
-      "sold": 342,
+      "sold": 343,
       "stock": 9,
-      "reserved": [
-        {
-          "id": "RSV1783666789334319",
-          "items": [
-            {
-              "link": "nfvdid=BQFmAAEBEKMuV4OuyKjcDfkDM2_HRGNg_Xd3j0E7VYXIjoNeDAQ3d0uZRYIWXvtB-ZE17YYoKn3pHxoMZ9LJu4cofXA-ZN8vN8QIJVtJc9ungb2QT9rCSG7vq7OBi8KFfBbDRXyEi3ADDxAJoN7RGylN-V71QnSY; NetflixId=v%3D3%26ct%3DBgjHlOvcAxKTA_JkpWATCFxoyuWOSJ_pOt0XLjvw0web5LlDskepM8PKQRdseD2xlOLtEvCKFvupeHuX9P3U-NRInCxpZeUxsqbORjyD63huxSPuPaXfB1HO_e5UwGURRt3htEJXHxcihO9OYAk-2RcuD6ibyzmBlDdY0TXu4JsbdQAQunkA_N0SPZ6L7CbXZ65KsqI3AO32Fx45BcbgR8y6HmKw282lhOh4OS0W-JA6BEtzEaVaLO8DC_sc1mLtLzi0Mw9iX1TndFqIGGXGMjo3mlKFVsGQj7eks35ZTSGWUzonxEW852pnHXsW-Sf8uwPX2GYOaWSBLPtyUERKekqSsmqZFlNiSS2jR5_4SMyA49j83gAVpV_pX0LO4_az3QcWNPG-iyQ4MisCf0_vm21DfnbxP-y8gF4u7w5utrMrN7hHQelQqh7aqttF4ZMIZy5R-689neXVShVqf9oyaOJgDH7q_BZRmSzg7UcF1OlWN9Q4gKFxALUfkWz_Ueo-zjAxCTTf60bXxCQ0yU1h5XzhC4STS-rpTOok22IYBiIOCgzs-8cWq0KzN37s6Vg.%26pg%3DL6CTBOFM7VB35BSXRR5OK2PDSM%26ch%3DAQEAEAABABS8M0SgWr9BigUpqnJ5gpYV_n1pOv9DHXU.; SecureNetflixId=v%3D3%26mac%3DAQEAEQABABRjm90nfltLh7BqJx898EjTVa0dji7KAGQ.%26dt%3D1783260475354; OptanonConsent=isGpcEnabled=0&datestamp=Tue+Jun+30+2026+23%3A13%3A20+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=70d5115e-a985-4a92-9564-51d22497914c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0; gsid=6dc5523c-164e-4f88-9e8f-ee0373fedae3; netflix-sans-bold-3-loaded=true; netflix-sans-normal-3-loaded=true; pas=%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D; profilesNewSession=0; flwssn=96156f2c-d80d-4296-b25c-f269fb2e518c",
-              "addedAt": 1783260915804
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-10T06:59:49.334Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "CCC",
