@@ -6425,9 +6425,15 @@
       "bulk_prices": [],
       "descShort": "No Garansi",
       "snk": "* CLEAR DATA DULU APK NETFLIX SEBELUM LOGIN, GUNAKAN PAKET DATA, JANGAN WIFI UNTUK PERTAMA LOGIN SUPAYA TIDAK TERKENA HOUSE HOLD.\n• NO GARANSI.\n• AKUN KAMU PEGANG = TANGGUNG JAWAB MU.\n• JANGAN PENCET TOMBOL CANCEL MEMBERSHIP.\n• AKSES PM KE ADMIN @enziwaf",
-      "items": [],
+      "items": [
+        {
+          "email": "31tj49g@enziproject.my.id",
+          "password": "Masuk123",
+          "addedAt": 1783670485741
+        }
+      ],
       "sold": 120,
-      "stock": 0,
+      "stock": 1,
       "reserved": []
     }
   ],
