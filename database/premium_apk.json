@@ -6432,22 +6432,9 @@
           "addedAt": 1783668698954
         }
       ],
-      "sold": 118,
+      "sold": 119,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV1783668968785957",
-          "items": [
-            {
-              "email": "moyetbulluck758@outlook.com",
-              "password": "Masuk123",
-              "addedAt": 1783668698954
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-10T07:36:08.785Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
