@@ -6360,10 +6360,6 @@
       "snk": "-",
       "items": [
         {
-          "link": "nfvdid=BQFmAAEBEKMuV4OuyKjcDfkDM2_HRGNg_Xd3j0E7VYXIjoNeDAQ3d0uZRYIWXvtB-ZE17YYoKn3pHxoMZ9LJu4cofXA-ZN8vN8QIJVtJc9ungb2QT9rCSG7vq7OBi8KFfBbDRXyEi3ADDxAJoN7RGylN-V71QnSY; NetflixId=v%3D3%26ct%3DBgjHlOvcAxKTA_JkpWATCFxoyuWOSJ_pOt0XLjvw0web5LlDskepM8PKQRdseD2xlOLtEvCKFvupeHuX9P3U-NRInCxpZeUxsqbORjyD63huxSPuPaXfB1HO_e5UwGURRt3htEJXHxcihO9OYAk-2RcuD6ibyzmBlDdY0TXu4JsbdQAQunkA_N0SPZ6L7CbXZ65KsqI3AO32Fx45BcbgR8y6HmKw282lhOh4OS0W-JA6BEtzEaVaLO8DC_sc1mLtLzi0Mw9iX1TndFqIGGXGMjo3mlKFVsGQj7eks35ZTSGWUzonxEW852pnHXsW-Sf8uwPX2GYOaWSBLPtyUERKekqSsmqZFlNiSS2jR5_4SMyA49j83gAVpV_pX0LO4_az3QcWNPG-iyQ4MisCf0_vm21DfnbxP-y8gF4u7w5utrMrN7hHQelQqh7aqttF4ZMIZy5R-689neXVShVqf9oyaOJgDH7q_BZRmSzg7UcF1OlWN9Q4gKFxALUfkWz_Ueo-zjAxCTTf60bXxCQ0yU1h5XzhC4STS-rpTOok22IYBiIOCgzs-8cWq0KzN37s6Vg.%26pg%3DL6CTBOFM7VB35BSXRR5OK2PDSM%26ch%3DAQEAEAABABS8M0SgWr9BigUpqnJ5gpYV_n1pOv9DHXU.; SecureNetflixId=v%3D3%26mac%3DAQEAEQABABRjm90nfltLh7BqJx898EjTVa0dji7KAGQ.%26dt%3D1783260475354; OptanonConsent=isGpcEnabled=0&datestamp=Tue+Jun+30+2026+23%3A13%3A20+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=70d5115e-a985-4a92-9564-51d22497914c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0; gsid=6dc5523c-164e-4f88-9e8f-ee0373fedae3; netflix-sans-bold-3-loaded=true; netflix-sans-normal-3-loaded=true; pas=%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D; profilesNewSession=0; flwssn=96156f2c-d80d-4296-b25c-f269fb2e518c",
-          "addedAt": 1783260915804
-        },
-        {
           "link": "OptanonAlertBoxClosed=2026-04-06T16:51:42.831Z; nfvdid=BQFmAAEBEDrh11AijEycWqT7NGfVQTZgspjP41ZI9O7CPo_iKaokV37J3sPmTarT7ebEw5nRXvF7BNr4uZzuZlx1cCwHQHFsHCRj79hpqBLZnJw7r_O2uvcezimCe7_yeFKFcQljK9kiTbD53d8WNyNyLS4qn6ct; gsid=764478a3-ebc1-41df-849b-efc6e27b4f6d; OptanonConsent=isGpcEnabled=0&datestamp=Sun+May+17+2026+11%3A34%3A15+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=73754d7d-04cd-4fea-abec-7ad3d79d5e10&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775494303501&AwaitingReconsent=false&intType=1&geolocation=PL%3B10&isDntEnabled=0; netflix-sans-bold-3-loaded=true; netflix-sans-normal-3-loaded=true; NetflixId=v%3D3%26ct%3DBgjHlOvcAxKQA4J6r8gzqg_W7nyw05rBPflvmzAO5T9qYA1Sq_j8i2Rk2xj81t3FUG0VDI7yGZOS3u2dTXkQqSQ9b-tgN09p8n1ycbnvdDWoIM4APzKROqPNnKduUZ4bA6rkvxq1_IUSpIkifrXWWKdx-txcP-vbrZi4ez1TWftw9aCDQxdYXK64Z2Vvc6mq1FoX_Utp84y3BByWncmnwKhVl7DHWWEiNZ7Xb-ViBI3CRru8ntkuceAklnEPIUiiwls2S7oJVNzCg_NDt_chDLmbWx0EpCYHTgfb2tBizA0n9xK2Hh3mBSqpHEjkTKAWMXMIkFWO5UFQYfPXxrHSk_qeIL2jDUPqDX-lhQcieERWWvhgxteH-sMt-kNjwFjXPXLWR4zV4uc9DKEyEqbcmH1sIk63Udj7gV9HimCiEEL1atJxGda69JJhoNSvA6_2iWErSnqGobe2n4uZJSBlPvpAFJVpHsmX8U7oEhIxuHLLtvRpi0kudeF0OTJpFtPPNC7WwZ7eZEi-5J_-SVqwI5L7UDxNsnwq9UcYBiIOCgzGhza9RV4Wvzvs57Q.%26pg%3D7F4RROSY25FZRANOVCHXTFDLRI%26ch%3DAQEAEAABABR-Vpuuw_vlFeZ8gwprOAY80ffxYHM0itA.; flwssn=736a4883-f7e4-4f44-b6d7-94f80c8b232a; SecureNetflixId=v%3D3%26mac%3DAQEAEQABABTyfaJEGf-9nLdS0wSy6BzZ8XY8sCWIje8.%26dt%3D1783301589201",
           "addedAt": 1783301630771
         },
@@ -6401,8 +6397,20 @@
         }
       ],
       "sold": 342,
-      "stock": 10,
-      "reserved": []
+      "stock": 9,
+      "reserved": [
+        {
+          "id": "RSV1783666789334319",
+          "items": [
+            {
+              "link": "nfvdid=BQFmAAEBEKMuV4OuyKjcDfkDM2_HRGNg_Xd3j0E7VYXIjoNeDAQ3d0uZRYIWXvtB-ZE17YYoKn3pHxoMZ9LJu4cofXA-ZN8vN8QIJVtJc9ungb2QT9rCSG7vq7OBi8KFfBbDRXyEi3ADDxAJoN7RGylN-V71QnSY; NetflixId=v%3D3%26ct%3DBgjHlOvcAxKTA_JkpWATCFxoyuWOSJ_pOt0XLjvw0web5LlDskepM8PKQRdseD2xlOLtEvCKFvupeHuX9P3U-NRInCxpZeUxsqbORjyD63huxSPuPaXfB1HO_e5UwGURRt3htEJXHxcihO9OYAk-2RcuD6ibyzmBlDdY0TXu4JsbdQAQunkA_N0SPZ6L7CbXZ65KsqI3AO32Fx45BcbgR8y6HmKw282lhOh4OS0W-JA6BEtzEaVaLO8DC_sc1mLtLzi0Mw9iX1TndFqIGGXGMjo3mlKFVsGQj7eks35ZTSGWUzonxEW852pnHXsW-Sf8uwPX2GYOaWSBLPtyUERKekqSsmqZFlNiSS2jR5_4SMyA49j83gAVpV_pX0LO4_az3QcWNPG-iyQ4MisCf0_vm21DfnbxP-y8gF4u7w5utrMrN7hHQelQqh7aqttF4ZMIZy5R-689neXVShVqf9oyaOJgDH7q_BZRmSzg7UcF1OlWN9Q4gKFxALUfkWz_Ueo-zjAxCTTf60bXxCQ0yU1h5XzhC4STS-rpTOok22IYBiIOCgzs-8cWq0KzN37s6Vg.%26pg%3DL6CTBOFM7VB35BSXRR5OK2PDSM%26ch%3DAQEAEAABABS8M0SgWr9BigUpqnJ5gpYV_n1pOv9DHXU.; SecureNetflixId=v%3D3%26mac%3DAQEAEQABABRjm90nfltLh7BqJx898EjTVa0dji7KAGQ.%26dt%3D1783260475354; OptanonConsent=isGpcEnabled=0&datestamp=Tue+Jun+30+2026+23%3A13%3A20+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=70d5115e-a985-4a92-9564-51d22497914c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0; gsid=6dc5523c-164e-4f88-9e8f-ee0373fedae3; netflix-sans-bold-3-loaded=true; netflix-sans-normal-3-loaded=true; pas=%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D; profilesNewSession=0; flwssn=96156f2c-d80d-4296-b25c-f269fb2e518c",
+              "addedAt": 1783260915804
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-10T06:59:49.334Z"
+        }
+      ]
     },
     {
       "code": "CCC",
