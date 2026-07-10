@@ -5485,10 +5485,15 @@
           "email": "karmannovitasari17@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1783685592050
+        },
+        {
+          "email": "suited@capcut.sbs",
+          "password": "masuk123",
+          "addedAt": 1783685626717
         }
       ],
       "sold": 4477,
-      "stock": 9,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1780362536090628",
