@@ -6423,27 +6423,9 @@
           "addedAt": 1783688595831
         }
       ],
-      "sold": 122,
+      "sold": 124,
       "stock": 2,
-      "reserved": [
-        {
-          "id": "RSV1783691176895170",
-          "items": [
-            {
-              "email": "wafkuy4@gsuite.biz.id",
-              "password": "Masuk123",
-              "addedAt": 1783688595831
-            },
-            {
-              "email": "enziaja0@enziproject.my.id",
-              "password": "Masuk123",
-              "addedAt": 1783688595831
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-10T13:46:16.895Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
