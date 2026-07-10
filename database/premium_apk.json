@@ -6427,19 +6427,27 @@
       "snk": "* CLEAR DATA DULU APK NETFLIX SEBELUM LOGIN, GUNAKAN PAKET DATA, JANGAN WIFI UNTUK PERTAMA LOGIN SUPAYA TIDAK TERKENA HOUSE HOLD.\n• NO GARANSI.\n• AKUN KAMU PEGANG = TANGGUNG JAWAB MU.\n• JANGAN PENCET TOMBOL CANCEL MEMBERSHIP.\n• AKSES PM KE ADMIN @enziwaf",
       "items": [
         {
-          "email": "moyetbulluck758@outlook.com",
-          "password": "Masuk123",
-          "addedAt": 1783668698954
-        },
-        {
           "email": "seka109@wafprem.biz.id",
           "password": "Kurcaci123",
           "addedAt": 1783668698954
         }
       ],
       "sold": 118,
-      "stock": 2,
-      "reserved": []
+      "stock": 1,
+      "reserved": [
+        {
+          "id": "RSV1783668968785957",
+          "items": [
+            {
+              "email": "moyetbulluck758@outlook.com",
+              "password": "Masuk123",
+              "addedAt": 1783668698954
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-10T07:36:08.785Z"
+        }
+      ]
     }
   ],
   "meta": {
