@@ -6583,27 +6583,9 @@
           "addedAt": 1783733116731
         }
       ],
-      "sold": 127,
+      "sold": 129,
       "stock": 3,
-      "reserved": [
-        {
-          "id": "RSV1783755770183283",
-          "items": [
-            {
-              "email": "5xenakd@wafprem.biz.id",
-              "password": "masuk123",
-              "addedAt": 1783703308370
-            },
-            {
-              "email": "asyre32@gsuite.biz.id",
-              "password": "Masuk123",
-              "addedAt": 1783703308370
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-11T07:42:50.183Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
