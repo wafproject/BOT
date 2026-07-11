@@ -684,14 +684,9 @@
           "email": "3jo31ae@enzipro.biz.id",
           "password": "Masuk123",
           "addedAt": 1783029437831
-        },
-        {
-          "email": "x5g3y8x@enzipro.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1783029437831
         }
       ],
-      "stock": 8,
+      "stock": 7,
       "sold": 45,
       "reserved": [],
       "bulk_active": false,
