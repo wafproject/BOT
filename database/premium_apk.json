@@ -6373,15 +6373,10 @@
           "email": "guruur7kd@bapaklo.my.id",
           "password": "masuk123",
           "addedAt": 1783226419729
-        },
-        {
-          "email": "3vm8nvmr9k4n9eax@cuekin.my.id",
-          "password": "masuk123",
-          "addedAt": 1783226419729
         }
       ],
       "sold": 49,
-      "stock": 3,
+      "stock": 2,
       "reserved": []
     },
     {
