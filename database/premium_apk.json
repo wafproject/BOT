@@ -4954,12 +4954,8 @@
       "price": 20000,
       "descShort": "Full Garansi",
       "snk": " * Produk ini full garansi * Paid legal * Tidak pernah bf sejak jaman Majapahit * 100% anti bf anti DISABLE pake metode khusus * Akun dari seller , bisa akun buyer tapi jadi no garansi`",
-      "items": [
-        {
-          "text": "KIRIM SCREENSHOT BUKTI ORDER KE ADMIN, AKUN AKAN DI PROSES SETELAH KIRIM BUKTI ORDER. WA : wa.me/6287731282876 Tele : @enziwaf"
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 150,
       "reserved": [],
       "bulk_active": false,
