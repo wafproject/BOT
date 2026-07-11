@@ -654,14 +654,9 @@
           "email": "fxpnd8l@enzipro.biz.id",
           "password": "Masuk123",
           "addedAt": 1783029437831
-        },
-        {
-          "email": "xpykg91@wafprem.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1783029437831
         }
       ],
-      "stock": 2,
+      "stock": 1,
       "sold": 45,
       "reserved": [],
       "bulk_active": false,
