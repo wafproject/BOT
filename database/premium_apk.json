@@ -5580,7 +5580,7 @@
           "addedAt": 1783748703921
         }
       ],
-      "sold": 4535,
+      "sold": 4536,
       "stock": 31,
       "reserved": [
         {
@@ -5783,18 +5783,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783749940070911",
-          "items": [
-            {
-              "email": "kezzam1234.az@hotmail.com",
-              "password": "PQFwXw1t23",
-              "addedAt": 1783739852772
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-11T06:05:40.070Z"
         }
       ],
       "bulk_active": true,
