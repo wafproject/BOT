@@ -5452,7 +5452,7 @@
           "addedAt": 1783739852772
         }
       ],
-      "sold": 4530,
+      "sold": 4533,
       "stock": 4,
       "reserved": [
         {
@@ -5655,28 +5655,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV178374066829418",
-          "items": [
-            {
-              "email": "renamiej_94_sy@hotmail.com",
-              "password": "t1rulyhumMn1",
-              "addedAt": 1783739852772
-            },
-            {
-              "email": "aaangari_j-9@hotmail.com",
-              "password": "Aiau$pintBerestW",
-              "addedAt": 1783739852772
-            },
-            {
-              "email": "sebestowers-gui@hotmail.com",
-              "password": "Jarn2pelle",
-              "addedAt": 1783739852772
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-07-11T03:31:08.294Z"
         }
       ],
       "bulk_active": true,
