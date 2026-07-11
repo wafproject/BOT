@@ -5359,22 +5359,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 513,
+      "sold": 514,
       "stock": 42,
-      "reserved": [
-        {
-          "id": "RSV1783755822893177",
-          "items": [
-            {
-              "email": "lgncct501@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042861288
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-11T07:43:42.893Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
