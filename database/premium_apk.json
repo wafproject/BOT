@@ -5432,31 +5432,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "micolmpa_74@hotmail.com",
-          "password": "Oaidodin123",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "buryann_274N@hotmail.com",
-          "password": "s8hortyS7",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "tha_dagonzaliko@hotmail.com",
-          "password": "=c1te96=",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "tjhardo_87063@hotmail.com",
-          "password": "selim1r2G",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "that_djiputar@hotmail.com",
-          "password": "a4STRATOSl996!",
-          "addedAt": 1783739852772
-        },
-        {
           "email": "tok_ted_sangel@hotmail.com",
           "password": "venezueljalibreL2",
           "addedAt": 1783739852772
@@ -5583,7 +5558,7 @@
         }
       ],
       "sold": 4487,
-      "stock": 30,
+      "stock": 25,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5892,6 +5867,38 @@
           ],
           "qty": 20,
           "createdAt": "2026-07-11T03:20:15.508Z"
+        },
+        {
+          "id": "RSV1783740019685354",
+          "items": [
+            {
+              "email": "micolmpa_74@hotmail.com",
+              "password": "Oaidodin123",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "buryann_274N@hotmail.com",
+              "password": "s8hortyS7",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "tha_dagonzaliko@hotmail.com",
+              "password": "=c1te96=",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "tjhardo_87063@hotmail.com",
+              "password": "selim1r2G",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "that_djiputar@hotmail.com",
+              "password": "a4STRATOSl996!",
+              "addedAt": 1783739852772
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-07-11T03:20:19.685Z"
         }
       ],
       "bulk_active": true,
