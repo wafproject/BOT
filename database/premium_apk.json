@@ -5575,7 +5575,7 @@
           "addedAt": 1783748703921
         }
       ],
-      "sold": 4536,
+      "sold": 4537,
       "stock": 30,
       "reserved": [
         {
@@ -5778,18 +5778,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783749978201315",
-          "items": [
-            {
-              "email": "fundastta_olea@hotmail.com",
-              "password": "oto3Roo00",
-              "addedAt": 1783739852772
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-11T06:06:18.201Z"
         }
       ],
       "bulk_active": true,
