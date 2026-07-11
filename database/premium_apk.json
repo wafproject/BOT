@@ -5432,106 +5432,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "jenkimmi23_199@hotmail.com",
-          "password": "saidaO8O91",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "atstaran_raft@hotmail.com",
-          "password": "RelyW013324",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "tuarciaa.ina@hotmail.com",
-          "password": "kiEtyaW871",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "robere_2212@hotmail.com",
-          "password": "MaxSimo_P!1",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "margandtom_141@hotmail.com",
-          "password": "Asapf21srtf",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "lisea.cysweeda@hotmail.com",
-          "password": "dafSDq802",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "mbise_eddique@hotmail.com",
-          "password": "RiVnkuX34",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "mede-aigerdug@hotmail.com",
-          "password": "huBigi1234",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "daniz-angel@hotmail.com",
-          "password": "qMaraya12",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "jaaman_cauroui@hotmail.com",
-          "password": "harshithaVmaniQ",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "granck_694070@hotmail.com",
-          "password": "JoysiwmSp83",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "abdulla.abev@hotmail.com",
-          "password": "rahu8harsh1234B5",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "multon.maxith@hotmail.com",
-          "password": "CazloBJriguglio0909!",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "katalma_1996@hotmail.com",
-          "password": "outUiderT9",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "immy.hellip@hotmail.com",
-          "password": "Fivehtarv",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "javid.stieayarl@hotmail.com",
-          "password": "bmvxOUDA3",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "netin_neghum@hotmail.com",
-          "password": "87lj3kirg",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "prie.spolanil@hotmail.com",
-          "password": "vickzZr98!",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "carnie_lyoc@hotmail.com",
-          "password": "Gsamer24",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "mamas_selus2s@hotmail.com",
-          "password": "S60uvleniir",
-          "addedAt": 1783739852772
-        },
-        {
           "email": "micolmpa_74@hotmail.com",
           "password": "Oaidodin123",
           "addedAt": 1783739852772
@@ -5683,7 +5583,7 @@
         }
       ],
       "sold": 4487,
-      "stock": 50,
+      "stock": 30,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5885,6 +5785,113 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
+        },
+        {
+          "id": "RSV1783740015508446",
+          "items": [
+            {
+              "email": "jenkimmi23_199@hotmail.com",
+              "password": "saidaO8O91",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "atstaran_raft@hotmail.com",
+              "password": "RelyW013324",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "tuarciaa.ina@hotmail.com",
+              "password": "kiEtyaW871",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "robere_2212@hotmail.com",
+              "password": "MaxSimo_P!1",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "margandtom_141@hotmail.com",
+              "password": "Asapf21srtf",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "lisea.cysweeda@hotmail.com",
+              "password": "dafSDq802",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "mbise_eddique@hotmail.com",
+              "password": "RiVnkuX34",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "mede-aigerdug@hotmail.com",
+              "password": "huBigi1234",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "daniz-angel@hotmail.com",
+              "password": "qMaraya12",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "jaaman_cauroui@hotmail.com",
+              "password": "harshithaVmaniQ",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "granck_694070@hotmail.com",
+              "password": "JoysiwmSp83",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "abdulla.abev@hotmail.com",
+              "password": "rahu8harsh1234B5",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "multon.maxith@hotmail.com",
+              "password": "CazloBJriguglio0909!",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "katalma_1996@hotmail.com",
+              "password": "outUiderT9",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "immy.hellip@hotmail.com",
+              "password": "Fivehtarv",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "javid.stieayarl@hotmail.com",
+              "password": "bmvxOUDA3",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "netin_neghum@hotmail.com",
+              "password": "87lj3kirg",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "prie.spolanil@hotmail.com",
+              "password": "vickzZr98!",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "carnie_lyoc@hotmail.com",
+              "password": "Gsamer24",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "mamas_selus2s@hotmail.com",
+              "password": "S60uvleniir",
+              "addedAt": 1783739852772
+            }
+          ],
+          "qty": 20,
+          "createdAt": "2026-07-11T03:20:15.508Z"
         }
       ],
       "bulk_active": true,
