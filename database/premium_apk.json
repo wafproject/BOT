@@ -6386,14 +6386,10 @@
         {
           "link": "OptanonAlertBoxClosed=2026-04-03T09:21:00.747Z; nfvdid=BQFmAAEBEBvOGJSeasTCvt9QnHpQs_dgE0Z09KlR1r8o3k-svaHgAqAUwhQP3aD0Wk3HpqhLpLaovLinntZEGVSuKdCszN8lAI5t4a_u8wXDyDdoCvVwPKU3ogsXmp8RH7RsHv-7fXaTFfCpnxgiCbAmUw7CE5uy; NetflixId=v%3D3%26ct%3DBgjHlOvcAxKSA-cu1cUd2s_4gN2pnlwShU2xZDCqUXqgwvYiBdDy0LXTryYUTwsohA9oN4Vn5IZxlZjOM8142RJbieG3qLY20e1hgYVHh7DMmyScAsLBP6fE_ljhWRsxpmcBYGUSahH1rrayS7zBn7weZx5NeDTv3QDeQHI98hJXEYgljtWO7BUUdMNdk_pfVpD80u9UUq2Y7ppjhtd3rvVfMnwPaOdte_OpCXAh9jrKEFjJAn4Iwi8qn7eI1VP4mtG9SswjArfuRLbyPuuQII6Si_0TWHHehnSaw_Fyde5J_2ciueGBjq3nalK1U7uemj21o_9QdpHWr4sLFuwm7H5S2MTnLkeiCnGq9rQ0twF11CJLkU8ZSy9XSyt-zazeqEbhEjnbKIRowgu4Yl8jIfM2eqze2SfPip_bJvhcKD0xyXsRVHDgqTyzd836Nnk7GfEI1fRLyf2gvwRxNXJos2ZuSM2X08aNwYY41JWabr28DDuvTBsev_t-1rYxpfn_0uW5V6b-eddh1DHezLbojTHjVTw7T2ZESPfGzBgGIg4KDGJ9xVbzl6vDm_iaHA..%26pg%3D4YRFHVB7OVDZPPVF5WMKMI5MOM%26ch%3DAQEAEAABABSLNro9YnsxNRCrCXg2syu1rX8ooJrUeqw.; OptanonConsent=isGpcEnabled=0&datestamp=Thu+May+14+2026+20%3A19%3A26+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=17cbdc57-25e0-4723-8a50-ec2734c5ae4b&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1775208008132&geolocation=DE%3BHB&AwaitingReconsent=false&isDntEnabled=0; SecureNetflixId=v%3D3%26mac%3DAQEAEQABABRwGbv0Vzm5D9pjq5X1IiXftELMR3NYlug.%26dt%3D1783417081823; flwssn=66852310-816f-4bdc-8106-220f539d5a42; gsid=473686db-04e1-4fe9-9c41-43a82ef0269d; netflix-sans-bold-3-loaded=true; netflix-sans-normal-3-loaded=true; profilesNewSession=0",
           "addedAt": 1783417141260
-        },
-        {
-          "link": "https://netflix.com/unsupported?nftoken=Bgi8u%2BvcAxLCAQNZDfhWLNEcGDZEVhyA%2B6%2BgI0GdreoVCQj7etkdSK0DhK7k2yYE2qLk8liAuFKylF7U6%2F4Cbv%2B3%2BD7%2Fb6i7x6GO8VhRPItZ%2BhM8STcD%2Be0QyrfXV%2B5DfKWHzVIuuamInKEt1wtF1JaeNNo9LGirqxngsXYeff9naPk46JGbbe62L75gQj18TVlUITsCrO4IbqGvmi6Lg4Q1Ma4QuHT5mDWWQ%2BnN19CfilfbB6k7d7FOGsR4cMfk2wgMGOE%2BRY8TchY%2BGAYiDgoMgx5Pgpjsx9%2BzBFWG",
-          "addedAt": 1783417292577
         }
       ],
       "sold": 343,
-      "stock": 4,
+      "stock": 3,
       "reserved": []
     },
     {
