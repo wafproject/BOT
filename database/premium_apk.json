@@ -6498,10 +6498,25 @@
           "email": "asyre32@gsuite.biz.id",
           "password": "Masuk123",
           "addedAt": 1783703308370
+        },
+        {
+          "email": "nft3x6q@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1783733116731
+        },
+        {
+          "email": "pcaez2o@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1783733116731
+        },
+        {
+          "email": "cp9dkts@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1783733116731
         }
       ],
       "sold": 126,
-      "stock": 3,
+      "stock": 6,
       "reserved": []
     }
   ],
