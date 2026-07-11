@@ -649,14 +649,8 @@
       "price": 3000,
       "descShort": " Garansi 5 Hari ",
       "snk": "* Garansi 5 hari dihitung sejak tanggal pembelian \n• Akses email : https://emailqu.com/",
-      "items": [
-        {
-          "email": "fxpnd8l@enzipro.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1783029437831
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 45,
       "reserved": [],
       "bulk_active": false,
