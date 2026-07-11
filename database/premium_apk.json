@@ -5432,56 +5432,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "tok_ted_sangel@hotmail.com",
-          "password": "venezueljalibreL2",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "ribeira_cov@hotmail.com",
-          "password": "92YTdndHaKKefSD3",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "julian.larard@hotmail.com",
-          "password": "6mazonv022.",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "damosa.especock@hotmail.com",
-          "password": "S8up9rstar22",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "rawlem_zerom-ka@hotmail.com",
-          "password": "003R5adarP",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "sile_sadley2604@hotmail.com",
-          "password": "resfawk181",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "glas.cuddle-ck@hotmail.com",
-          "password": "yozgatr66H6",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "valdo_sandr@hotmail.com",
-          "password": "se9xygirl1779",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "ra-lewues0607@hotmail.com",
-          "password": "iPnayah15",
-          "addedAt": 1783739852772
-        },
-        {
-          "email": "cyenny_24974770@hotmail.com",
-          "password": "k37xj@ch",
-          "addedAt": 1783739852772
-        },
-        {
           "email": "r3ap3r_pack645@hotmail.com",
           "password": "NiaslJamesHoranh",
           "addedAt": 1783739852772
@@ -5558,7 +5508,7 @@
         }
       ],
       "sold": 4487,
-      "stock": 25,
+      "stock": 15,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5899,6 +5849,63 @@
           ],
           "qty": 5,
           "createdAt": "2026-07-11T03:20:19.685Z"
+        },
+        {
+          "id": "RSV1783740040151874",
+          "items": [
+            {
+              "email": "tok_ted_sangel@hotmail.com",
+              "password": "venezueljalibreL2",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "ribeira_cov@hotmail.com",
+              "password": "92YTdndHaKKefSD3",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "julian.larard@hotmail.com",
+              "password": "6mazonv022.",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "damosa.especock@hotmail.com",
+              "password": "S8up9rstar22",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "rawlem_zerom-ka@hotmail.com",
+              "password": "003R5adarP",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "sile_sadley2604@hotmail.com",
+              "password": "resfawk181",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "glas.cuddle-ck@hotmail.com",
+              "password": "yozgatr66H6",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "valdo_sandr@hotmail.com",
+              "password": "se9xygirl1779",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "ra-lewues0607@hotmail.com",
+              "password": "iPnayah15",
+              "addedAt": 1783739852772
+            },
+            {
+              "email": "cyenny_24974770@hotmail.com",
+              "password": "k37xj@ch",
+              "addedAt": 1783739852772
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-07-11T03:20:40.151Z"
         }
       ],
       "bulk_active": true,
