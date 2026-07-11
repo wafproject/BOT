@@ -6464,22 +6464,9 @@
           "addedAt": 1783732861584
         }
       ],
-      "sold": 40,
+      "sold": 41,
       "stock": 9,
-      "reserved": [
-        {
-          "id": "RSV1783734870994790",
-          "items": [
-            {
-              "email": "darlenekub@antoq02iih.capcutus.biz.id",
-              "password": "masuk123",
-              "addedAt": 1783732861584
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-11T01:54:30.994Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "NETPRIV",
