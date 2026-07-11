@@ -6320,15 +6320,10 @@
           "email": "tedi.yulianti2@mangacin.com",
           "password": "masuk123",
           "addedAt": 1783225563077
-        },
-        {
-          "email": "tedi.yulianti2@mangacin.com",
-          "password": "masuk123",
-          "addedAt": 1783225563077
         }
       ],
       "sold": 754,
-      "stock": 3
+      "stock": 2
     },
     {
       "code": "BSTPRIV",
