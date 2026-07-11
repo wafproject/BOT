@@ -5106,19 +5106,8 @@
         }
       ],
       "stock": 10,
-      "sold": 9,
-      "reserved": [
-        {
-          "id": "RSV1783749310853940",
-          "items": [
-            {
-              "text": "Kirim data ke admin wa/6287731282876 / @enziwaf"
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-11T05:55:10.853Z"
-        }
-      ],
+      "sold": 10,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
