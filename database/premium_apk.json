@@ -5442,7 +5442,7 @@
           "addedAt": 1783739852772
         }
       ],
-      "sold": 4533,
+      "sold": 4535,
       "stock": 2,
       "reserved": [
         {
@@ -5645,23 +5645,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783743085753152",
-          "items": [
-            {
-              "email": "antoil_d855@hotmail.com",
-              "password": "chfri1s032",
-              "addedAt": 1783739852772
-            },
-            {
-              "email": "dom.workid2@hotmail.com",
-              "password": "chelseqft92!",
-              "addedAt": 1783739852772
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-11T04:11:25.753Z"
         }
       ],
       "bulk_active": true,
