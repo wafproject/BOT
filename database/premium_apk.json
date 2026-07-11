@@ -5215,22 +5215,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 514,
+      "sold": 515,
       "stock": 41,
-      "reserved": [
-        {
-          "id": "RSV1783768525225770",
-          "items": [
-            {
-              "email": "gswedy65@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042862399
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-11T11:15:25.225Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
