@@ -5425,11 +5425,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "kezzam1234.az@hotmail.com",
-          "password": "PQFwXw1t23",
-          "addedAt": 1783739852772
-        },
-        {
           "email": "fundastta_olea@hotmail.com",
           "password": "oto3Roo00",
           "addedAt": 1783739852772
@@ -5586,7 +5581,7 @@
         }
       ],
       "sold": 4535,
-      "stock": 32,
+      "stock": 31,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5788,6 +5783,18 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
+        },
+        {
+          "id": "RSV1783749940070911",
+          "items": [
+            {
+              "email": "kezzam1234.az@hotmail.com",
+              "password": "PQFwXw1t23",
+              "addedAt": 1783739852772
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-11T06:05:40.070Z"
         }
       ],
       "bulk_active": true,
