@@ -6406,14 +6406,10 @@
         {
           "link": "https://www.netflix.com/unsupported?nftoken=Bgi8u+vcAxLCAUOTXGm1dHvZ+QExX4du0fQ/GG9dG/O7dnGzQz1vqFKJSPYFY03PtWE+mFGHFVUeZ7M0XYowAAMlukV1zibCnI9y4U5ghN/nmyr5rEwjGvqgCTogxxsoSQ0TuzsJJGSouAsLEUVuBanwEAyuxdrOPzOGJqwWuL0h2puU92Josp0vouI0b/KZSPTGWACfaeqqw1lDOk/RRjUQURueszCHM04sTONdNQBCFpTOLjnJ/9VAnzWaZVoNqbEiWnIYecHakgTZGAYiDgoMdZKVz6yq+N/H8gVu",
           "addedAt": 1783445736494
-        },
-        {
-          "link": "nfvdid=BQFmAAEBEMNU1M_t6xtliH82Ge9LDCVgsDgNUK89Uz1RGFrTe3-IQfo2EtixaXwHi_9BlUBJwBuaQZT54KBk12Gkh9zszR4g02XZSE22-PXe1I2TRIyq95bYEGzQHAfJXoiAUhyUnr55VzzUxF_2zMN-vqxqG14D; gsid=506c6992-5893-4d26-80a1-3bc87a0af1c8; NetflixId=v%3D3%26ct%3DBgjHlOvcAxKQA5VSAsBZOEwo-15kEl-I2ws58WyI0uqKjIy7zAwzyVL3DRhIMxUEf8Jq59XnXeUDBiU6NutWNmBVoT57z80bdDThFYvFU6XiYcT8MZeegoUFoGcckC011jCS2Ysfpg_YY5zMdLAarjlJCDtu4ZC1U__9U9fqwRo1VeckHG54la2-_wNt_AilDYIjwfVVXb3sRRtOgn36DZhlPYjHt9L3JksDbtmW38GC8fEEkJ8nr5DWa4nB14sMfZ39GDtLuFDQhsBvtP0YL2Kn-n0WT0nQDZ43iLbZFRFzJbWgByhpR2ctVVIc9j4Je4K7dAAS7t1RCkUrrFDt9Kvl1RnyJkTnKFRAZLvDsHChDLOyAlcXuHTOSm4Aq_YD4XY8GVcAU-Cx00q2YJWG4G9h3QQODTev-h0Nez_KzhzoOctXzFLJIzssZQRrNoZ5uRW-z8C4neozAq4riGdyuMQRbY9h1NcJ5Kq4A-aqUuswnF0kDM7Uvujq7a11JHfhnQY-QQaAJv9iBurLYH2XI7DY5uoNEMujSAEYBiIOCgzy6Hm4s20Rfk5JIJM.%26pg%3D67PO6HPY4NC7BIPE73B55SV4X4%26ch%3DAQEAEAABABSXKEMYpgxrzH3ek24A9RYhyrkdPwFc41M.; SecureNetflixId=v%3D3%26mac%3DAQEAEQABABSY24UQDAdK1FCojFB2p9vtN0nreX0n_qw.%26dt%3D1783445744878; netflix-sans-bold-3-loaded=true; netflix-sans-normal-3-loaded=true; OptanonConsent=isGpcEnabled=0&datestamp=Tue+May+12+2026+22%3A35%3A14+GMT%2B0900+(Korean+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=905c8598-9062-4d7a-bbb4-dc1fabe6bc59&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0; profilesNewSession=0; flwssn=259aebd8-2e48-4699-afd4-34942feb42c3",
-          "addedAt": 1783445788281
         }
       ],
       "sold": 343,
-      "stock": 9,
+      "stock": 8,
       "reserved": []
     },
     {
