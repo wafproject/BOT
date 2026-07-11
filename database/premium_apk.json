@@ -4787,20 +4787,8 @@
         }
       ],
       "stock": 1030,
-      "sold": 881,
-      "reserved": [
-        {
-          "id": "RSV1783757445784120",
-          "items": [
-            {
-              "email": "joheyjohey@submitreports.com|https://generator.email/joheyjohey@submitreports.com",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-11T08:10:45.784Z"
-        }
-      ],
+      "sold": 882,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
