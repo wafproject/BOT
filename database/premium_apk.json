@@ -5477,7 +5477,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4567,
+      "sold": 4573,
       "stock": 44,
       "reserved": [
         {
@@ -5680,43 +5680,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV178383606487535",
-          "items": [
-            {
-              "email": "cady-rouciar@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            },
-            {
-              "email": "millie_hiya_90V@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            },
-            {
-              "email": "apa.pittlercr@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            },
-            {
-              "email": "alea.cuis_jack@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            },
-            {
-              "email": "giss_du_duffig@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            },
-            {
-              "email": "george_ples8@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            }
-          ],
-          "qty": 6,
-          "createdAt": "2026-07-12T06:01:04.888Z"
         }
       ],
       "bulk_active": true,
