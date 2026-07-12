@@ -5354,7 +5354,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4594,
+      "sold": 4595,
       "stock": 22,
       "reserved": [
         {
@@ -5557,18 +5557,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783864965983476",
-          "items": [
-            {
-              "email": "anger-bizett6775@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-12T14:02:45.983Z"
         }
       ],
       "bulk_active": true,
