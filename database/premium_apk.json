@@ -5253,6 +5253,11 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
+          "email": "keliane-toab@hotmail.com",
+          "password": "1234567",
+          "addedAt": 1783833543861
+        },
+        {
           "email": "thenricct.191@hotmail.com",
           "password": "1234567",
           "addedAt": 1783833543861
@@ -5414,7 +5419,7 @@
         }
       ],
       "sold": 4584,
-      "stock": 32,
+      "stock": 33,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5616,18 +5621,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783840239914199",
-          "items": [
-            {
-              "email": "keliane-toab@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-12T07:10:39.914Z"
         }
       ],
       "bulk_active": true,
