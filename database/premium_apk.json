@@ -5379,7 +5379,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4590,
+      "sold": 4591,
       "stock": 26,
       "reserved": [
         {
@@ -5582,18 +5582,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783855057383151",
-          "items": [
-            {
-              "email": "martiz.ricia86@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-12T11:17:37.383Z"
         }
       ],
       "bulk_active": true,
