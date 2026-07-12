@@ -6415,10 +6415,20 @@
           "email": "ojennz756@gsuite.biz.id",
           "password": "Masuk123",
           "addedAt": 1783833577233
+        },
+        {
+          "email": "fifaskor340@wafprem.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1783833625074
+        },
+        {
+          "email": "afwera011@wafprem.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1783833625074
         }
       ],
       "sold": 132,
-      "stock": 3,
+      "stock": 5,
       "reserved": []
     },
     {
