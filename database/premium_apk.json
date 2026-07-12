@@ -5418,7 +5418,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4574,
+      "sold": 4584,
       "stock": 33,
       "reserved": [
         {
@@ -5621,63 +5621,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783839995508240",
-          "items": [
-            {
-              "email": "berguan_mattren@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            },
-            {
-              "email": "thurakaze_kat@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            },
-            {
-              "email": "julia_badbu@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            },
-            {
-              "email": "vincas.cabetal@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            },
-            {
-              "email": "bex-leganderez2@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            },
-            {
-              "email": "jjose_aguilads@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            },
-            {
-              "email": "evana_quelvi@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            },
-            {
-              "email": "aunder_hotify@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            },
-            {
-              "email": "isa_novkpsinn@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            },
-            {
-              "email": "felia-mix7628@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-07-12T07:06:35.508Z"
         }
       ],
       "bulk_active": true,
