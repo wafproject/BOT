@@ -5369,7 +5369,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4591,
+      "sold": 4593,
       "stock": 24,
       "reserved": [
         {
@@ -5572,23 +5572,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783857320393634",
-          "items": [
-            {
-              "email": "dson_hanlee0@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            },
-            {
-              "email": "riciara.oa@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-12T11:55:20.393Z"
         }
       ],
       "bulk_active": true,
