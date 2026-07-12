@@ -5389,7 +5389,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4588,
+      "sold": 4589,
       "stock": 28,
       "reserved": [
         {
@@ -5592,18 +5592,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783853737787224",
-          "items": [
-            {
-              "email": "grkm_eferna928@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-12T10:55:37.787Z"
         }
       ],
       "bulk_active": true,
