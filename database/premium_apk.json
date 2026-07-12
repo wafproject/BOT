@@ -5330,7 +5330,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4598,
+      "sold": 4599,
       "stock": 18,
       "reserved": [
         {
@@ -5533,18 +5533,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783872117546247",
-          "items": [
-            {
-              "email": "ale_in_dias@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-12T16:01:57.546Z"
         }
       ],
       "bulk_active": true,
