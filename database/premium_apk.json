@@ -5325,7 +5325,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4599,
+      "sold": 4600,
       "stock": 17,
       "reserved": [
         {
@@ -5528,18 +5528,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV178387442126626",
-          "items": [
-            {
-              "email": "tician_koppence@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-12T16:40:21.266Z"
         }
       ],
       "bulk_active": true,
