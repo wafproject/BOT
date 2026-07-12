@@ -6395,10 +6395,15 @@
           "email": "afwera011@wafprem.biz.id",
           "password": "Masuk123",
           "addedAt": 1783833625074
+        },
+        {
+          "email": "b5ptsy4@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1783836997436
         }
       ],
       "sold": 132,
-      "stock": 5,
+      "stock": 6,
       "reserved": []
     },
     {
