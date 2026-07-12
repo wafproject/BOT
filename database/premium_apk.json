@@ -5468,7 +5468,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4573,
+      "sold": 4574,
       "stock": 43,
       "reserved": [
         {
@@ -5671,18 +5671,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783838233129269",
-          "items": [
-            {
-              "email": "paulrsantos_14n@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543857
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-12T06:37:13.129Z"
         }
       ],
       "bulk_active": true,
