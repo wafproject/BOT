@@ -5340,7 +5340,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4596,
+      "sold": 4597,
       "stock": 20,
       "reserved": [
         {
@@ -5543,18 +5543,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783869740514994",
-          "items": [
-            {
-              "email": "katefrano.st@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-12T15:22:20.514Z"
         }
       ],
       "bulk_active": true,
