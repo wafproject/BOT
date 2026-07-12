@@ -6396,10 +6396,25 @@
           "email": "sxt8q2y@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1783837019243
+        },
+        {
+          "email": "z7vcov0@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1783839178478
+        },
+        {
+          "email": "ghbwcdh@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1783839178478
+        },
+        {
+          "email": "wpg3afv@wafprem.biz.id",
+          "password": "masuk123",
+          "addedAt": 1783839178478
         }
       ],
       "sold": 132,
-      "stock": 7,
+      "stock": 10,
       "reserved": []
     },
     {
