@@ -5364,7 +5364,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4593,
+      "sold": 4594,
       "stock": 23,
       "reserved": [
         {
@@ -5567,18 +5567,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783860428094123",
-          "items": [
-            {
-              "email": "tntstaury.vdm@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-12T12:47:08.094Z"
         }
       ],
       "bulk_active": true,
