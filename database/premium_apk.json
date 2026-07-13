@@ -5351,7 +5351,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4622,
+      "sold": 4623,
       "stock": 24,
       "reserved": [
         {
@@ -5554,18 +5554,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783934313039218",
-          "items": [
-            {
-              "email": "I3009.lin33327@hotmail.com",
-              "password": "wiwW7p47",
-              "addedAt": 1783926941865
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T09:18:33.039Z"
         }
       ],
       "bulk_active": true,
