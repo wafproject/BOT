@@ -5316,7 +5316,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4628,
+      "sold": 4629,
       "stock": 18,
       "reserved": [
         {
@@ -5519,18 +5519,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV178394596879491",
-          "items": [
-            {
-              "email": "hamir.melheina@hotmail.com",
-              "password": "cakVpana33",
-              "addedAt": 1783926941865
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T12:32:48.794Z"
         }
       ],
       "bulk_active": true,
