@@ -5356,7 +5356,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4621,
+      "sold": 4622,
       "stock": 25,
       "reserved": [
         {
@@ -5559,18 +5559,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783932768031875",
-          "items": [
-            {
-              "email": "sammy.soulder3@hotmail.com",
-              "password": "0625681859fxZ.",
-              "addedAt": 1783926941865
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T08:52:48.031Z"
         }
       ],
       "bulk_active": true,
