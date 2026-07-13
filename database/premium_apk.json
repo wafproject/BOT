@@ -5619,7 +5619,7 @@
       "bulk_prices": [
         {
           "minQty": 10,
-          "price": 4500
+          "price": 4000
         }
       ]
     },
