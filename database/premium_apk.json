@@ -5226,31 +5226,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "nator_nathanefv@hotmail.com",
-          "password": "11836L1836",
-          "addedAt": 1783926941865
-        },
-        {
-          "email": "kylekiato.ale@hotmail.com",
-          "password": "hansVor778x",
-          "addedAt": 1783926941865
-        },
-        {
-          "email": "boxerkrof.racy@hotmail.com",
-          "password": "guZvara83",
-          "addedAt": 1783926941865
-        },
-        {
-          "email": "thurrilouis.ar@hotmail.com",
-          "password": "wealmoor2b16",
-          "addedAt": 1783926941865
-        },
-        {
-          "email": "ozkan_tige1@hotmail.com",
-          "password": "motzcamaosK",
-          "addedAt": 1783926941866
-        },
-        {
           "email": "tok_tekgums927005@hotmail.com",
           "password": "paulvo92215859",
           "addedAt": 1783926941866
@@ -5302,7 +5277,7 @@
         }
       ],
       "sold": 4632,
-      "stock": 15,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5504,6 +5479,38 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
+        },
+        {
+          "id": "RSV1783947262840843",
+          "items": [
+            {
+              "email": "nator_nathanefv@hotmail.com",
+              "password": "11836L1836",
+              "addedAt": 1783926941865
+            },
+            {
+              "email": "kylekiato.ale@hotmail.com",
+              "password": "hansVor778x",
+              "addedAt": 1783926941865
+            },
+            {
+              "email": "boxerkrof.racy@hotmail.com",
+              "password": "guZvara83",
+              "addedAt": 1783926941865
+            },
+            {
+              "email": "thurrilouis.ar@hotmail.com",
+              "password": "wealmoor2b16",
+              "addedAt": 1783926941865
+            },
+            {
+              "email": "ozkan_tige1@hotmail.com",
+              "password": "motzcamaosK",
+              "addedAt": 1783926941866
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-07-13T12:54:22.840Z"
         }
       ],
       "bulk_active": true,
