@@ -5266,7 +5266,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4637,
+      "sold": 4638,
       "stock": 8,
       "reserved": [
         {
@@ -5481,18 +5481,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-13T13:21:52.710Z"
-        },
-        {
-          "id": "RSV1783948965121387",
-          "items": [
-            {
-              "email": "wolfsmonia_hawk@hotmail.com",
-              "password": "nindsaf2002",
-              "addedAt": 1783926941866
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T13:22:45.121Z"
         }
       ],
       "bulk_active": true,
