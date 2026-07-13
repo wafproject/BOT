@@ -5326,7 +5326,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4626,
+      "sold": 4627,
       "stock": 20,
       "reserved": [
         {
@@ -5529,18 +5529,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783944463077472",
-          "items": [
-            {
-              "email": "robrena_ramesi@hotmail.com",
-              "password": "dBve.fIier1",
-              "addedAt": 1783926941865
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T12:07:43.077Z"
         }
       ],
       "bulk_active": true,
