@@ -5390,7 +5390,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4614,
+      "sold": 4616,
       "stock": 31,
       "reserved": [
         {
@@ -5593,23 +5593,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783927753815853",
-          "items": [
-            {
-              "email": "jbialflice_new@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543862
-            },
-            {
-              "email": "joramostana_ley@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543862
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-13T07:29:13.815Z"
         }
       ],
       "bulk_active": true,
