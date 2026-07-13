@@ -5246,7 +5246,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4639,
+      "sold": 4640,
       "stock": 4,
       "reserved": [
         {
@@ -5449,18 +5449,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783949908117503",
-          "items": [
-            {
-              "email": "maurel.s.diagon@hotmail.com",
-              "password": "G66H29077d",
-              "addedAt": 1783926941866
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T13:38:28.117Z"
         },
         {
           "id": "RSV1783949935597454",
