@@ -5235,11 +5235,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "cha.ribane-fx@hotmail.com",
-          "password": "1234567",
-          "addedAt": 1783833543862
-        },
-        {
           "email": "arq.cakimmegao@hotmail.com",
           "password": "1234567",
           "addedAt": 1783833543862
@@ -5265,8 +5260,8 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4611,
-      "stock": 6,
+      "sold": 4612,
+      "stock": 5,
       "reserved": [
         {
           "id": "RSV1780362536090628",
