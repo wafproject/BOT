@@ -5400,7 +5400,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4612,
+      "sold": 4614,
       "stock": 33,
       "reserved": [
         {
@@ -5603,23 +5603,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783927495904534",
-          "items": [
-            {
-              "email": "arq.cakimmegao@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543862
-            },
-            {
-              "email": "ryan.2004.04A@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543862
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-13T07:24:55.904Z"
         }
       ],
       "bulk_active": true,
