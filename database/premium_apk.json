@@ -5366,7 +5366,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4619,
+      "sold": 4620,
       "stock": 27,
       "reserved": [
         {
@@ -5569,18 +5569,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783932011856775",
-          "items": [
-            {
-              "email": "barciara.donco6@hotmail.com",
-              "password": "ePolo1k12!",
-              "addedAt": 1783926941865
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T08:40:11.856Z"
         }
       ],
       "bulk_active": true,
