@@ -5266,7 +5266,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4638,
+      "sold": 4639,
       "stock": 8,
       "reserved": [
         {
@@ -5469,18 +5469,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783948912710444",
-          "items": [
-            {
-              "email": "tok_tekgums927005@hotmail.com",
-              "password": "paulvo92215859",
-              "addedAt": 1783926941866
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T13:21:52.710Z"
         }
       ],
       "bulk_active": true,
