@@ -5226,21 +5226,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "lucia_franson04@hotmail.com",
-          "password": "mrsweenmK2",
-          "addedAt": 1783926941866
-        },
-        {
-          "email": "hat.tamelib@hotmail.com",
-          "password": "5b@r0Zs@nu",
-          "addedAt": 1783926941866
-        },
-        {
-          "email": "erichell.tuc@hotmail.com",
-          "password": "habsa3baba123S",
-          "addedAt": 1783926941866
-        },
-        {
           "email": "ve_saalvesrosa@hotmail.com",
           "password": "hoEwelal1211",
           "addedAt": 1783926941866
@@ -5262,7 +5247,7 @@
         }
       ],
       "sold": 4639,
-      "stock": 7,
+      "stock": 4,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5476,6 +5461,28 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-13T13:38:28.117Z"
+        },
+        {
+          "id": "RSV1783949935597454",
+          "items": [
+            {
+              "email": "lucia_franson04@hotmail.com",
+              "password": "mrsweenmK2",
+              "addedAt": 1783926941866
+            },
+            {
+              "email": "hat.tamelib@hotmail.com",
+              "password": "5b@r0Zs@nu",
+              "addedAt": 1783926941866
+            },
+            {
+              "email": "erichell.tuc@hotmail.com",
+              "password": "habsa3baba123S",
+              "addedAt": 1783926941866
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-07-13T13:38:55.597Z"
         }
       ],
       "bulk_active": true,
