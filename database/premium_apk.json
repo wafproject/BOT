@@ -5301,7 +5301,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4629,
+      "sold": 4632,
       "stock": 15,
       "reserved": [
         {
@@ -5504,28 +5504,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783946173698407",
-          "items": [
-            {
-              "email": "juminav.bhat_b@hotmail.com",
-              "password": "malikbTack85u",
-              "addedAt": 1783926941865
-            },
-            {
-              "email": "stephy012_0411@hotmail.com",
-              "password": "d3J5W83_",
-              "addedAt": 1783926941865
-            },
-            {
-              "email": "kensking_tancos@hotmail.com",
-              "password": "Enteremee34",
-              "addedAt": 1783926941865
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-07-13T12:36:13.698Z"
         }
       ],
       "bulk_active": true,
