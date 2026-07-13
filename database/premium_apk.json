@@ -5371,7 +5371,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4618,
+      "sold": 4619,
       "stock": 28,
       "reserved": [
         {
@@ -5574,18 +5574,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783930493293360",
-          "items": [
-            {
-              "email": "marzanne_jove_1@hotmail.com",
-              "password": "frame5Z4122Q",
-              "addedAt": 1783926941865
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T08:14:53.293Z"
         }
       ],
       "bulk_active": true,
