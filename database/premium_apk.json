@@ -6140,10 +6140,20 @@
           "email": "wpg3afv@wafprem.biz.id",
           "password": "masuk123",
           "addedAt": 1783839178478
+        },
+        {
+          "email": "vurewqa09@wafprem.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1783972975360
+        },
+        {
+          "email": "diana38q@enzipro.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1783972975361
         }
       ],
       "sold": 140,
-      "stock": 2,
+      "stock": 4,
       "reserved": []
     },
     {
