@@ -6096,22 +6096,9 @@
           "addedAt": 1783703542119
         }
       ],
-      "sold": 768,
+      "sold": 769,
       "stock": 2,
-      "reserved": [
-        {
-          "id": "RSV1783907883721144",
-          "items": [
-            {
-              "email": "fir8826dar@insdstore.biz.id",
-              "password": "Masuk123",
-              "addedAt": 1783703542119
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T01:58:03.721Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "BSTSHAR",
