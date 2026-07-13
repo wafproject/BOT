@@ -5160,22 +5160,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 518,
+      "sold": 519,
       "stock": 37,
-      "reserved": [
-        {
-          "id": "RSV1783951667116512",
-          "items": [
-            {
-              "email": "wtihnc17@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042866483
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T14:07:47.116Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
