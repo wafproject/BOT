@@ -5320,7 +5320,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4600,
+      "sold": 4601,
       "stock": 16,
       "reserved": [
         {
@@ -5523,18 +5523,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV178390486519691",
-          "items": [
-            {
-              "email": "donalg.findr@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543861
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T01:07:45.196Z"
         }
       ],
       "bulk_active": true,
