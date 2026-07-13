@@ -6260,27 +6260,9 @@
           "addedAt": 1783839178478
         }
       ],
-      "sold": 132,
+      "sold": 134,
       "stock": 8,
-      "reserved": [
-        {
-          "id": "RSV1783905133941271",
-          "items": [
-            {
-              "email": "romizitta76@wafprem.biz.id",
-              "password": "Masuk123",
-              "addedAt": 1783833577233
-            },
-            {
-              "email": "zinnuw98@gsuite.biz.id",
-              "password": "Masuk123",
-              "addedAt": 1783833577233
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-13T01:12:13.941Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "WINK",
