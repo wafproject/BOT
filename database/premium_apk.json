@@ -5376,7 +5376,7 @@
           "addedAt": 1783926941866
         }
       ],
-      "sold": 4617,
+      "sold": 4618,
       "stock": 29,
       "reserved": [
         {
@@ -5579,18 +5579,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783929144090562",
-          "items": [
-            {
-              "email": "rode.wehire@hotmail.com",
-              "password": "IdairaMn9",
-              "addedAt": 1783926941865
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T07:52:24.090Z"
         }
       ],
       "bulk_active": true,
