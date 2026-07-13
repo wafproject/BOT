@@ -5275,7 +5275,7 @@
           "addedAt": 1783833543862
         }
       ],
-      "sold": 4609,
+      "sold": 4610,
       "stock": 7,
       "reserved": [
         {
@@ -5478,18 +5478,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-08T15:28:53.907Z"
-        },
-        {
-          "id": "RSV1783911467281824",
-          "items": [
-            {
-              "email": "jose_mores.gar@hotmail.com",
-              "password": "1234567",
-              "addedAt": 1783833543862
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-13T02:57:47.281Z"
         }
       ],
       "bulk_active": true,
