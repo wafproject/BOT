@@ -6046,15 +6046,10 @@
           "email": "fir8826dar@insdstore.biz.id",
           "password": "Masuk123",
           "addedAt": 1783703542119
-        },
-        {
-          "email": "fir8826dar@insdstore.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1783703542119
         }
       ],
       "sold": 769,
-      "stock": 2,
+      "stock": 1,
       "reserved": []
     },
     {
