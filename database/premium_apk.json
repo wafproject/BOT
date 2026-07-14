@@ -6110,7 +6110,7 @@
       "category": "Netflix Premium UHD",
       "type": "akun",
       "price": 20000,
-      "bulk_active": true,
+      "bulk_active": false,
       "bulk_prices": [
         {
           "minQty": 3,
