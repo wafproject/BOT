@@ -5286,7 +5286,7 @@
           "addedAt": 1784007386870
         }
       ],
-      "sold": 4670,
+      "sold": 4680,
       "stock": 14,
       "reserved": [
         {
@@ -5511,63 +5511,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178401197019182",
-          "items": [
-            {
-              "email": "halimanashiruddin21@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784007386869
-            },
-            {
-              "email": "titinyuliarti2@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784007386869
-            },
-            {
-              "email": "ridwanuyainah90@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784007386869
-            },
-            {
-              "email": "silvianuraini82@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784007386869
-            },
-            {
-              "email": "opungandriani79@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784007386869
-            },
-            {
-              "email": "agususada73@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784007386869
-            },
-            {
-              "email": "jagasamosir17@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784007386869
-            },
-            {
-              "email": "sabarlatupono2@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784007386869
-            },
-            {
-              "email": "yogafujiati60@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784007386869
-            },
-            {
-              "email": "banawiwidiastuti43@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784007386869
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-07-14T06:52:50.191Z"
         }
       ],
       "bulk_active": true,
