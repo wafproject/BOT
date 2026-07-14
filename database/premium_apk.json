@@ -5216,56 +5216,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "hildahariyah90@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784007386869
-        },
-        {
-          "email": "jabalwulandari4@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784007386869
-        },
-        {
-          "email": "kandahalim57@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784007386869
-        },
-        {
-          "email": "caturnamaga75@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784007386869
-        },
-        {
-          "email": "jamiltarihoran55@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784007386869
-        },
-        {
-          "email": "hasanrajasa97@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784007386869
-        },
-        {
-          "email": "jayadihasanah9@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784007386869
-        },
-        {
-          "email": "solehdabukke75@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784007386869
-        },
-        {
-          "email": "yuliapalastri73@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784007386869
-        },
-        {
-          "email": "adeagustina33@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784007386869
-        },
-        {
           "email": "radeniswahyudi86@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784007386869
@@ -5467,7 +5417,7 @@
         }
       ],
       "sold": 4644,
-      "stock": 50,
+      "stock": 40,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5691,6 +5641,63 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784007595330376",
+          "items": [
+            {
+              "email": "hildahariyah90@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784007386869
+            },
+            {
+              "email": "jabalwulandari4@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784007386869
+            },
+            {
+              "email": "kandahalim57@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784007386869
+            },
+            {
+              "email": "caturnamaga75@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784007386869
+            },
+            {
+              "email": "jamiltarihoran55@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784007386869
+            },
+            {
+              "email": "hasanrajasa97@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784007386869
+            },
+            {
+              "email": "jayadihasanah9@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784007386869
+            },
+            {
+              "email": "solehdabukke75@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784007386869
+            },
+            {
+              "email": "yuliapalastri73@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784007386869
+            },
+            {
+              "email": "adeagustina33@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784007386869
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-07-14T05:39:55.330Z"
         }
       ],
       "bulk_active": true,
