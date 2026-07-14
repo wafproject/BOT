@@ -6130,26 +6130,33 @@
       ],
       "descShort": "No Garansi",
       "snk": "* CLEAR DATA DULU APK NETFLIX SEBELUM LOGIN, GUNAKAN PAKET DATA, JANGAN WIFI UNTUK PERTAMA LOGIN SUPAYA TIDAK TERKENA HOUSE HOLD.\n• NO GARANSI.\n• AKUN KAMU PEGANG = TANGGUNG JAWAB MU.\n• JANGAN PENCET TOMBOL CANCEL MEMBERSHIP.\n• AKSES tmail.wafproject.my.id\n• SILAHKAN CHANGE EMAIL + PASSWORD",
-      "items": [
-        {
-          "email": "wpg3afv@wafprem.biz.id",
-          "password": "masuk123",
-          "addedAt": 1783839178478
-        },
-        {
-          "email": "vurewqa09@wafprem.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1783972975360
-        },
-        {
-          "email": "diana38q@enzipro.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1783972975361
-        }
-      ],
+      "items": [],
       "sold": 141,
-      "stock": 3,
-      "reserved": []
+      "stock": 0,
+      "reserved": [
+        {
+          "id": "RSV1783988294078860",
+          "items": [
+            {
+              "email": "wpg3afv@wafprem.biz.id",
+              "password": "masuk123",
+              "addedAt": 1783839178478
+            },
+            {
+              "email": "vurewqa09@wafprem.biz.id",
+              "password": "Masuk123",
+              "addedAt": 1783972975360
+            },
+            {
+              "email": "diana38q@enzipro.biz.id",
+              "password": "Masuk123",
+              "addedAt": 1783972975361
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-07-14T00:18:14.078Z"
+        }
+      ]
     },
     {
       "code": "WINK",
