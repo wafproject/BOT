@@ -6129,10 +6129,15 @@
           "email": "viysuoro098@gsuite.biz.id",
           "password": "Masuk123",
           "addedAt": 1784001914347
+        },
+        {
+          "email": "kundhuls12@enzipro.biz.id",
+          "password": "Masuk123",
+          "addedAt": 1784019337814
         }
       ],
       "sold": 147,
-      "stock": 2,
+      "stock": 3,
       "reserved": []
     },
     {
