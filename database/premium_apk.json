@@ -5212,31 +5212,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "saro.mannylagus@hotmail.com",
-          "password": "r58allchum4123",
-          "addedAt": 1784091187168
-        },
-        {
-          "email": "antosh.mutubb@hotmail.com",
-          "password": "109N.210.2d4.250",
-          "addedAt": 1784091187168
-        },
-        {
-          "email": "jb.cristiag308@hotmail.com",
-          "password": "Ngathan_Pcark",
-          "addedAt": 1784091187168
-        },
-        {
-          "email": "thiawad.noo@hotmail.com",
-          "password": "77indirafm0",
-          "addedAt": 1784091187168
-        },
-        {
-          "email": "taxschloe.und309@hotmail.com",
-          "password": "falcowsY41",
-          "addedAt": 1784091187168
-        },
-        {
           "email": "joseluu.irienbu@hotmail.com",
           "password": "Eyme0814B4156191@#$",
           "addedAt": 1784091187168
@@ -5413,7 +5388,7 @@
         }
       ],
       "sold": 4703,
-      "stock": 40,
+      "stock": 35,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5637,6 +5612,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784097750934862",
+          "items": [
+            {
+              "email": "saro.mannylagus@hotmail.com",
+              "password": "r58allchum4123",
+              "addedAt": 1784091187168
+            },
+            {
+              "email": "antosh.mutubb@hotmail.com",
+              "password": "109N.210.2d4.250",
+              "addedAt": 1784091187168
+            },
+            {
+              "email": "jb.cristiag308@hotmail.com",
+              "password": "Ngathan_Pcark",
+              "addedAt": 1784091187168
+            },
+            {
+              "email": "thiawad.noo@hotmail.com",
+              "password": "77indirafm0",
+              "addedAt": 1784091187168
+            },
+            {
+              "email": "taxschloe.und309@hotmail.com",
+              "password": "falcowsY41",
+              "addedAt": 1784091187168
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-07-15T06:42:30.934Z"
         }
       ],
       "bulk_active": true,
