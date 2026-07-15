@@ -5227,7 +5227,7 @@
           "addedAt": 1784091202460
         }
       ],
-      "sold": 4733,
+      "sold": 4735,
       "stock": 8,
       "reserved": [
         {
@@ -5452,23 +5452,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784122750114901",
-          "items": [
-            {
-              "email": "yazmina.malho2@hotmail.com",
-              "password": "Rach1attD23",
-              "addedAt": 1784091187168
-            },
-            {
-              "email": "nello.emtrol@hotmail.com",
-              "password": "4MarDaNicole",
-              "addedAt": 1784091187168
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-15T13:39:10.114Z"
         }
       ],
       "bulk_active": true,
