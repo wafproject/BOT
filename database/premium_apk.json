@@ -5187,16 +5187,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "ldy.pauwelcr@hotmail.com",
-          "password": "SMbat201l",
-          "addedAt": 1784091187168
-        },
-        {
-          "email": "ncarvine-cadi@hotmail.com",
-          "password": "LaKmborn2012",
-          "addedAt": 1784091187168
-        },
-        {
           "email": "yudy.zameremzad@hotmail.com",
           "password": "Pa7Elooscar123",
           "addedAt": 1784091187168
@@ -5268,7 +5258,7 @@
         }
       ],
       "sold": 4727,
-      "stock": 16,
+      "stock": 14,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5492,6 +5482,23 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784116263402794",
+          "items": [
+            {
+              "email": "ldy.pauwelcr@hotmail.com",
+              "password": "SMbat201l",
+              "addedAt": 1784091187168
+            },
+            {
+              "email": "ncarvine-cadi@hotmail.com",
+              "password": "LaKmborn2012",
+              "addedAt": 1784091187168
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-07-15T11:51:03.402Z"
         }
       ],
       "bulk_active": true,
