@@ -5332,7 +5332,7 @@
           "addedAt": 1784091202460
         }
       ],
-      "sold": 4718,
+      "sold": 4719,
       "stock": 24,
       "reserved": [
         {
@@ -5557,18 +5557,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784098842869853",
-          "items": [
-            {
-              "email": "davida.nuneti@hotmail.com",
-              "password": "bluePsisuter",
-              "addedAt": 1784091187168
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-15T07:00:42.869Z"
         }
       ],
       "bulk_active": true,
