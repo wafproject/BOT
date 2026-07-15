@@ -5212,7 +5212,7 @@
           "addedAt": 1784091202460
         }
       ],
-      "sold": 4737,
+      "sold": 4738,
       "stock": 5,
       "reserved": [
         {
@@ -5437,18 +5437,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784129066468326",
-          "items": [
-            {
-              "email": "ala.gonhab19@hotmail.com",
-              "password": "brzstWmjolk",
-              "addedAt": 1784091187168
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-15T15:24:26.468Z"
         }
       ],
       "bulk_active": true,
