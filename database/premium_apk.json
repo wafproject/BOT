@@ -5417,7 +5417,7 @@
           "addedAt": 1784091202460
         }
       ],
-      "sold": 4701,
+      "sold": 4702,
       "stock": 41,
       "reserved": [
         {
@@ -5642,18 +5642,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784095039581344",
-          "items": [
-            {
-              "email": "carim.garrashle@hotmail.com",
-              "password": "n1i95tz5a7r",
-              "addedAt": 1784091187168
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-15T05:57:19.581Z"
         }
       ],
       "bulk_active": true,
