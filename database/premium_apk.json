@@ -5422,7 +5422,7 @@
           "addedAt": 1784091202460
         }
       ],
-      "sold": 4700,
+      "sold": 4701,
       "stock": 42,
       "reserved": [
         {
@@ -5647,18 +5647,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178409437654927",
-          "items": [
-            {
-              "email": "patricct.19041@hotmail.com",
-              "password": "Bpttons2T6",
-              "addedAt": 1784091187168
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-15T05:46:16.549Z"
         }
       ],
       "bulk_active": true,
