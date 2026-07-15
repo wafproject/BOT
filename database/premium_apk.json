@@ -5257,7 +5257,7 @@
           "addedAt": 1784091202460
         }
       ],
-      "sold": 4727,
+      "sold": 4729,
       "stock": 14,
       "reserved": [
         {
@@ -5482,23 +5482,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784116263402794",
-          "items": [
-            {
-              "email": "ldy.pauwelcr@hotmail.com",
-              "password": "SMbat201l",
-              "addedAt": 1784091187168
-            },
-            {
-              "email": "ncarvine-cadi@hotmail.com",
-              "password": "LaKmborn2012",
-              "addedAt": 1784091187168
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-15T11:51:03.402Z"
         }
       ],
       "bulk_active": true,
