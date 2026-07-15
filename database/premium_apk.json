@@ -5222,7 +5222,7 @@
           "addedAt": 1784091202460
         }
       ],
-      "sold": 4735,
+      "sold": 4736,
       "stock": 7,
       "reserved": [
         {
@@ -5447,18 +5447,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784127415716464",
-          "items": [
-            {
-              "email": "jandartiz.26@hotmail.com",
-              "password": "1erromeo",
-              "addedAt": 1784091187168
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-15T14:56:55.716Z"
         }
       ],
       "bulk_active": true,
