@@ -5267,7 +5267,7 @@
           "addedAt": 1784091202460
         }
       ],
-      "sold": 4726,
+      "sold": 4727,
       "stock": 16,
       "reserved": [
         {
@@ -5492,18 +5492,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784110992425763",
-          "items": [
-            {
-              "email": "joic.josejust@hotmail.com",
-              "password": "TonyLarderM0130",
-              "addedAt": 1784091187168
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-15T10:23:12.425Z"
         }
       ],
       "bulk_active": true,
