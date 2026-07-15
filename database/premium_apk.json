@@ -5237,7 +5237,7 @@
           "addedAt": 1784091202460
         }
       ],
-      "sold": 4732,
+      "sold": 4733,
       "stock": 10,
       "reserved": [
         {
@@ -5462,18 +5462,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784122011316470",
-          "items": [
-            {
-              "email": "miratoni.recq@hotmail.com",
-              "password": "tKrJlee14",
-              "addedAt": 1784091187168
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-15T13:26:51.316Z"
         }
       ],
       "bulk_active": true,
