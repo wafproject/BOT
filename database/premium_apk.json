@@ -5435,10 +5435,30 @@
           "email": "j.teing.652@hotmail.com",
           "password": "datelliR2S7431",
           "addedAt": 1784091187168
+        },
+        {
+          "email": "lenard16@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1784091202460
+        },
+        {
+          "email": "enantiopathia@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1784091202460
+        },
+        {
+          "email": "johhnyknox@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1784091202460
+        },
+        {
+          "email": "lyadvinmiha@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1784091202460
         }
       ],
       "sold": 4694,
-      "stock": 45,
+      "stock": 49,
       "reserved": [
         {
           "id": "RSV1780362536090628",
