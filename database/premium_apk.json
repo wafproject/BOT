@@ -5217,7 +5217,7 @@
           "addedAt": 1784091202460
         }
       ],
-      "sold": 4736,
+      "sold": 4737,
       "stock": 6,
       "reserved": [
         {
@@ -5442,18 +5442,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784127486860149",
-          "items": [
-            {
-              "email": "fabi-toabv81562@hotmail.com",
-              "password": "04Y0f86sw",
-              "addedAt": 1784091187168
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-15T14:58:06.860Z"
         }
       ],
       "bulk_active": true,
