@@ -5427,7 +5427,7 @@
           "addedAt": 1784091202460
         }
       ],
-      "sold": 4699,
+      "sold": 4700,
       "stock": 43,
       "reserved": [
         {
@@ -5652,18 +5652,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784093633753469",
-          "items": [
-            {
-              "email": "anniel-shameepl@hotmail.com",
-              "password": "MRaroslavl",
-              "addedAt": 1784091187168
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-15T05:33:53.753Z"
         }
       ],
       "bulk_active": true,
