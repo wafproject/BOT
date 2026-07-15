@@ -5412,7 +5412,7 @@
           "addedAt": 1784091202460
         }
       ],
-      "sold": 4702,
+      "sold": 4703,
       "stock": 40,
       "reserved": [
         {
@@ -5637,18 +5637,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784095839442535",
-          "items": [
-            {
-              "email": "c.ch.maiann@hotmail.com",
-              "password": "EnzoL1ndUo",
-              "addedAt": 1784091187168
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-15T06:10:39.442Z"
         }
       ],
       "bulk_active": true,
