@@ -5236,10 +5236,20 @@
           "email": "wisselfetch98@hotmail.com",
           "password": "cAQiTd0D",
           "addedAt": 1784201169499
+        },
+        {
+          "email": "blewkander74@hotmail.com",
+          "password": "SGNKZ7g4Qvym",
+          "addedAt": 1784203843484
+        },
+        {
+          "email": "darijavery66@hotmail.com",
+          "password": "Oj8kyw2b",
+          "addedAt": 1784203843484
         }
       ],
       "sold": 4767,
-      "stock": 13,
+      "stock": 15,
       "reserved": [
         {
           "id": "RSV1780362536090628",
