@@ -5173,16 +5173,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "RidwanQuek40851fw@hotmail.com",
-          "password": "JTk%DGDr^9AlzYfl",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "IsaacKwek799410aq@hotmail.com",
-          "password": "Jo^dJb3p6U8HMCuT",
-          "addedAt": 1784182721149
-        },
-        {
           "email": "GabrielPatel7374wr@hotmail.com",
           "password": "Z$Ai!Fat^jr8#gqA",
           "addedAt": 1784182721149
@@ -5324,7 +5314,7 @@
         }
       ],
       "sold": 4743,
-      "stock": 30,
+      "stock": 28,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5548,6 +5538,23 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784184503553574",
+          "items": [
+            {
+              "email": "RidwanQuek40851fw@hotmail.com",
+              "password": "JTk%DGDr^9AlzYfl",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "IsaacKwek799410aq@hotmail.com",
+              "password": "Jo^dJb3p6U8HMCuT",
+              "addedAt": 1784182721149
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-07-16T06:48:23.553Z"
         }
       ],
       "bulk_active": true,
