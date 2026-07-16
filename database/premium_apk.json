@@ -5250,7 +5250,7 @@
           "addedAt": 1784206061507
         }
       ],
-      "sold": 4770,
+      "sold": 4771,
       "stock": 17,
       "reserved": [
         {
@@ -5475,18 +5475,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784212892300719",
-          "items": [
-            {
-              "email": "SeanYeo5568hu@hotmail.com",
-              "password": "M!i@PylmRW9wQqEH",
-              "addedAt": 1784182721149
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-16T14:41:32.300Z"
         }
       ],
       "bulk_active": false,
