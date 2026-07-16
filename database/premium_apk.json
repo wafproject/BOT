@@ -5173,31 +5173,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "LucasLiew85505qm@hotmail.com",
-          "password": "KO&Jx8cWbX!1oRM@",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "VikramZainal95303ma@hotmail.com",
-          "password": "FkzMJ3!Ml4LiO%RZ",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "ManojMenon05797an@hotmail.com",
-          "password": "myVBPti135IkL@3j",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "MarcusKoh439828ok@hotmail.com",
-          "password": "KqIMFyGjU*&2YIw2",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "ElijahSeah26863gi@hotmail.com",
-          "password": "*KXx1l&C%Aa#GtaF",
-          "addedAt": 1784182721149
-        },
-        {
           "email": "LucasToh27687tu@hotmail.com",
           "password": "&ZO@80s38^*Fo4ub",
           "addedAt": 1784182721149
@@ -5264,7 +5239,7 @@
         }
       ],
       "sold": 4760,
-      "stock": 18,
+      "stock": 13,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5488,6 +5463,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784199658193799",
+          "items": [
+            {
+              "email": "LucasLiew85505qm@hotmail.com",
+              "password": "KO&Jx8cWbX!1oRM@",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "VikramZainal95303ma@hotmail.com",
+              "password": "FkzMJ3!Ml4LiO%RZ",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "ManojMenon05797an@hotmail.com",
+              "password": "myVBPti135IkL@3j",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "MarcusKoh439828ok@hotmail.com",
+              "password": "KqIMFyGjU*&2YIw2",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "ElijahSeah26863gi@hotmail.com",
+              "password": "*KXx1l&C%Aa#GtaF",
+              "addedAt": 1784182721149
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-07-16T11:00:58.194Z"
         }
       ],
       "bulk_active": false,
