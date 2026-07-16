@@ -5235,7 +5235,7 @@
           "addedAt": 1784206061507
         }
       ],
-      "sold": 4772,
+      "sold": 4773,
       "stock": 15,
       "reserved": [
         {
@@ -5460,18 +5460,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784219846659329",
-          "items": [
-            {
-              "email": "SureshZainal1598yt@hotmail.com",
-              "password": "#lF1$V5M4pUkgRQf",
-              "addedAt": 1784182721149
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-16T16:37:26.659Z"
         }
       ],
       "bulk_active": false,
