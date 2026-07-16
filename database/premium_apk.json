@@ -4717,20 +4717,8 @@
         }
       ],
       "stock": 1029,
-      "sold": 882,
-      "reserved": [
-        {
-          "id": "RSV1784166618247242",
-          "items": [
-            {
-              "email": "mkarayianni@cangcud.com|https://generator.email/mkarayianni@cangcud.com",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-16T01:50:18.247Z"
-        }
-      ],
+      "sold": 883,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
