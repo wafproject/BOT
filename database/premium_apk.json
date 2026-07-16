@@ -5246,10 +5246,15 @@
           "email": "chrosniakbates0871@hotmail.com",
           "password": "T1cMSQ3ujoq",
           "addedAt": 1784203864477
+        },
+        {
+          "email": "chassidyposson1322@hotmail.com",
+          "password": "Cy30h1O1cU",
+          "addedAt": 1784203974767
         }
       ],
       "sold": 4768,
-      "stock": 15,
+      "stock": 16,
       "reserved": [
         {
           "id": "RSV1780362536090628",
