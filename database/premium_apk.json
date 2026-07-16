@@ -5241,10 +5241,15 @@
           "email": "darijavery66@hotmail.com",
           "password": "Oj8kyw2b",
           "addedAt": 1784203843484
+        },
+        {
+          "email": "chrosniakbates0871@hotmail.com",
+          "password": "T1cMSQ3ujoq",
+          "addedAt": 1784203864477
         }
       ],
       "sold": 4767,
-      "stock": 14,
+      "stock": 15,
       "reserved": [
         {
           "id": "RSV1780362536090628",
