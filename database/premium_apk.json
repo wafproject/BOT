@@ -5243,7 +5243,7 @@
           "addedAt": 1784201169499
         }
       ],
-      "sold": 4765,
+      "sold": 4766,
       "stock": 14,
       "reserved": [
         {
@@ -5468,18 +5468,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178420151392999",
-          "items": [
-            {
-              "email": "LucasToh27687tu@hotmail.com",
-              "password": "&ZO@80s38^*Fo4ub",
-              "addedAt": 1784182721149
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-16T11:31:53.929Z"
         }
       ],
       "bulk_active": false,
