@@ -5112,22 +5112,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 519,
+      "sold": 520,
       "stock": 36,
-      "reserved": [
-        {
-          "id": "RSV1784171643679651",
-          "items": [
-            {
-              "email": "tjpiuv116@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042867726
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-16T03:14:03.679Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
