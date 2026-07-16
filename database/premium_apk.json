@@ -5173,56 +5173,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "GabrielPatel7374wr@hotmail.com",
-          "password": "Z$Ai!Fat^jr8#gqA",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "VikramRizal260717bt@hotmail.com",
-          "password": "gPxO9NoTv#*Vg@vq",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "DylanSalleh8558ms@hotmail.com",
-          "password": "A^b9^a2mRg2DfPzX",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "JonathanNg91097op@hotmail.com",
-          "password": "LbcDWAjDu*168&sw",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "MatthewPatel896506mn@hotmail.com",
-          "password": "^^mqyNHDME7LdE25",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "JaydenFoo7472ua@hotmail.com",
-          "password": "0T8Banm@RdMZ2g&s",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "VikramHo935586ws@hotmail.com",
-          "password": "7z38#D3G$&lnX2V@",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "MatthewPatel0496rs@hotmail.com",
-          "password": "Y7PnEtlb^n3i1s*5",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "GabrielSoh881586wx@hotmail.com",
-          "password": "0q6*hch2G&Os7RSX",
-          "addedAt": 1784182721149
-        },
-        {
-          "email": "SureshLim04415nk@hotmail.com",
-          "password": "xM3a%fzRDlNT@KO7",
-          "addedAt": 1784182721149
-        },
-        {
           "email": "IsaacHaziq219186fr@hotmail.com",
           "password": "lZxc!DlB*6c*Z$ZH",
           "addedAt": 1784182721149
@@ -5314,7 +5264,7 @@
         }
       ],
       "sold": 4745,
-      "stock": 28,
+      "stock": 18,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5538,6 +5488,63 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784190239036227",
+          "items": [
+            {
+              "email": "GabrielPatel7374wr@hotmail.com",
+              "password": "Z$Ai!Fat^jr8#gqA",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "VikramRizal260717bt@hotmail.com",
+              "password": "gPxO9NoTv#*Vg@vq",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "DylanSalleh8558ms@hotmail.com",
+              "password": "A^b9^a2mRg2DfPzX",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "JonathanNg91097op@hotmail.com",
+              "password": "LbcDWAjDu*168&sw",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "MatthewPatel896506mn@hotmail.com",
+              "password": "^^mqyNHDME7LdE25",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "JaydenFoo7472ua@hotmail.com",
+              "password": "0T8Banm@RdMZ2g&s",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "VikramHo935586ws@hotmail.com",
+              "password": "7z38#D3G$&lnX2V@",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "MatthewPatel0496rs@hotmail.com",
+              "password": "Y7PnEtlb^n3i1s*5",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "GabrielSoh881586wx@hotmail.com",
+              "password": "0q6*hch2G&Os7RSX",
+              "addedAt": 1784182721149
+            },
+            {
+              "email": "SureshLim04415nk@hotmail.com",
+              "password": "xM3a%fzRDlNT@KO7",
+              "addedAt": 1784182721149
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-07-16T08:23:59.036Z"
         }
       ],
       "bulk_active": true,
