@@ -5236,10 +5236,20 @@
           "email": "caluyalambrukos310@hotmail.com",
           "password": "nQ9oY7ezH",
           "addedAt": 1784199504853
+        },
+        {
+          "email": "wertzvilches3293@hotmail.com",
+          "password": "iUhK2kIE75P",
+          "addedAt": 1784201169499
+        },
+        {
+          "email": "wisselfetch98@hotmail.com",
+          "password": "cAQiTd0D",
+          "addedAt": 1784201169499
         }
       ],
       "sold": 4765,
-      "stock": 13,
+      "stock": 15,
       "reserved": [
         {
           "id": "RSV1780362536090628",
