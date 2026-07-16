@@ -5230,7 +5230,7 @@
           "addedAt": 1784206061507
         }
       ],
-      "sold": 4773,
+      "sold": 4774,
       "stock": 14,
       "reserved": [
         {
@@ -5455,18 +5455,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784225540505528",
-          "items": [
-            {
-              "email": "wettsteincugini9054@hotmail.com",
-              "password": "8o8NVqEQxd2",
-              "addedAt": 1784197164297
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-16T18:12:20.505Z"
         }
       ],
       "bulk_active": false,
