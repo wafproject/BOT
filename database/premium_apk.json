@@ -5251,10 +5251,15 @@
           "email": "chassidyposson1322@hotmail.com",
           "password": "Cy30h1O1cU",
           "addedAt": 1784203974767
+        },
+        {
+          "email": "capanomogro9776@hotmail.com",
+          "password": "pByi9hSMv5K",
+          "addedAt": 1784204294486
         }
       ],
       "sold": 4768,
-      "stock": 16,
+      "stock": 17,
       "reserved": [
         {
           "id": "RSV1780362536090628",
