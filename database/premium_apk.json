@@ -5225,7 +5225,7 @@
           "addedAt": 1784206061507
         }
       ],
-      "sold": 4774,
+      "sold": 4775,
       "stock": 13,
       "reserved": [
         {
@@ -5450,18 +5450,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784246268150423",
-          "items": [
-            {
-              "email": "brandenwrede53@hotmail.com",
-              "password": "Xv7qAjwRIKX",
-              "addedAt": 1784197164297
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-16T23:57:48.150Z"
         }
       ],
       "bulk_active": false,
