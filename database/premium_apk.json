@@ -5265,7 +5265,7 @@
           "addedAt": 1784206061507
         }
       ],
-      "sold": 4768,
+      "sold": 4769,
       "stock": 19,
       "reserved": [
         {
@@ -5490,18 +5490,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784207040720336",
-          "items": [
-            {
-              "email": "RidwanLee0190qs@hotmail.com",
-              "password": "b*mrGREGmF9$nAVI",
-              "addedAt": 1784182721149
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-16T13:04:00.720Z"
         }
       ],
       "bulk_active": false,
