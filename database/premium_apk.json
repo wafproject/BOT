@@ -6081,7 +6081,7 @@
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu)",
       "items": [],
-      "sold": 4812,
+      "sold": 4813,
       "stock": 0,
       "reserved": [
         {
@@ -6306,18 +6306,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784296777638261",
-          "items": [
-            {
-              "email": "djarumapel76@hotmail.com",
-              "password": "Putih123*",
-              "addedAt": 1784284576054
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T13:59:37.638Z"
         }
       ],
       "bulk_active": true,
