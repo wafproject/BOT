@@ -6087,7 +6087,7 @@
           "addedAt": 1784284576054
         }
       ],
-      "sold": 4811,
+      "sold": 4812,
       "stock": 1,
       "reserved": [
         {
@@ -6312,18 +6312,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784296336240350",
-          "items": [
-            {
-              "email": "blackmatcha10@hotmail.com",
-              "password": "Hitam123*",
-              "addedAt": 1784284576054
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T13:52:16.240Z"
         }
       ],
       "bulk_active": true,
