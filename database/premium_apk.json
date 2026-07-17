@@ -5215,7 +5215,7 @@
           "addedAt": 1784249151311
         }
       ],
-      "sold": 4775,
+      "sold": 4785,
       "stock": 11,
       "reserved": [
         {
@@ -5440,63 +5440,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178424977080213",
-          "items": [
-            {
-              "email": "persiuqewp827@hotmail.com",
-              "password": "qOibw7yH",
-              "addedAt": 1784197164297
-            },
-            {
-              "email": "bonduroresk776@hotmail.com",
-              "password": "kOuhGay667",
-              "addedAt": 1784197164297
-            },
-            {
-              "email": "caluyalambrukos310@hotmail.com",
-              "password": "nQ9oY7ezH",
-              "addedAt": 1784199504853
-            },
-            {
-              "email": "wertzvilches3293@hotmail.com",
-              "password": "iUhK2kIE75P",
-              "addedAt": 1784201169499
-            },
-            {
-              "email": "wisselfetch98@hotmail.com",
-              "password": "cAQiTd0D",
-              "addedAt": 1784201169499
-            },
-            {
-              "email": "blewkander74@hotmail.com",
-              "password": "SGNKZ7g4Qvym",
-              "addedAt": 1784203843484
-            },
-            {
-              "email": "darijavery66@hotmail.com",
-              "password": "Oj8kyw2b",
-              "addedAt": 1784203843484
-            },
-            {
-              "email": "chrosniakbates0871@hotmail.com",
-              "password": "T1cMSQ3ujoq",
-              "addedAt": 1784203864477
-            },
-            {
-              "email": "chassidyposson1322@hotmail.com",
-              "password": "Cy30h1O1cU",
-              "addedAt": 1784203974767
-            },
-            {
-              "email": "capanomogro9776@hotmail.com",
-              "password": "pByi9hSMv5K",
-              "addedAt": 1784204294486
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-07-17T00:56:10.802Z"
         }
       ],
       "bulk_active": true,
