@@ -5225,7 +5225,7 @@
           "addedAt": 1784255612837
         }
       ],
-      "sold": 4797,
+      "sold": 4798,
       "stock": 13,
       "reserved": [
         {
@@ -5450,18 +5450,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784269459656342",
-          "items": [
-            {
-              "email": "tontarskiarant7742@hotmail.com",
-              "password": "lGeydqxB7LYr",
-              "addedAt": 1784255571710
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T06:24:19.656Z"
         }
       ],
       "bulk_active": true,
