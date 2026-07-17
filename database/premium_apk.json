@@ -5230,7 +5230,7 @@
           "addedAt": 1784255612837
         }
       ],
-      "sold": 4796,
+      "sold": 4797,
       "stock": 14,
       "reserved": [
         {
@@ -5455,18 +5455,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784269111281423",
-          "items": [
-            {
-              "email": "pirrelloantonini42@hotmail.com",
-              "password": "Kc6fr3GfTdoO",
-              "addedAt": 1784255571710
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T06:18:31.281Z"
         }
       ],
       "bulk_active": true,
