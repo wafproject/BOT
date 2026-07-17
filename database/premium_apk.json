@@ -5420,7 +5420,7 @@
           "addedAt": 1784255612837
         }
       ],
-      "sold": 4804,
+      "sold": 4805,
       "stock": 6,
       "reserved": [
         {
@@ -5645,18 +5645,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784280703258923",
-          "items": [
-            {
-              "email": "hicegascot770@hotmail.com",
-              "password": "EgfG75pJICQ",
-              "addedAt": 1784255571710
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T09:31:43.258Z"
         }
       ],
       "bulk_active": true,
