@@ -6097,7 +6097,7 @@
           "addedAt": 1784284576054
         }
       ],
-      "sold": 4809,
+      "sold": 4810,
       "stock": 3,
       "reserved": [
         {
@@ -6322,18 +6322,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178429464272043",
-          "items": [
-            {
-              "email": "reichhardtstaneart184@hotmail.com",
-              "password": "sF3UEjL8b",
-              "addedAt": 1784255571710
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T13:24:02.721Z"
         }
       ],
       "bulk_active": true,
