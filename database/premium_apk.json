@@ -5390,31 +5390,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu)",
       "items": [
         {
-          "email": "kubelindie1728@hotmail.com",
-          "password": "ahQGzx4e4",
-          "addedAt": 1784255571710
-        },
-        {
-          "email": "tillersamantha6889@hotmail.com",
-          "password": "2Q06j0ZihEXo",
-          "addedAt": 1784255571710
-        },
-        {
-          "email": "hicegascot770@hotmail.com",
-          "password": "EgfG75pJICQ",
-          "addedAt": 1784255571710
-        },
-        {
-          "email": "ravenellecharolette45@hotmail.com",
-          "password": "uoZ6lxToFv9",
-          "addedAt": 1784255571710
-        },
-        {
-          "email": "holsclawmcglauflin522@hotmail.com",
-          "password": "N5Wisle7R",
-          "addedAt": 1784255571710
-        },
-        {
           "email": "hicegascot770@hotmail.com",
           "password": "EgfG75pJICQ",
           "addedAt": 1784255571710
@@ -5451,7 +5426,7 @@
         }
       ],
       "sold": 4799,
-      "stock": 12,
+      "stock": 7,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5675,6 +5650,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784278550048358",
+          "items": [
+            {
+              "email": "kubelindie1728@hotmail.com",
+              "password": "ahQGzx4e4",
+              "addedAt": 1784255571710
+            },
+            {
+              "email": "tillersamantha6889@hotmail.com",
+              "password": "2Q06j0ZihEXo",
+              "addedAt": 1784255571710
+            },
+            {
+              "email": "hicegascot770@hotmail.com",
+              "password": "EgfG75pJICQ",
+              "addedAt": 1784255571710
+            },
+            {
+              "email": "ravenellecharolette45@hotmail.com",
+              "password": "uoZ6lxToFv9",
+              "addedAt": 1784255571710
+            },
+            {
+              "email": "holsclawmcglauflin522@hotmail.com",
+              "password": "N5Wisle7R",
+              "addedAt": 1784255571710
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-07-17T08:55:50.048Z"
         }
       ],
       "bulk_active": true,
