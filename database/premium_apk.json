@@ -5415,7 +5415,7 @@
           "addedAt": 1784255612837
         }
       ],
-      "sold": 4805,
+      "sold": 4806,
       "stock": 5,
       "reserved": [
         {
@@ -5640,18 +5640,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784281569119670",
-          "items": [
-            {
-              "email": "luthervalenzvela684@hotmail.com",
-              "password": "Lz00VhzzIj6j",
-              "addedAt": 1784255571710
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T09:46:09.119Z"
         }
       ],
       "bulk_active": true,
