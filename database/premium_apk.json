@@ -5240,7 +5240,7 @@
           "addedAt": 1784255612837
         }
       ],
-      "sold": 4794,
+      "sold": 4795,
       "stock": 16,
       "reserved": [
         {
@@ -5465,18 +5465,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784264422470144",
-          "items": [
-            {
-              "email": "kratzshumard475@hotmail.com",
-              "password": "L1TyaR1X6N9",
-              "addedAt": 1784249151311
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T05:00:22.470Z"
         }
       ],
       "bulk_active": true,
