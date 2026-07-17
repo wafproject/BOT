@@ -6120,7 +6120,7 @@
           "addedAt": 1784284576054
         }
       ],
-      "sold": 4806,
+      "sold": 4807,
       "stock": 6,
       "reserved": [
         {
@@ -6345,18 +6345,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784287788425339",
-          "items": [
-            {
-              "email": "thadenmilionis6876@hotmail.com",
-              "password": "S8EAFJ2Uz",
-              "addedAt": 1784255571710
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T11:29:48.425Z"
         }
       ],
       "bulk_active": true,
