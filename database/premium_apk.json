@@ -5235,7 +5235,7 @@
           "addedAt": 1784255612837
         }
       ],
-      "sold": 4795,
+      "sold": 4796,
       "stock": 15,
       "reserved": [
         {
@@ -5460,18 +5460,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784268348830799",
-          "items": [
-            {
-              "email": "grambybackes78@hotmail.com",
-              "password": "4o2tCKm0AN",
-              "addedAt": 1784249151311
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T06:05:48.830Z"
         }
       ],
       "bulk_active": true,
