@@ -4732,8 +4732,8 @@
       ]
     },
     {
-      "code": "VIU",
-      "name": "Viu Antilimit 1 tahun",
+      "code": "VIU1TH",
+      "name": "Viu Premium 1 Tahun",
       "category": "viu",
       "type": "akun",
       "price": 500,
