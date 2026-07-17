@@ -5220,7 +5220,7 @@
           "addedAt": 1784255612837
         }
       ],
-      "sold": 4798,
+      "sold": 4799,
       "stock": 12,
       "reserved": [
         {
@@ -5445,18 +5445,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784276455795653",
-          "items": [
-            {
-              "email": "jenanoelle333@hotmail.com",
-              "password": "0NTww5ydZt",
-              "addedAt": 1784255571710
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T08:20:55.795Z"
         }
       ],
       "bulk_active": true,
