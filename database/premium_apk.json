@@ -5210,7 +5210,7 @@
           "addedAt": 1784249151311
         }
       ],
-      "sold": 4785,
+      "sold": 4786,
       "stock": 10,
       "reserved": [
         {
@@ -5435,18 +5435,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784251534413995",
-          "items": [
-            {
-              "email": "mielczarekhuereca184@hotmail.com",
-              "password": "kw9Ytjx0uK",
-              "addedAt": 1784206061507
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T01:25:34.413Z"
         }
       ],
       "bulk_active": true,
