@@ -5255,7 +5255,7 @@
           "addedAt": 1784255612837
         }
       ],
-      "sold": 4791,
+      "sold": 4792,
       "stock": 19,
       "reserved": [
         {
@@ -5480,18 +5480,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784258236560573",
-          "items": [
-            {
-              "email": "wansleylynsey3577@hotmail.com",
-              "password": "Q43CdkYN",
-              "addedAt": 1784249151311
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T03:17:16.560Z"
         }
       ],
       "bulk_active": true,
