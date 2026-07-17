@@ -6372,6 +6372,20 @@
       "items": [],
       "sold": 0,
       "stock": 0
+    },
+    {
+      "code": "VIULIFE",
+      "name": "Viu Premium Lifetime",
+      "category": "viu",
+      "type": "akun",
+      "price": 800,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "Garansi 3 bulan",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
