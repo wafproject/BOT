@@ -5873,10 +5873,20 @@
           "email": "olivierabigsby48@hotmail.com",
           "password": "Pw9s88hor",
           "addedAt": 1784255612837
+        },
+        {
+          "email": "blackmatcha10@hotmail.com",
+          "password": "Hitam123*",
+          "addedAt": 1784284576054
+        },
+        {
+          "email": "djarumapel76@hotmail.com",
+          "password": "Putih123*",
+          "addedAt": 1784284576054
         }
       ],
       "sold": 4806,
-      "stock": 5,
+      "stock": 7,
       "reserved": [
         {
           "id": "RSV1780362536090628",
