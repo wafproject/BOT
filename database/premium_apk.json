@@ -5200,7 +5200,7 @@
           "addedAt": 1784249151311
         }
       ],
-      "sold": 4787,
+      "sold": 4788,
       "stock": 8,
       "reserved": [
         {
@@ -5425,18 +5425,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784255481284636",
-          "items": [
-            {
-              "email": "pettibonehovsepian6780@hotmail.com",
-              "password": "ZUdS04L9r",
-              "addedAt": 1784206061507
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T02:31:21.284Z"
         }
       ],
       "bulk_active": true,
