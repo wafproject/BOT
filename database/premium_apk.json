@@ -5492,7 +5492,7 @@
           "createdAt": "2026-07-13T13:38:55.597Z"
         }
       ],
-      "bulk_active": false,
+      "bulk_active": true,
       "bulk_prices": [
         {
           "minQty": 10,
