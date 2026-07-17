@@ -5245,7 +5245,7 @@
           "addedAt": 1784255612837
         }
       ],
-      "sold": 4793,
+      "sold": 4794,
       "stock": 17,
       "reserved": [
         {
@@ -5470,18 +5470,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784260164206593",
-          "items": [
-            {
-              "email": "tegtmeyerpaulas15@hotmail.com",
-              "password": "POUjGmw72IM",
-              "addedAt": 1784249151311
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T03:49:24.206Z"
         }
       ],
       "bulk_active": true,
