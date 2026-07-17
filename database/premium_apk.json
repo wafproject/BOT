@@ -5250,7 +5250,7 @@
           "addedAt": 1784255612837
         }
       ],
-      "sold": 4792,
+      "sold": 4793,
       "stock": 18,
       "reserved": [
         {
@@ -5475,18 +5475,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178425860898296",
-          "items": [
-            {
-              "email": "kreidelmcvenes28@hotmail.com",
-              "password": "Z0kszM91",
-              "addedAt": 1784249151311
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T03:23:28.982Z"
         }
       ],
       "bulk_active": true,
