@@ -6092,7 +6092,7 @@
           "addedAt": 1784284576054
         }
       ],
-      "sold": 4810,
+      "sold": 4811,
       "stock": 2,
       "reserved": [
         {
@@ -6317,18 +6317,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784296083923366",
-          "items": [
-            {
-              "email": "olivierabigsby48@hotmail.com",
-              "password": "Pw9s88hor",
-              "addedAt": 1784255612837
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T13:48:03.923Z"
         }
       ],
       "bulk_active": true,
