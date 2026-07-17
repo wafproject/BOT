@@ -6111,7 +6111,7 @@
           "addedAt": 1784284576054
         }
       ],
-      "sold": 4807,
+      "sold": 4808,
       "stock": 5,
       "reserved": [
         {
@@ -6336,18 +6336,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784291606057400",
-          "items": [
-            {
-              "email": "cieslikkrysl26@hotmail.com",
-              "password": "aYNTf7An2",
-              "addedAt": 1784255571710
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-17T12:33:26.057Z"
         }
       ],
       "bulk_active": true,
