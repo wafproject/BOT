@@ -6922,15 +6922,10 @@
           "email": "hultgrentugwell047@hotmail.com",
           "password": "BUrs8iENh",
           "addedAt": 1784411225198
-        },
-        {
-          "email": "huffstetlerschilder7536@hotmail.com",
-          "password": "WR1JuXoqgP",
-          "addedAt": 1784411225198
         }
       ],
       "sold": 4859,
-      "stock": 154,
+      "stock": 153,
       "reserved": [
         {
           "id": "RSV1780362536090628",
