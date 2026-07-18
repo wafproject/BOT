@@ -6777,15 +6777,10 @@
           "email": "febigunawan66@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "ulimahendra9@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 125,
+      "stock": 124,
       "reserved": [
         {
           "id": "RSV1780362536090628",
