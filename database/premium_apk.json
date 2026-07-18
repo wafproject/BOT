@@ -6092,7 +6092,7 @@
           "addedAt": 1784326324528
         }
       ],
-      "sold": 4855,
+      "sold": 4856,
       "stock": 7,
       "reserved": [
         {
@@ -6317,18 +6317,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784368291745823",
-          "items": [
-            {
-              "email": "linthicumpilson599@hotmail.com",
-              "password": "X0c2qI5XEsT2",
-              "addedAt": 1784326324528
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-18T09:51:31.745Z"
         }
       ],
       "bulk_active": true,
