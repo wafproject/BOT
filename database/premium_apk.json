@@ -6897,15 +6897,10 @@
           "email": "evelyneshenk5017@hotmail.com",
           "password": "0ApojY67Na",
           "addedAt": 1784411225198
-        },
-        {
-          "email": "bultmanpeaceful308@hotmail.com",
-          "password": "Ei1O0vbyt7",
-          "addedAt": 1784411225198
         }
       ],
       "sold": 4859,
-      "stock": 149,
+      "stock": 148,
       "reserved": [
         {
           "id": "RSV1780362536090628",
