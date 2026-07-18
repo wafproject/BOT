@@ -6217,15 +6217,10 @@
           "email": "stedronskykovalovsky8612@hotmail.com",
           "password": "nEvSl1ylSRv",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "wanlasslamos82@hotmail.com",
-          "password": "j35VOm1LiX",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 13,
+      "stock": 12,
       "reserved": [
         {
           "id": "RSV1780362536090628",
