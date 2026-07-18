@@ -6163,7 +6163,7 @@
           "addedAt": 1784326324528
         }
       ],
-      "sold": 4845,
+      "sold": 4846,
       "stock": 17,
       "reserved": [
         {
@@ -6388,18 +6388,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784350686184880",
-          "items": [
-            {
-              "email": "vinionhemmen300@outlook.com",
-              "password": "Xo1Xn487",
-              "addedAt": 1784326324528
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-18T04:58:06.184Z"
         }
       ],
       "bulk_active": true,
