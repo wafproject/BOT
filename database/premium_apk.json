@@ -6168,7 +6168,7 @@
           "addedAt": 1784326324528
         }
       ],
-      "sold": 4835,
+      "sold": 4845,
       "stock": 18,
       "reserved": [
         {
@@ -6393,63 +6393,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784349635906489",
-          "items": [
-            {
-              "email": "severesalvietti823@hotmail.com",
-              "password": "I25abbow1azM",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "nicewarnerharold6165@hotmail.com",
-              "password": "yugyc6DZKMM",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "sorenquest8298@hotmail.com",
-              "password": "9yhCh0JmRiCB",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "erpeldinghartman3819@hotmail.com",
-              "password": "Fqm1kIHl9f2k",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "pfifersor2142@hotmail.com",
-              "password": "HflHwCO5QO",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "mcferronbowering4412@hotmail.com",
-              "password": "EdmMXeX2OvAZ",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "cousartrembley30@hotmail.com",
-              "password": "MA0vwc7ln",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "vanderschelmay031@hotmail.com",
-              "password": "TaSS7slW",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "gillockdiflorio7169@hotmail.com",
-              "password": "U7Rdtu0Iox",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "gillmoreshorette585@hotmail.com",
-              "password": "LylKCqGU6GM",
-              "addedAt": 1784326324528
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-07-18T04:40:35.907Z"
         }
       ],
       "bulk_active": true,
