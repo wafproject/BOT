@@ -6078,11 +6078,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu)",
       "items": [
         {
-          "email": "armelcarrell688@hotmail.com",
-          "password": "2zQg1YcEDP6R",
-          "addedAt": 1784326324528
-        },
-        {
           "email": "toledanosimcheck4146@hotmail.com",
           "password": "fiX4839Ak1C",
           "addedAt": 1784326324528
@@ -6158,8 +6153,8 @@
           "addedAt": 1784326324528
         }
       ],
-      "sold": 4847,
-      "stock": 16,
+      "sold": 4848,
+      "stock": 15,
       "reserved": [
         {
           "id": "RSV1780362536090628",
