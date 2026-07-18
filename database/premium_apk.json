@@ -6487,15 +6487,10 @@
           "email": "cahyonoanggraini24@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784409701027
-        },
-        {
-          "email": "tiarausada94@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784409701027
         }
       ],
       "sold": 4859,
-      "stock": 67,
+      "stock": 66,
       "reserved": [
         {
           "id": "RSV1780362536090628",
