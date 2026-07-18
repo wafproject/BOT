@@ -6437,15 +6437,10 @@
           "email": "prakosamangunsong49@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784409701027
-        },
-        {
-          "email": "najamanggriawan2@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784409701027
         }
       ],
       "sold": 4859,
-      "stock": 57,
+      "stock": 56,
       "reserved": [
         {
           "id": "RSV1780362536090628",
