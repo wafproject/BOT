@@ -6277,15 +6277,10 @@
           "email": "perencevichfirman2064@hotmail.com",
           "password": "PxElQXw0k",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "turcomartes6336@hotmail.com",
-          "password": "0Qr5mOJpX",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 25,
+      "stock": 24,
       "reserved": [
         {
           "id": "RSV1780362536090628",
