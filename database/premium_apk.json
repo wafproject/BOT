@@ -6602,15 +6602,10 @@
           "email": "lulutwibisono24@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "lasmantowasita44@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 90,
+      "stock": 89,
       "reserved": [
         {
           "id": "RSV1780362536090628",
