@@ -6582,15 +6582,10 @@
           "email": "kembakusmawati1@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "diahnapitupulu97@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 86,
+      "stock": 85,
       "reserved": [
         {
           "id": "RSV1780362536090628",
