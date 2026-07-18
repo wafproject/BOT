@@ -6537,15 +6537,10 @@
           "email": "ulimahendra9@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784409701027
-        },
-        {
-          "email": "superkot97@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784409701027
         }
       ],
       "sold": 4859,
-      "stock": 77,
+      "stock": 76,
       "reserved": [
         {
           "id": "RSV1780362536090628",
