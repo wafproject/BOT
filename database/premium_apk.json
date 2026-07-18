@@ -6172,15 +6172,10 @@
           "email": "myronszoke2750@hotmail.com",
           "password": "26DpCzzl5vP",
           "addedAt": 1784326324528
-        },
-        {
-          "email": "castanedabrees29@hotmail.com",
-          "password": "L3meE4tp",
-          "addedAt": 1784326324528
         }
       ],
       "sold": 4859,
-      "stock": 4,
+      "stock": 3,
       "reserved": [
         {
           "id": "RSV1780362536090628",
