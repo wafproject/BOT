@@ -6227,15 +6227,10 @@
           "email": "laritastocks75@hotmail.com",
           "password": "7Gu6yUR9S",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "allarawestwater433@hotmail.com",
-          "password": "FDMizwk6Aen4",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 15,
+      "stock": 14,
       "reserved": [
         {
           "id": "RSV1780362536090628",
