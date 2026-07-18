@@ -6242,15 +6242,10 @@
           "email": "korsendegroat9031@hotmail.com",
           "password": "b4HXXnLL",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "melenlonzo958@hotmail.com",
-          "password": "HBscp7dJlkGX",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 18,
+      "stock": 17,
       "reserved": [
         {
           "id": "RSV1780362536090628",
