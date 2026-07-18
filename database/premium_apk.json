@@ -6762,15 +6762,10 @@
           "email": "rahmiprastuti5@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "legawanashiruddin29@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 122,
+      "stock": 121,
       "reserved": [
         {
           "id": "RSV1780362536090628",
