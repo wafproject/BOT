@@ -6222,7 +6222,7 @@
           "addedAt": 1784326324528
         }
       ],
-      "sold": 4820,
+      "sold": 4835,
       "stock": 28,
       "reserved": [
         {
@@ -6447,88 +6447,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178434441199414",
-          "items": [
-            {
-              "email": "pieperbecht043@hotmail.com",
-              "password": "XVvpNkU1U6z7",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "threatleonardo37@hotmail.com",
-              "password": "cpQ5hRr3U",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "everetganaway49@hotmail.com",
-              "password": "Dn4Y457SpLmX",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "feehanbrowers684@hotmail.com",
-              "password": "l7YxDHsxEc5c",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "stuparponto30@hotmail.com",
-              "password": "eWmKu5sReG",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "mcsorleyhafen808@hotmail.com",
-              "password": "3RlmoQ3TR9y",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "houghtonparraga19@hotmail.com",
-              "password": "O72JGG50c",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "herzigpreister82@hotmail.com",
-              "password": "SFnG1Cd5t",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "trawgrass285@hotmail.com",
-              "password": "f55LlaglZ2",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "westadbauers00@hotmail.com",
-              "password": "8T4YjZHkSHQ",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "clendanielflannery6918@hotmail.com",
-              "password": "DgCqQF3ZjCM",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "serpesaxton712@hotmail.com",
-              "password": "6AtN1P8kNEAJ",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "duffcarina320@hotmail.com",
-              "password": "ZhRfay3o",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "egbertmckinlay82@hotmail.com",
-              "password": "ob9fGZ86pQB",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "simersongodina0308@hotmail.com",
-              "password": "30lyCuNWGS",
-              "addedAt": 1784326324528
-            }
-          ],
-          "qty": 15,
-          "createdAt": "2026-07-18T03:13:31.994Z"
         }
       ],
       "bulk_active": true,
