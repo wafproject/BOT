@@ -6202,15 +6202,10 @@
           "email": "lampofolkman76@hotmail.com",
           "password": "JiUa8Knk9",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "virgilleonti0117@hotmail.com",
-          "password": "9OMOBkV1lGr",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 10,
+      "stock": 9,
       "reserved": [
         {
           "id": "RSV1780362536090628",
