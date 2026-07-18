@@ -6747,15 +6747,10 @@
           "email": "imampertiwi40@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "raisaharyanto45@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 119,
+      "stock": 118,
       "reserved": [
         {
           "id": "RSV1780362536090628",
