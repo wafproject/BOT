@@ -6157,15 +6157,9 @@
       "price": 4000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu)",
-      "items": [
-        {
-          "email": "smedsrudkoeller4121@hotmail.com",
-          "password": "G4swhbHq7AeS",
-          "addedAt": 1784326324528
-        }
-      ],
+      "items": [],
       "sold": 4859,
-      "stock": 1,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1780362536090628",
