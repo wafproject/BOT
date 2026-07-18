@@ -6917,15 +6917,10 @@
           "email": "sarasjonathan94@hotmail.com",
           "password": "Czgf07kWG",
           "addedAt": 1784411225198
-        },
-        {
-          "email": "hultgrentugwell047@hotmail.com",
-          "password": "BUrs8iENh",
-          "addedAt": 1784411225198
         }
       ],
       "sold": 4859,
-      "stock": 153,
+      "stock": 152,
       "reserved": [
         {
           "id": "RSV1780362536090628",
