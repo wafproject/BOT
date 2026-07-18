@@ -6177,15 +6177,10 @@
           "email": "castanedabrees29@hotmail.com",
           "password": "L3meE4tp",
           "addedAt": 1784326324528
-        },
-        {
-          "email": "hultgrentugwell047@hotmail.com",
-          "password": "BUrs8iENh",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 5,
+      "stock": 4,
       "reserved": [
         {
           "id": "RSV1780362536090628",
