@@ -6347,15 +6347,10 @@
           "email": "galihprayoga18@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784409701027
-        },
-        {
-          "email": "pujiagustina33@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784409701027
         }
       ],
       "sold": 4859,
-      "stock": 39,
+      "stock": 38,
       "reserved": [
         {
           "id": "RSV1780362536090628",
