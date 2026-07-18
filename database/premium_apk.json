@@ -6167,15 +6167,10 @@
           "email": "bayeteburkhead6295@hotmail.com",
           "password": "4gwrRYP8pH",
           "addedAt": 1784326324528
-        },
-        {
-          "email": "myronszoke2750@hotmail.com",
-          "password": "26DpCzzl5vP",
-          "addedAt": 1784326324528
         }
       ],
       "sold": 4859,
-      "stock": 3,
+      "stock": 2,
       "reserved": [
         {
           "id": "RSV1780362536090628",
