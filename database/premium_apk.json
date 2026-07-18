@@ -6087,7 +6087,7 @@
           "addedAt": 1784326324528
         }
       ],
-      "sold": 4856,
+      "sold": 4857,
       "stock": 6,
       "reserved": [
         {
@@ -6312,18 +6312,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784369313199512",
-          "items": [
-            {
-              "email": "brueggerhaverfield50@hotmail.com",
-              "password": "BzGf7aRy30",
-              "addedAt": 1784326324528
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-18T10:08:33.199Z"
         }
       ],
       "bulk_active": true,
