@@ -6212,15 +6212,10 @@
           "email": "pusserhuntsberger04@hotmail.com",
           "password": "1eelDRiRWAJ",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "stedronskykovalovsky8612@hotmail.com",
-          "password": "nEvSl1ylSRv",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 12,
+      "stock": 11,
       "reserved": [
         {
           "id": "RSV1780362536090628",
