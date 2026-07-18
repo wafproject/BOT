@@ -6237,15 +6237,10 @@
           "email": "manhardtgullotta27@hotmail.com",
           "password": "z3Nc7nuYRv",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "korsendegroat9031@hotmail.com",
-          "password": "b4HXXnLL",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 17,
+      "stock": 16,
       "reserved": [
         {
           "id": "RSV1780362536090628",
