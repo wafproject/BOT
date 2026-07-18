@@ -6197,15 +6197,10 @@
           "email": "bernardonisilevinac4120@hotmail.com",
           "password": "anaXU39D8TBF",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "lampofolkman76@hotmail.com",
-          "password": "JiUa8Knk9",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 9,
+      "stock": 8,
       "reserved": [
         {
           "id": "RSV1780362536090628",
