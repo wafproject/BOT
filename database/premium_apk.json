@@ -6787,15 +6787,10 @@
           "email": "superkot97@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "victretunsky2011@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 127,
+      "stock": 126,
       "reserved": [
         {
           "id": "RSV1780362536090628",
