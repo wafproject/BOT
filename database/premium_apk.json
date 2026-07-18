@@ -6272,15 +6272,10 @@
           "email": "bultmanpeaceful308@hotmail.com",
           "password": "Ei1O0vbyt7",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "perencevichfirman2064@hotmail.com",
-          "password": "PxElQXw0k",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 24,
+      "stock": 23,
       "reserved": [
         {
           "id": "RSV1780362536090628",
