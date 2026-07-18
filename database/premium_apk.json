@@ -576,10 +576,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "nocountry96@clousy.site|https://generator.email/nocountry96@clousy.site",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "th3rdtimeround@xsnipersquad.com|https://generator.email/th3rdtimeround@xsnipersquad.com",
           "addedAt": 1783266949580
         },
@@ -4692,9 +4688,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1029,
+      "stock": 1028,
       "sold": 883,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1784356653437540",
+          "items": [
+            {
+              "email": "nocountry96@clousy.site|https://generator.email/nocountry96@clousy.site",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-18T06:37:33.438Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
