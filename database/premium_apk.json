@@ -576,10 +576,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "th3rdtimeround@xsnipersquad.com|https://generator.email/th3rdtimeround@xsnipersquad.com",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "andrypo1@shortweb.live|https://generator.email/andrypo1@shortweb.live",
           "addedAt": 1783266949580
         },
@@ -4688,8 +4684,8 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1028,
-      "sold": 884,
+      "stock": 1027,
+      "sold": 885,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
