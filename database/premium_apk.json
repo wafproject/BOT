@@ -6307,7 +6307,7 @@
           "addedAt": 1784326324528
         }
       ],
-      "sold": 4817,
+      "sold": 4818,
       "stock": 45,
       "reserved": [
         {
@@ -6532,18 +6532,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784334316708418",
-          "items": [
-            {
-              "email": "boncellamachtley54@hotmail.com",
-              "password": "6qdNaDMbA11g",
-              "addedAt": 1784326324528
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-18T00:25:16.708Z"
         }
       ],
       "bulk_active": true,
