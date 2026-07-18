@@ -6717,15 +6717,10 @@
           "email": "suciwibisono29@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "arisnatsir63@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 113,
+      "stock": 112,
       "reserved": [
         {
           "id": "RSV1780362536090628",
