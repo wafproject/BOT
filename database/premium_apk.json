@@ -6158,7 +6158,7 @@
           "addedAt": 1784326324528
         }
       ],
-      "sold": 4846,
+      "sold": 4847,
       "stock": 16,
       "reserved": [
         {
@@ -6383,18 +6383,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178435206778643",
-          "items": [
-            {
-              "email": "ganglerboothby41@hotmail.com",
-              "password": "oVEY4X9HoI",
-              "addedAt": 1784326324528
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-18T05:21:07.786Z"
         }
       ],
       "bulk_active": true,
