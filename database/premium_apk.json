@@ -6297,15 +6297,10 @@
           "email": "huffstetlerschilder7536@hotmail.com",
           "password": "WR1JuXoqgP",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "sessionsbuckley192@hotmail.com",
-          "password": "TIMz4w4K",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 29,
+      "stock": 28,
       "reserved": [
         {
           "id": "RSV1780362536090628",
