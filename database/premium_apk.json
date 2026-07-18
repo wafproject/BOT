@@ -6382,15 +6382,10 @@
           "email": "rendysinaga65@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784409701027
-        },
-        {
-          "email": "hanisaptono88@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784409701027
         }
       ],
       "sold": 4859,
-      "stock": 46,
+      "stock": 45,
       "reserved": [
         {
           "id": "RSV1780362536090628",
