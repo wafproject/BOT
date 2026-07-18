@@ -6572,15 +6572,10 @@
           "email": "idapalastri22@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "bakiantoyuliarti87@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 84,
+      "stock": 83,
       "reserved": [
         {
           "id": "RSV1780362536090628",
