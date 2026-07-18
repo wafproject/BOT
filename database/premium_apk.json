@@ -6262,15 +6262,10 @@
           "email": "icardovilandre0539@hotmail.com",
           "password": "bnPmr8ZmkJB1",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "evelyneshenk5017@hotmail.com",
-          "password": "0ApojY67Na",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 22,
+      "stock": 21,
       "reserved": [
         {
           "id": "RSV1780362536090628",
