@@ -6887,15 +6887,10 @@
           "email": "pasternaksuthar483@hotmail.com",
           "password": "O7p1KlwZav",
           "addedAt": 1784411225198
-        },
-        {
-          "email": "icardovilandre0539@hotmail.com",
-          "password": "bnPmr8ZmkJB1",
-          "addedAt": 1784411225198
         }
       ],
       "sold": 4859,
-      "stock": 147,
+      "stock": 146,
       "reserved": [
         {
           "id": "RSV1780362536090628",
