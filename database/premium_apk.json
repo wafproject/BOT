@@ -6162,15 +6162,10 @@
           "email": "smedsrudkoeller4121@hotmail.com",
           "password": "G4swhbHq7AeS",
           "addedAt": 1784326324528
-        },
-        {
-          "email": "bayeteburkhead6295@hotmail.com",
-          "password": "4gwrRYP8pH",
-          "addedAt": 1784326324528
         }
       ],
       "sold": 4859,
-      "stock": 2,
+      "stock": 1,
       "reserved": [
         {
           "id": "RSV1780362536090628",
