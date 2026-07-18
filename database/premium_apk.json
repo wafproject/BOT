@@ -6612,15 +6612,10 @@
           "email": "wartasiregar6@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "asmiantohabibi13@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 92,
+      "stock": 91,
       "reserved": [
         {
           "id": "RSV1780362536090628",
