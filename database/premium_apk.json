@@ -6282,15 +6282,10 @@
           "email": "turcomartes6336@hotmail.com",
           "password": "0Qr5mOJpX",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "sarasjonathan94@hotmail.com",
-          "password": "Czgf07kWG",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 26,
+      "stock": 25,
       "reserved": [
         {
           "id": "RSV1780362536090628",
