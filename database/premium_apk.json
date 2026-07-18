@@ -6827,15 +6827,10 @@
           "email": "bernardonisilevinac4120@hotmail.com",
           "password": "anaXU39D8TBF",
           "addedAt": 1784411225198
-        },
-        {
-          "email": "lampofolkman76@hotmail.com",
-          "password": "JiUa8Knk9",
-          "addedAt": 1784411225198
         }
       ],
       "sold": 4859,
-      "stock": 135,
+      "stock": 134,
       "reserved": [
         {
           "id": "RSV1780362536090628",
