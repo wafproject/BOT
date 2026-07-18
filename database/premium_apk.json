@@ -6932,15 +6932,10 @@
           "email": "sessionsbuckley192@hotmail.com",
           "password": "TIMz4w4K",
           "addedAt": 1784411225198
-        },
-        {
-          "email": "osmentvenzeio257@hotmail.com",
-          "password": "D6Ts9Qdu",
-          "addedAt": 1784411225198
         }
       ],
       "sold": 4859,
-      "stock": 156,
+      "stock": 155,
       "reserved": [
         {
           "id": "RSV1780362536090628",
