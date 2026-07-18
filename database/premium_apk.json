@@ -6632,15 +6632,10 @@
           "email": "hanisaptono88@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "manahprastuti88@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 96,
+      "stock": 95,
       "reserved": [
         {
           "id": "RSV1780362536090628",
