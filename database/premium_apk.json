@@ -6297,7 +6297,7 @@
           "addedAt": 1784326324528
         }
       ],
-      "sold": 4819,
+      "sold": 4820,
       "stock": 43,
       "reserved": [
         {
@@ -6522,18 +6522,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784344318320647",
-          "items": [
-            {
-              "email": "bendolphweninger72@hotmail.com",
-              "password": "84V8WyfGqa",
-              "addedAt": 1784326324528
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-18T03:11:58.320Z"
         }
       ],
       "bulk_active": true,
