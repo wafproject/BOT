@@ -6116,7 +6116,7 @@
           "addedAt": 1784326324528
         }
       ],
-      "sold": 4851,
+      "sold": 4852,
       "stock": 11,
       "reserved": [
         {
@@ -6341,18 +6341,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784359408841566",
-          "items": [
-            {
-              "email": "coxonlame834@hotmail.com",
-              "password": "8NLS5ni3",
-              "addedAt": 1784326324528
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-18T07:23:28.841Z"
         }
       ],
       "bulk_active": true,
