@@ -6567,15 +6567,10 @@
           "email": "panjisuwarno28@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "idapalastri22@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 83,
+      "stock": 82,
       "reserved": [
         {
           "id": "RSV1780362536090628",
