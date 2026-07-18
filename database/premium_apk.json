@@ -6837,15 +6837,10 @@
           "email": "virgilleonti0117@hotmail.com",
           "password": "9OMOBkV1lGr",
           "addedAt": 1784411225198
-        },
-        {
-          "email": "pusserhuntsberger04@hotmail.com",
-          "password": "1eelDRiRWAJ",
-          "addedAt": 1784411225198
         }
       ],
       "sold": 4859,
-      "stock": 137,
+      "stock": 136,
       "reserved": [
         {
           "id": "RSV1780362536090628",
