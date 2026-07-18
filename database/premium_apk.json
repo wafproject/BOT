@@ -6797,15 +6797,10 @@
           "email": "maynard62@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "lebbeus1@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 129,
+      "stock": 128,
       "reserved": [
         {
           "id": "RSV1780362536090628",
