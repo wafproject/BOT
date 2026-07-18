@@ -6562,15 +6562,10 @@
           "email": "jaimannainggolan24@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "panjisuwarno28@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 82,
+      "stock": 81,
       "reserved": [
         {
           "id": "RSV1780362536090628",
