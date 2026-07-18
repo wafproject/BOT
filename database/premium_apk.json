@@ -6882,15 +6882,10 @@
           "email": "eveleenlodi523@hotmail.com",
           "password": "yqOBNrR7",
           "addedAt": 1784411225198
-        },
-        {
-          "email": "pasternaksuthar483@hotmail.com",
-          "password": "O7p1KlwZav",
-          "addedAt": 1784411225198
         }
       ],
       "sold": 4859,
-      "stock": 146,
+      "stock": 145,
       "reserved": [
         {
           "id": "RSV1780362536090628",
