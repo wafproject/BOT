@@ -6422,15 +6422,10 @@
           "email": "diahpradipta13@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784409701027
-        },
-        {
-          "email": "mamanlestari38@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784409701027
         }
       ],
       "sold": 4859,
-      "stock": 54,
+      "stock": 53,
       "reserved": [
         {
           "id": "RSV1780362536090628",
