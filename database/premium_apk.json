@@ -6752,15 +6752,10 @@
           "email": "raisaharyanto45@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "carakamarbun35@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784411214134
         }
       ],
       "sold": 4859,
-      "stock": 120,
+      "stock": 119,
       "reserved": [
         {
           "id": "RSV1780362536090628",
