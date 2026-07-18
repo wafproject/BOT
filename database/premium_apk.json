@@ -6182,15 +6182,10 @@
           "email": "hultgrentugwell047@hotmail.com",
           "password": "BUrs8iENh",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "mcclaydunworth402@hotmail.com",
-          "password": "lOw02JEew",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 6,
+      "stock": 5,
       "reserved": [
         {
           "id": "RSV1780362536090628",
