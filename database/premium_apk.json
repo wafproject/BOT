@@ -6139,7 +6139,7 @@
           "addedAt": 1784326324528
         }
       ],
-      "sold": 4848,
+      "sold": 4850,
       "stock": 13,
       "reserved": [
         {
@@ -6364,23 +6364,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784355704013239",
-          "items": [
-            {
-              "email": "toledanosimcheck4146@hotmail.com",
-              "password": "fiX4839Ak1C",
-              "addedAt": 1784326324528
-            },
-            {
-              "email": "deberrygaiety237@hotmail.com",
-              "password": "UGroG3unZ",
-              "addedAt": 1784326324528
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-18T06:21:44.013Z"
         }
       ],
       "bulk_active": true,
