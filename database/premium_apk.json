@@ -6247,15 +6247,10 @@
           "email": "melenlonzo958@hotmail.com",
           "password": "HBscp7dJlkGX",
           "addedAt": 1784409680356
-        },
-        {
-          "email": "eveleenlodi523@hotmail.com",
-          "password": "yqOBNrR7",
-          "addedAt": 1784409680356
         }
       ],
       "sold": 4859,
-      "stock": 19,
+      "stock": 18,
       "reserved": [
         {
           "id": "RSV1780362536090628",
