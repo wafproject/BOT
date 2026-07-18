@@ -6807,15 +6807,10 @@
           "email": "krryholliman@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784411214134
-        },
-        {
-          "email": "hultgrentugwell047@hotmail.com",
-          "password": "BUrs8iENh",
-          "addedAt": 1784411225198
         }
       ],
       "sold": 4859,
-      "stock": 131,
+      "stock": 130,
       "reserved": [
         {
           "id": "RSV1780362536090628",
