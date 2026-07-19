@@ -6514,7 +6514,7 @@
           "addedAt": 1784411556751
         }
       ],
-      "sold": 4862,
+      "sold": 4864,
       "stock": 72,
       "reserved": [
         {
@@ -6739,23 +6739,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784425343923237",
-          "items": [
-            {
-              "email": "bernardonisilevinac4120@hotmail.com",
-              "password": "anaXU39D8TBF",
-              "addedAt": 1784411541677
-            },
-            {
-              "email": "lampofolkman76@hotmail.com",
-              "password": "JiUa8Knk9",
-              "addedAt": 1784411541677
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-19T01:42:23.923Z"
         }
       ],
       "bulk_active": true,
