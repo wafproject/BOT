@@ -6150,31 +6150,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu)",
       "items": [
         {
-          "email": "evelyneshenk5017@hotmail.com",
-          "password": "0ApojY67Na",
-          "addedAt": 1784411541677
-        },
-        {
-          "email": "bultmanpeaceful308@hotmail.com",
-          "password": "Ei1O0vbyt7",
-          "addedAt": 1784411541677
-        },
-        {
-          "email": "perencevichfirman2064@hotmail.com",
-          "password": "PxElQXw0k",
-          "addedAt": 1784411541677
-        },
-        {
-          "email": "turcomartes6336@hotmail.com",
-          "password": "0Qr5mOJpX",
-          "addedAt": 1784411541677
-        },
-        {
-          "email": "sarasjonathan94@hotmail.com",
-          "password": "Czgf07kWG",
-          "addedAt": 1784411541677
-        },
-        {
           "email": "hultgrentugwell047@hotmail.com",
           "password": "BUrs8iENh",
           "addedAt": 1784411541677
@@ -6451,7 +6426,7 @@
         }
       ],
       "sold": 4876,
-      "stock": 60,
+      "stock": 55,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6675,6 +6650,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784428458127906",
+          "items": [
+            {
+              "email": "evelyneshenk5017@hotmail.com",
+              "password": "0ApojY67Na",
+              "addedAt": 1784411541677
+            },
+            {
+              "email": "bultmanpeaceful308@hotmail.com",
+              "password": "Ei1O0vbyt7",
+              "addedAt": 1784411541677
+            },
+            {
+              "email": "perencevichfirman2064@hotmail.com",
+              "password": "PxElQXw0k",
+              "addedAt": 1784411541677
+            },
+            {
+              "email": "turcomartes6336@hotmail.com",
+              "password": "0Qr5mOJpX",
+              "addedAt": 1784411541677
+            },
+            {
+              "email": "sarasjonathan94@hotmail.com",
+              "password": "Czgf07kWG",
+              "addedAt": 1784411541677
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-07-19T02:34:18.128Z"
         }
       ],
       "bulk_active": true,
