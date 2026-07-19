@@ -6509,7 +6509,7 @@
           "addedAt": 1784411556751
         }
       ],
-      "sold": 4864,
+      "sold": 4865,
       "stock": 71,
       "reserved": [
         {
@@ -6734,18 +6734,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784425556735326",
-          "items": [
-            {
-              "email": "virgilleonti0117@hotmail.com",
-              "password": "9OMOBkV1lGr",
-              "addedAt": 1784411541677
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-19T01:45:56.736Z"
         }
       ],
       "bulk_active": true,
