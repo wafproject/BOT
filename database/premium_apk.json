@@ -6185,7 +6185,7 @@
           "addedAt": 1784411556751
         }
       ],
-      "sold": 4927,
+      "sold": 4928,
       "stock": 8,
       "reserved": [
         {
@@ -6410,18 +6410,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784450758127889",
-          "items": [
-            {
-              "email": "legawanashiruddin29@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784411556751
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-19T08:45:58.127Z"
         }
       ],
       "bulk_active": true,
