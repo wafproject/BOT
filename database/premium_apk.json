@@ -6529,7 +6529,7 @@
           "addedAt": 1784411556751
         }
       ],
-      "sold": 4860,
+      "sold": 4861,
       "stock": 75,
       "reserved": [
         {
@@ -6754,18 +6754,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178442475589067",
-          "items": [
-            {
-              "email": "mcclaydunworth402@hotmail.com",
-              "password": "lOw02JEew",
-              "addedAt": 1784411541677
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-19T01:32:35.890Z"
         }
       ],
       "bulk_active": true,
