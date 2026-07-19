@@ -6450,7 +6450,7 @@
           "addedAt": 1784411556751
         }
       ],
-      "sold": 4875,
+      "sold": 4876,
       "stock": 60,
       "reserved": [
         {
@@ -6675,18 +6675,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784428300602247",
-          "items": [
-            {
-              "email": "icardovilandre0539@hotmail.com",
-              "password": "bnPmr8ZmkJB1",
-              "addedAt": 1784411541677
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-19T02:31:40.602Z"
         }
       ],
       "bulk_active": true,
