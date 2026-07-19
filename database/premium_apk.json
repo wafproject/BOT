@@ -248,21 +248,8 @@
         }
       ],
       "stock": 3,
-      "sold": 309,
-      "reserved": [
-        {
-          "id": "RSV1784462087022828",
-          "items": [
-            {
-              "email": "o1ancqn@enziproject.my.id",
-              "password": "masuk123",
-              "addedAt": 1784395370857
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-19T11:54:47.022Z"
-        }
-      ],
+      "sold": 310,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
