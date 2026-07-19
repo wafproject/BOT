@@ -285,9 +285,14 @@
           "email": "wogsxi90@asikinaja.my.id",
           "password": "Xavm43m4jn7!@",
           "addedAt": 1784479417951
+        },
+        {
+          "email": "agnllz21@asikinaja.my.id",
+          "password": "Xavm43m4jn7!@",
+          "addedAt": 1784480307959
         }
       ],
-      "stock": 11,
+      "stock": 12,
       "sold": 310,
       "reserved": [],
       "bulk_active": false,
