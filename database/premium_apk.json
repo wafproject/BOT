@@ -6169,7 +6169,7 @@
           "addedAt": 1784499203798
         }
       ],
-      "sold": 4985,
+      "sold": 4986,
       "stock": 3,
       "reserved": [
         {
@@ -6394,18 +6394,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784530901748860",
-          "items": [
-            {
-              "email": "kylishdevane92@hotmail.com",
-              "password": "ueXSE69ksy",
-              "addedAt": 1784499203798
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-20T07:01:41.748Z"
         }
       ],
       "bulk_active": true,
