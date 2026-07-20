@@ -6154,31 +6154,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu) selain hotmail ke generator.email",
       "items": [
         {
-          "email": "gillenbarbie50@hotmail.com",
-          "password": "6ZwLUysSBmj",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "houltonboga97@hotmail.com",
-          "password": "vxUxJVu5ht",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "berrymangrosbier74@hotmail.com",
-          "password": "avNF5YYs",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "quateshusbands2791@hotmail.com",
-          "password": "yjtzj8IJLZY",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "lawnickilanggood6769@hotmail.com",
-          "password": "eJWDumUaJ5O",
-          "addedAt": 1784577238771
-        },
-        {
           "email": "betofager4360@hotmail.com",
           "password": "SL94WlBmOvhu",
           "addedAt": 1784577238771
@@ -6525,7 +6500,7 @@
         }
       ],
       "sold": 4996,
-      "stock": 74,
+      "stock": 69,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6749,6 +6724,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784591708982152",
+          "items": [
+            {
+              "email": "gillenbarbie50@hotmail.com",
+              "password": "6ZwLUysSBmj",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "houltonboga97@hotmail.com",
+              "password": "vxUxJVu5ht",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "berrymangrosbier74@hotmail.com",
+              "password": "avNF5YYs",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "quateshusbands2791@hotmail.com",
+              "password": "yjtzj8IJLZY",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "lawnickilanggood6769@hotmail.com",
+              "password": "eJWDumUaJ5O",
+              "addedAt": 1784577238771
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-07-20T23:55:08.982Z"
         }
       ],
       "bulk_active": true,
