@@ -670,10 +670,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "thorse@tidylifehub.com|https://generator.email/thorse@tidylifehub.com",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "ab118616483@vothanhtuan.shop|https://generator.email/ab118616483@vothanhtuan.shop",
           "addedAt": 1783266949580
         },
@@ -4774,8 +4770,8 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1026,
-      "sold": 886,
+      "stock": 1025,
+      "sold": 887,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
