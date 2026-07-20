@@ -5861,12 +5861,8 @@
       "price": 4000,
       "descShort": " Email fresh buyer ",
       "snk": " * Email & Password wajib fresh * Kirim data ke admin Enzi * Setelah acc admin akan proses 10 menitan terganti sikon * Bisa request jaspay individual atau head family",
-      "items": [
-        {
-          "text": "Kirim data ke admin wa/6287731282876 / @enziwaf"
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 11,
       "reserved": [],
       "bulk_active": false,
