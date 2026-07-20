@@ -260,21 +260,8 @@
         }
       ],
       "stock": 7,
-      "sold": 315,
-      "reserved": [
-        {
-          "id": "RSV1784534738100597",
-          "items": [
-            {
-              "email": "okjpxm50@asikinaja.my.id",
-              "password": "X5l1h28g421!@",
-              "addedAt": 1784473725322
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-20T08:05:38.100Z"
-        }
-      ],
+      "sold": 316,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
