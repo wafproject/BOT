@@ -6306,10 +6306,15 @@
           "email": "wismerngueyn3728@hotmail.com",
           "password": "3cQyJcqyQLQ",
           "addedAt": 1784577238771
+        },
+        {
+          "email": "horacemeyerowitz06@hotmail.com",
+          "password": "qDlCg3vg",
+          "addedAt": 1784577281562
         }
       ],
       "sold": 4990,
-      "stock": 29,
+      "stock": 30,
       "reserved": [
         {
           "id": "RSV1780362536090628",
