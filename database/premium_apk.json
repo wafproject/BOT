@@ -6169,11 +6169,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu)",
       "items": [
         {
-          "email": "blossomremos542@hotmail.com",
-          "password": "JUQNyz5Mjll7",
-          "addedAt": 1784499203798
-        },
-        {
           "email": "savannaenderby58@hotmail.com",
           "password": "Hz35F3IlMZ",
           "addedAt": 1784499203798
@@ -6279,8 +6274,8 @@
           "addedAt": 1784499203798
         }
       ],
-      "sold": 4967,
-      "stock": 22,
+      "sold": 4968,
+      "stock": 21,
       "reserved": [
         {
           "id": "RSV1780362536090628",
