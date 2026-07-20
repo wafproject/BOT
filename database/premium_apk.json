@@ -6234,7 +6234,7 @@
           "addedAt": 1784499203798
         }
       ],
-      "sold": 4971,
+      "sold": 4973,
       "stock": 16,
       "reserved": [
         {
@@ -6459,23 +6459,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784525497991682",
-          "items": [
-            {
-              "email": "smootsyolando98@hotmail.com",
-              "password": "bEbmyW3Eq",
-              "addedAt": 1784499203798
-            },
-            {
-              "email": "bearedakan0002@hotmail.com",
-              "password": "9nmVrldJRrNT",
-              "addedAt": 1784499203798
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-20T05:31:37.991Z"
         }
       ],
       "bulk_active": true,
