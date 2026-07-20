@@ -6434,26 +6434,6 @@
       "bulk_prices": []
     },
     {
-      "code": "CCHEAD",
-      "name": "Capcut Pro Head 7D Reg Indo",
-      "category": "capcut pro head",
-      "type": "akun",
-      "price": 40000,
-      "descShort": "10 Seats",
-      "snk": "* Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Garansi hanya berlaku kendala backfree\n• Akses email https://generator.email",
-      "items": [],
-      "sold": 138,
-      "stock": 0,
-      "bulk_active": true,
-      "bulk_prices": [
-        {
-          "minQty": 5,
-          "price": 35000
-        }
-      ],
-      "reserved": []
-    },
-    {
       "code": "AMBUYER",
       "name": "Alight Motion 1TH Buyer",
       "category": "alight motion",
