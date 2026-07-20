@@ -7223,11 +7223,6 @@
       "snk": "Garansi 3 Bulan",
       "items": [
         {
-          "email": "6284534881717",
-          "password": "masuk123",
-          "addedAt": 1784466025282
-        },
-        {
           "email": "6288506914379",
           "password": "masuk123",
           "addedAt": 1784466025282
@@ -8424,7 +8419,21 @@
         }
       ],
       "sold": 1032,
-      "stock": 240
+      "stock": 239,
+      "reserved": [
+        {
+          "id": "RSV1784518755695413",
+          "items": [
+            {
+              "email": "6284534881717",
+              "password": "masuk123",
+              "addedAt": 1784466025282
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-20T03:39:15.695Z"
+        }
+      ]
     }
   ],
   "meta": {
