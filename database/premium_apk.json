@@ -6159,7 +6159,7 @@
           "addedAt": 1784499203798
         }
       ],
-      "sold": 4986,
+      "sold": 4987,
       "stock": 2,
       "reserved": [
         {
@@ -6384,18 +6384,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784533458475651",
-          "items": [
-            {
-              "email": "sebastianotoole9773@hotmail.com",
-              "password": "2I7j6Xx9HAR",
-              "addedAt": 1784499203798
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-20T07:44:18.475Z"
         }
       ],
       "bulk_active": true,
