@@ -6243,7 +6243,7 @@
           "addedAt": 1784499203798
         }
       ],
-      "sold": 4964,
+      "sold": 4965,
       "stock": 13,
       "reserved": [
         {
@@ -6525,18 +6525,6 @@
           ],
           "qty": 10,
           "createdAt": "2026-07-20T02:51:10.442Z"
-        },
-        {
-          "id": "RSV1784516062113310",
-          "items": [
-            {
-              "email": "sparklingaugustson932@hotmail.com",
-              "password": "U5WqbH4e",
-              "addedAt": 1784499203798
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-20T02:54:22.114Z"
         },
         {
           "id": "RSV1784516071660213",
