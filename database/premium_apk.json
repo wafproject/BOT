@@ -6312,7 +6312,7 @@
           "addedAt": 1784499203798
         }
       ],
-      "sold": 4962,
+      "sold": 4963,
       "stock": 26,
       "reserved": [
         {
@@ -6537,18 +6537,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784513937227615",
-          "items": [
-            {
-              "email": "mcburniewydeven20@hotmail.com",
-              "password": "KIZc8zcxws",
-              "addedAt": 1784499203798
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-20T02:18:57.227Z"
         }
       ],
       "bulk_active": true,
