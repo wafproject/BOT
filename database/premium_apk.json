@@ -255,21 +255,8 @@
         }
       ],
       "stock": 6,
-      "sold": 316,
-      "reserved": [
-        {
-          "id": "RSV1784556235605512",
-          "items": [
-            {
-              "email": "flmeat67@asikinaja.my.id",
-              "password": "Xsivbgosszo!@",
-              "addedAt": 1784473725322
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-20T14:03:55.605Z"
-        }
-      ],
+      "sold": 317,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
