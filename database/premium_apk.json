@@ -224,21 +224,6 @@
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/",
       "items": [
         {
-          "email": "yoshhu9@asikinaja.my.id",
-          "password": "masuk123",
-          "addedAt": 1784395370857
-        },
-        {
-          "email": "gfnip03@asikinaja.my.id",
-          "password": "masuk123",
-          "addedAt": 1784395370857
-        },
-        {
-          "email": "ztgzkm54@asikinaja.my.id",
-          "password": "Xghs1o0xu62!@",
-          "addedAt": 1784473725322
-        },
-        {
           "email": "lvpmup22@asikinaja.my.id",
           "password": "Xa7b4i5h1za!@",
           "addedAt": 1784473725322
@@ -284,9 +269,32 @@
           "addedAt": 1784480586396
         }
       ],
-      "stock": 12,
+      "stock": 9,
       "sold": 311,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1784525318397657",
+          "items": [
+            {
+              "email": "yoshhu9@asikinaja.my.id",
+              "password": "masuk123",
+              "addedAt": 1784395370857
+            },
+            {
+              "email": "gfnip03@asikinaja.my.id",
+              "password": "masuk123",
+              "addedAt": 1784395370857
+            },
+            {
+              "email": "ztgzkm54@asikinaja.my.id",
+              "password": "Xghs1o0xu62!@",
+              "addedAt": 1784473725322
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-07-20T05:28:38.397Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
