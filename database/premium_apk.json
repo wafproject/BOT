@@ -6243,7 +6243,7 @@
           "addedAt": 1784499203798
         }
       ],
-      "sold": 4965,
+      "sold": 4966,
       "stock": 13,
       "reserved": [
         {
@@ -6525,18 +6525,6 @@
           ],
           "qty": 10,
           "createdAt": "2026-07-20T02:51:10.442Z"
-        },
-        {
-          "id": "RSV1784516071660213",
-          "items": [
-            {
-              "email": "mechemfrontiero3290@hotmail.com",
-              "password": "2tCOsO8G",
-              "addedAt": 1784499203798
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-20T02:54:31.660Z"
         }
       ],
       "bulk_active": true,
