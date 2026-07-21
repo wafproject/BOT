@@ -220,21 +220,8 @@
         }
       ],
       "stock": 2,
-      "sold": 326,
-      "reserved": [
-        {
-          "id": "RSV1784628617206467",
-          "items": [
-            {
-              "email": "vivirdura5@asikinaja.my.id",
-              "password": "masuk12344",
-              "addedAt": 1784622917990
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-21T10:10:17.206Z"
-        }
-      ],
+      "sold": 327,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
