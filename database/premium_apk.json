@@ -6040,11 +6040,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu) selain hotmail ke generator.email",
       "items": [
         {
-          "email": "paramitapratama32@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300560
-        },
-        {
           "email": "kamariatampubolon74@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784577300560
@@ -6126,7 +6121,7 @@
         }
       ],
       "sold": 5053,
-      "stock": 17,
+      "stock": 16,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6350,6 +6345,18 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784647435279377",
+          "items": [
+            {
+              "email": "paramitapratama32@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300560
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-21T15:23:55.279Z"
         }
       ],
       "bulk_active": true,
