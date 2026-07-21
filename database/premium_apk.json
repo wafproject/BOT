@@ -6181,10 +6181,15 @@
           "email": "darijananggraini27@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784577300560
+        },
+        {
+          "email": "19e7pai@asikinaja.my.id",
+          "password": "masuk1234",
+          "addedAt": 1784623164739
         }
       ],
       "sold": 5047,
-      "stock": 23,
+      "stock": 24,
       "reserved": [
         {
           "id": "RSV1780362536090628",
