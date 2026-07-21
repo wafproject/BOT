@@ -7136,7 +7136,7 @@
       "category": "viu",
       "type": "akun",
       "price": 500,
-      "bulk_active": false,
+      "bulk_active": true,
       "bulk_prices": [
         {
           "minQty": 50,
