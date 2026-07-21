@@ -6126,56 +6126,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu) selain hotmail ke generator.email",
       "items": [
         {
-          "email": "windasimanjuntak54@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300560
-        },
-        {
-          "email": "balanggadamanik37@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300560
-        },
-        {
-          "email": "jagahidayat3@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300560
-        },
-        {
-          "email": "eluhprasetyo38@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300560
-        },
-        {
-          "email": "luwarsiregar57@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300560
-        },
-        {
-          "email": "kairavsitompul17@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300560
-        },
-        {
-          "email": "kambalizulaika27@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300560
-        },
-        {
-          "email": "nataliasaefullah35@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300560
-        },
-        {
-          "email": "dacintamba22@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300560
-        },
-        {
-          "email": "darijananggraini27@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300560
-        },
-        {
           "email": "CindiNaguib04335@hotmail.com",
           "password": "dcforz827860",
           "addedAt": 1784665107272
@@ -6377,7 +6327,7 @@
         }
       ],
       "sold": 5060,
-      "stock": 50,
+      "stock": 40,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6601,6 +6551,63 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784676720524583",
+          "items": [
+            {
+              "email": "windasimanjuntak54@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300560
+            },
+            {
+              "email": "balanggadamanik37@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300560
+            },
+            {
+              "email": "jagahidayat3@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300560
+            },
+            {
+              "email": "eluhprasetyo38@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300560
+            },
+            {
+              "email": "luwarsiregar57@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300560
+            },
+            {
+              "email": "kairavsitompul17@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300560
+            },
+            {
+              "email": "kambalizulaika27@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300560
+            },
+            {
+              "email": "nataliasaefullah35@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300560
+            },
+            {
+              "email": "dacintamba22@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300560
+            },
+            {
+              "email": "darijananggraini27@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300560
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-07-21T23:32:00.524Z"
         }
       ],
       "bulk_active": true,
