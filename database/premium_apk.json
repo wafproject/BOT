@@ -6154,56 +6154,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu) selain hotmail ke generator.email",
       "items": [
         {
-          "email": "betofager4360@hotmail.com",
-          "password": "SL94WlBmOvhu",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "stodghillpoissonnier97@hotmail.com",
-          "password": "U2KuhkZtT",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "necocheacawthon8754@hotmail.com",
-          "password": "hzGnjVTb8DpZ",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "mirmanloubier30@hotmail.com",
-          "password": "JyAGyZl2",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "burkettebeljan62@hotmail.com",
-          "password": "k0WSmOup94E3",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "karelhamilton4096@hotmail.com",
-          "password": "oD0lDqD7",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "blanchettewehmeier831@hotmail.com",
-          "password": "0WbVTvy3",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "singletonizak53@hotmail.com",
-          "password": "1QLZey0lgpj",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "chicacarden289@hotmail.com",
-          "password": "36ZnoK2z",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "madilewelling41@hotmail.com",
-          "password": "8DjFEGJqCiY",
-          "addedAt": 1784577238771
-        },
-        {
           "email": "roesslergibert643@hotmail.com",
           "password": "6ubuCisv6j",
           "addedAt": 1784577238771
@@ -6500,7 +6450,7 @@
         }
       ],
       "sold": 5001,
-      "stock": 69,
+      "stock": 59,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6724,6 +6674,63 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784595542391872",
+          "items": [
+            {
+              "email": "betofager4360@hotmail.com",
+              "password": "SL94WlBmOvhu",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "stodghillpoissonnier97@hotmail.com",
+              "password": "U2KuhkZtT",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "necocheacawthon8754@hotmail.com",
+              "password": "hzGnjVTb8DpZ",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "mirmanloubier30@hotmail.com",
+              "password": "JyAGyZl2",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "burkettebeljan62@hotmail.com",
+              "password": "k0WSmOup94E3",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "karelhamilton4096@hotmail.com",
+              "password": "oD0lDqD7",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "blanchettewehmeier831@hotmail.com",
+              "password": "0WbVTvy3",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "singletonizak53@hotmail.com",
+              "password": "1QLZey0lgpj",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "chicacarden289@hotmail.com",
+              "password": "36ZnoK2z",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "madilewelling41@hotmail.com",
+              "password": "8DjFEGJqCiY",
+              "addedAt": 1784577238771
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-07-21T00:59:02.391Z"
         }
       ],
       "bulk_active": true,
