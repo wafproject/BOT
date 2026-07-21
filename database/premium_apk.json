@@ -220,9 +220,14 @@
           "email": "cozilq07@asikinaja.my.id",
           "password": "Xq06zqtgqni!@",
           "addedAt": 1784611887470
+        },
+        {
+          "email": "vivirdura5@asikinaja.my.id",
+          "password": "masuk12344",
+          "addedAt": 1784622917990
         }
       ],
-      "stock": 1,
+      "stock": 2,
       "sold": 325,
       "reserved": [],
       "bulk_active": false,
