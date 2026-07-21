@@ -6063,31 +6063,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu) selain hotmail ke generator.email",
       "items": [
         {
-          "email": "gamblangpratama93@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300559
-        },
-        {
-          "email": "artawaluyo27@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300559
-        },
-        {
-          "email": "putiprabowo66@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300559
-        },
-        {
-          "email": "carubtarihoran19@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300559
-        },
-        {
-          "email": "pangestupratama13@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300559
-        },
-        {
           "email": "dasatarihoran60@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784577300559
@@ -6209,7 +6184,7 @@
         }
       ],
       "sold": 5041,
-      "stock": 29,
+      "stock": 24,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6433,6 +6408,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784617778297108",
+          "items": [
+            {
+              "email": "gamblangpratama93@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300559
+            },
+            {
+              "email": "artawaluyo27@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300559
+            },
+            {
+              "email": "putiprabowo66@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300559
+            },
+            {
+              "email": "carubtarihoran19@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300559
+            },
+            {
+              "email": "pangestupratama13@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300559
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-07-21T07:09:38.297Z"
         }
       ],
       "bulk_active": true,
