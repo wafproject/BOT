@@ -225,9 +225,14 @@
           "email": "vivirdura5@asikinaja.my.id",
           "password": "masuk12344",
           "addedAt": 1784622917990
+        },
+        {
+          "email": "0jm910f@asikinaja.my.id",
+          "password": "masuk123",
+          "addedAt": 1784623414324
         }
       ],
-      "stock": 2,
+      "stock": 3,
       "sold": 325,
       "reserved": [],
       "bulk_active": false,
