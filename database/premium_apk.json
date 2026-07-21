@@ -5726,7 +5726,7 @@
           "createdAt": "2026-05-20T17:59:38.691Z"
         }
       ],
-      "bulk_active": false,
+      "bulk_active": true,
       "bulk_prices": [
         {
           "minQty": 50,
