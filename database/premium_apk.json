@@ -6404,7 +6404,7 @@
           "addedAt": 1784577300560
         }
       ],
-      "sold": 5014,
+      "sold": 5015,
       "stock": 55,
       "reserved": [
         {
@@ -6629,18 +6629,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784599951806776",
-          "items": [
-            {
-              "email": "latneynobles3386@hotmail.com",
-              "password": "XV4swX0fc",
-              "addedAt": 1784577238771
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-21T02:12:31.806Z"
         }
       ],
       "bulk_active": true,
