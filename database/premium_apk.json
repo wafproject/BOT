@@ -6139,21 +6139,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu) selain hotmail ke generator.email",
       "items": [
         {
-          "email": "roesslergibert643@hotmail.com",
-          "password": "6ubuCisv6j",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "kehswinnie81@hotmail.com",
-          "password": "ISuOGG6Ij4",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "piccininiramsey713@hotmail.com",
-          "password": "jaHVcDeNa5",
-          "addedAt": 1784577238771
-        },
-        {
           "email": "latneynobles3386@hotmail.com",
           "password": "XV4swX0fc",
           "addedAt": 1784577238771
@@ -6435,7 +6420,7 @@
         }
       ],
       "sold": 5011,
-      "stock": 59,
+      "stock": 56,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6659,6 +6644,28 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784598893869750",
+          "items": [
+            {
+              "email": "roesslergibert643@hotmail.com",
+              "password": "6ubuCisv6j",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "kehswinnie81@hotmail.com",
+              "password": "ISuOGG6Ij4",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "piccininiramsey713@hotmail.com",
+              "password": "jaHVcDeNa5",
+              "addedAt": 1784577238771
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-07-21T01:54:53.869Z"
         }
       ],
       "bulk_active": true,
