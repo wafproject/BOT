@@ -516,7 +516,7 @@
         }
       ],
       "stock": 93,
-      "sold": 131,
+      "sold": 132,
       "reserved": [
         {
           "id": "RSV1779882154946780",
@@ -527,16 +527,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-05-27T11:42:34.946Z"
-        },
-        {
-          "id": "RSV1784607114257414",
-          "items": [
-            {
-              "text": "Via Invite Email"
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-21T04:11:54.257Z"
         }
       ],
       "bulk_active": false,
