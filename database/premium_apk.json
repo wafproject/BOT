@@ -6129,56 +6129,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu) selain hotmail ke generator.email",
       "items": [
         {
-          "email": "brahmaemmer1212@hotmail.com",
-          "password": "nt6aE4gv5G7s",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "kielarbeatrix647@hotmail.com",
-          "password": "LIHdz6Lywx0",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "wismerngueyn3728@hotmail.com",
-          "password": "3cQyJcqyQLQ",
-          "addedAt": 1784577238771
-        },
-        {
-          "email": "horacemeyerowitz06@hotmail.com",
-          "password": "qDlCg3vg",
-          "addedAt": 1784577281562
-        },
-        {
-          "email": "petrycho84@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300559
-        },
-        {
-          "email": "vika2303@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300559
-        },
-        {
-          "email": "satreguser1@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300559
-        },
-        {
-          "email": "ksenyawithlove@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300559
-        },
-        {
-          "email": "y3dn7x7apbd@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300559
-        },
-        {
-          "email": "gandewayuniar91@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1784577300559
-        },
-        {
           "email": "caturanggarajasa65@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1784577300559
@@ -6400,7 +6350,7 @@
         }
       ],
       "sold": 5016,
-      "stock": 54,
+      "stock": 44,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6624,6 +6574,63 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784601834523775",
+          "items": [
+            {
+              "email": "brahmaemmer1212@hotmail.com",
+              "password": "nt6aE4gv5G7s",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "kielarbeatrix647@hotmail.com",
+              "password": "LIHdz6Lywx0",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "wismerngueyn3728@hotmail.com",
+              "password": "3cQyJcqyQLQ",
+              "addedAt": 1784577238771
+            },
+            {
+              "email": "horacemeyerowitz06@hotmail.com",
+              "password": "qDlCg3vg",
+              "addedAt": 1784577281562
+            },
+            {
+              "email": "petrycho84@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300559
+            },
+            {
+              "email": "vika2303@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300559
+            },
+            {
+              "email": "satreguser1@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300559
+            },
+            {
+              "email": "ksenyawithlove@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300559
+            },
+            {
+              "email": "y3dn7x7apbd@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300559
+            },
+            {
+              "email": "gandewayuniar91@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1784577300559
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-07-21T02:43:54.523Z"
         }
       ],
       "bulk_active": true,
