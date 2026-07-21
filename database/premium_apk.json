@@ -217,9 +217,14 @@
           "email": "0jm910f@asikinaja.my.id",
           "password": "masuk123",
           "addedAt": 1784623414324
+        },
+        {
+          "email": "wylk489@asikinaja.my.id",
+          "password": "masuk1234",
+          "addedAt": 1784625096235
         }
       ],
-      "stock": 2,
+      "stock": 3,
       "sold": 326,
       "reserved": [],
       "bulk_active": false,
