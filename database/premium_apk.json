@@ -7145,6 +7145,10 @@
         {
           "minQty": 50,
           "price": 400
+        },
+        {
+          "minQty": 100,
+          "price": 250
         }
       ],
       "descShort": "Garansi 3 Bulan",
