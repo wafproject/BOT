@@ -5727,7 +5727,12 @@
         }
       ],
       "bulk_active": false,
-      "bulk_prices": []
+      "bulk_prices": [
+        {
+          "minQty": 50,
+          "price": 200
+        }
+      ]
     },
     {
       "code": "SPO1BNOGAR",
