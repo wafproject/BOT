@@ -6159,15 +6159,10 @@
           "email": "dedajbroers718@hotmail.com",
           "password": "gBV9uHheh",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "hoehndepue295@hotmail.com",
-          "password": "G1ihbUBO1b9",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 11,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1780362536090628",
