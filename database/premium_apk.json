@@ -6111,7 +6111,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5105,
+      "sold": 5106,
       "stock": 7,
       "reserved": [
         {
@@ -6336,18 +6336,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784733099451845",
-          "items": [
-            {
-              "email": "HerbTorok546787@hotmail.com",
-              "password": "lajekl553950",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T15:11:39.451Z"
         }
       ],
       "bulk_active": false,
