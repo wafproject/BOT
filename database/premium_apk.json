@@ -6184,15 +6184,10 @@
           "email": "burschrasmuson3873@hotmail.com",
           "password": "BHNrMj0n7y",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "quiltertorgersen7827@hotmail.com",
-          "password": "5abl7gojMXrK",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 16,
+      "stock": 15,
       "reserved": [
         {
           "id": "RSV1780362536090628",
