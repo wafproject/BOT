@@ -6211,7 +6211,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5090,
+      "sold": 5091,
       "stock": 22,
       "reserved": [
         {
@@ -6436,18 +6436,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784710288616910",
-          "items": [
-            {
-              "email": "dedajbroers718@hotmail.com",
-              "password": "gBV9uHheh",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T08:51:28.616Z"
         }
       ],
       "bulk_active": false,
