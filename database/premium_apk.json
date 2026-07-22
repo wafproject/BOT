@@ -6239,15 +6239,10 @@
           "email": "OddieRakowsky3642@hotmail.com",
           "password": "yyazbr18897",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "HiroshiShamblen2008@hotmail.com",
-          "password": "syrva927108",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 27,
+      "stock": 26,
       "reserved": [
         {
           "id": "RSV1780362536090628",
