@@ -6135,7 +6135,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5102,
+      "sold": 5103,
       "stock": 10,
       "reserved": [
         {
@@ -6360,18 +6360,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784728455681747",
-          "items": [
-            {
-              "email": "RaulRadicke70537@hotmail.com",
-              "password": "bwpooa657676",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T13:54:15.681Z"
         }
       ],
       "bulk_active": false,
