@@ -6139,15 +6139,10 @@
           "email": "ColtenBathrick9211@hotmail.com",
           "password": "xegnz35435",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "WesSoistman322541@hotmail.com",
-          "password": "exendd46842",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 7,
+      "stock": 6,
       "reserved": [
         {
           "id": "RSV1780362536090628",
