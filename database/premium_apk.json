@@ -9488,6 +9488,20 @@
       "sold": 1034,
       "stock": 477,
       "reserved": []
+    },
+    {
+      "code": "PRIME1B",
+      "name": "Prime Video 1 Bulan Private",
+      "category": "prime video",
+      "type": "akun",
+      "price": 6000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "Full Garansi",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
