@@ -6246,7 +6246,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5083,
+      "sold": 5084,
       "stock": 29,
       "reserved": [
         {
@@ -6471,18 +6471,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784704417294211",
-          "items": [
-            {
-              "email": "DonnieEskelson37661@hotmail.com",
-              "password": "cgwya34444",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T07:13:37.294Z"
         }
       ],
       "bulk_active": false,
