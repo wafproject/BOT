@@ -6144,15 +6144,10 @@
           "email": "WesSoistman322541@hotmail.com",
           "password": "exendd46842",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "JuliannBasquill54558@hotmail.com",
-          "password": "kdkni541182",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 8,
+      "stock": 7,
       "reserved": [
         {
           "id": "RSV1780362536090628",
