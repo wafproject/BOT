@@ -6154,15 +6154,10 @@
           "email": "zamboranoryals96@hotmail.com",
           "password": "6rzM1nOjy",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "dedajbroers718@hotmail.com",
-          "password": "gBV9uHheh",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 10,
+      "stock": 9,
       "reserved": [
         {
           "id": "RSV1780362536090628",
