@@ -6229,15 +6229,10 @@
           "email": "FountCanterino72909@hotmail.com",
           "password": "qndend491016",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "HerbTorok546787@hotmail.com",
-          "password": "lajekl553950",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 25,
+      "stock": 24,
       "reserved": [
         {
           "id": "RSV1780362536090628",
