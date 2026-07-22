@@ -6182,7 +6182,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5095,
+      "sold": 5096,
       "stock": 17,
       "reserved": [
         {
@@ -6407,18 +6407,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784717149961828",
-          "items": [
-            {
-              "email": "burschrasmuson3873@hotmail.com",
-              "password": "BHNrMj0n7y",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T10:45:49.961Z"
         }
       ],
       "bulk_active": false,
