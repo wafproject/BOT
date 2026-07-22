@@ -6185,7 +6185,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5096,
+      "sold": 5097,
       "stock": 16,
       "reserved": [
         {
@@ -6410,18 +6410,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178471753660576",
-          "items": [
-            {
-              "email": "quiltertorgersen7827@hotmail.com",
-              "password": "5abl7gojMXrK",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T10:52:16.605Z"
         }
       ],
       "bulk_active": false,
