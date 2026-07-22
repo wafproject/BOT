@@ -6199,15 +6199,10 @@
           "email": "pascoecochran0245@hotmail.com",
           "password": "zZ3Prinbb",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "speachgourdin6323@hotmail.com",
-          "password": "N5KiuXqQM",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 19,
+      "stock": 18,
       "reserved": [
         {
           "id": "RSV1780362536090628",
