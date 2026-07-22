@@ -6244,15 +6244,10 @@
           "email": "HiroshiShamblen2008@hotmail.com",
           "password": "syrva927108",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "MakenzieStoppenhagen58903@hotmail.com",
-          "password": "potxsj65686",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 28,
+      "stock": 27,
       "reserved": [
         {
           "id": "RSV1780362536090628",
