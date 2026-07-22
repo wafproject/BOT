@@ -6316,7 +6316,7 @@
           "addedAt": 1784665107272
         }
       ],
-      "sold": 5070,
+      "sold": 5071,
       "stock": 39,
       "reserved": [
         {
@@ -6541,18 +6541,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784687110028518",
-          "items": [
-            {
-              "email": "CindiNaguib04335@hotmail.com",
-              "password": "dcforz827860",
-              "addedAt": 1784665107272
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T02:25:10.028Z"
         }
       ],
       "bulk_active": true,
