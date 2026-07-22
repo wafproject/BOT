@@ -6164,15 +6164,10 @@
           "email": "hoehndepue295@hotmail.com",
           "password": "G1ihbUBO1b9",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "peetebritten560@hotmail.com",
-          "password": "qdNIaNX36po",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 12,
+      "stock": 11,
       "reserved": [
         {
           "id": "RSV1780362536090628",
