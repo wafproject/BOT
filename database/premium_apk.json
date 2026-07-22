@@ -6174,15 +6174,10 @@
           "email": "ewybaerlocher384@hotmail.com",
           "password": "je33JCa4Lz",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "montanezstogden460@hotmail.com",
-          "password": "aLLaxhcRB6",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 14,
+      "stock": 13,
       "reserved": [
         {
           "id": "RSV1780362536090628",
