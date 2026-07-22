@@ -6101,11 +6101,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Acces https://login.live.com/login.srf (masukin email & sandi capcut kamu) selain hotmail ke generator.email",
       "items": [
         {
-          "email": "JulioBrinlee410482@hotmail.com",
-          "password": "smbwo624359",
-          "addedAt": 1784701290393
-        },
-        {
           "email": "DonnieEskelson37661@hotmail.com",
           "password": "cgwya34444",
           "addedAt": 1784701290393
@@ -6257,7 +6252,7 @@
         }
       ],
       "sold": 5082,
-      "stock": 31,
+      "stock": 30,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6481,6 +6476,18 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1784704407328321",
+          "items": [
+            {
+              "email": "JulioBrinlee410482@hotmail.com",
+              "password": "smbwo624359",
+              "addedAt": 1784701290393
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-22T07:13:27.328Z"
         }
       ],
       "bulk_active": false,
