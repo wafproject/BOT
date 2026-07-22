@@ -6124,15 +6124,10 @@
           "email": "DonnieEskelson37661@hotmail.com",
           "password": "cgwya34444",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "ParrishKealy112319@hotmail.com",
-          "password": "jovbz54839",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 4,
+      "stock": 3,
       "reserved": [
         {
           "id": "RSV1780362536090628",
