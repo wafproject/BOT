@@ -6209,15 +6209,10 @@
           "email": "oglesangiacomo8049@hotmail.com",
           "password": "N9licF9s",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "daultonniesborella769@hotmail.com",
-          "password": "5IMoJQuH",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 21,
+      "stock": 20,
       "reserved": [
         {
           "id": "RSV1780362536090628",
