@@ -6129,15 +6129,10 @@
           "email": "ParrishKealy112319@hotmail.com",
           "password": "jovbz54839",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "JoleneGrigas395250@hotmail.com",
-          "password": "pufqa27395",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 5,
+      "stock": 4,
       "reserved": [
         {
           "id": "RSV1780362536090628",
