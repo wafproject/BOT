@@ -6138,7 +6138,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5103,
+      "sold": 5104,
       "stock": 9,
       "reserved": [
         {
@@ -6363,18 +6363,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784729524179126",
-          "items": [
-            {
-              "email": "AlyviaHasker24848@hotmail.com",
-              "password": "dnflye08842",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T14:12:04.179Z"
         }
       ],
       "bulk_active": false,
