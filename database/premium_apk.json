@@ -642,11 +642,6 @@
       "snk": " Garansi 20 Hari",
       "items": [
         {
-          "email": "3672nq0@premaja.online",
-          "password": "masuk1234@",
-          "addedAt": 1783029360176
-        },
-        {
           "email": "rng1vv0@wafprem.biz.id",
           "password": "masuk1234@",
           "addedAt": 1783029360176
@@ -668,8 +663,21 @@
         }
       ],
       "sold": 114,
-      "stock": 5,
-      "reserved": [],
+      "stock": 4,
+      "reserved": [
+        {
+          "id": "RSV17846832739783",
+          "items": [
+            {
+              "email": "3672nq0@premaja.online",
+              "password": "masuk1234@",
+              "addedAt": 1783029360176
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-22T01:21:13.978Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
