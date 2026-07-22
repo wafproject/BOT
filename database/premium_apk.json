@@ -6168,7 +6168,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5099,
+      "sold": 5101,
       "stock": 12,
       "reserved": [
         {
@@ -6393,23 +6393,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178472085003868",
-          "items": [
-            {
-              "email": "speachgourdin6323@hotmail.com",
-              "password": "N5KiuXqQM",
-              "addedAt": 1784701290393
-            },
-            {
-              "email": "oglesangiacomo8049@hotmail.com",
-              "password": "N9licF9s",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-22T11:47:30.038Z"
         }
       ],
       "bulk_active": false,
