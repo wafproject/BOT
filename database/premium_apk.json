@@ -6189,15 +6189,10 @@
           "email": "quiltertorgersen7827@hotmail.com",
           "password": "5abl7gojMXrK",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "rasmusonchalupa072@hotmail.com",
-          "password": "QVEbL87WQj2",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 17,
+      "stock": 16,
       "reserved": [
         {
           "id": "RSV1780362536090628",
