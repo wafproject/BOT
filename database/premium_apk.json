@@ -6216,7 +6216,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5089,
+      "sold": 5090,
       "stock": 23,
       "reserved": [
         {
@@ -6441,18 +6441,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784708965446338",
-          "items": [
-            {
-              "email": "zamboranoryals96@hotmail.com",
-              "password": "6rzM1nOjy",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T08:29:25.446Z"
         }
       ],
       "bulk_active": false,
