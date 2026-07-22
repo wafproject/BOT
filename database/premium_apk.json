@@ -6219,15 +6219,10 @@
           "email": "RaulRadicke70537@hotmail.com",
           "password": "bwpooa657676",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "AlyviaHasker24848@hotmail.com",
-          "password": "dnflye08842",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 23,
+      "stock": 22,
       "reserved": [
         {
           "id": "RSV1780362536090628",
