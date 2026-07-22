@@ -6169,15 +6169,10 @@
           "email": "peetebritten560@hotmail.com",
           "password": "qdNIaNX36po",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "ewybaerlocher384@hotmail.com",
-          "password": "je33JCa4Lz",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 13,
+      "stock": 12,
       "reserved": [
         {
           "id": "RSV1780362536090628",
