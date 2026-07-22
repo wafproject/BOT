@@ -6204,15 +6204,10 @@
           "email": "speachgourdin6323@hotmail.com",
           "password": "N5KiuXqQM",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "oglesangiacomo8049@hotmail.com",
-          "password": "N9licF9s",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 20,
+      "stock": 19,
       "reserved": [
         {
           "id": "RSV1780362536090628",
