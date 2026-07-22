@@ -6206,7 +6206,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5091,
+      "sold": 5092,
       "stock": 21,
       "reserved": [
         {
@@ -6431,18 +6431,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784712473975573",
-          "items": [
-            {
-              "email": "hoehndepue295@hotmail.com",
-              "password": "G1ihbUBO1b9",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T09:27:53.975Z"
         }
       ],
       "bulk_active": false,
