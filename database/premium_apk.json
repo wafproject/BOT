@@ -6261,7 +6261,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5081,
+      "sold": 5082,
       "stock": 31,
       "reserved": [
         {
@@ -6486,18 +6486,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784701469308699",
-          "items": [
-            {
-              "email": "RomaHandl31665@hotmail.com",
-              "password": "ijfchy00657",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T06:24:29.309Z"
         }
       ],
       "bulk_active": false,
