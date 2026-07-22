@@ -6191,7 +6191,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5094,
+      "sold": 5095,
       "stock": 18,
       "reserved": [
         {
@@ -6416,18 +6416,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784715572162686",
-          "items": [
-            {
-              "email": "montanezstogden460@hotmail.com",
-              "password": "aLLaxhcRB6",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T10:19:32.162Z"
         }
       ],
       "bulk_active": false,
