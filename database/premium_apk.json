@@ -6175,7 +6175,7 @@
           "addedAt": 1784701290393
         }
       ],
-      "sold": 5097,
+      "sold": 5098,
       "stock": 15,
       "reserved": [
         {
@@ -6400,18 +6400,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784720018999249",
-          "items": [
-            {
-              "email": "rasmusonchalupa072@hotmail.com",
-              "password": "QVEbL87WQj2",
-              "addedAt": 1784701290393
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-22T11:33:38.999Z"
         }
       ],
       "bulk_active": false,
