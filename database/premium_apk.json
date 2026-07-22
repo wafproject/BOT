@@ -6134,15 +6134,10 @@
           "email": "JoleneGrigas395250@hotmail.com",
           "password": "pufqa27395",
           "addedAt": 1784665107272
-        },
-        {
-          "email": "ColtenBathrick9211@hotmail.com",
-          "password": "xegnz35435",
-          "addedAt": 1784665107272
         }
       ],
       "sold": 5081,
-      "stock": 6,
+      "stock": 5,
       "reserved": [
         {
           "id": "RSV1780362536090628",
