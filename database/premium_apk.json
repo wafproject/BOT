@@ -374,16 +374,23 @@
       "price": 3000,
       "descShort": "Bisa inv 100 member",
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/",
-      "items": [
+      "items": [],
+      "stock": 0,
+      "sold": 347,
+      "reserved": [
         {
-          "email": "wvafat94@okeaja.my.id",
-          "password": "X9lqc2lz7yv!@",
-          "addedAt": 1784795224954
+          "id": "RSV1784802529126684",
+          "items": [
+            {
+              "email": "wvafat94@okeaja.my.id",
+              "password": "X9lqc2lz7yv!@",
+              "addedAt": 1784795224954
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-23T10:28:49.126Z"
         }
       ],
-      "stock": 1,
-      "sold": 347,
-      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
