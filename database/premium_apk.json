@@ -200,11 +200,6 @@
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/",
       "items": [
         {
-          "email": "sthhkg81@asikinaja.my.id",
-          "password": "X9h702hibn2!@",
-          "addedAt": 1784653512697
-        },
-        {
           "email": "vyhspa75@asikinaja.my.id",
           "password": "X223d2nschd!@",
           "addedAt": 1784653512697
@@ -250,9 +245,22 @@
           "addedAt": 1784653512697
         }
       ],
-      "stock": 10,
+      "stock": 9,
       "sold": 337,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1784776357248260",
+          "items": [
+            {
+              "email": "sthhkg81@asikinaja.my.id",
+              "password": "X9h702hibn2!@",
+              "addedAt": 1784653512697
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-23T03:12:37.248Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
