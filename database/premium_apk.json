@@ -9507,11 +9507,6 @@
       "snk": "* 20 - 25 Hari terhitung 1 bulan\n• Login max 2 device \n• Jual sharing tanggung jawab sendiri",
       "items": [
         {
-          "email": "xiuxialsjb@asikinaja.my.id",
-          "password": "masuk123",
-          "addedAt": 1784719820737
-        },
-        {
           "email": "sarapkhisu17@asikinaja.my.id",
           "password": "masuk123",
           "addedAt": 1784719820737
@@ -9533,7 +9528,21 @@
         }
       ],
       "sold": 287,
-      "stock": 5
+      "stock": 4,
+      "reserved": [
+        {
+          "id": "RSV1784808204387373",
+          "items": [
+            {
+              "email": "xiuxialsjb@asikinaja.my.id",
+              "password": "masuk123",
+              "addedAt": 1784719820737
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-23T12:03:24.387Z"
+        }
+      ]
     }
   ],
   "meta": {
