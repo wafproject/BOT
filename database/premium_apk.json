@@ -9511,10 +9511,25 @@
           "email": "zizirpoj187@asikinaja.my.id",
           "password": "masuk123",
           "addedAt": 1784735099957
+        },
+        {
+          "email": "dokaksnb10@okeaja.my.id",
+          "password": "masuk123",
+          "addedAt": 1784839385292
+        },
+        {
+          "email": "michaelkj12@okeaja.my.id",
+          "password": "masuk123",
+          "addedAt": 1784839385292
+        },
+        {
+          "email": "poqepo828@okeaja.my.id",
+          "password": "masuk123",
+          "addedAt": 1784839385292
         }
       ],
       "sold": 289,
-      "stock": 3,
+      "stock": 6,
       "reserved": []
     }
   ],
