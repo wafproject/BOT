@@ -414,14 +414,9 @@
           "email": "aaucwu80@asikinaja.my.id",
           "password": "Xaxkeg51dj3!@",
           "addedAt": 1784788222077
-        },
-        {
-          "email": "bwzeqy31@asikinaja.my.id",
-          "password": "X8380l1243h!@",
-          "addedAt": 1784788222077
         }
       ],
-      "stock": 9,
+      "stock": 8,
       "sold": 344,
       "reserved": [],
       "bulk_active": false,
