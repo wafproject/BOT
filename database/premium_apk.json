@@ -9527,22 +9527,9 @@
           "addedAt": 1784735099957
         }
       ],
-      "sold": 287,
+      "sold": 288,
       "stock": 4,
-      "reserved": [
-        {
-          "id": "RSV1784808204387373",
-          "items": [
-            {
-              "email": "xiuxialsjb@asikinaja.my.id",
-              "password": "masuk123",
-              "addedAt": 1784719820737
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-23T12:03:24.387Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
