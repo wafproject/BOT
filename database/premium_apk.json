@@ -358,8 +358,59 @@
       "price": 3000,
       "descShort": "Bisa inv 100 member",
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "zpghkk61@jinggiu.my.id",
+          "password": "Xx1yepf29yl!@",
+          "addedAt": 1784884480875
+        },
+        {
+          "email": "srhadm43@jinggiu.my.id",
+          "password": "Xs0krer4ywc!@",
+          "addedAt": 1784884480875
+        },
+        {
+          "email": "cmiqym30@jinggiu.my.id",
+          "password": "Xpes4d7foct!@",
+          "addedAt": 1784884480875
+        },
+        {
+          "email": "kprkft01@jinggiu.my.id",
+          "password": "X8dy8u5808s!@",
+          "addedAt": 1784884480875
+        },
+        {
+          "email": "bqariu98@jinggiu.my.id",
+          "password": "Xygrlduwyof!@",
+          "addedAt": 1784884480875
+        },
+        {
+          "email": "ycqbsl22@jinggiu.my.id",
+          "password": "Xtzfvyn9bvc!@",
+          "addedAt": 1784884480875
+        },
+        {
+          "email": "epbxnk03@jinggiu.my.id",
+          "password": "Xez8h3roqv6!@",
+          "addedAt": 1784884480875
+        },
+        {
+          "email": "dmtdiz96@jinggiu.my.id",
+          "password": "Xk2dpkm82i4!@",
+          "addedAt": 1784884480875
+        },
+        {
+          "email": "aqtvuy16@jinggiu.my.id",
+          "password": "X7aiey58mc7!@",
+          "addedAt": 1784884480875
+        },
+        {
+          "email": "vwjaay75@jinggiu.my.id",
+          "password": "Xkvwicqx95u!@",
+          "addedAt": 1784884480875
+        }
+      ],
+      "stock": 10,
       "sold": 348,
       "reserved": [],
       "bulk_active": false,
