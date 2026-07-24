@@ -6175,7 +6175,7 @@
           "addedAt": 1784871413243
         }
       ],
-      "sold": 5211,
+      "sold": 5223,
       "stock": 1,
       "reserved": [
         {
@@ -6400,73 +6400,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1784872916308885",
-          "items": [
-            {
-              "email": "irnantomayasari86@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784871413243
-            },
-            {
-              "email": "jaimanhardiansyah21@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784871413243
-            },
-            {
-              "email": "oktosalahudin53@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784871413243
-            },
-            {
-              "email": "aniyuniar10@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784871413243
-            },
-            {
-              "email": "ratnawijaya71@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784871413243
-            },
-            {
-              "email": "wardinababan98@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784871413243
-            },
-            {
-              "email": "rurididu5@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1784871413243
-            },
-            {
-              "email": "‎rudififa89@gmail.com",
-              "password": "masuk123",
-              "addedAt": 1784871413243
-            },
-            {
-              "email": "noosanet@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784871413243
-            },
-            {
-              "email": "daslvn@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784871413243
-            },
-            {
-              "email": "mikesuv@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784871413243
-            },
-            {
-              "email": "freeandlive@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1784871413243
-            }
-          ],
-          "qty": 12,
-          "createdAt": "2026-07-24T06:01:56.308Z"
         }
       ],
       "bulk_active": false,
