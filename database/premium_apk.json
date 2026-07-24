@@ -361,11 +361,6 @@
           "addedAt": 1784884480875
         },
         {
-          "email": "vwjaay75@jinggiu.my.id",
-          "password": "Xkvwicqx95u!@",
-          "addedAt": 1784884480875
-        },
-        {
           "email": "lvbz8608@outlook.com",
           "password": "Yligr8429",
           "addedAt": 1784909333783
@@ -416,7 +411,7 @@
           "addedAt": 1784909333783
         }
       ],
-      "stock": 12,
+      "stock": 11,
       "sold": 356,
       "reserved": [],
       "bulk_active": false,
