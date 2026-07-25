@@ -60,14 +60,14 @@
       "first_name": "Enjiii",
       "username": "enziwaf",
       "saldo": 5000,
-      "saldo_reserved": 0,
+      "saldo_reserved": 400,
       "order_count": 1,
       "deposit_count": 0,
       "total_deposit": 0,
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-25T10:23:40.442Z",
-      "updated_at": "2026-07-25T16:17:49.904Z",
+      "updated_at": "2026-07-25T17:43:05.827Z",
       "last_seen_at": "2026-07-25T14:58:34.649Z"
     },
     "8395232077": {
@@ -9330,6 +9330,19 @@
       "actor_id": "system",
       "idempotency_key": "order-refund:491767574",
       "created_at": "2026-07-25T16:17:49.904Z"
+    },
+    "BAL178500138582888632": {
+      "log_id": "BAL178500138582888632",
+      "user_id": "7819324393",
+      "amount": 0,
+      "balance_before": 5000,
+      "balance_after": 5000,
+      "type": "order_reserve",
+      "reference_id": "reserve:7819324393:1785001385819",
+      "note": "Shopee Indonesia",
+      "actor_id": "7819324393",
+      "idempotency_key": "",
+      "created_at": "2026-07-25T17:43:05.828Z"
     }
   },
   "bot": {
@@ -9352,6 +9365,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T17:07:57.552Z"
+    "updated_at": "2026-07-25T17:43:05.878Z"
   }
 }
