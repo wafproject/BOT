@@ -9043,6 +9043,20 @@
       "created_at": "2026-07-25T15:53:54.299Z",
       "updated_at": "2026-07-25T15:53:54.299Z",
       "last_seen_at": "2026-07-25T15:53:54.299Z"
+    },
+    "5333875603": {
+      "first_name": "Фролов",
+      "username": "Cathy_green_393",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:53:54.322Z",
+      "updated_at": "2026-07-25T15:53:54.322Z",
+      "last_seen_at": "2026-07-25T15:53:54.322Z"
     }
   },
   "orders": {},
@@ -9112,6 +9126,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:54:35.953Z"
+    "updated_at": "2026-07-25T15:54:38.435Z"
   }
 }
