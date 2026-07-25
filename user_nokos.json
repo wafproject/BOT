@@ -3149,6 +3149,20 @@
       "created_at": "2026-07-25T15:31:46.900Z",
       "updated_at": "2026-07-25T15:31:46.900Z",
       "last_seen_at": "2026-07-25T15:31:46.900Z"
+    },
+    "6468350398": {
+      "first_name": "bharti",
+      "username": "Josephalvarez50",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:31:46.922Z",
+      "updated_at": "2026-07-25T15:31:46.922Z",
+      "last_seen_at": "2026-07-25T15:31:46.922Z"
     }
   },
   "orders": {},
@@ -3218,6 +3232,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:35:02.512Z"
+    "updated_at": "2026-07-25T15:35:04.209Z"
   }
 }
