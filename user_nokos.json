@@ -8665,6 +8665,20 @@
       "created_at": "2026-07-25T15:51:54.686Z",
       "updated_at": "2026-07-25T15:51:54.686Z",
       "last_seen_at": "2026-07-25T15:51:54.686Z"
+    },
+    "5813121293": {
+      "first_name": "moh.",
+      "username": "Tracy_Castro723",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:51:54.695Z",
+      "updated_at": "2026-07-25T15:51:54.695Z",
+      "last_seen_at": "2026-07-25T15:51:54.695Z"
     }
   },
   "orders": {},
@@ -8734,6 +8748,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:53:14.803Z"
+    "updated_at": "2026-07-25T15:53:18.798Z"
   }
 }
