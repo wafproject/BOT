@@ -47,9 +47,9 @@
     }
   },
   "bot": {
-    "total_users": 1,
-    "total_orders": 0,
-    "total_deposits": 0,
+    "total_users": 927,
+    "total_orders": 18374,
+    "total_deposits": 23837800,
     "total_revenue": 0,
     "maintenance": false,
     "maintenance_message": "Bot sedang dalam pemeliharaan. Silakan coba lagi nanti.",
