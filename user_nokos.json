@@ -2071,6 +2071,20 @@
       "created_at": "2026-07-25T15:30:46.492Z",
       "updated_at": "2026-07-25T15:30:46.492Z",
       "last_seen_at": "2026-07-25T15:30:46.492Z"
+    },
+    "5355785110": {
+      "first_name": "маха",
+      "username": "Mr_frank_898",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:30:46.503Z",
+      "updated_at": "2026-07-25T15:30:46.503Z",
+      "last_seen_at": "2026-07-25T15:30:46.503Z"
     }
   },
   "orders": {},
@@ -2140,6 +2154,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:32:24.488Z"
+    "updated_at": "2026-07-25T15:32:28.471Z"
   }
 }
