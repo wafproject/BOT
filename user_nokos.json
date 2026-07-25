@@ -8931,6 +8931,20 @@
       "created_at": "2026-07-25T15:53:54.095Z",
       "updated_at": "2026-07-25T15:53:54.095Z",
       "last_seen_at": "2026-07-25T15:53:54.095Z"
+    },
+    "8097127473": {
+      "first_name": "Zucchini",
+      "username": "",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:53:54.111Z",
+      "updated_at": "2026-07-25T15:53:54.111Z",
+      "last_seen_at": "2026-07-25T15:53:54.111Z"
     }
   },
   "orders": {},
@@ -9000,6 +9014,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:54:16.532Z"
+    "updated_at": "2026-07-25T15:54:18.757Z"
   }
 }
