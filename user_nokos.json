@@ -1021,6 +1021,20 @@
       "created_at": "2026-07-25T15:28:03.640Z",
       "updated_at": "2026-07-25T15:28:03.640Z",
       "last_seen_at": "2026-07-25T15:28:03.640Z"
+    },
+    "6682231115": {
+      "first_name": "אבדלגאדר",
+      "username": "Jessica_kim259",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:28:03.645Z",
+      "updated_at": "2026-07-25T15:28:03.645Z",
+      "last_seen_at": "2026-07-25T15:28:03.645Z"
     }
   },
   "orders": {},
@@ -1090,6 +1104,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:28:29.980Z"
+    "updated_at": "2026-07-25T15:28:31.606Z"
   }
 }
