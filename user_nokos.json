@@ -61,13 +61,13 @@
       "username": "enziwaf",
       "saldo": 4590,
       "saldo_reserved": 730,
-      "order_count": 3,
+      "order_count": 4,
       "deposit_count": 0,
       "total_deposit": 0,
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-25T10:23:40.442Z",
-      "updated_at": "2026-07-25T17:55:11.099Z",
+      "updated_at": "2026-07-25T17:55:12.525Z",
       "last_seen_at": "2026-07-25T14:58:34.649Z"
     },
     "8395232077": {
@@ -9276,6 +9276,45 @@
       "expires_at": "2026-07-25T18:06:02.308Z",
       "created_at": "2026-07-25T17:46:02.309Z",
       "updated_at": "2026-07-25T17:49:45.091Z"
+    },
+    "491979911": {
+      "order_id": "491979911",
+      "user_id": "7819324393",
+      "chat_id": "7819324393",
+      "message_id": 6423,
+      "server": "S3",
+      "phone": "6285743471572",
+      "country_id": "6",
+      "country_name": "Indonesia",
+      "service_id": "ka",
+      "service_name": "Shopee",
+      "operator": "Server SMSBrowser 3426",
+      "provider_id": "3426",
+      "selected_provider_id": "3426",
+      "returned_provider_id": "3426",
+      "provider_price": 561,
+      "sell_price": 730,
+      "quoted_provider_price": 561,
+      "quoted_sell_price": 730,
+      "price_reconciled": false,
+      "auto_cancel_reason": "",
+      "auto_cancel_at": "",
+      "status": "pending",
+      "otp": "",
+      "otp_history": [],
+      "sms_text": "",
+      "fulfilled": false,
+      "balance_reserved": true,
+      "balance_settled": false,
+      "resend_pending": false,
+      "previous_otp": "",
+      "refunded": false,
+      "refunded_at": "",
+      "notified_received": false,
+      "notified_closed": false,
+      "expires_at": "2026-07-25T18:15:12.516Z",
+      "created_at": "2026-07-25T17:55:12.516Z",
+      "updated_at": "2026-07-25T17:55:12.525Z"
     }
   },
   "deposits": {},
@@ -9518,7 +9557,7 @@
   },
   "bot": {
     "total_users": 940,
-    "total_orders": 18377,
+    "total_orders": 18378,
     "total_deposits": 23837800,
     "total_revenue": 23838210,
     "maintenance": false,
@@ -9536,6 +9575,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T17:55:11.134Z"
+    "updated_at": "2026-07-25T17:55:12.562Z"
   }
 }
