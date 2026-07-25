@@ -60,14 +60,14 @@
       "first_name": "Enjiii",
       "username": "enziwaf",
       "saldo": 5000,
-      "saldo_reserved": 400,
+      "saldo_reserved": 0,
       "order_count": 2,
       "deposit_count": 0,
       "total_deposit": 0,
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-25T10:23:40.442Z",
-      "updated_at": "2026-07-25T17:43:08.761Z",
+      "updated_at": "2026-07-25T17:45:31.770Z",
       "last_seen_at": "2026-07-25T14:58:34.649Z"
     },
     "8395232077": {
@@ -9219,22 +9219,22 @@
       "price_reconciled": false,
       "auto_cancel_reason": "",
       "auto_cancel_at": "",
-      "status": "pending",
+      "status": "cancelled",
       "otp": "",
       "otp_history": [],
       "sms_text": "",
       "fulfilled": false,
-      "balance_reserved": true,
+      "balance_reserved": false,
       "balance_settled": false,
       "resend_pending": false,
       "previous_otp": "",
-      "refunded": false,
-      "refunded_at": "",
+      "refunded": true,
+      "refunded_at": "2026-07-25T17:45:31.770Z",
       "notified_received": false,
       "notified_closed": false,
       "expires_at": "2026-07-25T18:03:08.752Z",
       "created_at": "2026-07-25T17:43:08.753Z",
-      "updated_at": "2026-07-25T17:43:08.761Z"
+      "updated_at": "2026-07-25T17:45:31.770Z"
     }
   },
   "deposits": {},
@@ -9395,6 +9395,19 @@
       "actor_id": "system",
       "idempotency_key": "order-live-price:491951410",
       "created_at": "2026-07-25T17:43:07.517Z"
+    },
+    "BAL178500153177015599": {
+      "log_id": "BAL178500153177015599",
+      "user_id": "7819324393",
+      "amount": 0,
+      "balance_before": 5000,
+      "balance_after": 5000,
+      "type": "order_reservation_release",
+      "reference_id": "491951410",
+      "note": "Penahanan saldo order 491951410 dilepas",
+      "actor_id": "system",
+      "idempotency_key": "order-refund:491951410",
+      "created_at": "2026-07-25T17:45:31.770Z"
     }
   },
   "bot": {
@@ -9417,6 +9430,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T17:43:08.795Z"
+    "updated_at": "2026-07-25T17:45:31.822Z"
   }
 }
