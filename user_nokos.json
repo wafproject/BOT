@@ -59,15 +59,15 @@
     "7819324393": {
       "first_name": "Enjiii",
       "username": "enziwaf",
-      "saldo": 5000,
-      "saldo_reserved": 410,
+      "saldo": 4590,
+      "saldo_reserved": 0,
       "order_count": 3,
       "deposit_count": 0,
       "total_deposit": 0,
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-25T10:23:40.442Z",
-      "updated_at": "2026-07-25T17:46:02.318Z",
+      "updated_at": "2026-07-25T17:46:34.669Z",
       "last_seen_at": "2026-07-25T14:58:34.649Z"
     },
     "8395232077": {
@@ -9258,22 +9258,24 @@
       "price_reconciled": false,
       "auto_cancel_reason": "",
       "auto_cancel_at": "",
-      "status": "pending",
-      "otp": "",
-      "otp_history": [],
+      "status": "received",
+      "otp": "777984",
+      "otp_history": [
+        "777984"
+      ],
       "sms_text": "",
-      "fulfilled": false,
-      "balance_reserved": true,
-      "balance_settled": false,
+      "fulfilled": true,
+      "balance_reserved": false,
+      "balance_settled": true,
       "resend_pending": false,
       "previous_otp": "",
       "refunded": false,
       "refunded_at": "",
-      "notified_received": false,
+      "notified_received": true,
       "notified_closed": false,
       "expires_at": "2026-07-25T18:06:02.308Z",
       "created_at": "2026-07-25T17:46:02.309Z",
-      "updated_at": "2026-07-25T17:46:02.318Z"
+      "updated_at": "2026-07-25T17:46:34.669Z"
     }
   },
   "deposits": {},
@@ -9473,13 +9475,26 @@
       "actor_id": "system",
       "idempotency_key": "order-live-price:491958069",
       "created_at": "2026-07-25T17:46:00.975Z"
+    },
+    "BAL178500159466981325": {
+      "log_id": "BAL178500159466981325",
+      "user_id": "7819324393",
+      "amount": -410,
+      "balance_before": 5000,
+      "balance_after": 4590,
+      "type": "order_charge",
+      "reference_id": "491958069",
+      "note": "Saldo dipotong setelah OTP diterima untuk 491958069",
+      "actor_id": "system",
+      "idempotency_key": "order-charge:491958069",
+      "created_at": "2026-07-25T17:46:34.669Z"
     }
   },
   "bot": {
     "total_users": 940,
     "total_orders": 18377,
     "total_deposits": 23837800,
-    "total_revenue": 23837800,
+    "total_revenue": 23838210,
     "maintenance": false,
     "maintenance_message": "Bot sedang dalam pemeliharaan. Silakan coba lagi nanti.",
     "pricing": {
@@ -9495,6 +9510,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T17:46:02.354Z"
+    "updated_at": "2026-07-25T17:46:34.711Z"
   }
 }
