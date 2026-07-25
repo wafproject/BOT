@@ -8063,6 +8063,20 @@
       "created_at": "2026-07-25T15:51:54.459Z",
       "updated_at": "2026-07-25T15:51:54.459Z",
       "last_seen_at": "2026-07-25T15:51:54.459Z"
+    },
+    "8073472924": {
+      "first_name": "Tar",
+      "username": "Tarla251",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:51:54.468Z",
+      "updated_at": "2026-07-25T15:51:54.468Z",
+      "last_seen_at": "2026-07-25T15:51:54.468Z"
     }
   },
   "orders": {},
@@ -8132,6 +8146,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:52:18.545Z"
+    "updated_at": "2026-07-25T15:52:19.700Z"
   }
 }
