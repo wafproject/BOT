@@ -1133,6 +1133,20 @@
       "created_at": "2026-07-25T15:28:40.597Z",
       "updated_at": "2026-07-25T15:28:40.597Z",
       "last_seen_at": "2026-07-25T15:28:40.597Z"
+    },
+    "7803049778": {
+      "first_name": "Th",
+      "username": "",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:28:40.607Z",
+      "updated_at": "2026-07-25T15:28:40.607Z",
+      "last_seen_at": "2026-07-25T15:28:40.607Z"
     }
   },
   "orders": {},
@@ -1202,6 +1216,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:28:48.966Z"
+    "updated_at": "2026-07-25T15:28:50.438Z"
   }
 }
