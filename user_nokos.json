@@ -4,14 +4,14 @@
       "first_name": "Enjiii",
       "username": "enziwaf",
       "saldo": 5000,
-      "saldo_reserved": 0,
+      "saldo_reserved": 2880,
       "order_count": 0,
       "deposit_count": 0,
       "total_deposit": 0,
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-25T10:23:40.442Z",
-      "updated_at": "2026-07-25T14:58:34.649Z",
+      "updated_at": "2026-07-25T15:24:33.310Z",
       "last_seen_at": "2026-07-25T14:58:34.649Z"
     }
   },
@@ -44,6 +44,19 @@
       "actor_id": "system",
       "idempotency_key": "order-failed:reserve:7819324393:1784975134375",
       "created_at": "2026-07-25T10:25:39.735Z"
+    },
+    "BAL178499307331047671": {
+      "log_id": "BAL178499307331047671",
+      "user_id": "7819324393",
+      "amount": 0,
+      "balance_before": 5000,
+      "balance_after": 5000,
+      "type": "order_reserve",
+      "reference_id": "reserve:7819324393:1784993073130",
+      "note": "DANA Indonesia",
+      "actor_id": "7819324393",
+      "idempotency_key": "",
+      "created_at": "2026-07-25T15:24:33.310Z"
     }
   },
   "bot": {
@@ -56,6 +69,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T14:58:34.649Z"
+    "updated_at": "2026-07-25T15:24:33.311Z"
   }
 }
