@@ -1833,6 +1833,20 @@
       "created_at": "2026-07-25T15:30:46.257Z",
       "updated_at": "2026-07-25T15:30:46.257Z",
       "last_seen_at": "2026-07-25T15:30:46.257Z"
+    },
+    "6076491294": {
+      "first_name": "גינזבורג",
+      "username": "y0EYz5E0EYz5P0EYz5V",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:30:46.271Z",
+      "updated_at": "2026-07-25T15:30:46.271Z",
+      "last_seen_at": "2026-07-25T15:30:46.271Z"
     }
   },
   "orders": {},
@@ -1902,6 +1916,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:31:48.686Z"
+    "updated_at": "2026-07-25T15:31:50.289Z"
   }
 }
