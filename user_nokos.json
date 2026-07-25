@@ -9183,6 +9183,20 @@
       "created_at": "2026-07-25T18:50:34.925Z",
       "updated_at": "2026-07-25T18:50:34.925Z",
       "last_seen_at": "2026-07-25T18:50:34.925Z"
+    },
+    "7859169035": {
+      "first_name": "🥀ʀᴏᴍɪɴ",
+      "username": "blackrabbit775TzI",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T18:50:37.594Z",
+      "updated_at": "2026-07-25T18:50:37.594Z",
+      "last_seen_at": "2026-07-25T18:50:37.594Z"
     }
   },
   "orders": {
@@ -9599,7 +9613,7 @@
     }
   },
   "bot": {
-    "total_users": 942,
+    "total_users": 943,
     "total_orders": 18378,
     "total_deposits": 23837800,
     "total_revenue": 23838940,
@@ -9618,6 +9632,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T18:50:34.975Z"
+    "updated_at": "2026-07-25T18:50:37.652Z"
   }
 }
