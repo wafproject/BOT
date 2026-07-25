@@ -6087,22 +6087,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 531,
+      "sold": 532,
       "stock": 24,
-      "reserved": [
-        {
-          "id": "RSV1784979465044902",
-          "items": [
-            {
-              "email": "tddkib257@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042881083
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-25T11:37:45.044Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
