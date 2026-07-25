@@ -9267,15 +9267,15 @@
       "fulfilled": true,
       "balance_reserved": false,
       "balance_settled": true,
-      "resend_pending": false,
-      "previous_otp": "",
+      "resend_pending": true,
+      "previous_otp": "777984",
       "refunded": false,
       "refunded_at": "",
-      "notified_received": true,
+      "notified_received": false,
       "notified_closed": false,
       "expires_at": "2026-07-25T18:06:02.308Z",
       "created_at": "2026-07-25T17:46:02.309Z",
-      "updated_at": "2026-07-25T17:46:34.669Z"
+      "updated_at": "2026-07-25T17:49:45.091Z"
     }
   },
   "deposits": {},
@@ -9510,6 +9510,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T17:46:34.711Z"
+    "updated_at": "2026-07-25T17:49:45.130Z"
   }
 }
