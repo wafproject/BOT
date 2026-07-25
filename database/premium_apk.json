@@ -356,11 +356,6 @@
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/\n\nOutlook: \nhttps://outlook.live.com/mail/\n(masukkan email dan password diatas)",
       "items": [
         {
-          "email": "cxwu9116@outlook.com",
-          "password": "Rgzgk5406",
-          "addedAt": 1784909333783
-        },
-        {
           "email": "hksn6674@outlook.com",
           "password": "Bmtbc1010",
           "addedAt": 1784909333783
@@ -376,9 +371,22 @@
           "addedAt": 1784909333783
         }
       ],
-      "stock": 4,
+      "stock": 3,
       "sold": 362,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV178497767675226",
+          "items": [
+            {
+              "email": "cxwu9116@outlook.com",
+              "password": "Rgzgk5406",
+              "addedAt": 1784909333783
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-25T11:07:56.752Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
