@@ -1805,6 +1805,20 @@
       "created_at": "2026-07-25T15:30:46.238Z",
       "updated_at": "2026-07-25T15:30:46.238Z",
       "last_seen_at": "2026-07-25T15:30:46.238Z"
+    },
+    "8424080695": {
+      "first_name": "DIA_",
+      "username": "",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:30:46.251Z",
+      "updated_at": "2026-07-25T15:30:46.251Z",
+      "last_seen_at": "2026-07-25T15:30:46.251Z"
     }
   },
   "orders": {},
@@ -1874,6 +1888,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:31:44.455Z"
+    "updated_at": "2026-07-25T15:31:47.266Z"
   }
 }
