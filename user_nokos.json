@@ -1875,6 +1875,20 @@
       "created_at": "2026-07-25T15:30:46.314Z",
       "updated_at": "2026-07-25T15:30:46.314Z",
       "last_seen_at": "2026-07-25T15:30:46.314Z"
+    },
+    "6665460799": {
+      "first_name": "אאושרה",
+      "username": "Lauren_Walter37",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:30:46.338Z",
+      "updated_at": "2026-07-25T15:30:46.338Z",
+      "last_seen_at": "2026-07-25T15:30:46.338Z"
     }
   },
   "orders": {},
@@ -1944,6 +1958,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:31:53.345Z"
+    "updated_at": "2026-07-25T15:31:54.898Z"
   }
 }
