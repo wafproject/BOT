@@ -8315,6 +8315,20 @@
       "created_at": "2026-07-25T15:51:54.631Z",
       "updated_at": "2026-07-25T15:51:54.631Z",
       "last_seen_at": "2026-07-25T15:51:54.631Z"
+    },
+    "6230044134": {
+      "first_name": "шамсутдин",
+      "username": "wFrULBmFrULBk",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:51:54.631Z",
+      "updated_at": "2026-07-25T15:51:54.631Z",
+      "last_seen_at": "2026-07-25T15:51:54.631Z"
     }
   },
   "orders": {},
@@ -8384,6 +8398,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:52:40.538Z"
+    "updated_at": "2026-07-25T15:52:41.913Z"
   }
 }
