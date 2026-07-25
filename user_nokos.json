@@ -1749,6 +1749,20 @@
       "created_at": "2026-07-25T15:30:46.193Z",
       "updated_at": "2026-07-25T15:30:46.193Z",
       "last_seen_at": "2026-07-25T15:30:46.193Z"
+    },
+    "6471261514": {
+      "first_name": "gardy",
+      "username": "Davidblack_7125",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:30:46.213Z",
+      "updated_at": "2026-07-25T15:30:46.213Z",
+      "last_seen_at": "2026-07-25T15:30:46.213Z"
     }
   },
   "orders": {},
@@ -1818,6 +1832,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:31:38.162Z"
+    "updated_at": "2026-07-25T15:31:39.608Z"
   }
 }
