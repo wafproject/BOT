@@ -1399,6 +1399,20 @@
       "created_at": "2026-07-25T15:28:40.735Z",
       "updated_at": "2026-07-25T15:28:40.735Z",
       "last_seen_at": "2026-07-25T15:28:40.735Z"
+    },
+    "6046468308": {
+      "first_name": "елезавета",
+      "username": "Lisawinters_41110",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:28:40.740Z",
+      "updated_at": "2026-07-25T15:28:40.740Z",
+      "last_seen_at": "2026-07-25T15:28:40.740Z"
     }
   },
   "orders": {},
@@ -1468,6 +1482,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:29:26.947Z"
+    "updated_at": "2026-07-25T15:29:31.277Z"
   }
 }
