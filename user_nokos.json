@@ -13,6 +13,20 @@
       "created_at": "2026-07-25T10:23:40.442Z",
       "updated_at": "2026-07-25T15:24:35.795Z",
       "last_seen_at": "2026-07-25T14:58:34.649Z"
+    },
+    "8395232077": {
+      "first_name": "R🌹",
+      "username": "grhtry",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:26:20.024Z",
+      "updated_at": "2026-07-25T15:26:20.024Z",
+      "last_seen_at": "2026-07-25T15:26:20.024Z"
     }
   },
   "orders": {},
@@ -73,7 +87,7 @@
     }
   },
   "bot": {
-    "total_users": 927,
+    "total_users": 928,
     "total_orders": 18374,
     "total_deposits": 23837800,
     "total_revenue": 23837800,
@@ -82,6 +96,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:24:35.795Z"
+    "updated_at": "2026-07-25T15:26:20.024Z"
   }
 }
