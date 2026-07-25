@@ -2712,9 +2712,9 @@
       "total_deposit": 0,
       "blocked": false,
       "block_reason": "",
-      "created_at": "2026-07-25T15:31:46.588Z",
-      "updated_at": "2026-07-25T15:31:46.588Z",
-      "last_seen_at": "2026-07-25T15:31:46.588Z"
+      "created_at": "2026-07-25T15:32:46.736Z",
+      "updated_at": "2026-07-25T15:32:46.736Z",
+      "last_seen_at": "2026-07-25T15:32:46.736Z"
     },
     "8205835838": {
       "first_name": "Namaal",
@@ -3456,6 +3456,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:35:53.595Z"
+    "updated_at": "2026-07-25T15:35:55.542Z"
   }
 }
