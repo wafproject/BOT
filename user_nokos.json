@@ -9491,6 +9491,20 @@
       "created_at": "2026-07-25T18:51:00.787Z",
       "updated_at": "2026-07-25T18:51:00.787Z",
       "last_seen_at": "2026-07-25T18:51:00.787Z"
+    },
+    "7754486858": {
+      "first_name": "Noor",
+      "username": "Noor15631",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T18:51:00.787Z",
+      "updated_at": "2026-07-25T18:51:00.787Z",
+      "last_seen_at": "2026-07-25T18:51:00.787Z"
     }
   },
   "orders": {
@@ -9926,6 +9940,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T18:51:05.067Z"
+    "updated_at": "2026-07-25T18:51:06.364Z"
   }
 }
