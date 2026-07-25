@@ -1,0 +1,61 @@
+{
+  "users": {
+    "7819324393": {
+      "first_name": "Enjiii",
+      "username": "enziwaf",
+      "saldo": 5000,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T10:23:40.442Z",
+      "updated_at": "2026-07-25T10:27:12.679Z",
+      "last_seen_at": "2026-07-25T10:27:12.679Z"
+    }
+  },
+  "orders": {},
+  "deposits": {},
+  "provider_deposits": {},
+  "balance_logs": {
+    "BAL178497513437647733": {
+      "log_id": "BAL178497513437647733",
+      "user_id": "7819324393",
+      "amount": 0,
+      "balance_before": 5000,
+      "balance_after": 5000,
+      "type": "order_reserve",
+      "reference_id": "reserve:7819324393:1784975134375",
+      "note": "DANA Indonesia",
+      "actor_id": "7819324393",
+      "idempotency_key": "",
+      "created_at": "2026-07-25T10:25:34.376Z"
+    },
+    "BAL178497513973512088": {
+      "log_id": "BAL178497513973512088",
+      "user_id": "7819324393",
+      "amount": 0,
+      "balance_before": 5000,
+      "balance_after": 5000,
+      "type": "order_reservation_release",
+      "reference_id": "reserve:7819324393:1784975134375",
+      "note": "Penahanan saldo dilepas karena provider gagal membuat order",
+      "actor_id": "system",
+      "idempotency_key": "order-failed:reserve:7819324393:1784975134375",
+      "created_at": "2026-07-25T10:25:39.735Z"
+    }
+  },
+  "bot": {
+    "total_users": 1,
+    "total_orders": 0,
+    "total_deposits": 0,
+    "total_revenue": 0,
+    "maintenance": false,
+    "maintenance_message": "Bot sedang dalam pemeliharaan. Silakan coba lagi nanti.",
+    "pricing": null,
+    "server_status": null,
+    "created_at": "2026-07-25T10:22:16.172Z",
+    "updated_at": "2026-07-25T10:27:12.679Z"
+  }
+}
