@@ -307,6 +307,20 @@
       "created_at": "2026-07-25T15:26:36.130Z",
       "updated_at": "2026-07-25T15:26:36.130Z",
       "last_seen_at": "2026-07-25T15:26:36.130Z"
+    },
+    "5240073421": {
+      "first_name": "Jillane",
+      "username": "Mrs_salazar7422",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:26:36.133Z",
+      "updated_at": "2026-07-25T15:26:36.133Z",
+      "last_seen_at": "2026-07-25T15:26:36.133Z"
     }
   },
   "orders": {},
@@ -376,6 +390,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:26:59.160Z"
+    "updated_at": "2026-07-25T15:27:00.312Z"
   }
 }
