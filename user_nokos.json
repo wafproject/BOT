@@ -7405,6 +7405,20 @@
       "created_at": "2026-07-25T15:44:49.324Z",
       "updated_at": "2026-07-25T15:44:49.324Z",
       "last_seen_at": "2026-07-25T15:44:49.324Z"
+    },
+    "5791091475": {
+      "first_name": "Ripple",
+      "username": "solgem132",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-25T15:45:50.008Z",
+      "updated_at": "2026-07-25T15:45:50.008Z",
+      "last_seen_at": "2026-07-25T15:45:50.008Z"
     }
   },
   "orders": {},
@@ -7465,7 +7479,7 @@
     }
   },
   "bot": {
-    "total_users": 936,
+    "total_users": 937,
     "total_orders": 18374,
     "total_deposits": 23837800,
     "total_revenue": 23837800,
@@ -7474,6 +7488,6 @@
     "pricing": null,
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-25T15:49:33.880Z"
+    "updated_at": "2026-07-25T15:49:35.081Z"
   }
 }
