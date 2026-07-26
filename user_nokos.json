@@ -9579,15 +9579,15 @@
     "8724248464": {
       "first_name": "Mochi",
       "username": "",
-      "saldo": 0,
+      "saldo": 1000,
       "saldo_reserved": 0,
       "order_count": 0,
-      "deposit_count": 0,
-      "total_deposit": 0,
+      "deposit_count": 1,
+      "total_deposit": 1000,
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-26T02:43:50.587Z",
-      "updated_at": "2026-07-26T02:43:50.587Z",
+      "updated_at": "2026-07-26T02:44:52.603Z",
       "last_seen_at": "2026-07-26T02:43:50.587Z"
     }
   },
@@ -9767,19 +9767,19 @@
       "total_payment": 1106,
       "qris_url": "data:image/png;base64,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",
       "qris_text": "",
-      "status": "pending",
-      "credited": false,
-      "credited_at": "",
+      "status": "paid",
+      "credited": true,
+      "credited_at": "2026-07-26T02:44:52.603Z",
       "notified": false,
       "notified_at": "",
-      "admin_notification_pending": false,
+      "admin_notification_pending": true,
       "admin_notified": false,
       "admin_notified_ids": [],
       "admin_notified_at": "",
-      "paid_at": "",
+      "paid_at": "2026-07-26T02:44:51.000Z",
       "expires_at": "2026-07-26T02:54:21.000Z",
       "created_at": "2026-07-26T02:44:22.074Z",
-      "updated_at": "2026-07-26T02:44:23.794Z"
+      "updated_at": "2026-07-26T02:44:52.603Z"
     }
   },
   "provider_deposits": {},
@@ -10030,6 +10030,19 @@
       "actor_id": "system",
       "idempotency_key": "order-charge:491979911",
       "created_at": "2026-07-25T17:55:55.420Z"
+    },
+    "BAL178503389260416789": {
+      "log_id": "BAL178503389260416789",
+      "user_id": "8724248464",
+      "amount": 1000,
+      "balance_before": 0,
+      "balance_after": 1000,
+      "type": "deposit_credit",
+      "reference_id": "DEP178503386155972320",
+      "note": "Deposit WAFPAY DEP178503386155972320",
+      "actor_id": "system",
+      "idempotency_key": "deposit-credit:DEP178503386155972320",
+      "created_at": "2026-07-26T02:44:52.604Z"
     }
   },
   "bot": {
@@ -10052,6 +10065,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T02:44:23.844Z"
+    "updated_at": "2026-07-26T02:44:52.654Z"
   }
 }
