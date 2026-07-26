@@ -9995,6 +9995,20 @@
       "created_at": "2026-07-26T06:37:31.671Z",
       "updated_at": "2026-07-26T06:48:12.541Z",
       "last_seen_at": "2026-07-26T06:37:31.671Z"
+    },
+    "6436684214": {
+      "first_name": "𓈒 𐑼 𝟯𝗺 𝘆𝘁 𝗴𝗿𝗼𝗸 𝗮𝗶 𝗰𝗮𝗽𝗰𝘂𝘁 𝘇𝗼𝗼𝗺 𝘃𝗽𝗻 𝗺𝗲𝗶𝘁𝘂 𝘄𝗶𝗻𝗸 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲",
+      "username": "thestrawberriez",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-26T07:07:44.505Z",
+      "updated_at": "2026-07-26T07:07:44.506Z",
+      "last_seen_at": "2026-07-26T07:07:44.506Z"
     }
   },
   "orders": {
@@ -11033,7 +11047,7 @@
     }
   },
   "bot": {
-    "total_users": 978,
+    "total_users": 979,
     "total_orders": 18380,
     "total_deposits": 23837807,
     "total_revenue": 23838940,
@@ -11052,6 +11066,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T06:48:12.597Z"
+    "updated_at": "2026-07-26T07:07:44.555Z"
   }
 }
