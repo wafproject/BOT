@@ -98,6 +98,20 @@
       "updated_at": "2026-07-25T15:26:36.215Z",
       "last_seen_at": "2026-07-25T15:26:36.215Z"
     },
+    "2035884774": {
+      "first_name": "S",
+      "username": "sem199609",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-26T04:43:49.662Z",
+      "updated_at": "2026-07-26T04:43:49.662Z",
+      "last_seen_at": "2026-07-26T04:43:49.662Z"
+    },
     "7819324393": {
       "first_name": "Enjiii",
       "username": "enziwaf",
@@ -10257,7 +10271,7 @@
     }
   },
   "bot": {
-    "total_users": 959,
+    "total_users": 960,
     "total_orders": 18378,
     "total_deposits": 23837803,
     "total_revenue": 23838940,
@@ -10276,6 +10290,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T04:43:42.618Z"
+    "updated_at": "2026-07-26T04:43:49.706Z"
   }
 }
