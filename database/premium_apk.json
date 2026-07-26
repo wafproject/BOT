@@ -6125,11 +6125,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri",
       "items": [
         {
-          "email": "imampradana52@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1785037011935
-        },
-        {
           "email": "mustofadongoran97@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1785037011935
@@ -6191,7 +6186,7 @@
         }
       ],
       "sold": 5251,
-      "stock": 13,
+      "stock": 12,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6415,6 +6410,18 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785038260962577",
+          "items": [
+            {
+              "email": "imampradana52@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1785037011935
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-26T03:57:40.962Z"
         }
       ],
       "bulk_active": true,
