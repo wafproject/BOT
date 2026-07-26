@@ -9986,14 +9986,14 @@
       "first_name": "Owik",
       "username": "",
       "saldo": 1000,
-      "saldo_reserved": 0,
+      "saldo_reserved": 430,
       "order_count": 0,
       "deposit_count": 1,
       "total_deposit": 1000,
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-26T06:37:31.671Z",
-      "updated_at": "2026-07-26T06:40:08.460Z",
+      "updated_at": "2026-07-26T06:40:59.978Z",
       "last_seen_at": "2026-07-26T06:37:31.671Z"
     }
   },
@@ -10778,6 +10778,19 @@
       "actor_id": "system",
       "idempotency_key": "deposit-credit:DEP178504793560593291",
       "created_at": "2026-07-26T06:40:08.461Z"
+    },
+    "BAL178504805997843176": {
+      "log_id": "BAL178504805997843176",
+      "user_id": "8267224960",
+      "amount": 0,
+      "balance_before": 1000,
+      "balance_after": 1000,
+      "type": "order_reserve",
+      "reference_id": "reserve:8267224960:1785048059968",
+      "note": "WhatsApp Indonesia",
+      "actor_id": "8267224960",
+      "idempotency_key": "",
+      "created_at": "2026-07-26T06:40:59.978Z"
     }
   },
   "bot": {
@@ -10800,6 +10813,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T06:40:11.400Z"
+    "updated_at": "2026-07-26T06:41:00.034Z"
   }
 }
