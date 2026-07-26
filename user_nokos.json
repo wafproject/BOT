@@ -10247,6 +10247,20 @@
       "created_at": "2026-07-26T16:28:59.156Z",
       "updated_at": "2026-07-26T16:28:59.156Z",
       "last_seen_at": "2026-07-26T16:28:59.156Z"
+    },
+    "8014455861": {
+      "first_name": "gdtjjh",
+      "username": "",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-26T18:33:13.933Z",
+      "updated_at": "2026-07-26T18:33:13.933Z",
+      "last_seen_at": "2026-07-26T18:33:13.933Z"
     }
   },
   "orders": {
@@ -12021,7 +12035,7 @@
     }
   },
   "bot": {
-    "total_users": 996,
+    "total_users": 997,
     "total_orders": 18386,
     "total_deposits": 23837812,
     "total_revenue": 23841515,
@@ -12040,8 +12054,13 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T16:39:51.189Z",
+    "updated_at": "2026-07-26T18:33:14.009Z",
     "deposit_counter_reset_at": "",
-    "deposit_counter_reset_by": ""
+    "deposit_counter_reset_by": "",
+    "deposit_reset_history": [],
+    "order_enabled": true,
+    "order_disabled_reason": "",
+    "order_disabled_source": "",
+    "order_disabled_at": ""
   }
 }
