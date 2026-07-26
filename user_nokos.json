@@ -10293,7 +10293,7 @@
       "merchant_ref": "DEP178504748123897611",
       "user_id": "7678086367",
       "chat_id": "7678086367",
-      "message_id": 0,
+      "message_id": 6729,
       "provider": "WAFPAY",
       "amount": 1000,
       "fee": 105,
@@ -10312,7 +10312,7 @@
       "paid_at": "",
       "expires_at": "2026-07-26T06:41:22.000Z",
       "created_at": "2026-07-26T06:31:22.558Z",
-      "updated_at": "2026-07-26T06:31:22.568Z"
+      "updated_at": "2026-07-26T06:31:24.022Z"
     }
   },
   "provider_deposits": {},
@@ -10663,6 +10663,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T06:31:22.607Z"
+    "updated_at": "2026-07-26T06:31:24.059Z"
   }
 }
