@@ -1,5 +1,19 @@
 {
   "users": {
+    "797768366": {
+      "first_name": "fannnn || CV binance 🥢 disney🥢",
+      "username": "fffffanny",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-26T09:25:53.960Z",
+      "updated_at": "2026-07-26T09:25:53.960Z",
+      "last_seen_at": "2026-07-26T09:25:53.960Z"
+    },
     "983164647": {
       "first_name": "Mirae | GTC 4K, CanvaHead 2K",
       "username": "wifedokyungsoo",
@@ -11730,7 +11744,7 @@
     }
   },
   "bot": {
-    "total_users": 984,
+    "total_users": 985,
     "total_orders": 18386,
     "total_deposits": 23837808,
     "total_revenue": 23841515,
@@ -11749,6 +11763,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T08:50:53.244Z"
+    "updated_at": "2026-07-26T09:25:54.020Z"
   }
 }
