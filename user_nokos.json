@@ -10007,7 +10007,7 @@
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-26T06:37:31.671Z",
-      "updated_at": "2026-07-26T08:39:12.476Z",
+      "updated_at": "2026-07-26T08:39:14.158Z",
       "last_seen_at": "2026-07-26T06:37:31.671Z"
     },
     "6436684214": {
@@ -11578,6 +11578,19 @@
       "actor_id": "8267224960",
       "idempotency_key": "",
       "created_at": "2026-07-26T08:39:12.476Z"
+    },
+    "BAL178505515415890950": {
+      "log_id": "BAL178505515415890950",
+      "user_id": "8267224960",
+      "amount": 0,
+      "balance_before": 3000,
+      "balance_after": 3000,
+      "type": "order_reservation_live_price",
+      "reference_id": "493571075",
+      "note": "Reservasi disesuaikan ke harga live order Rp2.450",
+      "actor_id": "system",
+      "idempotency_key": "order-live-price:493571075",
+      "created_at": "2026-07-26T08:39:14.158Z"
     }
   },
   "bot": {
@@ -11600,6 +11613,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T08:39:12.521Z"
+    "updated_at": "2026-07-26T08:39:14.203Z"
   }
 }
