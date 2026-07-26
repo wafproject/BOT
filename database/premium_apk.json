@@ -92,10 +92,6 @@
         },
         {
           "link": "https://www.canva.com/brand/join?token=u_2Ads0agEBIMWU1skEMeQ&referrer=team-invite",
-          "addedAt": 1784395198123
-        },
-        {
-          "link": "https://www.canva.com/brand/join?token=u_2Ads0agEBIMWU1skEMeQ&referrer=team-invite",
           "addedAt": 1784788368367
         },
         {
@@ -275,8 +271,8 @@
           "addedAt": 1784788368367
         }
       ],
-      "stock": 50,
-      "sold": 689,
+      "stock": 49,
+      "sold": 690,
       "reserved": [
         {
           "id": "RSV1779749464287750",
