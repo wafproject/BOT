@@ -9776,14 +9776,14 @@
       "first_name": "Andzz",
       "username": "Andz244",
       "saldo": 1000,
-      "saldo_reserved": 400,
+      "saldo_reserved": 0,
       "order_count": 1,
       "deposit_count": 1,
       "total_deposit": 1000,
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-26T04:45:29.555Z",
-      "updated_at": "2026-07-26T04:50:01.596Z",
+      "updated_at": "2026-07-26T04:55:00.602Z",
       "last_seen_at": "2026-07-26T04:45:29.555Z"
     },
     "5470886461": {
@@ -9984,24 +9984,24 @@
       "price_reconciled": false,
       "auto_cancel_reason": "",
       "auto_cancel_at": "",
-      "status": "pending",
+      "status": "cancelled",
       "otp": "",
       "otp_history": [],
       "sms_text": "",
       "fulfilled": false,
-      "balance_reserved": true,
+      "balance_reserved": false,
       "balance_settled": false,
       "resend_pending": false,
       "previous_otp": "",
       "completed_by_user": false,
       "completed_at": "",
-      "refunded": false,
-      "refunded_at": "",
+      "refunded": true,
+      "refunded_at": "2026-07-26T04:55:00.603Z",
       "notified_received": false,
       "notified_closed": false,
       "expires_at": "2026-07-26T05:10:01.585Z",
       "created_at": "2026-07-26T04:50:01.586Z",
-      "updated_at": "2026-07-26T04:50:01.596Z"
+      "updated_at": "2026-07-26T04:55:00.603Z"
     }
   },
   "deposits": {
@@ -10433,6 +10433,19 @@
       "actor_id": "system",
       "idempotency_key": "order-live-price:493140280",
       "created_at": "2026-07-26T04:49:57.214Z"
+    },
+    "BAL178504170060202236": {
+      "log_id": "BAL178504170060202236",
+      "user_id": "8684697752",
+      "amount": 0,
+      "balance_before": 1000,
+      "balance_after": 1000,
+      "type": "order_reservation_release",
+      "reference_id": "493140280",
+      "note": "Penahanan saldo order 493140280 dilepas",
+      "actor_id": "system",
+      "idempotency_key": "order-refund:493140280",
+      "created_at": "2026-07-26T04:55:00.603Z"
     }
   },
   "bot": {
@@ -10455,6 +10468,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T04:50:45.021Z"
+    "updated_at": "2026-07-26T04:55:00.658Z"
   }
 }
