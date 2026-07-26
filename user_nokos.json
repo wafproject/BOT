@@ -10051,6 +10051,20 @@
       "created_at": "2026-07-26T08:03:17.366Z",
       "updated_at": "2026-07-26T08:03:17.366Z",
       "last_seen_at": "2026-07-26T08:03:17.366Z"
+    },
+    "7964166788": {
+      "first_name": "DEEPNET💠",
+      "username": "Deepnet28",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-26T08:18:44.781Z",
+      "updated_at": "2026-07-26T08:18:44.781Z",
+      "last_seen_at": "2026-07-26T08:18:44.781Z"
     }
   },
   "orders": {
@@ -11247,7 +11261,7 @@
     }
   },
   "bot": {
-    "total_users": 982,
+    "total_users": 983,
     "total_orders": 18381,
     "total_deposits": 23837807,
     "total_revenue": 23838940,
@@ -11266,6 +11280,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T08:16:19.310Z"
+    "updated_at": "2026-07-26T08:18:44.833Z"
   }
 }
