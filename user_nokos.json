@@ -9981,6 +9981,20 @@
       "created_at": "2026-07-26T06:33:39.916Z",
       "updated_at": "2026-07-26T06:33:39.916Z",
       "last_seen_at": "2026-07-26T06:33:39.916Z"
+    },
+    "8267224960": {
+      "first_name": "Owik",
+      "username": "",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-26T06:37:31.671Z",
+      "updated_at": "2026-07-26T06:37:31.671Z",
+      "last_seen_at": "2026-07-26T06:37:31.671Z"
     }
   },
   "orders": {
@@ -10725,7 +10739,7 @@
     }
   },
   "bot": {
-    "total_users": 977,
+    "total_users": 978,
     "total_orders": 18379,
     "total_deposits": 23837805,
     "total_revenue": 23838940,
@@ -10744,6 +10758,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T06:33:39.968Z"
+    "updated_at": "2026-07-26T06:37:31.718Z"
   }
 }
