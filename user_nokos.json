@@ -9827,6 +9827,20 @@
       "created_at": "2026-07-26T04:57:27.192Z",
       "updated_at": "2026-07-26T04:57:27.192Z",
       "last_seen_at": "2026-07-26T04:57:27.192Z"
+    },
+    "6609986929": {
+      "first_name": "admin garansi only",
+      "username": "DLeonnedy",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-26T05:03:24.371Z",
+      "updated_at": "2026-07-26T05:03:24.371Z",
+      "last_seen_at": "2026-07-26T05:03:24.371Z"
     }
   },
   "orders": {
@@ -10477,7 +10491,7 @@
     }
   },
   "bot": {
-    "total_users": 966,
+    "total_users": 967,
     "total_orders": 18379,
     "total_deposits": 23837804,
     "total_revenue": 23838940,
@@ -10496,6 +10510,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T04:57:27.235Z"
+    "updated_at": "2026-07-26T05:03:24.424Z"
   }
 }
