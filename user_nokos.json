@@ -10009,6 +10009,20 @@
       "created_at": "2026-07-26T07:07:44.505Z",
       "updated_at": "2026-07-26T07:07:44.506Z",
       "last_seen_at": "2026-07-26T07:07:44.506Z"
+    },
+    "6326328163": {
+      "first_name": "P",
+      "username": "Up1ys",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-26T07:07:49.763Z",
+      "updated_at": "2026-07-26T07:07:49.763Z",
+      "last_seen_at": "2026-07-26T07:07:49.763Z"
     }
   },
   "orders": {
@@ -11047,7 +11061,7 @@
     }
   },
   "bot": {
-    "total_users": 979,
+    "total_users": 980,
     "total_orders": 18380,
     "total_deposits": 23837807,
     "total_revenue": 23838940,
@@ -11066,6 +11080,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T07:07:44.555Z"
+    "updated_at": "2026-07-26T07:07:49.807Z"
   }
 }
