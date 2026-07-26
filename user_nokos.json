@@ -9617,6 +9617,20 @@
       "created_at": "2026-07-26T03:28:13.012Z",
       "updated_at": "2026-07-26T03:28:13.012Z",
       "last_seen_at": "2026-07-26T03:28:13.012Z"
+    },
+    "8154207653": {
+      "first_name": "machaa",
+      "username": "dippycat",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-26T03:52:17.061Z",
+      "updated_at": "2026-07-26T03:52:17.061Z",
+      "last_seen_at": "2026-07-26T03:52:17.061Z"
     }
   },
   "orders": {
@@ -10145,7 +10159,7 @@
     }
   },
   "bot": {
-    "total_users": 951,
+    "total_users": 952,
     "total_orders": 18378,
     "total_deposits": 23837803,
     "total_revenue": 23838940,
@@ -10164,6 +10178,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T03:52:15.126Z"
+    "updated_at": "2026-07-26T03:52:17.105Z"
   }
 }
