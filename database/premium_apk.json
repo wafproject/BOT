@@ -752,10 +752,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "joepupkin@kenari.online|https://generator.email/joepupkin@kenari.online",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "qarabsyed@gmailxsn.space|https://generator.email/qarabsyed@gmailxsn.space",
           "addedAt": 1783266949580
         },
@@ -4848,8 +4844,8 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1024,
-      "sold": 888,
+      "stock": 1023,
+      "sold": 889,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
