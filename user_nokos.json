@@ -10000,14 +10000,14 @@
       "first_name": "Owik",
       "username": "",
       "saldo": 3000,
-      "saldo_reserved": 430,
+      "saldo_reserved": 0,
       "order_count": 3,
       "deposit_count": 2,
       "total_deposit": 3000,
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-26T06:37:31.671Z",
-      "updated_at": "2026-07-26T08:37:09.428Z",
+      "updated_at": "2026-07-26T08:37:10.965Z",
       "last_seen_at": "2026-07-26T06:37:31.671Z"
     },
     "6436684214": {
@@ -11472,6 +11472,19 @@
       "actor_id": "8267224960",
       "idempotency_key": "",
       "created_at": "2026-07-26T08:37:09.428Z"
+    },
+    "BAL178505503096596168": {
+      "log_id": "BAL178505503096596168",
+      "user_id": "8267224960",
+      "amount": 0,
+      "balance_before": 3000,
+      "balance_after": 3000,
+      "type": "order_reservation_release",
+      "reference_id": "reserve:8267224960:1785055029417",
+      "note": "Penahanan saldo dilepas karena provider gagal membuat order",
+      "actor_id": "system",
+      "idempotency_key": "order-failed:reserve:8267224960:1785055029417",
+      "created_at": "2026-07-26T08:37:10.965Z"
     }
   },
   "bot": {
@@ -11494,6 +11507,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T08:37:09.477Z"
+    "updated_at": "2026-07-26T08:37:11.015Z"
   }
 }
