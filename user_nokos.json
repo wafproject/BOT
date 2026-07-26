@@ -9999,15 +9999,15 @@
     "8267224960": {
       "first_name": "Owik",
       "username": "",
-      "saldo": 3000,
-      "saldo_reserved": 2575,
+      "saldo": 425,
+      "saldo_reserved": 0,
       "order_count": 6,
       "deposit_count": 2,
       "total_deposit": 3000,
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-26T06:37:31.671Z",
-      "updated_at": "2026-07-26T08:44:39.512Z",
+      "updated_at": "2026-07-26T08:45:23.540Z",
       "last_seen_at": "2026-07-26T06:37:31.671Z"
     },
     "6436684214": {
@@ -10551,24 +10551,26 @@
       "price_reconciled": false,
       "auto_cancel_reason": "",
       "auto_cancel_at": "",
-      "status": "pending",
-      "otp": "",
-      "otp_history": [],
+      "status": "received",
+      "otp": "653417",
+      "otp_history": [
+        "653417"
+      ],
       "sms_text": "",
-      "fulfilled": false,
-      "balance_reserved": true,
-      "balance_settled": false,
+      "fulfilled": true,
+      "balance_reserved": false,
+      "balance_settled": true,
       "resend_pending": false,
       "previous_otp": "",
       "completed_by_user": false,
       "completed_at": "",
       "refunded": false,
       "refunded_at": "",
-      "notified_received": false,
+      "notified_received": true,
       "notified_closed": false,
       "expires_at": "2026-07-26T09:04:39.503Z",
       "created_at": "2026-07-26T08:44:39.503Z",
-      "updated_at": "2026-07-26T08:44:39.512Z"
+      "updated_at": "2026-07-26T08:45:23.540Z"
     }
   },
   "deposits": {
@@ -11712,13 +11714,26 @@
       "actor_id": "system",
       "idempotency_key": "order-live-price:493581560",
       "created_at": "2026-07-26T08:44:37.876Z"
+    },
+    "BAL178505552354083835": {
+      "log_id": "BAL178505552354083835",
+      "user_id": "8267224960",
+      "amount": -2575,
+      "balance_before": 3000,
+      "balance_after": 425,
+      "type": "order_charge",
+      "reference_id": "493581560",
+      "note": "Saldo dipotong setelah OTP diterima untuk 493581560",
+      "actor_id": "system",
+      "idempotency_key": "order-charge:493581560",
+      "created_at": "2026-07-26T08:45:23.540Z"
     }
   },
   "bot": {
     "total_users": 984,
     "total_orders": 18386,
     "total_deposits": 23837808,
-    "total_revenue": 23838940,
+    "total_revenue": 23841515,
     "maintenance": false,
     "maintenance_message": "Bot sedang dalam pemeliharaan. Silakan coba lagi nanti.",
     "pricing": {
@@ -11734,6 +11749,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T08:44:39.562Z"
+    "updated_at": "2026-07-26T08:45:23.587Z"
   }
 }
