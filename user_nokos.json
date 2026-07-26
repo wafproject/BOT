@@ -9987,13 +9987,13 @@
       "username": "",
       "saldo": 3000,
       "saldo_reserved": 2300,
-      "order_count": 2,
+      "order_count": 3,
       "deposit_count": 2,
       "total_deposit": 3000,
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-26T06:37:31.671Z",
-      "updated_at": "2026-07-26T08:33:43.893Z",
+      "updated_at": "2026-07-26T08:33:45.238Z",
       "last_seen_at": "2026-07-26T06:37:31.671Z"
     },
     "6436684214": {
@@ -10391,6 +10391,47 @@
       "expires_at": "2026-07-26T08:48:27.029Z",
       "created_at": "2026-07-26T08:28:27.029Z",
       "updated_at": "2026-07-26T08:33:18.686Z"
+    },
+    "493560315": {
+      "order_id": "493560315",
+      "user_id": "8267224960",
+      "chat_id": "8267224960",
+      "message_id": 6737,
+      "server": "S3",
+      "phone": "6285198745311",
+      "country_id": "6",
+      "country_name": "Indonesia",
+      "service_id": "wa",
+      "service_name": "WhatsApp",
+      "operator": "Server OTPKita 1329",
+      "provider_id": "1329",
+      "selected_provider_id": "1329",
+      "returned_provider_id": "1329",
+      "provider_price": 1766,
+      "sell_price": 2300,
+      "quoted_provider_price": 1766,
+      "quoted_sell_price": 2300,
+      "price_reconciled": false,
+      "auto_cancel_reason": "",
+      "auto_cancel_at": "",
+      "status": "pending",
+      "otp": "",
+      "otp_history": [],
+      "sms_text": "",
+      "fulfilled": false,
+      "balance_reserved": true,
+      "balance_settled": false,
+      "resend_pending": false,
+      "previous_otp": "",
+      "completed_by_user": false,
+      "completed_at": "",
+      "refunded": false,
+      "refunded_at": "",
+      "notified_received": false,
+      "notified_closed": false,
+      "expires_at": "2026-07-26T08:53:45.224Z",
+      "created_at": "2026-07-26T08:33:45.224Z",
+      "updated_at": "2026-07-26T08:33:45.238Z"
     }
   },
   "deposits": {
@@ -11395,7 +11436,7 @@
   },
   "bot": {
     "total_users": 983,
-    "total_orders": 18382,
+    "total_orders": 18383,
     "total_deposits": 23837808,
     "total_revenue": 23838940,
     "maintenance": false,
@@ -11413,6 +11454,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T08:33:43.939Z"
+    "updated_at": "2026-07-26T08:33:45.282Z"
   }
 }
