@@ -10053,14 +10053,16 @@
       "credited_at": "2026-07-26T04:48:08.117Z",
       "notified": false,
       "notified_at": "",
-      "admin_notification_pending": true,
-      "admin_notified": false,
-      "admin_notified_ids": [],
-      "admin_notified_at": "",
+      "admin_notification_pending": false,
+      "admin_notified": true,
+      "admin_notified_ids": [
+        "7819324393"
+      ],
+      "admin_notified_at": "2026-07-26T04:48:09.530Z",
       "paid_at": "2026-07-26T04:48:07.000Z",
       "expires_at": "2026-07-26T04:56:44.000Z",
       "created_at": "2026-07-26T04:46:44.743Z",
-      "updated_at": "2026-07-26T04:48:08.117Z"
+      "updated_at": "2026-07-26T04:48:09.540Z"
     }
   },
   "provider_deposits": {},
@@ -10372,6 +10374,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T04:48:08.167Z"
+    "updated_at": "2026-07-26T04:48:09.573Z"
   }
 }
