@@ -9883,6 +9883,20 @@
       "created_at": "2026-07-26T05:09:33.428Z",
       "updated_at": "2026-07-26T05:09:33.428Z",
       "last_seen_at": "2026-07-26T05:09:33.428Z"
+    },
+    "7921470863": {
+      "first_name": "Xανιєяя Rude no respn",
+      "username": "xxaavr",
+      "saldo": 0,
+      "saldo_reserved": 0,
+      "order_count": 0,
+      "deposit_count": 0,
+      "total_deposit": 0,
+      "blocked": false,
+      "block_reason": "",
+      "created_at": "2026-07-26T05:12:46.979Z",
+      "updated_at": "2026-07-26T05:12:46.979Z",
+      "last_seen_at": "2026-07-26T05:12:46.979Z"
     }
   },
   "orders": {
@@ -10533,7 +10547,7 @@
     }
   },
   "bot": {
-    "total_users": 970,
+    "total_users": 971,
     "total_orders": 18379,
     "total_deposits": 23837804,
     "total_revenue": 23838940,
@@ -10552,6 +10566,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T05:09:33.471Z"
+    "updated_at": "2026-07-26T05:12:47.027Z"
   }
 }
