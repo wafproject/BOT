@@ -10000,14 +10000,14 @@
       "first_name": "Owik",
       "username": "",
       "saldo": 3000,
-      "saldo_reserved": 2875,
+      "saldo_reserved": 0,
       "order_count": 4,
       "deposit_count": 2,
       "total_deposit": 3000,
       "blocked": false,
       "block_reason": "",
       "created_at": "2026-07-26T06:37:31.671Z",
-      "updated_at": "2026-07-26T08:37:41.506Z",
+      "updated_at": "2026-07-26T08:38:44.801Z",
       "last_seen_at": "2026-07-26T06:37:31.671Z"
     },
     "6436684214": {
@@ -10469,24 +10469,24 @@
       "price_reconciled": false,
       "auto_cancel_reason": "",
       "auto_cancel_at": "",
-      "status": "pending",
+      "status": "cancelled",
       "otp": "",
       "otp_history": [],
       "sms_text": "",
       "fulfilled": false,
-      "balance_reserved": true,
+      "balance_reserved": false,
       "balance_settled": false,
       "resend_pending": false,
       "previous_otp": "",
       "completed_by_user": false,
       "completed_at": "",
-      "refunded": false,
-      "refunded_at": "",
+      "refunded": true,
+      "refunded_at": "2026-07-26T08:38:44.801Z",
       "notified_received": false,
       "notified_closed": false,
       "expires_at": "2026-07-26T08:57:41.495Z",
       "created_at": "2026-07-26T08:37:41.495Z",
-      "updated_at": "2026-07-26T08:37:41.506Z"
+      "updated_at": "2026-07-26T08:38:44.801Z"
     }
   },
   "deposits": {
@@ -11552,6 +11552,19 @@
       "actor_id": "system",
       "idempotency_key": "order-live-price:493568090",
       "created_at": "2026-07-26T08:37:40.092Z"
+    },
+    "BAL178505512480185898": {
+      "log_id": "BAL178505512480185898",
+      "user_id": "8267224960",
+      "amount": 0,
+      "balance_before": 3000,
+      "balance_after": 3000,
+      "type": "order_reservation_release",
+      "reference_id": "493568090",
+      "note": "Penahanan saldo order 493568090 dilepas",
+      "actor_id": "system",
+      "idempotency_key": "order-refund:493568090",
+      "created_at": "2026-07-26T08:38:44.801Z"
     }
   },
   "bot": {
@@ -11574,6 +11587,6 @@
     },
     "server_status": null,
     "created_at": "2026-07-25T10:22:16.172Z",
-    "updated_at": "2026-07-26T08:37:41.570Z"
+    "updated_at": "2026-07-26T08:38:44.868Z"
   }
 }
