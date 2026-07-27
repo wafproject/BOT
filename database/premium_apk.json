@@ -6121,7 +6121,7 @@
           "addedAt": 1785133031865
         }
       ],
-      "sold": 5289,
+      "sold": 5291,
       "stock": 2,
       "reserved": [
         {
@@ -6346,23 +6346,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785145204399451",
-          "items": [
-            {
-              "email": "bagiyaharyanto35@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785132994734
-            },
-            {
-              "email": "bakijanwibowo72@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785132994734
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-07-27T09:40:04.402Z"
         }
       ],
       "bulk_active": true,
