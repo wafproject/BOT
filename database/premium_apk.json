@@ -397,21 +397,8 @@
         }
       ],
       "stock": 16,
-      "sold": 376,
-      "reserved": [
-        {
-          "id": "RSV1785163842099534",
-          "items": [
-            {
-              "email": "nsbk8513@outlook.com",
-              "password": "Orwlv0099",
-              "addedAt": 1785150246173
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-27T14:50:42.099Z"
-        }
-      ],
+      "sold": 377,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
