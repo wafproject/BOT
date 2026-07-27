@@ -6244,10 +6244,20 @@
           "email": "bakijanwibowo72@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1785132994734
+        },
+        {
+          "email": "charlie555@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785133031865
+        },
+        {
+          "email": "vovanchikklimenok@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785133031865
         }
       ],
       "sold": 5264,
-      "stock": 27,
+      "stock": 29,
       "reserved": [
         {
           "id": "RSV1780362536090628",
