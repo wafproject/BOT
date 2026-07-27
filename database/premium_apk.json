@@ -322,8 +322,119 @@
       "price": 3000,
       "descShort": "Bisa inv 100 member",
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nAkses email \nhttps://tmail.wafproject.my.id/\n\nOutlook: \nhttps://outlook.live.com/mail/\n(masukkan email dan password diatas)",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "cjog0716@outlook.com",
+          "password": "Fzpce6245",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "idzi9364@outlook.com",
+          "password": "Ebpio9607",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "slci4363@outlook.com",
+          "password": "Xyupl9561",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "holk4100@outlook.com",
+          "password": "Riwgb5849",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "dlxz0857@outlook.com",
+          "password": "Qdvqk8669",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "nsbk8513@outlook.com",
+          "password": "Orwlv0099",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "iimt4679@outlook.com",
+          "password": "Szzts1351",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "mcnv8713@outlook.com",
+          "password": "Dfunw8950",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "axya7334@outlook.com",
+          "password": "Gbqop6833",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "lcer0319@outlook.com",
+          "password": "Cvobc9615",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "wfpr6242@outlook.com",
+          "password": "Ssxut9566",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "bgnh4874@outlook.com",
+          "password": "Zcnkx1527",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "bbdy0412@outlook.com",
+          "password": "Kfmqb2163",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "nxtt7427@outlook.com",
+          "password": "Mvczn4057",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "pbsz8624@outlook.com",
+          "password": "Gbujk7563",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "hwvr9422@outlook.com",
+          "password": "Cbnco0890",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "fpmz4965@outlook.com",
+          "password": "Rozvb5334",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "ylrm5345@outlook.com",
+          "password": "Hbcyg5554",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "uqlo4753@outlook.com",
+          "password": "Lteer1367",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "xdqo2506@outlook.com",
+          "password": "Urudk0846",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "zjnr8959@outlook.com",
+          "password": "Zdxqi6431",
+          "addedAt": 1785150246173
+        },
+        {
+          "email": "nvro7267@outlook.com",
+          "password": "Cpdtj5483",
+          "addedAt": 1785150246173
+        }
+      ],
+      "stock": 22,
       "sold": 371,
       "reserved": [],
       "bulk_active": false,
