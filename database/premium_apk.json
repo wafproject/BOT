@@ -6153,9 +6153,110 @@
       "price": 6000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri",
-      "items": [],
+      "items": [
+        {
+          "email": "onilatupono23@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "jasmaniwijayanti32@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "nalarhassanah7@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "azaleawasita55@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "unjanipertiwi19@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "purwadipratiwi26@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "agnessaptono54@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "calistayolanda7@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "oskarnapitupulu54@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "yosefnashiruddin94@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "tirtayasapudjiastuti82@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "restuharyanti9@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "citrapertiwi31@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "zelayamangunsong30@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "irnantoardianto69@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "kenarisitompul37@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "kasusrawibowo98@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "cahyaiswahyudi85@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "baeagam91@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        },
+        {
+          "email": "cucimotor849@gmail.com",
+          "password": "masuk123",
+          "addedAt": 1785225373984
+        }
+      ],
       "sold": 5293,
-      "stock": 0,
+      "stock": 20,
       "reserved": [
         {
           "id": "RSV1780362536090628",
