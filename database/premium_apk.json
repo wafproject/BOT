@@ -6161,36 +6161,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri",
       "items": [
         {
-          "email": "onilatupono23@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1785225373984
-        },
-        {
-          "email": "jasmaniwijayanti32@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1785225373984
-        },
-        {
-          "email": "nalarhassanah7@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1785225373984
-        },
-        {
-          "email": "azaleawasita55@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1785225373984
-        },
-        {
-          "email": "unjanipertiwi19@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1785225373984
-        },
-        {
-          "email": "purwadipratiwi26@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1785225373984
-        },
-        {
           "email": "agnessaptono54@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1785225373984
@@ -6262,7 +6232,7 @@
         }
       ],
       "sold": 5293,
-      "stock": 20,
+      "stock": 14,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6486,6 +6456,43 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785225508082772",
+          "items": [
+            {
+              "email": "onilatupono23@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1785225373984
+            },
+            {
+              "email": "jasmaniwijayanti32@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1785225373984
+            },
+            {
+              "email": "nalarhassanah7@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1785225373984
+            },
+            {
+              "email": "azaleawasita55@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1785225373984
+            },
+            {
+              "email": "unjanipertiwi19@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1785225373984
+            },
+            {
+              "email": "purwadipratiwi26@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1785225373984
+            }
+          ],
+          "qty": 6,
+          "createdAt": "2026-07-28T07:58:28.082Z"
         }
       ],
       "bulk_active": false,
