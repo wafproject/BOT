@@ -6148,60 +6148,9 @@
       "price": 6000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri",
-      "items": [
-        {
-          "email": "garangaryani3@furewa.my.id",
-          "password": "wkwkwk",
-          "addedAt": 1785234058464
-        },
-        {
-          "email": "jayanuraini97@furewa.my.id",
-          "password": "wkwkwk",
-          "addedAt": 1785234058464
-        },
-        {
-          "email": "ianhutapea20@furewa.my.id",
-          "password": "wkwkwk",
-          "addedAt": 1785234058464
-        },
-        {
-          "email": "paulinthamrin55@furewa.my.id",
-          "password": "wkwkwk",
-          "addedAt": 1785234058464
-        },
-        {
-          "email": "ianjailani27@furewa.my.id",
-          "password": "wkwkwk",
-          "addedAt": 1785234058464
-        },
-        {
-          "email": "cemetizulaika99@furewa.my.id",
-          "password": "wkwkwk",
-          "addedAt": 1785234058464
-        },
-        {
-          "email": "cahyasuartini21@furewa.my.id",
-          "password": "wkwkwk",
-          "addedAt": 1785234058464
-        },
-        {
-          "email": "gantarriyanti64@furewa.my.id",
-          "password": "wkwkwk",
-          "addedAt": 1785234058464
-        },
-        {
-          "email": "najamtamba2@furewa.my.id",
-          "password": "wkwkwk",
-          "addedAt": 1785234058464
-        },
-        {
-          "email": "kitagawaa223@public.hnnzv2.my.id",
-          "password": "wkwkwk",
-          "addedAt": 1785234058464
-        }
-      ],
+      "items": [],
       "sold": 5313,
-      "stock": 10,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6425,6 +6374,63 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785235922546381",
+          "items": [
+            {
+              "email": "garangaryani3@furewa.my.id",
+              "password": "wkwkwk",
+              "addedAt": 1785234058464
+            },
+            {
+              "email": "jayanuraini97@furewa.my.id",
+              "password": "wkwkwk",
+              "addedAt": 1785234058464
+            },
+            {
+              "email": "ianhutapea20@furewa.my.id",
+              "password": "wkwkwk",
+              "addedAt": 1785234058464
+            },
+            {
+              "email": "paulinthamrin55@furewa.my.id",
+              "password": "wkwkwk",
+              "addedAt": 1785234058464
+            },
+            {
+              "email": "ianjailani27@furewa.my.id",
+              "password": "wkwkwk",
+              "addedAt": 1785234058464
+            },
+            {
+              "email": "cemetizulaika99@furewa.my.id",
+              "password": "wkwkwk",
+              "addedAt": 1785234058464
+            },
+            {
+              "email": "cahyasuartini21@furewa.my.id",
+              "password": "wkwkwk",
+              "addedAt": 1785234058464
+            },
+            {
+              "email": "gantarriyanti64@furewa.my.id",
+              "password": "wkwkwk",
+              "addedAt": 1785234058464
+            },
+            {
+              "email": "najamtamba2@furewa.my.id",
+              "password": "wkwkwk",
+              "addedAt": 1785234058464
+            },
+            {
+              "email": "kitagawaa223@public.hnnzv2.my.id",
+              "password": "wkwkwk",
+              "addedAt": 1785234058464
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-07-28T10:52:02.546Z"
         }
       ],
       "bulk_active": true,
