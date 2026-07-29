@@ -6302,10 +6302,40 @@
           "email": "lyalika8@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1785311492644
+        },
+        {
+          "email": "ThurlowYeater06070@hotmail.com",
+          "password": "tyoehn57990",
+          "addedAt": 1785311519532
+        },
+        {
+          "email": "MarvinTosa9225@hotmail.com",
+          "password": "atzfpx683224",
+          "addedAt": 1785311519532
+        },
+        {
+          "email": "EmelineRomell646748@hotmail.com",
+          "password": "lrdhh577262",
+          "addedAt": 1785311519532
+        },
+        {
+          "email": "RickieSiepert53377@hotmail.com",
+          "password": "vdbuno83590",
+          "addedAt": 1785311519532
+        },
+        {
+          "email": "EdisonDorante3941@hotmail.com",
+          "password": "zglop348956",
+          "addedAt": 1785311519532
+        },
+        {
+          "email": "KoenKlipple780197@hotmail.com",
+          "password": "frwla85553",
+          "addedAt": 1785311519532
         }
       ],
       "sold": 5323,
-      "stock": 40,
+      "stock": 46,
       "reserved": [
         {
           "id": "RSV1780362536090628",
