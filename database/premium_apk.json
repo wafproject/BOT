@@ -6043,22 +6043,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 541,
+      "sold": 542,
       "stock": 14,
-      "reserved": [
-        {
-          "id": "RSV1785306896086233",
-          "items": [
-            {
-              "email": "zodiac06@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042891437
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-29T06:34:56.086Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
