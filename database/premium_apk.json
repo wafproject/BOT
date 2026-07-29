@@ -746,10 +746,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "qarabsyed@gmailxsn.space|https://generator.email/qarabsyed@gmailxsn.space",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "sharkjoeee@mailfirefly.com|https://generator.email/sharkjoeee@mailfirefly.com",
           "addedAt": 1783266949580
         },
@@ -4838,8 +4834,8 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1023,
-      "sold": 889,
+      "stock": 1022,
+      "sold": 890,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
