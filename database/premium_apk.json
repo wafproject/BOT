@@ -9478,11 +9478,6 @@
       "snk": "* 20 - 25 Hari terhitung 1 bulan\n• Login max 2 device \n• Jual sharing tanggung jawab sendiri",
       "items": [
         {
-          "email": "dokaksnb10@okeaja.my.id",
-          "password": "masuk123",
-          "addedAt": 1784839385292
-        },
-        {
           "email": "michaelkj12@okeaja.my.id",
           "password": "masuk123",
           "addedAt": 1784839385292
@@ -9494,8 +9489,21 @@
         }
       ],
       "sold": 292,
-      "stock": 3,
-      "reserved": []
+      "stock": 2,
+      "reserved": [
+        {
+          "id": "RSV1785391431300145",
+          "items": [
+            {
+              "email": "dokaksnb10@okeaja.my.id",
+              "password": "masuk123",
+              "addedAt": 1784839385292
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-30T06:03:51.300Z"
+        }
+      ]
     }
   ],
   "meta": {
