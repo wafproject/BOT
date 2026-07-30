@@ -9488,22 +9488,9 @@
           "addedAt": 1784839385292
         }
       ],
-      "sold": 292,
+      "sold": 293,
       "stock": 2,
-      "reserved": [
-        {
-          "id": "RSV1785391431300145",
-          "items": [
-            {
-              "email": "dokaksnb10@okeaja.my.id",
-              "password": "masuk123",
-              "addedAt": 1784839385292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-30T06:03:51.300Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
