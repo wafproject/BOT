@@ -6138,7 +6138,7 @@
           "addedAt": 1785390377640
         }
       ],
-      "sold": 5371,
+      "sold": 5381,
       "stock": 7,
       "reserved": [
         {
@@ -6363,63 +6363,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785394858688465",
-          "items": [
-            {
-              "email": "milalatupono80@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785390377640
-            },
-            {
-              "email": "jamalhalim16@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785390377640
-            },
-            {
-              "email": "putriwidodo5@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785390377640
-            },
-            {
-              "email": "bagiyaprayoga34@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785390377640
-            },
-            {
-              "email": "dartonosamosir68@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785390377640
-            },
-            {
-              "email": "kayundongoran70@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785390377640
-            },
-            {
-              "email": "karmamulyani46@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785390377640
-            },
-            {
-              "email": "radenkuswandari17@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785390377640
-            },
-            {
-              "email": "muhammadwahyuni29@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785390377640
-            },
-            {
-              "email": "munimansur99@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785390377640
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-07-30T07:00:58.688Z"
         }
       ],
       "bulk_active": true,
