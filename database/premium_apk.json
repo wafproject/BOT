@@ -6090,7 +6090,7 @@
       "sold": 557,
       "stock": 5,
       "reserved": [],
-      "bulk_active": false,
+      "bulk_active": true,
       "bulk_prices": [
         {
           "minQty": 5,
