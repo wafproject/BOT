@@ -6091,7 +6091,12 @@
       "stock": 5,
       "reserved": [],
       "bulk_active": false,
-      "bulk_prices": []
+      "bulk_prices": [
+        {
+          "minQty": 5,
+          "price": 21000
+        }
+      ]
     },
     {
       "code": "CC7D",
