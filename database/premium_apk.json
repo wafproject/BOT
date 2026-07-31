@@ -6296,10 +6296,15 @@
           "email": "cawaru72713@brexyv.biz.id",
           "password": "masuk123",
           "addedAt": 1785533401625
+        },
+        {
+          "email": "zidurxa871@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1785533456071
         }
       ],
       "sold": 5449,
-      "stock": 59,
+      "stock": 60,
       "reserved": [
         {
           "id": "RSV1780362536090628",
