@@ -5918,11 +5918,6 @@
       "snk": "— Khusus TV Only\n— Garansi login\n— Akun Private\n— Hanya support tayangan tv nasional\n— Bisa nonton liga 1",
       "items": [
         {
-          "email": "tudlvh08@gmail.com",
-          "password": "asede123",
-          "addedAt": 1774042893621
-        },
-        {
           "email": "imodbd372@gmail.com",
           "password": "asede123",
           "addedAt": 1774042894741
@@ -5984,8 +5979,21 @@
         }
       ],
       "sold": 543,
-      "stock": 13,
-      "reserved": [],
+      "stock": 12,
+      "reserved": [
+        {
+          "id": "RSV1785486568625464",
+          "items": [
+            {
+              "email": "tudlvh08@gmail.com",
+              "password": "asede123",
+              "addedAt": 1774042893621
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-07-31T08:29:28.625Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
