@@ -699,10 +699,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "sharkjoeee@mailfirefly.com|https://generator.email/sharkjoeee@mailfirefly.com",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "rxazrez@sugarloafstudios.net|https://generator.email/rxazrez@sugarloafstudios.net",
           "addedAt": 1783266949580
         },
@@ -4787,8 +4783,8 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1022,
-      "sold": 890,
+      "stock": 1021,
+      "sold": 891,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
