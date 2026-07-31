@@ -6126,7 +6126,7 @@
           "addedAt": 1785471532923
         }
       ],
-      "sold": 5424,
+      "sold": 5425,
       "stock": 24,
       "reserved": [
         {
@@ -6351,18 +6351,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785505814720438",
-          "items": [
-            {
-              "email": "victoriaprastuti58@capcut.team",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-31T13:50:14.721Z"
         }
       ],
       "bulk_active": true,
