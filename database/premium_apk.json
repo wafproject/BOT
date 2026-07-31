@@ -6214,7 +6214,7 @@
           "addedAt": 1785471532923
         }
       ],
-      "sold": 5404,
+      "sold": 5419,
       "stock": 30,
       "reserved": [
         {
@@ -6439,88 +6439,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785482984975652",
-          "items": [
-            {
-              "email": "samiahwibisono21@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "emansirait78@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "nurulusada93@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "gadamaulana33@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "kajenpurwanti47@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "galakwahyuni94@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "ajiminwijayanti86@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "gaimanwaskita41@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "luhungsinaga16@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "paimansitompul56@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "sabarpangestu78@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "kawacaputra21@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "cagerwidiastuti20@capcut.team",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "darmanahidayat6@capcut.team",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            },
-            {
-              "email": "mitrahassanah7@capcut.team",
-              "password": "masuk123",
-              "addedAt": 1785471532923
-            }
-          ],
-          "qty": 15,
-          "createdAt": "2026-07-31T07:29:44.975Z"
         }
       ],
       "bulk_active": true,
