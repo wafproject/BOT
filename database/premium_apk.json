@@ -6069,21 +6069,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "kokowahyudin8@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1785471532923
-        },
-        {
-          "email": "paramitakusumo32@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1785471532923
-        },
-        {
-          "email": "lukmanwinarno15@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1785471532923
-        },
-        {
           "email": "paramitawinarno97@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1785471532923
@@ -6320,7 +6305,7 @@
         }
       ],
       "sold": 5399,
-      "stock": 50,
+      "stock": 47,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6544,6 +6529,28 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785475198379710",
+          "items": [
+            {
+              "email": "kokowahyudin8@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1785471532923
+            },
+            {
+              "email": "paramitakusumo32@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1785471532923
+            },
+            {
+              "email": "lukmanwinarno15@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1785471532923
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-07-31T05:19:58.379Z"
         }
       ],
       "bulk_active": true,
