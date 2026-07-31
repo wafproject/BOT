@@ -5962,22 +5962,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 544,
+      "sold": 545,
       "stock": 11,
-      "reserved": [
-        {
-          "id": "RSV178549469076234",
-          "items": [
-            {
-              "email": "imodbd372@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042894741
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-07-31T10:44:50.762Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
