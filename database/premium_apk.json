@@ -6250,7 +6250,7 @@
           "addedAt": 1785533456071
         }
       ],
-      "sold": 5457,
+      "sold": 5458,
       "stock": 51,
       "reserved": [
         {
@@ -6475,18 +6475,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785556890048720",
-          "items": [
-            {
-              "email": "DinaCage3823@hotmail.com",
-              "password": "zkzaoy047465",
-              "addedAt": 1785530120979
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-01T04:01:30.049Z"
         }
       ],
       "bulk_active": false,
