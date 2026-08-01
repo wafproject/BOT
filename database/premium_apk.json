@@ -6245,7 +6245,7 @@
           "addedAt": 1785533456071
         }
       ],
-      "sold": 5458,
+      "sold": 5459,
       "stock": 50,
       "reserved": [
         {
@@ -6470,18 +6470,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785558386656151",
-          "items": [
-            {
-              "email": "ColinBidigare89169@hotmail.com",
-              "password": "kvqjyw524527",
-              "addedAt": 1785530120979
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-01T04:26:26.656Z"
         }
       ],
       "bulk_active": false,
