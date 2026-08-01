@@ -6221,7 +6221,7 @@
           "addedAt": 1785619229506
         }
       ],
-      "sold": 5510,
+      "sold": 5511,
       "stock": 48,
       "reserved": [
         {
@@ -6446,18 +6446,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785625640440766",
-          "items": [
-            {
-              "email": "BrittniTenner798207@hotmail.com",
-              "password": "sdbxg92089",
-              "addedAt": 1785619229506
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-01T23:07:20.440Z"
         }
       ],
       "bulk_active": true,
