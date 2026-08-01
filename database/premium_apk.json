@@ -6255,7 +6255,7 @@
           "addedAt": 1785533456071
         }
       ],
-      "sold": 5456,
+      "sold": 5457,
       "stock": 52,
       "reserved": [
         {
@@ -6480,18 +6480,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785553885322723",
-          "items": [
-            {
-              "email": "LucioMcclow500960@hotmail.com",
-              "password": "qpsjp45949",
-              "addedAt": 1785530120979
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-01T03:11:25.322Z"
         }
       ],
       "bulk_active": false,
