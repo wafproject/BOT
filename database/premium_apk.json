@@ -5995,56 +5995,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Capcut lagi sensi tolong patuhi SNK!",
       "items": [
         {
-          "email": "HarvyMatoba0852@hotmail.com",
-          "password": "rcspze70015",
-          "addedAt": 1785530120979
-        },
-        {
-          "email": "AletaHearron162554@hotmail.com",
-          "password": "oxqae41671",
-          "addedAt": 1785530120979
-        },
-        {
-          "email": "TressaOffenburger4218@hotmail.com",
-          "password": "haypk725535",
-          "addedAt": 1785530120979
-        },
-        {
-          "email": "MyronMccammond7805@hotmail.com",
-          "password": "epkmah62163",
-          "addedAt": 1785530120979
-        },
-        {
-          "email": "LucioMcclow500960@hotmail.com",
-          "password": "qpsjp45949",
-          "addedAt": 1785530120979
-        },
-        {
-          "email": "DinaCage3823@hotmail.com",
-          "password": "zkzaoy047465",
-          "addedAt": 1785530120979
-        },
-        {
-          "email": "ColinBidigare89169@hotmail.com",
-          "password": "kvqjyw524527",
-          "addedAt": 1785530120979
-        },
-        {
-          "email": "MaribelLinnell55521@hotmail.com",
-          "password": "tfsdk46299",
-          "addedAt": 1785530120979
-        },
-        {
-          "email": "LuciousMinniti212074@hotmail.com",
-          "password": "zjjtg78139",
-          "addedAt": 1785530120979
-        },
-        {
-          "email": "MikalaKuney86175@hotmail.com",
-          "password": "vfwpaa60109",
-          "addedAt": 1785530120979
-        },
-        {
           "email": "JennieMartson59309@hotmail.com",
           "password": "aajepa956576",
           "addedAt": 1785530120979
@@ -6281,7 +6231,7 @@
         }
       ],
       "sold": 5452,
-      "stock": 57,
+      "stock": 47,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6505,6 +6455,63 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785549924326142",
+          "items": [
+            {
+              "email": "HarvyMatoba0852@hotmail.com",
+              "password": "rcspze70015",
+              "addedAt": 1785530120979
+            },
+            {
+              "email": "AletaHearron162554@hotmail.com",
+              "password": "oxqae41671",
+              "addedAt": 1785530120979
+            },
+            {
+              "email": "TressaOffenburger4218@hotmail.com",
+              "password": "haypk725535",
+              "addedAt": 1785530120979
+            },
+            {
+              "email": "MyronMccammond7805@hotmail.com",
+              "password": "epkmah62163",
+              "addedAt": 1785530120979
+            },
+            {
+              "email": "LucioMcclow500960@hotmail.com",
+              "password": "qpsjp45949",
+              "addedAt": 1785530120979
+            },
+            {
+              "email": "DinaCage3823@hotmail.com",
+              "password": "zkzaoy047465",
+              "addedAt": 1785530120979
+            },
+            {
+              "email": "ColinBidigare89169@hotmail.com",
+              "password": "kvqjyw524527",
+              "addedAt": 1785530120979
+            },
+            {
+              "email": "MaribelLinnell55521@hotmail.com",
+              "password": "tfsdk46299",
+              "addedAt": 1785530120979
+            },
+            {
+              "email": "LuciousMinniti212074@hotmail.com",
+              "password": "zjjtg78139",
+              "addedAt": 1785530120979
+            },
+            {
+              "email": "MikalaKuney86175@hotmail.com",
+              "password": "vfwpaa60109",
+              "addedAt": 1785530120979
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-08-01T02:05:24.326Z"
         }
       ],
       "bulk_active": false,
