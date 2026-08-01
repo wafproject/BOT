@@ -6240,7 +6240,7 @@
           "addedAt": 1785533456071
         }
       ],
-      "sold": 5459,
+      "sold": 5460,
       "stock": 49,
       "reserved": [
         {
@@ -6465,18 +6465,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785559345279828",
-          "items": [
-            {
-              "email": "MaribelLinnell55521@hotmail.com",
-              "password": "tfsdk46299",
-              "addedAt": 1785530120979
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-01T04:42:25.279Z"
         }
       ],
       "bulk_active": false,
