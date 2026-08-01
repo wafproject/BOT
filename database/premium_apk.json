@@ -4765,20 +4765,8 @@
         }
       ],
       "stock": 1020,
-      "sold": 891,
-      "reserved": [
-        {
-          "id": "RSV1785594212678918",
-          "items": [
-            {
-              "email": "rxazrez@sugarloafstudios.net|https://generator.email/rxazrez@sugarloafstudios.net",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-01T14:23:32.678Z"
-        }
-      ],
+      "sold": 892,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
