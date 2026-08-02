@@ -6119,7 +6119,7 @@
           "addedAt": 1785619229506
         }
       ],
-      "sold": 5526,
+      "sold": 5527,
       "stock": 32,
       "reserved": [
         {
@@ -6344,18 +6344,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785659087305885",
-          "items": [
-            {
-              "email": "PrudieMurga7163@hotmail.com",
-              "password": "jfbga287726",
-              "addedAt": 1785619229506
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-02T08:24:47.305Z"
         }
       ],
       "bulk_active": true,
