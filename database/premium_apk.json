@@ -6194,7 +6194,7 @@
           "addedAt": 1785619229506
         }
       ],
-      "sold": 5514,
+      "sold": 5515,
       "stock": 44,
       "reserved": [
         {
@@ -6419,18 +6419,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785638578837253",
-          "items": [
-            {
-              "email": "HazelChiaradio692270@hotmail.com",
-              "password": "yerni894551",
-              "addedAt": 1785619229506
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-02T02:42:58.837Z"
         }
       ],
       "bulk_active": true,
