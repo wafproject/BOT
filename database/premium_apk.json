@@ -9304,6 +9304,20 @@
       "sold": 295,
       "stock": 0,
       "reserved": []
+    },
+    {
+      "code": "CCHEAD",
+      "name": "Capcut Pro Head 7D",
+      "category": "Capcut Pro Head",
+      "type": "akun",
+      "price": 30000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "No Garansi",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
