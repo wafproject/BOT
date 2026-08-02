@@ -5974,21 +5974,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Capcut lagi sensi tolong patuhi SNK!",
       "items": [
         {
-          "email": "OmaTeodoro8360@hotmail.com",
-          "password": "zarxke96878",
-          "addedAt": 1785619229506
-        },
-        {
-          "email": "ZaidaMcgurrin7548@hotmail.com",
-          "password": "ewcrg61777",
-          "addedAt": 1785619229506
-        },
-        {
-          "email": "IzabellaTavera5182@hotmail.com",
-          "password": "ybtgve90551",
-          "addedAt": 1785619229506
-        },
-        {
           "email": "ElfriedaUtecht5606@hotmail.com",
           "password": "gvcvs11467",
           "addedAt": 1785619229506
@@ -6190,7 +6175,7 @@
         }
       ],
       "sold": 5515,
-      "stock": 43,
+      "stock": 40,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6426,6 +6411,28 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-02T02:56:50.719Z"
+        },
+        {
+          "id": "RSV1785639441434775",
+          "items": [
+            {
+              "email": "OmaTeodoro8360@hotmail.com",
+              "password": "zarxke96878",
+              "addedAt": 1785619229506
+            },
+            {
+              "email": "ZaidaMcgurrin7548@hotmail.com",
+              "password": "ewcrg61777",
+              "addedAt": 1785619229506
+            },
+            {
+              "email": "IzabellaTavera5182@hotmail.com",
+              "password": "ybtgve90551",
+              "addedAt": 1785619229506
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-08-02T02:57:21.434Z"
         }
       ],
       "bulk_active": true,
