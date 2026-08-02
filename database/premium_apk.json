@@ -5959,11 +5959,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Capcut lagi sensi tolong patuhi SNK!",
       "items": [
         {
-          "email": "PrudieMurga7163@hotmail.com",
-          "password": "jfbga287726",
-          "addedAt": 1785619229506
-        },
-        {
           "email": "GraciaCastellana649867@hotmail.com",
           "password": "wdkjf64568",
           "addedAt": 1785619229506
@@ -6125,7 +6120,7 @@
         }
       ],
       "sold": 5526,
-      "stock": 33,
+      "stock": 32,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6349,6 +6344,18 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785659087305885",
+          "items": [
+            {
+              "email": "PrudieMurga7163@hotmail.com",
+              "password": "jfbga287726",
+              "addedAt": 1785619229506
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-02T08:24:47.305Z"
         }
       ],
       "bulk_active": true,
