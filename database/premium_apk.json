@@ -6148,7 +6148,7 @@
           "addedAt": 1785619229506
         }
       ],
-      "sold": 5521,
+      "sold": 5522,
       "stock": 37,
       "reserved": [
         {
@@ -6373,18 +6373,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785647960522188",
-          "items": [
-            {
-              "email": "JoselynGindlesberger9925@hotmail.com",
-              "password": "mssmai95636",
-              "addedAt": 1785619229506
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-02T05:19:20.522Z"
         }
       ],
       "bulk_active": true,
