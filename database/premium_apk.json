@@ -5959,31 +5959,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Capcut lagi sensi tolong patuhi SNK!",
       "items": [
         {
-          "email": "IsadoreOlmeda553897@hotmail.com",
-          "password": "hxpfyp64645",
-          "addedAt": 1785619229506
-        },
-        {
-          "email": "AllisonTracy4523@hotmail.com",
-          "password": "pmusi77639",
-          "addedAt": 1785619229506
-        },
-        {
-          "email": "DakotahPedelty3509@hotmail.com",
-          "password": "cduhbh58958",
-          "addedAt": 1785619229506
-        },
-        {
-          "email": "DeanneMerkerson8336@hotmail.com",
-          "password": "xpjuq443239",
-          "addedAt": 1785619229506
-        },
-        {
-          "email": "EvalineWolowicz1286@hotmail.com",
-          "password": "gbexw442669",
-          "addedAt": 1785619229506
-        },
-        {
           "email": "GilfordStyner88661@hotmail.com",
           "password": "bnido020662",
           "addedAt": 1785619229506
@@ -6045,7 +6020,7 @@
         }
       ],
       "sold": 5542,
-      "stock": 17,
+      "stock": 12,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6269,6 +6244,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785665281715157",
+          "items": [
+            {
+              "email": "IsadoreOlmeda553897@hotmail.com",
+              "password": "hxpfyp64645",
+              "addedAt": 1785619229506
+            },
+            {
+              "email": "AllisonTracy4523@hotmail.com",
+              "password": "pmusi77639",
+              "addedAt": 1785619229506
+            },
+            {
+              "email": "DakotahPedelty3509@hotmail.com",
+              "password": "cduhbh58958",
+              "addedAt": 1785619229506
+            },
+            {
+              "email": "DeanneMerkerson8336@hotmail.com",
+              "password": "xpjuq443239",
+              "addedAt": 1785619229506
+            },
+            {
+              "email": "EvalineWolowicz1286@hotmail.com",
+              "password": "gbexw442669",
+              "addedAt": 1785619229506
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-08-02T10:08:01.715Z"
         }
       ],
       "bulk_active": true,
