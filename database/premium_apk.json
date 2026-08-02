@@ -6165,7 +6165,7 @@
           "addedAt": 1785619229506
         }
       ],
-      "sold": 5519,
+      "sold": 5520,
       "stock": 39,
       "reserved": [
         {
@@ -6390,18 +6390,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785640822535603",
-          "items": [
-            {
-              "email": "ElfriedaUtecht5606@hotmail.com",
-              "password": "gvcvs11467",
-              "addedAt": 1785619229506
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-02T03:20:22.535Z"
         }
       ],
       "bulk_active": true,
