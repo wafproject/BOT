@@ -6014,7 +6014,7 @@
           "addedAt": 1785619229506
         }
       ],
-      "sold": 5547,
+      "sold": 5548,
       "stock": 11,
       "reserved": [
         {
@@ -6239,18 +6239,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785666059466136",
-          "items": [
-            {
-              "email": "GilfordStyner88661@hotmail.com",
-              "password": "bnido020662",
-              "addedAt": 1785619229506
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-02T10:20:59.466Z"
         }
       ],
       "bulk_active": true,
