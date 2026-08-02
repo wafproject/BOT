@@ -6174,7 +6174,7 @@
           "addedAt": 1785619229506
         }
       ],
-      "sold": 5515,
+      "sold": 5516,
       "stock": 40,
       "reserved": [
         {
@@ -6399,18 +6399,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785639410718724",
-          "items": [
-            {
-              "email": "BelenTirelli219285@hotmail.com",
-              "password": "ibuwe536803",
-              "addedAt": 1785619229506
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-02T02:56:50.719Z"
         },
         {
           "id": "RSV1785639441434775",
