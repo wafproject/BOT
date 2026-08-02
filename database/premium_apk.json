@@ -6139,7 +6139,7 @@
           "addedAt": 1785619229506
         }
       ],
-      "sold": 5522,
+      "sold": 5523,
       "stock": 36,
       "reserved": [
         {
@@ -6364,18 +6364,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785648867404965",
-          "items": [
-            {
-              "email": "IvieSwick09179@hotmail.com",
-              "password": "jdxmn51713",
-              "addedAt": 1785619229506
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-02T05:34:27.404Z"
         }
       ],
       "bulk_active": true,
