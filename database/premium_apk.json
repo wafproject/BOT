@@ -5998,31 +5998,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Capcut lagi sensi tolong patuhi SNK!",
       "items": [
         {
-          "email": "memige10115@oxygov.biz.id",
-          "password": "masuk123",
-          "addedAt": 1785706223356
-        },
-        {
-          "email": "letodo7990@matakaw.web.id",
-          "password": "masuk123",
-          "addedAt": 1785706223356
-        },
-        {
-          "email": "cacuda38229@premisxv.web.id",
-          "password": "masuk123",
-          "addedAt": 1785706223356
-        },
-        {
-          "email": "fatake7387@brexyv.biz.id",
-          "password": "masuk123",
-          "addedAt": 1785706223356
-        },
-        {
-          "email": "jayuwe86111@matakaw.web.id",
-          "password": "masuk123",
-          "addedAt": 1785706223356
-        },
-        {
           "email": "cuzixu39486@myrowsx.web.id",
           "password": "masuk123",
           "addedAt": 1785706223356
@@ -6149,7 +6124,7 @@
         }
       ],
       "sold": 5559,
-      "stock": 30,
+      "stock": 25,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6373,6 +6348,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785707360485657",
+          "items": [
+            {
+              "email": "memige10115@oxygov.biz.id",
+              "password": "masuk123",
+              "addedAt": 1785706223356
+            },
+            {
+              "email": "letodo7990@matakaw.web.id",
+              "password": "masuk123",
+              "addedAt": 1785706223356
+            },
+            {
+              "email": "cacuda38229@premisxv.web.id",
+              "password": "masuk123",
+              "addedAt": 1785706223356
+            },
+            {
+              "email": "fatake7387@brexyv.biz.id",
+              "password": "masuk123",
+              "addedAt": 1785706223356
+            },
+            {
+              "email": "jayuwe86111@matakaw.web.id",
+              "password": "masuk123",
+              "addedAt": 1785706223356
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-08-02T21:49:20.485Z"
         }
       ],
       "bulk_active": true,
