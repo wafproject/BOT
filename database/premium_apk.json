@@ -6199,7 +6199,7 @@
           "addedAt": 1785619229506
         }
       ],
-      "sold": 5513,
+      "sold": 5514,
       "stock": 45,
       "reserved": [
         {
@@ -6424,18 +6424,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785636842590427",
-          "items": [
-            {
-              "email": "CathernAgner101430@hotmail.com",
-              "password": "qglhz59568",
-              "addedAt": 1785619229506
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-02T02:14:02.590Z"
         }
       ],
       "bulk_active": true,
