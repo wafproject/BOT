@@ -364,14 +364,9 @@
           "email": "2eg4raj@okeaja.my.id",
           "password": "Masuk123",
           "addedAt": 1785687836574
-        },
-        {
-          "email": "7u4x0ms@enzipro.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1785687836574
         }
       ],
-      "stock": 9,
+      "stock": 8,
       "sold": 46,
       "reserved": [],
       "bulk_active": false,
