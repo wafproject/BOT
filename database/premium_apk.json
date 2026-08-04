@@ -5723,7 +5723,7 @@
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Capcut lagi sensi tolong patuhi SNK!",
       "items": [],
-      "sold": 5668,
+      "sold": 5669,
       "stock": 0,
       "reserved": [
         {
@@ -5948,18 +5948,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785831740382604",
-          "items": [
-            {
-              "email": "guogat@jinggiu.my.id",
-              "password": "masuk123",
-              "addedAt": 1785807496994
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-04T08:22:20.382Z"
         }
       ],
       "bulk_active": true,
