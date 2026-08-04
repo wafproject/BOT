@@ -6130,7 +6130,7 @@
           "addedAt": 1785807496994
         }
       ],
-      "sold": 5638,
+      "sold": 5639,
       "stock": 30,
       "reserved": [
         {
@@ -6355,18 +6355,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785807486976834",
-          "items": [
-            {
-              "email": "razcui@jinggiu.my.id",
-              "password": "masuk123",
-              "addedAt": 1785790151445
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-04T01:38:06.976Z"
         }
       ],
       "bulk_active": true,
