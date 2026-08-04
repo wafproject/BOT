@@ -5653,22 +5653,9 @@
           "addedAt": 1774042906038
         }
       ],
-      "sold": 549,
+      "sold": 550,
       "stock": 6,
-      "reserved": [
-        {
-          "id": "RSV1785835797712188",
-          "items": [
-            {
-              "email": "ewnfrp22@gmail.com",
-              "password": "asede123",
-              "addedAt": 1774042899665
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-04T09:29:57.712Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
