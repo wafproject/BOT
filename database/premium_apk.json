@@ -5724,21 +5724,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Capcut lagi sensi tolong patuhi SNK!",
       "items": [
         {
-          "email": "qr4eim1n@8cxn.capskuy.eu.cc",
-          "password": "masuk123",
-          "addedAt": 1785807496994
-        },
-        {
-          "email": "fobporde@ny6n.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1785807496994
-        },
-        {
-          "email": "l5xqlyn7@8cxn.capskuy.eu.cc",
-          "password": "masuk123",
-          "addedAt": 1785807496994
-        },
-        {
           "email": "2x3ucmpa@02jw.capskuy.eu.cc",
           "password": "masuk123",
           "addedAt": 1785807496994
@@ -5780,7 +5765,7 @@
         }
       ],
       "sold": 5658,
-      "stock": 11,
+      "stock": 8,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6004,6 +5989,28 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785827436367768",
+          "items": [
+            {
+              "email": "qr4eim1n@8cxn.capskuy.eu.cc",
+              "password": "masuk123",
+              "addedAt": 1785807496994
+            },
+            {
+              "email": "fobporde@ny6n.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1785807496994
+            },
+            {
+              "email": "l5xqlyn7@8cxn.capskuy.eu.cc",
+              "password": "masuk123",
+              "addedAt": 1785807496994
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-08-04T07:10:36.367Z"
         }
       ],
       "bulk_active": true,
