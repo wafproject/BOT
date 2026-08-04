@@ -394,14 +394,9 @@
           "email": "dkyirij@okeaja.my.id",
           "password": "Masuk123",
           "addedAt": 1785687836574
-        },
-        {
-          "email": "zzic40b@wafprem.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1785687836574
         }
       ],
-      "stock": 15,
+      "stock": 14,
       "sold": 46,
       "reserved": [],
       "bulk_active": false,
