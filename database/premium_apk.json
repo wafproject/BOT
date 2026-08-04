@@ -389,14 +389,9 @@
           "email": "efxyuh0@enziproject.web.id",
           "password": "Masuk123",
           "addedAt": 1785687836574
-        },
-        {
-          "email": "dkyirij@okeaja.my.id",
-          "password": "Masuk123",
-          "addedAt": 1785687836574
         }
       ],
-      "stock": 14,
+      "stock": 13,
       "sold": 46,
       "reserved": [],
       "bulk_active": false,
