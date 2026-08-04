@@ -5680,31 +5680,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "HiroshiHamson176384@hotmail.com",
-          "password": "nhkqps29620",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "JamiAmayo7959@hotmail.com",
-          "password": "mgqnjr897734",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "ClintonBedner96111@hotmail.com",
-          "password": "ihoka774243",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "IzolaBelke1423@hotmail.com",
-          "password": "dogpvm94376",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "ClaudSoderbeck80408@hotmail.com",
-          "password": "xpbbdf172926",
-          "addedAt": 1785878185292
-        },
-        {
           "email": "SienaTurer62445@hotmail.com",
           "password": "cjyuzw92165",
           "addedAt": 1785878185292
@@ -5946,7 +5921,7 @@
         }
       ],
       "sold": 5669,
-      "stock": 53,
+      "stock": 48,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6170,6 +6145,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785883468542284",
+          "items": [
+            {
+              "email": "HiroshiHamson176384@hotmail.com",
+              "password": "nhkqps29620",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "JamiAmayo7959@hotmail.com",
+              "password": "mgqnjr897734",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "ClintonBedner96111@hotmail.com",
+              "password": "ihoka774243",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "IzolaBelke1423@hotmail.com",
+              "password": "dogpvm94376",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "ClaudSoderbeck80408@hotmail.com",
+              "password": "xpbbdf172926",
+              "addedAt": 1785878185292
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-08-04T22:44:28.542Z"
         }
       ],
       "bulk_active": true,
