@@ -334,14 +334,9 @@
           "email": "lcxqke41@asikinaja.my.id",
           "password": "Masuk123",
           "addedAt": 1785084166766
-        },
-        {
-          "email": "sasqub61@asikinaja.my.id",
-          "password": "Masuk123",
-          "addedAt": 1785084166766
         }
       ],
-      "stock": 3,
+      "stock": 2,
       "sold": 46,
       "reserved": [],
       "bulk_active": false,
