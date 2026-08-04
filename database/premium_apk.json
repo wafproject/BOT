@@ -359,14 +359,9 @@
           "email": "vzrdko82@asikinaja.my.id",
           "password": "Masuk123",
           "addedAt": 1785084166766
-        },
-        {
-          "email": "2eg4raj@okeaja.my.id",
-          "password": "Masuk123",
-          "addedAt": 1785687836574
         }
       ],
-      "stock": 8,
+      "stock": 7,
       "sold": 46,
       "reserved": [],
       "bulk_active": false,
