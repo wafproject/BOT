@@ -404,14 +404,9 @@
           "email": "u78ssnq@premaja.online",
           "password": "Masuk123",
           "addedAt": 1785687836574
-        },
-        {
-          "email": "cvs4els@asikinaja.my.id",
-          "password": "Masuk123",
-          "addedAt": 1785687836574
         }
       ],
-      "stock": 17,
+      "stock": 16,
       "sold": 46,
       "reserved": [],
       "bulk_active": false,
