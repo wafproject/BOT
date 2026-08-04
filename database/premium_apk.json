@@ -6138,7 +6138,7 @@
           "addedAt": 1785790151445
         }
       ],
-      "sold": 5607,
+      "sold": 5608,
       "stock": 31,
       "reserved": [
         {
@@ -6363,18 +6363,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785804075901245",
-          "items": [
-            {
-              "email": "JermainJilka28226@hotmail.com",
-              "password": "dxurjh86389",
-              "addedAt": 1785790151445
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-04T00:41:15.901Z"
         }
       ],
       "bulk_active": true,
