@@ -5754,7 +5754,7 @@
           "addedAt": 1785807496994
         }
       ],
-      "sold": 5662,
+      "sold": 5663,
       "stock": 6,
       "reserved": [
         {
@@ -5979,18 +5979,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178582780322679",
-          "items": [
-            {
-              "email": "bau6uf9d@piyora.my.id",
-              "password": "masuk123",
-              "addedAt": 1785807496994
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-04T07:16:43.226Z"
         }
       ],
       "bulk_active": true,
