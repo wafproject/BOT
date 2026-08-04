@@ -5983,31 +5983,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 5 Hari\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Capcut lagi sensi tolong patuhi SNK!",
       "items": [
         {
-          "email": "TomieAccetturo69217@hotmail.com",
-          "password": "woqsgj298728",
-          "addedAt": 1785790151445
-        },
-        {
-          "email": "KylahMagbee7951@hotmail.com",
-          "password": "emwrk925268",
-          "addedAt": 1785790151445
-        },
-        {
-          "email": "NikoleBrechbiel8456@hotmail.com",
-          "password": "bsuzxa875270",
-          "addedAt": 1785790151445
-        },
-        {
-          "email": "RachaelLansinger1562@hotmail.com",
-          "password": "znqvdb77824",
-          "addedAt": 1785790151445
-        },
-        {
-          "email": "KatiaFerrall72127@hotmail.com",
-          "password": "hvaqns95394",
-          "addedAt": 1785790151445
-        },
-        {
           "email": "AmiUberti95924@hotmail.com",
           "password": "kivtw689584",
           "addedAt": 1785790151445
@@ -6139,7 +6114,7 @@
         }
       ],
       "sold": 5608,
-      "stock": 31,
+      "stock": 26,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6363,6 +6338,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785804175970145",
+          "items": [
+            {
+              "email": "TomieAccetturo69217@hotmail.com",
+              "password": "woqsgj298728",
+              "addedAt": 1785790151445
+            },
+            {
+              "email": "KylahMagbee7951@hotmail.com",
+              "password": "emwrk925268",
+              "addedAt": 1785790151445
+            },
+            {
+              "email": "NikoleBrechbiel8456@hotmail.com",
+              "password": "bsuzxa875270",
+              "addedAt": 1785790151445
+            },
+            {
+              "email": "RachaelLansinger1562@hotmail.com",
+              "password": "znqvdb77824",
+              "addedAt": 1785790151445
+            },
+            {
+              "email": "KatiaFerrall72127@hotmail.com",
+              "password": "hvaqns95394",
+              "addedAt": 1785790151445
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-08-04T00:42:55.970Z"
         }
       ],
       "bulk_active": true,
