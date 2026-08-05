@@ -5736,7 +5736,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5709,
+      "sold": 5710,
       "stock": 12,
       "reserved": [
         {
@@ -5961,18 +5961,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785927428426513",
-          "items": [
-            {
-              "email": "BjornQuarless784150@hotmail.com",
-              "password": "damdv98827",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T10:57:08.426Z"
         }
       ],
       "bulk_active": true,
