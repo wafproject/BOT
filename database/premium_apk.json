@@ -5676,31 +5676,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "MaximillianCarrere97286@hotmail.com",
-          "password": "dfbcs282786",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "HayleighMyra442255@hotmail.com",
-          "password": "cckpsj911127",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "RandelIlliano84513@hotmail.com",
-          "password": "jowjsf53694",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "HayleighBuynak71647@hotmail.com",
-          "password": "hkjdc264737",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "SydneyGeraci5421@hotmail.com",
-          "password": "xymet360198",
-          "addedAt": 1785878185292
-        },
-        {
           "email": "JoselinMachida508593@hotmail.com",
           "password": "lowgr585957",
           "addedAt": 1785878185292
@@ -5812,7 +5787,7 @@
         }
       ],
       "sold": 5695,
-      "stock": 27,
+      "stock": 22,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6036,6 +6011,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785915280028717",
+          "items": [
+            {
+              "email": "MaximillianCarrere97286@hotmail.com",
+              "password": "dfbcs282786",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "HayleighMyra442255@hotmail.com",
+              "password": "cckpsj911127",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "RandelIlliano84513@hotmail.com",
+              "password": "jowjsf53694",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "HayleighBuynak71647@hotmail.com",
+              "password": "hkjdc264737",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "SydneyGeraci5421@hotmail.com",
+              "password": "xymet360198",
+              "addedAt": 1785878185292
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-08-05T07:34:40.028Z"
         }
       ],
       "bulk_active": true,
