@@ -5855,7 +5855,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5686,
+      "sold": 5687,
       "stock": 35,
       "reserved": [
         {
@@ -6080,18 +6080,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785895015170846",
-          "items": [
-            {
-              "email": "LottaBrundege4769@hotmail.com",
-              "password": "wegkn19978",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T01:56:55.170Z"
         }
       ],
       "bulk_active": true,
