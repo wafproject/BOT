@@ -5781,7 +5781,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5700,
+      "sold": 5701,
       "stock": 21,
       "reserved": [
         {
@@ -6006,18 +6006,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785916253045264",
-          "items": [
-            {
-              "email": "JoselinMachida508593@hotmail.com",
-              "password": "lowgr585957",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T07:50:53.045Z"
         }
       ],
       "bulk_active": true,
