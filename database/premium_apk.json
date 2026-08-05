@@ -5776,7 +5776,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5701,
+      "sold": 5702,
       "stock": 20,
       "reserved": [
         {
@@ -6001,18 +6001,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785921325058192",
-          "items": [
-            {
-              "email": "WoodyPolcari1782@hotmail.com",
-              "password": "pbxth193554",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T09:15:25.058Z"
         }
       ],
       "bulk_active": true,
