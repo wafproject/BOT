@@ -5811,7 +5811,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5694,
+      "sold": 5695,
       "stock": 27,
       "reserved": [
         {
@@ -6036,18 +6036,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178591380239545",
-          "items": [
-            {
-              "email": "LaureneDeasis851015@hotmail.com",
-              "password": "nukxyt94200",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T07:10:02.395Z"
         }
       ],
       "bulk_active": true,
