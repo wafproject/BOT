@@ -5736,7 +5736,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5708,
+      "sold": 5709,
       "stock": 12,
       "reserved": [
         {
@@ -5961,18 +5961,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785927409503879",
-          "items": [
-            {
-              "email": "FerrisGerkey70172@hotmail.com",
-              "password": "okjlrj32743",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T10:56:49.503Z"
         },
         {
           "id": "RSV1785927428426513",
