@@ -6239,14 +6239,10 @@
         {
           "text": "Baca SNK!",
           "addedAt": 1783263250347
-        },
-        {
-          "text": "Baca SNK!",
-          "addedAt": 1783263250347
         }
       ],
       "sold": 9,
-      "stock": 43,
+      "stock": 42,
       "reserved": [
         {
           "id": "RSV1781539597787255",
