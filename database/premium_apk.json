@@ -5819,7 +5819,7 @@
           "addedAt": 1785967751962
         }
       ],
-      "sold": 5722,
+      "sold": 5723,
       "stock": 51,
       "reserved": [
         {
@@ -6044,18 +6044,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785968237239119",
-          "items": [
-            {
-              "email": "MikelAilshie65792@outlook.com",
-              "password": "rlsrp03382",
-              "addedAt": 1785967751962
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T22:17:17.239Z"
         }
       ],
       "bulk_active": true,
