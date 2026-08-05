@@ -5826,7 +5826,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5691,
+      "sold": 5692,
       "stock": 30,
       "reserved": [
         {
@@ -6051,18 +6051,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785908397486368",
-          "items": [
-            {
-              "email": "JaniyaGetachew796933@hotmail.com",
-              "password": "sdcbpf886529",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T05:39:57.486Z"
         }
       ],
       "bulk_active": true,
