@@ -5840,7 +5840,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5689,
+      "sold": 5690,
       "stock": 32,
       "reserved": [
         {
@@ -6065,18 +6065,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785906171421620",
-          "items": [
-            {
-              "email": "WilfredHackbarth1851@hotmail.com",
-              "password": "xyclgq542852",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T05:02:51.421Z"
         }
       ],
       "bulk_active": true,
