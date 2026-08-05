@@ -5589,7 +5589,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5719,
+      "sold": 5720,
       "stock": 2,
       "reserved": [
         {
@@ -5814,18 +5814,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178593237255490",
-          "items": [
-            {
-              "email": "LonieMolitor818498@hotmail.com",
-              "password": "cqrhb36696",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T12:19:32.554Z"
         }
       ],
       "bulk_active": true,
