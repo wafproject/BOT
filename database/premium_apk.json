@@ -5835,7 +5835,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5690,
+      "sold": 5691,
       "stock": 31,
       "reserved": [
         {
@@ -6060,18 +6060,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178590644803446",
-          "items": [
-            {
-              "email": "AlleenTiedje0664@hotmail.com",
-              "password": "wkyawd47298",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T05:07:28.034Z"
         }
       ],
       "bulk_active": true,
