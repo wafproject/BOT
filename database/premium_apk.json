@@ -5845,7 +5845,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5688,
+      "sold": 5689,
       "stock": 33,
       "reserved": [
         {
@@ -6070,18 +6070,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785905808126427",
-          "items": [
-            {
-              "email": "MyahCury6564@hotmail.com",
-              "password": "ytkfx471501",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T04:56:48.126Z"
         }
       ],
       "bulk_active": true,
