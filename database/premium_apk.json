@@ -5676,31 +5676,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "RitaSchnaible35614@hotmail.com",
-          "password": "hnzjb965510",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "DeontePalato84163@hotmail.com",
-          "password": "ulwfkv46166",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "DayneBargender3848@hotmail.com",
-          "password": "gzrwb59722",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "DamionMarchuk96629@hotmail.com",
-          "password": "wjvxi92431",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "RubenBereznak93008@hotmail.com",
-          "password": "ijpyx303871",
-          "addedAt": 1785878185292
-        },
-        {
           "email": "FerrisGerkey70172@hotmail.com",
           "password": "okjlrj32743",
           "addedAt": 1785878185292
@@ -5772,7 +5747,7 @@
         }
       ],
       "sold": 5703,
-      "stock": 19,
+      "stock": 14,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5996,6 +5971,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785927392243378",
+          "items": [
+            {
+              "email": "RitaSchnaible35614@hotmail.com",
+              "password": "hnzjb965510",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "DeontePalato84163@hotmail.com",
+              "password": "ulwfkv46166",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "DayneBargender3848@hotmail.com",
+              "password": "gzrwb59722",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "DamionMarchuk96629@hotmail.com",
+              "password": "wjvxi92431",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "RubenBereznak93008@hotmail.com",
+              "password": "ijpyx303871",
+              "addedAt": 1785878185292
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-08-05T10:56:32.243Z"
         }
       ],
       "bulk_active": true,
