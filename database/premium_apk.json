@@ -5771,7 +5771,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5702,
+      "sold": 5703,
       "stock": 19,
       "reserved": [
         {
@@ -5996,18 +5996,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785923048117734",
-          "items": [
-            {
-              "email": "BerniceFerby1892@hotmail.com",
-              "password": "tafsnq57232",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T09:44:08.117Z"
         }
       ],
       "bulk_active": true,
