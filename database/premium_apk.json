@@ -5870,7 +5870,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5683,
+      "sold": 5684,
       "stock": 38,
       "reserved": [
         {
@@ -6095,18 +6095,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178589219250844",
-          "items": [
-            {
-              "email": "GlynnSakovich42268@hotmail.com",
-              "password": "upuej39364",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T01:09:52.508Z"
         }
       ],
       "bulk_active": true,
