@@ -6123,14 +6123,10 @@
         {
           "text": "Baca deskripsi",
           "addedAt": 1778525042875
-        },
-        {
-          "text": "Baca deskripsi",
-          "addedAt": 1778525042887
         }
       ],
       "sold": 9,
-      "stock": 14,
+      "stock": 13,
       "reserved": [
         {
           "id": "RSV1781539597787255",
