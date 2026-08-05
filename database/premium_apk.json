@@ -5594,7 +5594,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5718,
+      "sold": 5719,
       "stock": 3,
       "reserved": [
         {
@@ -5819,18 +5819,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785930464883848",
-          "items": [
-            {
-              "email": "AlmetaAnzaldi3955@hotmail.com",
-              "password": "tusrk56712",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T11:47:44.883Z"
         }
       ],
       "bulk_active": true,
