@@ -5850,7 +5850,7 @@
           "addedAt": 1785878185292
         }
       ],
-      "sold": 5687,
+      "sold": 5688,
       "stock": 34,
       "reserved": [
         {
@@ -6075,18 +6075,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785897427214483",
-          "items": [
-            {
-              "email": "DannaKlipstein30479@hotmail.com",
-              "password": "qyathw736489",
-              "addedAt": 1785878185292
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-05T02:37:07.214Z"
         }
       ],
       "bulk_active": true,
