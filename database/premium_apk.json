@@ -5579,21 +5579,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "MikailaTrish2026@hotmail.com",
-          "password": "bjwtl765893",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "OteliaJuszkiewicz180151@hotmail.com",
-          "password": "ztrhda60122",
-          "addedAt": 1785878185292
-        },
-        {
-          "email": "OttilieGarrettson51990@hotmail.com",
-          "password": "fmpwxy93606",
-          "addedAt": 1785878185292
-        },
-        {
           "email": "AlmetaAnzaldi3955@hotmail.com",
           "password": "tusrk56712",
           "addedAt": 1785878185292
@@ -5615,7 +5600,7 @@
         }
       ],
       "sold": 5715,
-      "stock": 7,
+      "stock": 4,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5839,6 +5824,28 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV178592991242375",
+          "items": [
+            {
+              "email": "MikailaTrish2026@hotmail.com",
+              "password": "bjwtl765893",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "OteliaJuszkiewicz180151@hotmail.com",
+              "password": "ztrhda60122",
+              "addedAt": 1785878185292
+            },
+            {
+              "email": "OttilieGarrettson51990@hotmail.com",
+              "password": "fmpwxy93606",
+              "addedAt": 1785878185292
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-08-05T11:38:32.423Z"
         }
       ],
       "bulk_active": true,
