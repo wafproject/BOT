@@ -5739,7 +5739,7 @@
           "addedAt": 1785967751962
         }
       ],
-      "sold": 5729,
+      "sold": 5739,
       "stock": 35,
       "reserved": [
         {
@@ -5964,63 +5964,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785977587651391",
-          "items": [
-            {
-              "email": "EllisLacks350212@outlook.com",
-              "password": "hfptip708004",
-              "addedAt": 1785967751962
-            },
-            {
-              "email": "KendellKuda385253@outlook.com",
-              "password": "yufin72356",
-              "addedAt": 1785967751962
-            },
-            {
-              "email": "BenReischer42446@outlook.com",
-              "password": "cguqtz07833",
-              "addedAt": 1785967751962
-            },
-            {
-              "email": "EllaZettergren18763@outlook.com",
-              "password": "qyebq976062",
-              "addedAt": 1785967751962
-            },
-            {
-              "email": "FernHardebeck698013@outlook.com",
-              "password": "gkltw449860",
-              "addedAt": 1785967751962
-            },
-            {
-              "email": "BreaLimbert7347@outlook.com",
-              "password": "xbarvj096978",
-              "addedAt": 1785967751962
-            },
-            {
-              "email": "JerrellTruelson96399@outlook.com",
-              "password": "oxhmh400055",
-              "addedAt": 1785967751962
-            },
-            {
-              "email": "MathildeVieth4306@outlook.com",
-              "password": "fvfoax60965",
-              "addedAt": 1785967751962
-            },
-            {
-              "email": "JodieIzarraras389283@outlook.com",
-              "password": "oejpby730629",
-              "addedAt": 1785967751962
-            },
-            {
-              "email": "BabetteColen010662@outlook.com",
-              "password": "hmnom797547",
-              "addedAt": 1785967751962
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-08-06T00:53:07.651Z"
         }
       ],
       "bulk_active": true,
