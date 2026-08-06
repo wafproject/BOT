@@ -4368,20 +4368,8 @@
         }
       ],
       "stock": 1019,
-      "sold": 892,
-      "reserved": [
-        {
-          "id": "RSV1786012386839241",
-          "items": [
-            {
-              "email": "sanycherep@buyreview.us|https://generator.email/sanycherep@buyreview.us",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-06T10:33:06.839Z"
-        }
-      ],
+      "sold": 893,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
