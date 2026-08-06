@@ -291,10 +291,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "sanycherep@buyreview.us|https://generator.email/sanycherep@buyreview.us",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "timoshenkoshili@vexaluno.xyz|https://generator.email/timoshenkoshili@vexaluno.xyz",
           "addedAt": 1783266949580
         },
@@ -4371,9 +4367,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1020,
+      "stock": 1019,
       "sold": 892,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1786012386839241",
+          "items": [
+            {
+              "email": "sanycherep@buyreview.us|https://generator.email/sanycherep@buyreview.us",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-06T10:33:06.839Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
