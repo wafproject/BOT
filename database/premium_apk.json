@@ -5594,7 +5594,7 @@
           "addedAt": 1785988958917
         }
       ],
-      "sold": 5776,
+      "sold": 5777,
       "stock": 6,
       "reserved": [
         {
@@ -5819,18 +5819,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785992316426790",
-          "items": [
-            {
-              "email": "boyegu87874@premisxv.web.id",
-              "password": "masuk123",
-              "addedAt": 1785988958917
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-06T04:58:36.426Z"
         },
         {
           "id": "RSV1785992427626967",
