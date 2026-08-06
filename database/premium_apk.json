@@ -5594,7 +5594,7 @@
           "addedAt": 1785988958917
         }
       ],
-      "sold": 5777,
+      "sold": 5778,
       "stock": 6,
       "reserved": [
         {
@@ -5819,18 +5819,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1785992427626967",
-          "items": [
-            {
-              "email": "nilojo68280@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1785988958917
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-06T05:00:27.626Z"
         }
       ],
       "bulk_active": true,
