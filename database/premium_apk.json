@@ -5564,38 +5564,13 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "dikilo33612@xvsexv.web.id",
-          "password": "masuk123",
-          "addedAt": 1785988958917
-        },
-        {
-          "email": "wegati28211@mysexvs.biz.id",
-          "password": "masuk123",
-          "addedAt": 1785988958917
-        },
-        {
-          "email": "majaqa60257@mysexvs.biz.id",
-          "password": "masuk123",
-          "addedAt": 1785988958917
-        },
-        {
-          "email": "wawoqu5164@gxrevsx.web.id",
-          "password": "masuk123",
-          "addedAt": 1785988958917
-        },
-        {
-          "email": "gubuxu3780@xvsexv.web.id",
-          "password": "masuk123",
-          "addedAt": 1785988958917
-        },
-        {
           "email": "godcec@jinggiu.my.id",
           "password": "masuk123",
           "addedAt": 1785988958917
         }
       ],
       "sold": 5778,
-      "stock": 6,
+      "stock": 1,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5819,6 +5794,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1785993379297203",
+          "items": [
+            {
+              "email": "dikilo33612@xvsexv.web.id",
+              "password": "masuk123",
+              "addedAt": 1785988958917
+            },
+            {
+              "email": "wegati28211@mysexvs.biz.id",
+              "password": "masuk123",
+              "addedAt": 1785988958917
+            },
+            {
+              "email": "majaqa60257@mysexvs.biz.id",
+              "password": "masuk123",
+              "addedAt": 1785988958917
+            },
+            {
+              "email": "wawoqu5164@gxrevsx.web.id",
+              "password": "masuk123",
+              "addedAt": 1785988958917
+            },
+            {
+              "email": "gubuxu3780@xvsexv.web.id",
+              "password": "masuk123",
+              "addedAt": 1785988958917
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-08-06T05:16:19.298Z"
         }
       ],
       "bulk_active": true,
