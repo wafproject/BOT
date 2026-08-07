@@ -5686,7 +5686,7 @@
           "addedAt": 1786070095145
         }
       ],
-      "sold": 5848,
+      "sold": 5849,
       "stock": 7,
       "reserved": [
         {
@@ -5911,18 +5911,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786086312387516",
-          "items": [
-            {
-              "email": "MarcelloDales19768@hotmail.com",
-              "password": "dnmoo790724",
-              "addedAt": 1786070095145
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-07T07:05:12.387Z"
         }
       ],
       "bulk_active": true,
