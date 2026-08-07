@@ -5666,7 +5666,7 @@
           "addedAt": 1786070095145
         }
       ],
-      "sold": 5852,
+      "sold": 5853,
       "stock": 3,
       "reserved": [
         {
@@ -5891,18 +5891,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786098465735336",
-          "items": [
-            {
-              "email": "LouannaBottoni5675@hotmail.com",
-              "password": "sbowj82557",
-              "addedAt": 1786070095145
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-07T10:27:45.735Z"
         }
       ],
       "bulk_active": true,
