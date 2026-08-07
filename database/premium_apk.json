@@ -5701,7 +5701,7 @@
           "addedAt": 1786070095145
         }
       ],
-      "sold": 5847,
+      "sold": 5848,
       "stock": 8,
       "reserved": [
         {
@@ -5926,18 +5926,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV17860820315570",
-          "items": [
-            {
-              "email": "LizbethLobmeyer6888@hotmail.com",
-              "password": "lqnij223205",
-              "addedAt": 1786070095145
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-07T05:53:51.557Z"
         }
       ],
       "bulk_active": true,
