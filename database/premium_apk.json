@@ -5671,7 +5671,7 @@
           "addedAt": 1786070095145
         }
       ],
-      "sold": 5851,
+      "sold": 5852,
       "stock": 4,
       "reserved": [
         {
@@ -5896,18 +5896,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786096471257734",
-          "items": [
-            {
-              "email": "CarraCaravaggio64204@hotmail.com",
-              "password": "ucqca00929",
-              "addedAt": 1786070095145
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-07T09:54:31.257Z"
         }
       ],
       "bulk_active": true,
