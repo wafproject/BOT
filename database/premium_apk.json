@@ -254,21 +254,8 @@
         }
       ],
       "stock": 1,
-      "sold": 398,
-      "reserved": [
-        {
-          "id": "RSV1786081945090642",
-          "items": [
-            {
-              "email": "LestaAmelotte6292@outlook.com",
-              "password": "hshnn481961",
-              "addedAt": 1786035976186
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-07T05:52:25.090Z"
-        }
-      ],
+      "sold": 399,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
