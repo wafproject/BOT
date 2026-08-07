@@ -5676,7 +5676,7 @@
           "addedAt": 1786070095145
         }
       ],
-      "sold": 5850,
+      "sold": 5851,
       "stock": 5,
       "reserved": [
         {
@@ -5901,18 +5901,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786091038594580",
-          "items": [
-            {
-              "email": "MarindaParrett1098@hotmail.com",
-              "password": "kbvsij043853",
-              "addedAt": 1786070095145
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-07T08:23:58.594Z"
         }
       ],
       "bulk_active": true,
