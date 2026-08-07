@@ -256,31 +256,6 @@
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nOutlook: \nhttps://outlook.live.com/mail/\n(masukkan email dan password diatas)\n\nHarap gunakan akun dengan bijak.\n\nTerima kasih atas pembelian Anda 🙏\nJika Anda membutuhkan bantuan, silakan hubungi admin.",
       "items": [
         {
-          "email": "RodolfoManne4134@hotmail.com",
-          "password": "fuzysc306737",
-          "addedAt": 1786035976186
-        },
-        {
-          "email": "KelsieHoltsclaw0798@hotmail.com",
-          "password": "fjpri651354",
-          "addedAt": 1786035976186
-        },
-        {
-          "email": "EarleanMcisaac821763@hotmail.com",
-          "password": "dwxnde54578",
-          "addedAt": 1786035976186
-        },
-        {
-          "email": "KaiaBonifas48910@outlook.com",
-          "password": "cxbcor102862",
-          "addedAt": 1786035976186
-        },
-        {
-          "email": "AlfredDaiuto476442@outlook.com",
-          "password": "nbemgi318755",
-          "addedAt": 1786035976186
-        },
-        {
           "email": "LestaAmelotte6292@outlook.com",
           "password": "hshnn481961",
           "addedAt": 1786035976186
@@ -291,9 +266,42 @@
           "addedAt": 1786035976186
         }
       ],
-      "stock": 7,
+      "stock": 2,
       "sold": 393,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1786068411819483",
+          "items": [
+            {
+              "email": "RodolfoManne4134@hotmail.com",
+              "password": "fuzysc306737",
+              "addedAt": 1786035976186
+            },
+            {
+              "email": "KelsieHoltsclaw0798@hotmail.com",
+              "password": "fjpri651354",
+              "addedAt": 1786035976186
+            },
+            {
+              "email": "EarleanMcisaac821763@hotmail.com",
+              "password": "dwxnde54578",
+              "addedAt": 1786035976186
+            },
+            {
+              "email": "KaiaBonifas48910@outlook.com",
+              "password": "cxbcor102862",
+              "addedAt": 1786035976186
+            },
+            {
+              "email": "AlfredDaiuto476442@outlook.com",
+              "password": "nbemgi318755",
+              "addedAt": 1786035976186
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-08-07T02:06:51.819Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
