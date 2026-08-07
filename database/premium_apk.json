@@ -4488,20 +4488,8 @@
         }
       ],
       "stock": 1018,
-      "sold": 893,
-      "reserved": [
-        {
-          "id": "RSV1786081681370479",
-          "items": [
-            {
-              "email": "timoshenkoshili@vexaluno.xyz|https://generator.email/timoshenkoshili@vexaluno.xyz",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-07T05:48:01.370Z"
-        }
-      ],
+      "sold": 894,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
