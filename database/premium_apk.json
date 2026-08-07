@@ -5715,7 +5715,7 @@
           "addedAt": 1786070095145
         }
       ],
-      "sold": 5846,
+      "sold": 5847,
       "stock": 9,
       "reserved": [
         {
@@ -5940,18 +5940,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786080875420580",
-          "items": [
-            {
-              "email": "KolbySchmidtke953287@hotmail.com",
-              "password": "oxdhvp28564",
-              "addedAt": 1786070095145
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-07T05:34:35.420Z"
         }
       ],
       "bulk_active": true,
