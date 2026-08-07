@@ -415,10 +415,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "timoshenkoshili@vexaluno.xyz|https://generator.email/timoshenkoshili@vexaluno.xyz",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "rozaav@hutathuww.org|https://generator.email/rozaav@hutathuww.org",
           "addedAt": 1783266949580
         },
@@ -4491,9 +4487,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1019,
+      "stock": 1018,
       "sold": 893,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1786081681370479",
+          "items": [
+            {
+              "email": "timoshenkoshili@vexaluno.xyz|https://generator.email/timoshenkoshili@vexaluno.xyz",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-07T05:48:01.370Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
