@@ -5825,10 +5825,30 @@
           "email": "budisetiawan878@kedaiku.biz.id",
           "password": "masuk123",
           "addedAt": 1786139217395
+        },
+        {
+          "email": "hofsam@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1786139263694
+        },
+        {
+          "email": "wozhai@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1786139263694
+        },
+        {
+          "email": "vomsag@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1786139263694
+        },
+        {
+          "email": "sewcin@jinggiu.my.id",
+          "password": "masuk123",
+          "addedAt": 1786139263694
         }
       ],
       "sold": 5856,
-      "stock": 36,
+      "stock": 40,
       "reserved": [
         {
           "id": "RSV1780362536090628",
