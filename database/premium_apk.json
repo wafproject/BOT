@@ -5681,7 +5681,7 @@
           "addedAt": 1786070095145
         }
       ],
-      "sold": 5849,
+      "sold": 5850,
       "stock": 6,
       "reserved": [
         {
@@ -5906,18 +5906,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786090178113280",
-          "items": [
-            {
-              "email": "ElyseDran1366@hotmail.com",
-              "password": "pprxn035092",
-              "addedAt": 1786070095145
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-07T08:09:38.113Z"
         }
       ],
       "bulk_active": true,
