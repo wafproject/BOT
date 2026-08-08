@@ -5651,7 +5651,7 @@
           "addedAt": 1786166793956
         }
       ],
-      "sold": 5918,
+      "sold": 5919,
       "stock": 4,
       "reserved": [
         {
@@ -5876,18 +5876,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178617714847743",
-          "items": [
-            {
-              "email": "NeomaMugg737139@hotmail.com",
-              "password": "pbmsm55701",
-              "addedAt": 1786166793956
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-08T08:19:08.477Z"
         }
       ],
       "bulk_active": true,
