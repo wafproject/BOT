@@ -5850,10 +5850,15 @@
           "email": "WavaWilkowski109412@outlook.com",
           "password": "ffthu53290",
           "addedAt": 1786226537855
+        },
+        {
+          "email": "hafpui@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1786228420866
         }
       ],
       "sold": 5923,
-      "stock": 47,
+      "stock": 48,
       "reserved": [
         {
           "id": "RSV1780362536090628",
