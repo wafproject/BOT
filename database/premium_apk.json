@@ -5647,56 +5647,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "jedigi8554@xvsexv.web.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "rotasi83616@myrowsx.web.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "juyuzu40811@mysexvs.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "kosaca60086@oxygov.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "zojeba15913@matakaw.web.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "polejo38708@oxygov.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "betoba14831@gwprems.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "sari.kusuma6849@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "ayu2620saputra@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "agus7600santoso@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
           "email": "agusnugroho4136@kedaiku.biz.id",
           "password": "masuk123",
           "addedAt": 1786139217395
@@ -5793,7 +5743,7 @@
         }
       ],
       "sold": 5867,
-      "stock": 29,
+      "stock": 19,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6017,6 +5967,63 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1786149109144334",
+          "items": [
+            {
+              "email": "jedigi8554@xvsexv.web.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "rotasi83616@myrowsx.web.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "juyuzu40811@mysexvs.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "kosaca60086@oxygov.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "zojeba15913@matakaw.web.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "polejo38708@oxygov.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "betoba14831@gwprems.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "sari.kusuma6849@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "ayu2620saputra@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "agus7600santoso@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-08-08T00:31:49.144Z"
         }
       ],
       "bulk_active": true,
