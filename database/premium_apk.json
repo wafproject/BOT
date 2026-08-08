@@ -5733,7 +5733,7 @@
           "addedAt": 1786139263694
         }
       ],
-      "sold": 5877,
+      "sold": 5878,
       "stock": 18,
       "reserved": [
         {
@@ -5958,18 +5958,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786151122802500",
-          "items": [
-            {
-              "email": "agusnugroho4136@kedaiku.biz.id",
-              "password": "masuk123",
-              "addedAt": 1786139217395
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-08T01:05:22.802Z"
         }
       ],
       "bulk_active": true,
