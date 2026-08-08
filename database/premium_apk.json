@@ -5641,100 +5641,9 @@
       "price": 3500,
       "descShort": "Full Garansi",
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
-      "items": [
-        {
-          "email": "rizkywijaya577@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "dickywijaya8044@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "dian5051pratama@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "dicky4828wijaya@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "dianjohnson8721@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "sarah.smith3851@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "sarah.smith1867@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "dimas2052wijaya@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "john8232lestari@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "dickywijaya9796@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "diansantoso5700@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "ratnasmith3101@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "dickysaputra170@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "budisetiawan878@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786139217395
-        },
-        {
-          "email": "hofsam@kulipremium.web.id",
-          "password": "masuk123",
-          "addedAt": 1786139263694
-        },
-        {
-          "email": "wozhai@kulipremium.web.id",
-          "password": "masuk123",
-          "addedAt": 1786139263694
-        },
-        {
-          "email": "vomsag@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1786139263694
-        },
-        {
-          "email": "sewcin@jinggiu.my.id",
-          "password": "masuk123",
-          "addedAt": 1786139263694
-        }
-      ],
+      "items": [],
       "sold": 5878,
-      "stock": 18,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5958,6 +5867,103 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV178615259304337",
+          "items": [
+            {
+              "email": "rizkywijaya577@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "dickywijaya8044@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "dian5051pratama@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "dicky4828wijaya@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "dianjohnson8721@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "sarah.smith3851@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "sarah.smith1867@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "dimas2052wijaya@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "john8232lestari@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "dickywijaya9796@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "diansantoso5700@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "ratnasmith3101@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "dickysaputra170@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "budisetiawan878@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786139217395
+            },
+            {
+              "email": "hofsam@kulipremium.web.id",
+              "password": "masuk123",
+              "addedAt": 1786139263694
+            },
+            {
+              "email": "wozhai@kulipremium.web.id",
+              "password": "masuk123",
+              "addedAt": 1786139263694
+            },
+            {
+              "email": "vomsag@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1786139263694
+            },
+            {
+              "email": "sewcin@jinggiu.my.id",
+              "password": "masuk123",
+              "addedAt": 1786139263694
+            }
+          ],
+          "qty": 18,
+          "createdAt": "2026-08-08T01:29:53.043Z"
         }
       ],
       "bulk_active": true,
