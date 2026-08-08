@@ -4457,20 +4457,8 @@
         }
       ],
       "stock": 1017,
-      "sold": 894,
-      "reserved": [
-        {
-          "id": "RSV1786156987957663",
-          "items": [
-            {
-              "email": "rozaav@hutathuww.org|https://generator.email/rozaav@hutathuww.org",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-08T02:43:07.957Z"
-        }
-      ],
+      "sold": 895,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
