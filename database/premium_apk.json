@@ -5646,7 +5646,7 @@
           "addedAt": 1786166793956
         }
       ],
-      "sold": 5919,
+      "sold": 5920,
       "stock": 3,
       "reserved": [
         {
@@ -5871,18 +5871,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786177991878369",
-          "items": [
-            {
-              "email": "ReaganWilms734462@hotmail.com",
-              "password": "gyeew17088",
-              "addedAt": 1786166793956
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-08T08:33:11.878Z"
         }
       ],
       "bulk_active": true,
