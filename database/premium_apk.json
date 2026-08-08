@@ -5656,7 +5656,7 @@
           "addedAt": 1786166793956
         }
       ],
-      "sold": 5917,
+      "sold": 5918,
       "stock": 5,
       "reserved": [
         {
@@ -5881,18 +5881,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786176923811242",
-          "items": [
-            {
-              "email": "DaphnePerlin65141@hotmail.com",
-              "password": "xwjxpj58260",
-              "addedAt": 1786166793956
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-08T08:15:23.811Z"
         }
       ],
       "bulk_active": true,
