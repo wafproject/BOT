@@ -5661,7 +5661,7 @@
           "addedAt": 1786166793956
         }
       ],
-      "sold": 5916,
+      "sold": 5917,
       "stock": 6,
       "reserved": [
         {
@@ -5886,18 +5886,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786168080879788",
-          "items": [
-            {
-              "email": "EdithCarreon0826@hotmail.com",
-              "password": "ytolu42940",
-              "addedAt": 1786166793956
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-08T05:48:00.879Z"
         }
       ],
       "bulk_active": true,
