@@ -5631,56 +5631,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "FernandHarriet54683@hotmail.com",
-          "password": "ygbtt83427",
-          "addedAt": 1786166793956
-        },
-        {
-          "email": "CodieRovin2894@hotmail.com",
-          "password": "djcmf656128",
-          "addedAt": 1786166793956
-        },
-        {
-          "email": "FritzPegan8802@hotmail.com",
-          "password": "egasxc263841",
-          "addedAt": 1786166793956
-        },
-        {
-          "email": "ZoraMosk7097@hotmail.com",
-          "password": "qgzukj75034",
-          "addedAt": 1786166793956
-        },
-        {
-          "email": "LeandraBentzinger9297@hotmail.com",
-          "password": "lnyxcl96244",
-          "addedAt": 1786166793956
-        },
-        {
-          "email": "KeciaZogby5360@hotmail.com",
-          "password": "fmagks11741",
-          "addedAt": 1786166793956
-        },
-        {
-          "email": "DarinRuelle3877@hotmail.com",
-          "password": "yosyd08041",
-          "addedAt": 1786166793956
-        },
-        {
-          "email": "IvorBreymeyer95400@hotmail.com",
-          "password": "xraig270044",
-          "addedAt": 1786166793956
-        },
-        {
-          "email": "VictorianoSivia371753@hotmail.com",
-          "password": "tcajh623691",
-          "addedAt": 1786166793956
-        },
-        {
-          "email": "TamiaLongbons95751@hotmail.com",
-          "password": "pheev446755",
-          "addedAt": 1786166793956
-        },
-        {
           "email": "EdithCarreon0826@hotmail.com",
           "password": "ytolu42940",
           "addedAt": 1786166793956
@@ -5717,7 +5667,7 @@
         }
       ],
       "sold": 5896,
-      "stock": 17,
+      "stock": 7,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5998,6 +5948,63 @@
           ],
           "qty": 10,
           "createdAt": "2026-08-08T05:36:08.457Z"
+        },
+        {
+          "id": "RSV1786167549316914",
+          "items": [
+            {
+              "email": "FernandHarriet54683@hotmail.com",
+              "password": "ygbtt83427",
+              "addedAt": 1786166793956
+            },
+            {
+              "email": "CodieRovin2894@hotmail.com",
+              "password": "djcmf656128",
+              "addedAt": 1786166793956
+            },
+            {
+              "email": "FritzPegan8802@hotmail.com",
+              "password": "egasxc263841",
+              "addedAt": 1786166793956
+            },
+            {
+              "email": "ZoraMosk7097@hotmail.com",
+              "password": "qgzukj75034",
+              "addedAt": 1786166793956
+            },
+            {
+              "email": "LeandraBentzinger9297@hotmail.com",
+              "password": "lnyxcl96244",
+              "addedAt": 1786166793956
+            },
+            {
+              "email": "KeciaZogby5360@hotmail.com",
+              "password": "fmagks11741",
+              "addedAt": 1786166793956
+            },
+            {
+              "email": "DarinRuelle3877@hotmail.com",
+              "password": "yosyd08041",
+              "addedAt": 1786166793956
+            },
+            {
+              "email": "IvorBreymeyer95400@hotmail.com",
+              "password": "xraig270044",
+              "addedAt": 1786166793956
+            },
+            {
+              "email": "VictorianoSivia371753@hotmail.com",
+              "password": "tcajh623691",
+              "addedAt": 1786166793956
+            },
+            {
+              "email": "TamiaLongbons95751@hotmail.com",
+              "password": "pheev446755",
+              "addedAt": 1786166793956
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-08-08T05:39:09.316Z"
         }
       ],
       "bulk_active": true,
