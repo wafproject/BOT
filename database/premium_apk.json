@@ -5603,31 +5603,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "GreenBeuth73273@outlook.com",
-          "password": "qmlsn810144",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "ElvinaTsangaris2862@outlook.com",
-          "password": "nzacw91128",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "GarnerTaper664336@outlook.com",
-          "password": "zlidj244705",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "AnjanetteSprow010156@outlook.com",
-          "password": "blorq971720",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "ElleBerstein108002@outlook.com",
-          "password": "vajpc00122",
-          "addedAt": 1786310938498
-        },
-        {
           "email": "BrandeHolliway28796@outlook.com",
           "password": "njgncg83084",
           "addedAt": 1786310938498
@@ -5929,7 +5904,7 @@
         }
       ],
       "sold": 5980,
-      "stock": 65,
+      "stock": 60,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6153,6 +6128,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1786313414506266",
+          "items": [
+            {
+              "email": "GreenBeuth73273@outlook.com",
+              "password": "qmlsn810144",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "ElvinaTsangaris2862@outlook.com",
+              "password": "nzacw91128",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "GarnerTaper664336@outlook.com",
+              "password": "zlidj244705",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "AnjanetteSprow010156@outlook.com",
+              "password": "blorq971720",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "ElleBerstein108002@outlook.com",
+              "password": "vajpc00122",
+              "addedAt": 1786310938498
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-08-09T22:10:14.506Z"
         }
       ],
       "bulk_active": true,
