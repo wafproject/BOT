@@ -5897,7 +5897,7 @@
           "addedAt": 1786228446966
         }
       ],
-      "sold": 5923,
+      "sold": 5924,
       "stock": 56,
       "reserved": [
         {
@@ -6122,18 +6122,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786233766120500",
-          "items": [
-            {
-              "email": "GordenRossi2892@outlook.com",
-              "password": "mfrqw38245",
-              "addedAt": 1786226537855
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-09T00:02:46.120Z"
         }
       ],
       "bulk_active": true,
