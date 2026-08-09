@@ -5887,7 +5887,7 @@
           "addedAt": 1786228446966
         }
       ],
-      "sold": 5925,
+      "sold": 5926,
       "stock": 54,
       "reserved": [
         {
@@ -6112,18 +6112,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786249587113882",
-          "items": [
-            {
-              "email": "LondynRapkin25412@outlook.com",
-              "password": "cedyz442363",
-              "addedAt": 1786226537855
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-09T04:26:27.113Z"
         }
       ],
       "bulk_active": true,
