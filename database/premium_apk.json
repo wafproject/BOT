@@ -5874,7 +5874,7 @@
           "addedAt": 1786228446966
         }
       ],
-      "sold": 5926,
+      "sold": 5927,
       "stock": 53,
       "reserved": [
         {
@@ -6099,18 +6099,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786251702223657",
-          "items": [
-            {
-              "email": "OrionApsley867562@outlook.com",
-              "password": "tatnen672691",
-              "addedAt": 1786226537855
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-09T05:01:42.223Z"
         }
       ],
       "bulk_active": true,
