@@ -5892,7 +5892,7 @@
           "addedAt": 1786228446966
         }
       ],
-      "sold": 5924,
+      "sold": 5925,
       "stock": 55,
       "reserved": [
         {
@@ -6117,18 +6117,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786242488241960",
-          "items": [
-            {
-              "email": "MarshallPaiva76864@outlook.com",
-              "password": "tjdhd46429",
-              "addedAt": 1786226537855
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-09T02:28:08.241Z"
         }
       ],
       "bulk_active": true,
