@@ -5668,7 +5668,7 @@
           "addedAt": 1786310938498
         }
       ],
-      "sold": 6020,
+      "sold": 6030,
       "stock": 15,
       "reserved": [
         {
@@ -5893,63 +5893,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786329652384611",
-          "items": [
-            {
-              "email": "EdraAmbersley781565@outlook.com",
-              "password": "swxfl350496",
-              "addedAt": 1786310938498
-            },
-            {
-              "email": "AmbersReust044278@outlook.com",
-              "password": "tbawa84597",
-              "addedAt": 1786310938498
-            },
-            {
-              "email": "RuffusBowlus4035@outlook.com",
-              "password": "pjmzop104914",
-              "addedAt": 1786310938498
-            },
-            {
-              "email": "GiaSabia5799@outlook.com",
-              "password": "oggdud04003",
-              "addedAt": 1786310938498
-            },
-            {
-              "email": "GriselBirl47652@outlook.com",
-              "password": "djxlf38026",
-              "addedAt": 1786310938498
-            },
-            {
-              "email": "PresleyVanwie448065@outlook.com",
-              "password": "bejxwg16761",
-              "addedAt": 1786310938498
-            },
-            {
-              "email": "SonyaMorreira56659@outlook.com",
-              "password": "pncju43600",
-              "addedAt": 1786310938498
-            },
-            {
-              "email": "BoRicke484669@outlook.com",
-              "password": "nrmprj38982",
-              "addedAt": 1786310938498
-            },
-            {
-              "email": "LeandraGonda117684@outlook.com",
-              "password": "htcdu126292",
-              "addedAt": 1786310938498
-            },
-            {
-              "email": "IzabelleFilion4918@outlook.com",
-              "password": "imiris598698",
-              "addedAt": 1786310938498
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-08-10T02:40:52.384Z"
         }
       ],
       "bulk_active": true,
