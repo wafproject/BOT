@@ -329,21 +329,8 @@
         }
       ],
       "stock": 8,
-      "sold": 47,
-      "reserved": [
-        {
-          "id": "RSV1786366467727784",
-          "items": [
-            {
-              "email": "7u4x0ms@enzipro.biz.id",
-              "password": "Masuk123",
-              "addedAt": 1785880504323
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-10T12:54:27.727Z"
-        }
-      ],
+      "sold": 48,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
