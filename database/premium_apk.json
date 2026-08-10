@@ -60,7 +60,8 @@
       "name": "Netflix Premium UHD"
     },
     {
-      "name": "BSTATION PREMIUM"
+      "name": "BSTATION PREMIUM",
+      "is_active": false
     },
     {
       "name": "wink vip+"
