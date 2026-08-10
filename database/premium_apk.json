@@ -5603,21 +5603,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "BeulaDauterive0099@outlook.com",
-          "password": "cxrzqa61022",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "BurdetteBangel08166@outlook.com",
-          "password": "zdpau14411",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "ArmsteadOliveria78360@outlook.com",
-          "password": "egcemr456677",
-          "addedAt": 1786310938498
-        },
-        {
           "email": "DelliaPurpora65008@outlook.com",
           "password": "ldundr10948",
           "addedAt": 1786310938498
@@ -5759,7 +5744,7 @@
         }
       ],
       "sold": 6014,
-      "stock": 31,
+      "stock": 28,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5983,6 +5968,28 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV178632569558845",
+          "items": [
+            {
+              "email": "BeulaDauterive0099@outlook.com",
+              "password": "cxrzqa61022",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "BurdetteBangel08166@outlook.com",
+              "password": "zdpau14411",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "ArmsteadOliveria78360@outlook.com",
+              "password": "egcemr456677",
+              "addedAt": 1786310938498
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-08-10T01:34:55.588Z"
         }
       ],
       "bulk_active": true,
