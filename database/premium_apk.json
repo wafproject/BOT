@@ -5603,131 +5603,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "HamzaCarville8121@outlook.com",
-          "password": "obywon52186",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "LuraBattee04408@outlook.com",
-          "password": "yrjkas47878",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "JuanPuma370271@outlook.com",
-          "password": "ngrnjb600382",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "JamarionYarosz0149@outlook.com",
-          "password": "ggpaby477540",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "SergioBlazier85033@outlook.com",
-          "password": "kkalw39669",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "YadiraRakes210170@outlook.com",
-          "password": "ihgcvl29709",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "ValentineClesi50055@outlook.com",
-          "password": "ietso071417",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "KathyrnAsaad21752@outlook.com",
-          "password": "hhnha837399",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "DawnaDrazin86721@outlook.com",
-          "password": "ipihw239748",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "LaurettaGorges4789@outlook.com",
-          "password": "zmpyvc80961",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "TessieEstlund25713@outlook.com",
-          "password": "gfxzz572551",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "MaebelleRosemark4454@outlook.com",
-          "password": "prjyj13920",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "BurtFutch011454@outlook.com",
-          "password": "jvtvh732716",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "NanciSantavicca062903@outlook.com",
-          "password": "elxqpn615753",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "DenzellHergenreder1830@outlook.com",
-          "password": "itxif629719",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "LawandaNelmark9568@outlook.com",
-          "password": "ikxlj56177",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "KordellKotick27765@outlook.com",
-          "password": "wmjnht096275",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "GarnerLiddick9723@outlook.com",
-          "password": "qjcaiy634464",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "EstelaJeannette315353@outlook.com",
-          "password": "ehmotk652214",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "RoeMassanet2342@outlook.com",
-          "password": "jrriw22182",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "CrissyGordish9202@outlook.com",
-          "password": "vqcmrn10292",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "ElmoreBi18828@outlook.com",
-          "password": "nzhayt03066",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "HughesMito1893@outlook.com",
-          "password": "tcjkcd27343",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "RobyZatorski556853@outlook.com",
-          "password": "knwzsw349914",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "OlinKal847114@outlook.com",
-          "password": "vcyzu351200",
-          "addedAt": 1786310938498
-        },
-        {
           "email": "ArvoWandling27456@outlook.com",
           "password": "loolmo43100",
           "addedAt": 1786310938498
@@ -5889,7 +5764,7 @@
         }
       ],
       "sold": 5988,
-      "stock": 57,
+      "stock": 32,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6113,6 +5988,138 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1786323992118800",
+          "items": [
+            {
+              "email": "HamzaCarville8121@outlook.com",
+              "password": "obywon52186",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "LuraBattee04408@outlook.com",
+              "password": "yrjkas47878",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "JuanPuma370271@outlook.com",
+              "password": "ngrnjb600382",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "JamarionYarosz0149@outlook.com",
+              "password": "ggpaby477540",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "SergioBlazier85033@outlook.com",
+              "password": "kkalw39669",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "YadiraRakes210170@outlook.com",
+              "password": "ihgcvl29709",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "ValentineClesi50055@outlook.com",
+              "password": "ietso071417",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "KathyrnAsaad21752@outlook.com",
+              "password": "hhnha837399",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "DawnaDrazin86721@outlook.com",
+              "password": "ipihw239748",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "LaurettaGorges4789@outlook.com",
+              "password": "zmpyvc80961",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "TessieEstlund25713@outlook.com",
+              "password": "gfxzz572551",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "MaebelleRosemark4454@outlook.com",
+              "password": "prjyj13920",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "BurtFutch011454@outlook.com",
+              "password": "jvtvh732716",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "NanciSantavicca062903@outlook.com",
+              "password": "elxqpn615753",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "DenzellHergenreder1830@outlook.com",
+              "password": "itxif629719",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "LawandaNelmark9568@outlook.com",
+              "password": "ikxlj56177",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "KordellKotick27765@outlook.com",
+              "password": "wmjnht096275",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "GarnerLiddick9723@outlook.com",
+              "password": "qjcaiy634464",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "EstelaJeannette315353@outlook.com",
+              "password": "ehmotk652214",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "RoeMassanet2342@outlook.com",
+              "password": "jrriw22182",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "CrissyGordish9202@outlook.com",
+              "password": "vqcmrn10292",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "ElmoreBi18828@outlook.com",
+              "password": "nzhayt03066",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "HughesMito1893@outlook.com",
+              "password": "tcjkcd27343",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "RobyZatorski556853@outlook.com",
+              "password": "knwzsw349914",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "OlinKal847114@outlook.com",
+              "password": "vcyzu351200",
+              "addedAt": 1786310938498
+            }
+          ],
+          "qty": 25,
+          "createdAt": "2026-08-10T01:06:32.118Z"
         }
       ],
       "bulk_active": true,
