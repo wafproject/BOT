@@ -5758,7 +5758,7 @@
           "addedAt": 1786310938498
         }
       ],
-      "sold": 6013,
+      "sold": 6014,
       "stock": 31,
       "reserved": [
         {
@@ -5983,18 +5983,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178632413506812",
-          "items": [
-            {
-              "email": "ArvoWandling27456@outlook.com",
-              "password": "loolmo43100",
-              "addedAt": 1786310938498
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-10T01:08:55.068Z"
         }
       ],
       "bulk_active": true,
