@@ -4,7 +4,8 @@
       "name": "canva pro"
     },
     {
-      "name": "ai chatgpt"
+      "name": "ai chatgpt",
+      "is_active": false
     },
     {
       "name": "capcut pro"
