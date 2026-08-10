@@ -34,7 +34,8 @@
       "name": "Vision+"
     },
     {
-      "name": "vidio platinum"
+      "name": "vidio platinum",
+      "is_active": false
     },
     {
       "name": "ai grok",
