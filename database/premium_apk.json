@@ -37,7 +37,8 @@
       "name": "vidio platinum"
     },
     {
-      "name": "ai grok"
+      "name": "ai grok",
+      "is_active": false
     },
     {
       "name": "Getcontact"
