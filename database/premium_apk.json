@@ -31,7 +31,8 @@
       "name": "Youtube"
     },
     {
-      "name": "Vision+"
+      "name": "Vision+",
+      "is_active": false
     },
     {
       "name": "vidio platinum",
