@@ -5576,56 +5576,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "LoganCerbone004185@outlook.com",
-          "password": "udrppl90546",
-          "addedAt": 1786400971854
-        },
-        {
-          "email": "BrendaZawadski085185@outlook.com",
-          "password": "pisfu283722",
-          "addedAt": 1786400971854
-        },
-        {
-          "email": "WilbertVancise39857@outlook.com",
-          "password": "uivee99942",
-          "addedAt": 1786400971854
-        },
-        {
-          "email": "LindyHuelsbeck210428@outlook.com",
-          "password": "tlnhl40690",
-          "addedAt": 1786400971854
-        },
-        {
-          "email": "ShonaZeamer61010@outlook.com",
-          "password": "uctqu34203",
-          "addedAt": 1786400971854
-        },
-        {
-          "email": "EsleyJefferies24868@outlook.com",
-          "password": "dlard148407",
-          "addedAt": 1786400971854
-        },
-        {
-          "email": "TitoMeskin86424@outlook.com",
-          "password": "dbclm323999",
-          "addedAt": 1786400971854
-        },
-        {
-          "email": "KeiraHamada36079@outlook.com",
-          "password": "nradzz78335",
-          "addedAt": 1786400971854
-        },
-        {
-          "email": "PamFloreslopez962914@outlook.com",
-          "password": "ljfbab50570",
-          "addedAt": 1786400971854
-        },
-        {
-          "email": "BrionnaLanton08140@outlook.com",
-          "password": "xajetp160437",
-          "addedAt": 1786400971854
-        },
-        {
           "email": "NorettaBleyl17962@outlook.com",
           "password": "lxjpaq00141",
           "addedAt": 1786400971854
@@ -5707,7 +5657,7 @@
         }
       ],
       "sold": 6045,
-      "stock": 26,
+      "stock": 16,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5931,6 +5881,63 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1786405214032302",
+          "items": [
+            {
+              "email": "LoganCerbone004185@outlook.com",
+              "password": "udrppl90546",
+              "addedAt": 1786400971854
+            },
+            {
+              "email": "BrendaZawadski085185@outlook.com",
+              "password": "pisfu283722",
+              "addedAt": 1786400971854
+            },
+            {
+              "email": "WilbertVancise39857@outlook.com",
+              "password": "uivee99942",
+              "addedAt": 1786400971854
+            },
+            {
+              "email": "LindyHuelsbeck210428@outlook.com",
+              "password": "tlnhl40690",
+              "addedAt": 1786400971854
+            },
+            {
+              "email": "ShonaZeamer61010@outlook.com",
+              "password": "uctqu34203",
+              "addedAt": 1786400971854
+            },
+            {
+              "email": "EsleyJefferies24868@outlook.com",
+              "password": "dlard148407",
+              "addedAt": 1786400971854
+            },
+            {
+              "email": "TitoMeskin86424@outlook.com",
+              "password": "dbclm323999",
+              "addedAt": 1786400971854
+            },
+            {
+              "email": "KeiraHamada36079@outlook.com",
+              "password": "nradzz78335",
+              "addedAt": 1786400971854
+            },
+            {
+              "email": "PamFloreslopez962914@outlook.com",
+              "password": "ljfbab50570",
+              "addedAt": 1786400971854
+            },
+            {
+              "email": "BrionnaLanton08140@outlook.com",
+              "password": "xajetp160437",
+              "addedAt": 1786400971854
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-08-10T23:40:14.032Z"
         }
       ],
       "bulk_active": true,
