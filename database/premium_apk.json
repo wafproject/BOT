@@ -5658,7 +5658,7 @@
           "addedAt": 1786310938498
         }
       ],
-      "sold": 6031,
+      "sold": 6032,
       "stock": 13,
       "reserved": [
         {
@@ -5883,18 +5883,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786331321892957",
-          "items": [
-            {
-              "email": "MarinNickerson6778@outlook.com",
-              "password": "eyojt90587",
-              "addedAt": 1786310938498
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-10T03:08:41.892Z"
         }
       ],
       "bulk_active": true,
