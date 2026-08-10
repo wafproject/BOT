@@ -25,7 +25,8 @@
       "name": "viu"
     },
     {
-      "name": "spotify premium"
+      "name": "spotify premium",
+      "is_active": false
     },
     {
       "name": "Youtube"
