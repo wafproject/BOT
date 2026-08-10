@@ -6061,16 +6061,23 @@
       ],
       "descShort": "No Garansi",
       "snk": "* No garansi.\n• Wajib pakai VPN Vietnam. Jika tidak, tidak akan bisa nonton. Bebas mau pakai VPN apa saja.\n• Akun kamu pegang = tanggung jawab kamu.\n• Jangan pencet tombol Cancel Membership.\n• Akses: mailkita.my.id\n• Silakan change email + password.",
-      "items": [
-        {
-          "email": "hacjum@asikinaja.my.id",
-          "password": "Masuk123",
-          "addedAt": 1786314680956
-        }
-      ],
+      "items": [],
       "sold": 151,
-      "stock": 1,
-      "reserved": []
+      "stock": 0,
+      "reserved": [
+        {
+          "id": "RSV1786333972328586",
+          "items": [
+            {
+              "email": "hacjum@asikinaja.my.id",
+              "password": "Masuk123",
+              "addedAt": 1786314680956
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-10T03:52:52.328Z"
+        }
+      ]
     },
     {
       "code": "WINK",
