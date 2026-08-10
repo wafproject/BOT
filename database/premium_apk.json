@@ -5888,7 +5888,7 @@
           "addedAt": 1786310938498
         }
       ],
-      "sold": 5987,
+      "sold": 5988,
       "stock": 57,
       "reserved": [
         {
@@ -6113,18 +6113,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786323506746316",
-          "items": [
-            {
-              "email": "HarryRinier54013@outlook.com",
-              "password": "gmdmmj139226",
-              "addedAt": 1786310938498
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-10T00:58:26.746Z"
         }
       ],
       "bulk_active": true,
