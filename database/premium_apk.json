@@ -5738,7 +5738,7 @@
           "addedAt": 1786310938498
         }
       ],
-      "sold": 6017,
+      "sold": 6018,
       "stock": 27,
       "reserved": [
         {
@@ -5963,18 +5963,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786327463870143",
-          "items": [
-            {
-              "email": "DelliaPurpora65008@outlook.com",
-              "password": "ldundr10948",
-              "addedAt": 1786310938498
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-10T02:04:23.870Z"
         }
       ],
       "bulk_active": true,
