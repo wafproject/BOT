@@ -10,7 +10,8 @@
       "name": "capcut pro"
     },
     {
-      "name": "apple music"
+      "name": "apple music",
+      "is_active": false
     },
     {
       "name": "scribd"
