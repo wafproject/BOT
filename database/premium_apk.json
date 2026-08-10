@@ -5586,65 +5586,9 @@
       "price": 3500,
       "descShort": "Full Garansi",
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
-      "items": [
-        {
-          "email": "SavanaMiron50993@outlook.com",
-          "password": "psobbk114552",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "OdinLanglitz630758@outlook.com",
-          "password": "kabfsr27455",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "CubaDegrand888183@outlook.com",
-          "password": "swagh886029",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "DomenicoKunishige5203@outlook.com",
-          "password": "voznhj61143",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "SunnyIngs466385@outlook.com",
-          "password": "awjex79558",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "VillaKovachevich317141@outlook.com",
-          "password": "ozpgjf72595",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "LilahOlaleye16197@outlook.com",
-          "password": "xuechd60118",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "CletaMenchey2999@outlook.com",
-          "password": "frskn827859",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "RodericHundertmark46981@outlook.com",
-          "password": "pliohe559296",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "LakeishaLuckett6359@outlook.com",
-          "password": "hhdtx905239",
-          "addedAt": 1786310938498
-        },
-        {
-          "email": "BrunoBandfield39062@outlook.com",
-          "password": "crqhgs72319",
-          "addedAt": 1786310938498
-        }
-      ],
+      "items": [],
       "sold": 6034,
-      "stock": 11,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5868,6 +5812,68 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1786336162587264",
+          "items": [
+            {
+              "email": "SavanaMiron50993@outlook.com",
+              "password": "psobbk114552",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "OdinLanglitz630758@outlook.com",
+              "password": "kabfsr27455",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "CubaDegrand888183@outlook.com",
+              "password": "swagh886029",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "DomenicoKunishige5203@outlook.com",
+              "password": "voznhj61143",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "SunnyIngs466385@outlook.com",
+              "password": "awjex79558",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "VillaKovachevich317141@outlook.com",
+              "password": "ozpgjf72595",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "LilahOlaleye16197@outlook.com",
+              "password": "xuechd60118",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "CletaMenchey2999@outlook.com",
+              "password": "frskn827859",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "RodericHundertmark46981@outlook.com",
+              "password": "pliohe559296",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "LakeishaLuckett6359@outlook.com",
+              "password": "hhdtx905239",
+              "addedAt": 1786310938498
+            },
+            {
+              "email": "BrunoBandfield39062@outlook.com",
+              "password": "crqhgs72319",
+              "addedAt": 1786310938498
+            }
+          ],
+          "qty": 11,
+          "createdAt": "2026-08-10T04:29:22.587Z"
         }
       ],
       "bulk_active": true,
