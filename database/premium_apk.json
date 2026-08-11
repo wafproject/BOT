@@ -5651,7 +5651,7 @@
           "addedAt": 1786400971854
         }
       ],
-      "sold": 6055,
+      "sold": 6056,
       "stock": 15,
       "reserved": [
         {
@@ -5876,18 +5876,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786416281453892",
-          "items": [
-            {
-              "email": "NorettaBleyl17962@outlook.com",
-              "password": "lxjpaq00141",
-              "addedAt": 1786400971854
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-11T02:44:41.453Z"
         }
       ],
       "bulk_active": true,
