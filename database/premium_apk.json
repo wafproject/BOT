@@ -5641,7 +5641,7 @@
           "addedAt": 1786400971854
         }
       ],
-      "sold": 6057,
+      "sold": 6058,
       "stock": 13,
       "reserved": [
         {
@@ -5866,18 +5866,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786420629186407",
-          "items": [
-            {
-              "email": "HazenJordison000966@outlook.com",
-              "password": "pcvyar596868",
-              "addedAt": 1786400971854
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-11T03:57:09.186Z"
         }
       ],
       "bulk_active": true,
