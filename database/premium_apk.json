@@ -5773,7 +5773,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6079,
+      "sold": 6080,
       "stock": 41,
       "reserved": [
         {
@@ -5998,18 +5998,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786498419554509",
-          "items": [
-            {
-              "email": "FredericPadelford87388@hotmail.com",
-              "password": "dzzdb10320",
-              "addedAt": 1786489661374
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T01:33:39.554Z"
         }
       ],
       "bulk_active": true,
