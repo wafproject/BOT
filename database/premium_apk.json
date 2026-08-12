@@ -5700,7 +5700,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6092,
+      "sold": 6093,
       "stock": 28,
       "reserved": [
         {
@@ -5925,18 +5925,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786529269192262",
-          "items": [
-            {
-              "email": "DemetriaCand99365@hotmail.com",
-              "password": "tvswoz68457",
-              "addedAt": 1786489661375
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T10:07:49.192Z"
         }
       ],
       "bulk_active": true,
