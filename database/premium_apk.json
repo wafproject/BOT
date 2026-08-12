@@ -5758,7 +5758,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6082,
+      "sold": 6083,
       "stock": 38,
       "reserved": [
         {
@@ -5983,18 +5983,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786507765922903",
-          "items": [
-            {
-              "email": "TanikaAltstadt1526@hotmail.com",
-              "password": "bezmnn91885",
-              "addedAt": 1786489661374
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T04:09:25.922Z"
         }
       ],
       "bulk_active": true,
