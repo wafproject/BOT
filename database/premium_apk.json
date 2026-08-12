@@ -5600,7 +5600,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6112,
+      "sold": 6113,
       "stock": 8,
       "reserved": [
         {
@@ -5825,18 +5825,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786545521836349",
-          "items": [
-            {
-              "email": "BurdetteStachler62706@hotmail.com",
-              "password": "qplnei08200",
-              "addedAt": 1786489661375
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T14:38:41.836Z"
         }
       ],
       "bulk_active": true,
