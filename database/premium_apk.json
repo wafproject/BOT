@@ -5573,15 +5573,10 @@
           "email": "EarleHelaire56754@hotmail.com",
           "password": "vvivhb28038",
           "addedAt": 1786489661375
-        },
-        {
-          "email": "ChristieKluth30195@hotmail.com",
-          "password": "qpgle01394",
-          "addedAt": 1786489661375
         }
       ],
       "sold": 6114,
-      "stock": 4,
+      "stock": 3,
       "reserved": [
         {
           "id": "RSV1780362536090628",
