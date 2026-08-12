@@ -5583,15 +5583,10 @@
           "email": "RetaHoffenkamp21027@hotmail.com",
           "password": "pjiik08362",
           "addedAt": 1786489661375
-        },
-        {
-          "email": "ClementinaNajib26717@hotmail.com",
-          "password": "eyxvdn550558",
-          "addedAt": 1786489661375
         }
       ],
       "sold": 6114,
-      "stock": 6,
+      "stock": 5,
       "reserved": [
         {
           "id": "RSV1780362536090628",
