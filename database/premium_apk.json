@@ -5595,7 +5595,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6113,
+      "sold": 6114,
       "stock": 7,
       "reserved": [
         {
@@ -5820,18 +5820,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786549110644202",
-          "items": [
-            {
-              "email": "AmirahGuardiani2887@hotmail.com",
-              "password": "qwoxpy357551",
-              "addedAt": 1786489661375
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T15:38:30.644Z"
         }
       ],
       "bulk_active": true,
