@@ -5588,15 +5588,10 @@
           "email": "ClementinaNajib26717@hotmail.com",
           "password": "eyxvdn550558",
           "addedAt": 1786489661375
-        },
-        {
-          "email": "DiamondMuscente668609@hotmail.com",
-          "password": "sgora860689",
-          "addedAt": 1786489661375
         }
       ],
       "sold": 6114,
-      "stock": 7,
+      "stock": 6,
       "reserved": [
         {
           "id": "RSV1780362536090628",
