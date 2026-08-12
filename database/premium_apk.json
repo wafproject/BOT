@@ -5620,7 +5620,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6103,
+      "sold": 6104,
       "stock": 12,
       "reserved": [
         {
@@ -5845,18 +5845,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786534459368126",
-          "items": [
-            {
-              "email": "DurwoodHusseini64297@hotmail.com",
-              "password": "xwlrmd22722",
-              "addedAt": 1786489661375
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T11:34:19.368Z"
         },
         {
           "id": "RSV1786534476240755",
