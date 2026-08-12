@@ -5568,15 +5568,10 @@
           "email": "ArthorHoverter7287@hotmail.com",
           "password": "glzst971170",
           "addedAt": 1786489661375
-        },
-        {
-          "email": "EarleHelaire56754@hotmail.com",
-          "password": "vvivhb28038",
-          "addedAt": 1786489661375
         }
       ],
       "sold": 6114,
-      "stock": 3,
+      "stock": 2,
       "reserved": [
         {
           "id": "RSV1780362536090628",
