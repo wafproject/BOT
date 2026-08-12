@@ -5560,31 +5560,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "OctavieKowalsky3717@hotmail.com",
-          "password": "jivfdg72922",
-          "addedAt": 1786489661375
-        },
-        {
-          "email": "PriscillaSchaer87487@hotmail.com",
-          "password": "svwvsn825849",
-          "addedAt": 1786489661375
-        },
-        {
-          "email": "CliffieMinnes100219@hotmail.com",
-          "password": "austi490686",
-          "addedAt": 1786489661375
-        },
-        {
-          "email": "ZavierSpink536155@hotmail.com",
-          "password": "pknfvo04246",
-          "addedAt": 1786489661375
-        },
-        {
-          "email": "ArnulfoKutney7114@hotmail.com",
-          "password": "hpeyp568912",
-          "addedAt": 1786489661375
-        },
-        {
           "email": "TheodosiaDelie471029@hotmail.com",
           "password": "echyj279342",
           "addedAt": 1786489661375
@@ -5736,7 +5711,7 @@
         }
       ],
       "sold": 6086,
-      "stock": 35,
+      "stock": 30,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5960,6 +5935,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1786527297342824",
+          "items": [
+            {
+              "email": "OctavieKowalsky3717@hotmail.com",
+              "password": "jivfdg72922",
+              "addedAt": 1786489661375
+            },
+            {
+              "email": "PriscillaSchaer87487@hotmail.com",
+              "password": "svwvsn825849",
+              "addedAt": 1786489661375
+            },
+            {
+              "email": "CliffieMinnes100219@hotmail.com",
+              "password": "austi490686",
+              "addedAt": 1786489661375
+            },
+            {
+              "email": "ZavierSpink536155@hotmail.com",
+              "password": "pknfvo04246",
+              "addedAt": 1786489661375
+            },
+            {
+              "email": "ArnulfoKutney7114@hotmail.com",
+              "password": "hpeyp568912",
+              "addedAt": 1786489661375
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-08-12T09:34:57.343Z"
         }
       ],
       "bulk_active": true,
