@@ -5605,7 +5605,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6111,
+      "sold": 6112,
       "stock": 9,
       "reserved": [
         {
@@ -5830,18 +5830,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786539565463605",
-          "items": [
-            {
-              "email": "JayvonPurisima06359@hotmail.com",
-              "password": "gosbgv606657",
-              "addedAt": 1786489661375
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T12:59:25.463Z"
         }
       ],
       "bulk_active": true,
