@@ -5705,7 +5705,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6091,
+      "sold": 6092,
       "stock": 29,
       "reserved": [
         {
@@ -5930,18 +5930,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786528867428693",
-          "items": [
-            {
-              "email": "TheodosiaDelie471029@hotmail.com",
-              "password": "echyj279342",
-              "addedAt": 1786489661375
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T10:01:07.429Z"
         }
       ],
       "bulk_active": true,
