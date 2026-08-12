@@ -5560,31 +5560,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "GertieRomanski391195@hotmail.com",
-          "password": "xvdumm898159",
-          "addedAt": 1786489661375
-        },
-        {
-          "email": "PhilipBerdichevsky24398@hotmail.com",
-          "password": "hjqof17058",
-          "addedAt": 1786489661375
-        },
-        {
-          "email": "EmelyIlliano532358@hotmail.com",
-          "password": "oijiw689018",
-          "addedAt": 1786489661375
-        },
-        {
-          "email": "MarnieInderrieden03255@hotmail.com",
-          "password": "fmgpqq039246",
-          "addedAt": 1786489661375
-        },
-        {
-          "email": "BarbieRiewerts02015@hotmail.com",
-          "password": "tdfxq43038",
-          "addedAt": 1786489661375
-        },
-        {
           "email": "ShayleeWernle0217@hotmail.com",
           "password": "kducbd268459",
           "addedAt": 1786489661375
@@ -5701,7 +5676,7 @@
         }
       ],
       "sold": 6093,
-      "stock": 28,
+      "stock": 23,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5925,6 +5900,38 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1786529451575236",
+          "items": [
+            {
+              "email": "GertieRomanski391195@hotmail.com",
+              "password": "xvdumm898159",
+              "addedAt": 1786489661375
+            },
+            {
+              "email": "PhilipBerdichevsky24398@hotmail.com",
+              "password": "hjqof17058",
+              "addedAt": 1786489661375
+            },
+            {
+              "email": "EmelyIlliano532358@hotmail.com",
+              "password": "oijiw689018",
+              "addedAt": 1786489661375
+            },
+            {
+              "email": "MarnieInderrieden03255@hotmail.com",
+              "password": "fmgpqq039246",
+              "addedAt": 1786489661375
+            },
+            {
+              "email": "BarbieRiewerts02015@hotmail.com",
+              "password": "tdfxq43038",
+              "addedAt": 1786489661375
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-08-12T10:10:51.576Z"
         }
       ],
       "bulk_active": true,
