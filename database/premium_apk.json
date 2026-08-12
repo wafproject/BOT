@@ -5563,15 +5563,10 @@
           "email": "AgnesOestmann030716@hotmail.com",
           "password": "yonls741845",
           "addedAt": 1786489661375
-        },
-        {
-          "email": "ArthorHoverter7287@hotmail.com",
-          "password": "glzst971170",
-          "addedAt": 1786489661375
         }
       ],
       "sold": 6114,
-      "stock": 2,
+      "stock": 1,
       "reserved": [
         {
           "id": "RSV1780362536090628",
