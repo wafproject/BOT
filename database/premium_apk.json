@@ -5763,7 +5763,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6081,
+      "sold": 6082,
       "stock": 39,
       "reserved": [
         {
@@ -5988,18 +5988,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786506646463504",
-          "items": [
-            {
-              "email": "ValeryUrbansky343852@hotmail.com",
-              "password": "gsirr47694",
-              "addedAt": 1786489661374
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T03:50:46.463Z"
         }
       ],
       "bulk_active": true,
