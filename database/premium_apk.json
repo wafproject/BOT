@@ -5650,7 +5650,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6102,
+      "sold": 6103,
       "stock": 18,
       "reserved": [
         {
@@ -5875,18 +5875,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786532483703939",
-          "items": [
-            {
-              "email": "NovellaEbersole67199@hotmail.com",
-              "password": "xdjzjt90614",
-              "addedAt": 1786489661375
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T11:01:23.703Z"
         }
       ],
       "bulk_active": true,
