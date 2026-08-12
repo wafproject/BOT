@@ -5753,7 +5753,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6083,
+      "sold": 6084,
       "stock": 37,
       "reserved": [
         {
@@ -5978,18 +5978,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786517372846975",
-          "items": [
-            {
-              "email": "ElbaKrontz37523@hotmail.com",
-              "password": "qisnm547514",
-              "addedAt": 1786489661374
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T06:49:32.846Z"
         }
       ],
       "bulk_active": true,
