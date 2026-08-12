@@ -5655,7 +5655,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6101,
+      "sold": 6102,
       "stock": 19,
       "reserved": [
         {
@@ -5880,18 +5880,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178653219039934",
-          "items": [
-            {
-              "email": "DimpleBoorse70019@hotmail.com",
-              "password": "zwtqx241495",
-              "addedAt": 1786489661375
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T10:56:30.399Z"
         }
       ],
       "bulk_active": true,
