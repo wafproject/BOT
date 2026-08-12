@@ -5610,7 +5610,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6110,
+      "sold": 6111,
       "stock": 10,
       "reserved": [
         {
@@ -5835,18 +5835,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786536076627738",
-          "items": [
-            {
-              "email": "TristonStratmann70927@hotmail.com",
-              "password": "cxzrfc539409",
-              "addedAt": 1786489661375
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T12:01:16.627Z"
         }
       ],
       "bulk_active": true,
