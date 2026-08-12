@@ -5578,15 +5578,10 @@
           "email": "ChristieKluth30195@hotmail.com",
           "password": "qpgle01394",
           "addedAt": 1786489661375
-        },
-        {
-          "email": "RetaHoffenkamp21027@hotmail.com",
-          "password": "pjiik08362",
-          "addedAt": 1786489661375
         }
       ],
       "sold": 6114,
-      "stock": 5,
+      "stock": 4,
       "reserved": [
         {
           "id": "RSV1780362536090628",
