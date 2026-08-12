@@ -5768,7 +5768,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6080,
+      "sold": 6081,
       "stock": 40,
       "reserved": [
         {
@@ -5993,18 +5993,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786504295515374",
-          "items": [
-            {
-              "email": "AlexisMawer239679@hotmail.com",
-              "password": "pginl102735",
-              "addedAt": 1786489661374
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T03:11:35.515Z"
         }
       ],
       "bulk_active": true,
