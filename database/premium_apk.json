@@ -5739,7 +5739,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6085,
+      "sold": 6086,
       "stock": 35,
       "reserved": [
         {
@@ -5964,18 +5964,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786524188882952",
-          "items": [
-            {
-              "email": "ChantalGuinup14320@hotmail.com",
-              "password": "ocohf17144",
-              "addedAt": 1786489661375
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T08:43:08.882Z"
         }
       ],
       "bulk_active": true,
