@@ -5615,7 +5615,7 @@
           "addedAt": 1786489661375
         }
       ],
-      "sold": 6109,
+      "sold": 6110,
       "stock": 11,
       "reserved": [
         {
@@ -5840,18 +5840,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178653574093669",
-          "items": [
-            {
-              "email": "ChristopherForby648534@hotmail.com",
-              "password": "vibmhn050412",
-              "addedAt": 1786489661375
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-12T11:55:40.936Z"
         }
       ],
       "bulk_active": true,
