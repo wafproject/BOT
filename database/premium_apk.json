@@ -5672,7 +5672,7 @@
           "addedAt": 1786571560391
         }
       ],
-      "sold": 6117,
+      "sold": 6118,
       "stock": 24,
       "reserved": [
         {
@@ -5897,18 +5897,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786602641001437",
-          "items": [
-            {
-              "email": "ChristieKluth30195@hotmail.com",
-              "password": "qpgle01394",
-              "addedAt": 1786571556662
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-13T06:30:41.001Z"
         }
       ],
       "bulk_active": true,
