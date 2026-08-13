@@ -5636,7 +5636,7 @@
           "addedAt": 1786571560391
         }
       ],
-      "sold": 6126,
+      "sold": 6127,
       "stock": 15,
       "reserved": [
         {
@@ -5861,18 +5861,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786621051231978",
-          "items": [
-            {
-              "email": "JerricaBielawski86404@hotmail.com",
-              "password": "lpkktd52031",
-              "addedAt": 1786571560391
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-13T11:37:31.231Z"
         }
       ],
       "bulk_active": true,
