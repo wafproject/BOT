@@ -338,14 +338,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "jaymas@duyquyen.site|https://generator.email/jaymas@duyquyen.site",
-          "addedAt": 1783266949580
-        },
-        {
-          "email": "dimontkash@sendokai.click|https://generator.email/dimontkash@sendokai.click",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "corpeye@powerdea.me|https://generator.email/corpeye@powerdea.me",
           "addedAt": 1783266949580
         },
@@ -4406,8 +4398,8 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1017,
-      "sold": 895,
+      "stock": 1015,
+      "sold": 897,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
