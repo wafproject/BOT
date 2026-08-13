@@ -189,21 +189,8 @@
         }
       ],
       "stock": 3,
-      "sold": 401,
-      "reserved": [
-        {
-          "id": "RSV1786630756563791",
-          "items": [
-            {
-              "email": "GlennisJohannessen3689@hotmail.com",
-              "password": "ezwfys066282",
-              "addedAt": 1786609331041
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-13T14:19:16.563Z"
-        }
-      ],
+      "sold": 402,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
