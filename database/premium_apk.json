@@ -5695,7 +5695,7 @@
           "addedAt": 1786571560391
         }
       ],
-      "sold": 6114,
+      "sold": 6115,
       "stock": 27,
       "reserved": [
         {
@@ -5920,18 +5920,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786584829753460",
-          "items": [
-            {
-              "email": "AgnesOestmann030716@hotmail.com",
-              "password": "yonls741845",
-              "addedAt": 1786571556662
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-13T01:33:49.753Z"
         }
       ],
       "bulk_active": false,
