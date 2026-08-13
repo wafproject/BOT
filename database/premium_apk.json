@@ -5617,7 +5617,7 @@
           "addedAt": 1786571560391
         }
       ],
-      "sold": 6128,
+      "sold": 6130,
       "stock": 12,
       "reserved": [
         {
@@ -5842,23 +5842,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786624318588839",
-          "items": [
-            {
-              "email": "BenedictArslan0778@hotmail.com",
-              "password": "islgt09559",
-              "addedAt": 1786571560391
-            },
-            {
-              "email": "EligahGarelick717335@hotmail.com",
-              "password": "isprra762285",
-              "addedAt": 1786571560391
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-08-13T12:31:58.588Z"
         }
       ],
       "bulk_active": true,
