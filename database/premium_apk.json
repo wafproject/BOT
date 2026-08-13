@@ -5597,7 +5597,7 @@
           "addedAt": 1786571560391
         }
       ],
-      "sold": 6132,
+      "sold": 6133,
       "stock": 9,
       "reserved": [
         {
@@ -5822,18 +5822,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786637116547625",
-          "items": [
-            {
-              "email": "EvertMilliron6760@hotmail.com",
-              "password": "nvfaq06398",
-              "addedAt": 1786571560391
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-13T16:05:16.547Z"
         }
       ],
       "bulk_active": true,
