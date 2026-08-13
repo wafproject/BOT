@@ -5607,7 +5607,7 @@
           "addedAt": 1786571560391
         }
       ],
-      "sold": 6130,
+      "sold": 6131,
       "stock": 11,
       "reserved": [
         {
@@ -5832,18 +5832,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786632795700500",
-          "items": [
-            {
-              "email": "JoyceFeltz8217@hotmail.com",
-              "password": "footf396693",
-              "addedAt": 1786571560391
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-13T14:53:15.700Z"
         }
       ],
       "bulk_active": true,
