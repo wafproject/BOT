@@ -5653,7 +5653,7 @@
           "addedAt": 1786571560391
         }
       ],
-      "sold": 6125,
+      "sold": 6126,
       "stock": 16,
       "reserved": [
         {
@@ -5878,18 +5878,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786611776752403",
-          "items": [
-            {
-              "email": "NevaehRabalais3664@hotmail.com",
-              "password": "queqqb40324",
-              "addedAt": 1786571560391
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-13T09:02:56.752Z"
         }
       ],
       "bulk_active": true,
