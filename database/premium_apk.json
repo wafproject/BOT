@@ -5686,7 +5686,7 @@
           "addedAt": 1786571560391
         }
       ],
-      "sold": 6115,
+      "sold": 6116,
       "stock": 26,
       "reserved": [
         {
@@ -5911,18 +5911,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786597621606322",
-          "items": [
-            {
-              "email": "ArthorHoverter7287@hotmail.com",
-              "password": "glzst971170",
-              "addedAt": 1786571556662
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-13T05:07:01.606Z"
         }
       ],
       "bulk_active": false,
