@@ -5677,7 +5677,7 @@
           "addedAt": 1786571560391
         }
       ],
-      "sold": 6116,
+      "sold": 6117,
       "stock": 25,
       "reserved": [
         {
@@ -5902,18 +5902,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786601891120523",
-          "items": [
-            {
-              "email": "EarleHelaire56754@hotmail.com",
-              "password": "vvivhb28038",
-              "addedAt": 1786571556662
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-13T06:18:11.120Z"
         }
       ],
       "bulk_active": true,
