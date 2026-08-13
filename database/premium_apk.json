@@ -5602,7 +5602,7 @@
           "addedAt": 1786571560391
         }
       ],
-      "sold": 6131,
+      "sold": 6132,
       "stock": 10,
       "reserved": [
         {
@@ -5827,18 +5827,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786633726389675",
-          "items": [
-            {
-              "email": "JaedaButtimer26394@hotmail.com",
-              "password": "dppzw870616",
-              "addedAt": 1786571560391
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-13T15:08:46.389Z"
         }
       ],
       "bulk_active": true,
