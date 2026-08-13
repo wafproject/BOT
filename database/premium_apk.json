@@ -5642,7 +5642,7 @@
           "addedAt": 1786571560391
         }
       ],
-      "sold": 6123,
+      "sold": 6124,
       "stock": 18,
       "reserved": [
         {
@@ -5867,18 +5867,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV178660474149821",
-          "items": [
-            {
-              "email": "KyleeDepaz78876@hotmail.com",
-              "password": "cnvzlh647379",
-              "addedAt": 1786571560391
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-13T07:05:41.498Z"
         }
       ],
       "bulk_active": true,
