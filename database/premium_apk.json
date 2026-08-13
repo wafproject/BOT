@@ -202,21 +202,8 @@
         }
       ],
       "stock": 4,
-      "sold": 400,
-      "reserved": [
-        {
-          "id": "RSV178660989020934",
-          "items": [
-            {
-              "email": "DjuanaWojak5107@hotmail.com",
-              "password": "tdjvx59403",
-              "addedAt": 1786609331041
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-13T08:31:30.209Z"
-        }
-      ],
+      "sold": 401,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
