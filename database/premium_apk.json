@@ -179,8 +179,34 @@
       "price": 3000,
       "descShort": "Bisa inv 100 member",
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nOutlook: \nhttps://outlook.live.com/mail/\n(masukkan email dan password diatas)\n\nHarap gunakan akun dengan bijak.\n\nTerima kasih atas pembelian Anda 🙏\nJika Anda membutuhkan bantuan, silakan hubungi admin.",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "DjuanaWojak5107@hotmail.com",
+          "password": "tdjvx59403",
+          "addedAt": 1786609331041
+        },
+        {
+          "email": "GlennisJohannessen3689@hotmail.com",
+          "password": "ezwfys066282",
+          "addedAt": 1786609331041
+        },
+        {
+          "email": "LeolaNeustadter1417@hotmail.com",
+          "password": "zcmwo794924",
+          "addedAt": 1786609331041
+        },
+        {
+          "email": "GeorgannaVerdeyen387618@hotmail.com",
+          "password": "fwdfn39476",
+          "addedAt": 1786609331041
+        },
+        {
+          "email": "DestryTwisdale86925@hotmail.com",
+          "password": "fifsnd52277",
+          "addedAt": 1786609331041
+        }
+      ],
+      "stock": 5,
       "sold": 400,
       "reserved": [],
       "bulk_active": false,
