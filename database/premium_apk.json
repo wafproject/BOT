@@ -5585,10 +5585,15 @@
           "email": "qoruba69463@matakaw.web.id",
           "password": "masuk123",
           "addedAt": 1786681912025
+        },
+        {
+          "email": "ziqoxu39331@oxygov.biz.id",
+          "password": "masuk123",
+          "addedAt": 1786682052763
         }
       ],
       "sold": 6142,
-      "stock": 8,
+      "stock": 9,
       "reserved": [
         {
           "id": "RSV1780362536090628",
