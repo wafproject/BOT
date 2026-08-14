@@ -5557,7 +5557,7 @@
           "addedAt": 1786682101858
         }
       ],
-      "sold": 6148,
+      "sold": 6150,
       "stock": 2,
       "reserved": [
         {
@@ -5782,23 +5782,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786682870556461",
-          "items": [
-            {
-              "email": "duhefo9936@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1786681912025
-            },
-            {
-              "email": "qoruba69463@matakaw.web.id",
-              "password": "masuk123",
-              "addedAt": 1786681912025
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-08-14T04:47:50.556Z"
         }
       ],
       "bulk_active": true,
