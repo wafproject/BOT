@@ -5587,7 +5587,7 @@
           "addedAt": 1786571560391
         }
       ],
-      "sold": 6134,
+      "sold": 6135,
       "stock": 7,
       "reserved": [
         {
@@ -5812,18 +5812,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786667387209307",
-          "items": [
-            {
-              "email": "KendallLigori866142@hotmail.com",
-              "password": "hjctg38260",
-              "addedAt": 1786571560391
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-14T00:29:47.209Z"
         }
       ],
       "bulk_active": true,
