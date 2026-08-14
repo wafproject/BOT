@@ -171,21 +171,8 @@
         }
       ],
       "stock": 1,
-      "sold": 403,
-      "reserved": [
-        {
-          "id": "RSV1786709789703639",
-          "items": [
-            {
-              "email": "GeorgannaVerdeyen387618@hotmail.com",
-              "password": "fwdfn39476",
-              "addedAt": 1786609331041
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-14T12:16:29.703Z"
-        }
-      ],
+      "sold": 404,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
