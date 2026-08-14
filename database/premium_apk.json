@@ -5590,10 +5590,15 @@
           "email": "ziqoxu39331@oxygov.biz.id",
           "password": "masuk123",
           "addedAt": 1786682052763
+        },
+        {
+          "email": "notjeu@gsuite.biz.id",
+          "password": "masuk123",
+          "addedAt": 1786682101858
         }
       ],
       "sold": 6142,
-      "stock": 9,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1780362536090628",
