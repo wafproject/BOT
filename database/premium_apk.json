@@ -5550,45 +5550,9 @@
       "price": 3000,
       "descShort": "Full Garansi",
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
-      "items": [
-        {
-          "email": "AlyshaRoof0925@hotmail.com",
-          "password": "wdews707473",
-          "addedAt": 1786571560391
-        },
-        {
-          "email": "LandanFochs3272@hotmail.com",
-          "password": "arhkqy489836",
-          "addedAt": 1786571560391
-        },
-        {
-          "email": "BroderickMarsillett9425@hotmail.com",
-          "password": "vgfqpq45361",
-          "addedAt": 1786571560391
-        },
-        {
-          "email": "BertinaBrenning75548@hotmail.com",
-          "password": "jzbxfh34356",
-          "addedAt": 1786571560391
-        },
-        {
-          "email": "DelmerColeburn46087@hotmail.com",
-          "password": "wfipa65337",
-          "addedAt": 1786571560391
-        },
-        {
-          "email": "GraydonKretsch1009@hotmail.com",
-          "password": "knvsa652085",
-          "addedAt": 1786571560391
-        },
-        {
-          "email": "LaineyDukeman0140@hotmail.com",
-          "password": "jfvao149104",
-          "addedAt": 1786571560391
-        }
-      ],
+      "items": [],
       "sold": 6135,
-      "stock": 7,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5812,6 +5776,48 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1786676393610810",
+          "items": [
+            {
+              "email": "AlyshaRoof0925@hotmail.com",
+              "password": "wdews707473",
+              "addedAt": 1786571560391
+            },
+            {
+              "email": "LandanFochs3272@hotmail.com",
+              "password": "arhkqy489836",
+              "addedAt": 1786571560391
+            },
+            {
+              "email": "BroderickMarsillett9425@hotmail.com",
+              "password": "vgfqpq45361",
+              "addedAt": 1786571560391
+            },
+            {
+              "email": "BertinaBrenning75548@hotmail.com",
+              "password": "jzbxfh34356",
+              "addedAt": 1786571560391
+            },
+            {
+              "email": "DelmerColeburn46087@hotmail.com",
+              "password": "wfipa65337",
+              "addedAt": 1786571560391
+            },
+            {
+              "email": "GraydonKretsch1009@hotmail.com",
+              "password": "knvsa652085",
+              "addedAt": 1786571560391
+            },
+            {
+              "email": "LaineyDukeman0140@hotmail.com",
+              "password": "jfvao149104",
+              "addedAt": 1786571560391
+            }
+          ],
+          "qty": 7,
+          "createdAt": "2026-08-14T02:59:53.610Z"
         }
       ],
       "bulk_active": true,
