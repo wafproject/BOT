@@ -5567,7 +5567,7 @@
           "addedAt": 1786682101858
         }
       ],
-      "sold": 6146,
+      "sold": 6147,
       "stock": 4,
       "reserved": [
         {
@@ -5804,18 +5804,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-14T04:41:39.571Z"
-        },
-        {
-          "id": "RSV1786682507038118",
-          "items": [
-            {
-              "email": "qivake81359@premisxv.web.id",
-              "password": "masuk123",
-              "addedAt": 1786681912025
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-14T04:41:47.038Z"
         }
       ],
       "bulk_active": true,
