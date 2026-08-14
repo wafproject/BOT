@@ -176,21 +176,8 @@
         }
       ],
       "stock": 2,
-      "sold": 402,
-      "reserved": [
-        {
-          "id": "RSV1786694597486905",
-          "items": [
-            {
-              "email": "LeolaNeustadter1417@hotmail.com",
-              "password": "zcmwo794924",
-              "addedAt": 1786609331041
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-14T08:03:17.486Z"
-        }
-      ],
+      "sold": 403,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
