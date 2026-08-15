@@ -5660,7 +5660,7 @@
           "addedAt": 1786744217863
         }
       ],
-      "sold": 6163,
+      "sold": 6171,
       "stock": 27,
       "reserved": [
         {
@@ -5885,53 +5885,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786755710273914",
-          "items": [
-            {
-              "email": "NunzioRaniolo80722@hotmail.com",
-              "password": "ampuro20451",
-              "addedAt": 1786744217863
-            },
-            {
-              "email": "AadenMalarkey33641@hotmail.com",
-              "password": "yvuhxa245957",
-              "addedAt": 1786744217863
-            },
-            {
-              "email": "ElbaBauerschmidt265428@hotmail.com",
-              "password": "qkjad113276",
-              "addedAt": 1786744217863
-            },
-            {
-              "email": "ClaireAlimonti881460@hotmail.com",
-              "password": "oaazy859832",
-              "addedAt": 1786744217863
-            },
-            {
-              "email": "JonathanMacks9763@hotmail.com",
-              "password": "yflql69249",
-              "addedAt": 1786744217863
-            },
-            {
-              "email": "SharlaKlingelhofer8755@hotmail.com",
-              "password": "rcxqln259159",
-              "addedAt": 1786744217863
-            },
-            {
-              "email": "LollaLefler07111@hotmail.com",
-              "password": "natxwf81550",
-              "addedAt": 1786744217863
-            },
-            {
-              "email": "GeovanniOxyer8179@hotmail.com",
-              "password": "psdklo80712",
-              "addedAt": 1786744217863
-            }
-          ],
-          "qty": 8,
-          "createdAt": "2026-08-15T01:01:50.273Z"
         }
       ],
       "bulk_active": true,
