@@ -5525,56 +5525,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "jazaxu75572@xvsexv.web.id",
-          "password": "masuk123",
-          "addedAt": 1786744192393
-        },
-        {
-          "email": "kivosu33492@myrowsx.web.id",
-          "password": "masuk123",
-          "addedAt": 1786744192393
-        },
-        {
-          "email": "zusihu4830@mysexvs.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786744192393
-        },
-        {
-          "email": "hulavo26290@gwprems.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786744192393
-        },
-        {
-          "email": "lopivu9671@brexyv.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786744192393
-        },
-        {
-          "email": "buvuce84736@gxrevsx.web.id",
-          "password": "masuk123",
-          "addedAt": 1786744192393
-        },
-        {
-          "email": "bilali36216@oxygov.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786744192393
-        },
-        {
-          "email": "lebefi81716@gxrevsx.web.id",
-          "password": "masuk123",
-          "addedAt": 1786744192393
-        },
-        {
-          "email": "dihumi4575@gwprems.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786744192393
-        },
-        {
-          "email": "puvrev@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1786744192393
-        },
-        {
           "email": "RomonaAbleman1314@hotmail.com",
           "password": "jdgzw031914",
           "addedAt": 1786744217863
@@ -5756,7 +5706,7 @@
         }
       ],
       "sold": 6152,
-      "stock": 46,
+      "stock": 36,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5980,6 +5930,63 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
+        },
+        {
+          "id": "RSV1786755147730769",
+          "items": [
+            {
+              "email": "jazaxu75572@xvsexv.web.id",
+              "password": "masuk123",
+              "addedAt": 1786744192393
+            },
+            {
+              "email": "kivosu33492@myrowsx.web.id",
+              "password": "masuk123",
+              "addedAt": 1786744192393
+            },
+            {
+              "email": "zusihu4830@mysexvs.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786744192393
+            },
+            {
+              "email": "hulavo26290@gwprems.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786744192393
+            },
+            {
+              "email": "lopivu9671@brexyv.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786744192393
+            },
+            {
+              "email": "buvuce84736@gxrevsx.web.id",
+              "password": "masuk123",
+              "addedAt": 1786744192393
+            },
+            {
+              "email": "bilali36216@oxygov.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786744192393
+            },
+            {
+              "email": "lebefi81716@gxrevsx.web.id",
+              "password": "masuk123",
+              "addedAt": 1786744192393
+            },
+            {
+              "email": "dihumi4575@gwprems.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786744192393
+            },
+            {
+              "email": "puvrev@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1786744192393
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-08-15T00:52:27.731Z"
         }
       ],
       "bulk_active": true,
