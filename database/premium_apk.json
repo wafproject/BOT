@@ -5705,7 +5705,7 @@
           "addedAt": 1786744217863
         }
       ],
-      "sold": 6152,
+      "sold": 6162,
       "stock": 36,
       "reserved": [
         {
@@ -5930,63 +5930,6 @@
           ],
           "qty": 3,
           "createdAt": "2026-07-13T13:38:55.597Z"
-        },
-        {
-          "id": "RSV1786755147730769",
-          "items": [
-            {
-              "email": "jazaxu75572@xvsexv.web.id",
-              "password": "masuk123",
-              "addedAt": 1786744192393
-            },
-            {
-              "email": "kivosu33492@myrowsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1786744192393
-            },
-            {
-              "email": "zusihu4830@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1786744192393
-            },
-            {
-              "email": "hulavo26290@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1786744192393
-            },
-            {
-              "email": "lopivu9671@brexyv.biz.id",
-              "password": "masuk123",
-              "addedAt": 1786744192393
-            },
-            {
-              "email": "buvuce84736@gxrevsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1786744192393
-            },
-            {
-              "email": "bilali36216@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1786744192393
-            },
-            {
-              "email": "lebefi81716@gxrevsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1786744192393
-            },
-            {
-              "email": "dihumi4575@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1786744192393
-            },
-            {
-              "email": "puvrev@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1786744192393
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-08-15T00:52:27.731Z"
         }
       ],
       "bulk_active": true,
