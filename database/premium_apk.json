@@ -5470,22 +5470,9 @@
           "addedAt": 1786777289950
         }
       ],
-      "sold": 564,
+      "sold": 565,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV1786809326286650",
-          "items": [
-            {
-              "email": "tusrat@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1786777289950
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-15T15:55:26.287Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
