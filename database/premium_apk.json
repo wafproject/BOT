@@ -255,11 +255,6 @@
           "addedAt": 1785880504323
         },
         {
-          "email": "zzic40b@wafprem.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1785880504323
-        },
-        {
           "email": "u78ssnq@premaja.online",
           "password": "Masuk123",
           "addedAt": 1785880504323
@@ -270,7 +265,7 @@
           "addedAt": 1785880504323
         }
       ],
-      "stock": 5,
+      "stock": 4,
       "sold": 51,
       "reserved": [],
       "bulk_active": false,
