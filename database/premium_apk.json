@@ -250,11 +250,6 @@
           "addedAt": 1785880504323
         },
         {
-          "email": "dkyirij@okeaja.my.id",
-          "password": "Masuk123",
-          "addedAt": 1785880504323
-        },
-        {
           "email": "u78ssnq@premaja.online",
           "password": "Masuk123",
           "addedAt": 1785880504323
@@ -265,7 +260,7 @@
           "addedAt": 1785880504323
         }
       ],
-      "stock": 4,
+      "stock": 3,
       "sold": 51,
       "reserved": [],
       "bulk_active": false,
