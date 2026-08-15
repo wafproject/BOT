@@ -159,16 +159,23 @@
       "price": 3000,
       "descShort": "Bisa inv 100 member",
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nOutlook: \nhttps://outlook.live.com/mail/\n(masukkan email dan password diatas)\n\nHarap gunakan akun dengan bijak.\n\nTerima kasih atas pembelian Anda 🙏\nJika Anda membutuhkan bantuan, silakan hubungi admin.",
-      "items": [
+      "items": [],
+      "stock": 0,
+      "sold": 404,
+      "reserved": [
         {
-          "email": "DestryTwisdale86925@hotmail.com",
-          "password": "fifsnd52277",
-          "addedAt": 1786609331041
+          "id": "RSV1786768704376214",
+          "items": [
+            {
+              "email": "DestryTwisdale86925@hotmail.com",
+              "password": "fifsnd52277",
+              "addedAt": 1786609331041
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-15T04:38:24.376Z"
         }
       ],
-      "stock": 1,
-      "sold": 404,
-      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
