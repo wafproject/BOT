@@ -245,11 +245,6 @@
       "snk": "* Garansi 5 hari dihitung sejak tanggal pembelian \n• Akses email : https://emailqu.com/",
       "items": [
         {
-          "email": "5rzx3yg@enzipro.biz.id",
-          "password": "Masuk123",
-          "addedAt": 1785880504323
-        },
-        {
           "email": "sotzufk@enziproject.web.id",
           "password": "Masuk123",
           "addedAt": 1785880504323
@@ -280,8 +275,8 @@
           "addedAt": 1785880504323
         }
       ],
-      "stock": 7,
-      "sold": 49,
+      "stock": 6,
+      "sold": 50,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
