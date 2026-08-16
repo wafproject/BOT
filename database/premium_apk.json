@@ -5655,7 +5655,7 @@
           "addedAt": 1786840467441
         }
       ],
-      "sold": 6204,
+      "sold": 6205,
       "stock": 34,
       "reserved": [
         {
@@ -5892,18 +5892,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1786842200342433",
-          "items": [
-            {
-              "email": "KelbyMingus88732@outlook.com",
-              "password": "zdson74653",
-              "addedAt": 1786840467440
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-16T01:03:20.342Z"
         }
       ],
       "bulk_active": true,
