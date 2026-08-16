@@ -5521,7 +5521,7 @@
           "addedAt": 1786844391561
         }
       ],
-      "sold": 6239,
+      "sold": 6241,
       "stock": 8,
       "reserved": [
         {
@@ -5758,23 +5758,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV178684544557354",
-          "items": [
-            {
-              "email": "vogwac@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1786844391561
-            },
-            {
-              "email": "lehepe88403@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1786844391561
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-08-16T01:57:25.573Z"
         }
       ],
       "bulk_active": true,
