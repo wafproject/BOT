@@ -5484,7 +5484,7 @@
       "descShort": "Full Garansi",
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [],
-      "sold": 6215,
+      "sold": 6239,
       "stock": 0,
       "reserved": [
         {
@@ -5721,133 +5721,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1786842659651212",
-          "items": [
-            {
-              "email": "RomanNienhouse255896@outlook.com",
-              "password": "ezmki31683",
-              "addedAt": 1786840467440
-            },
-            {
-              "email": "MurryFanton6009@outlook.com",
-              "password": "iljvp724800",
-              "addedAt": 1786840467440
-            },
-            {
-              "email": "DormanPule22944@outlook.com",
-              "password": "sixmq63611",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "SevertNebeker98799@outlook.com",
-              "password": "lrbcob36994",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "DonovanDescalzo45176@outlook.com",
-              "password": "tycxs18488",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "AnikaPistorino08306@outlook.com",
-              "password": "ugcut98146",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "CollinMacwhinnie26904@outlook.com",
-              "password": "ldycke67459",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "BirthaNeedell2201@outlook.com",
-              "password": "bsjwjl29647",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "AaravGaherty57680@outlook.com",
-              "password": "icsgdy388516",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "MikailaTrautwein033937@outlook.com",
-              "password": "ldxsrz040000",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "FelishaJamnik226839@outlook.com",
-              "password": "goimdw077330",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "AdellaGoembel188844@outlook.com",
-              "password": "bnugbs684703",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "HoyDauley93928@outlook.com",
-              "password": "yvoctk19770",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "OrrisKarnitz3399@outlook.com",
-              "password": "nbifaq289905",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "JaneAste41556@outlook.com",
-              "password": "tutwq85086",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "GenevieveNevis8599@outlook.com",
-              "password": "lizsbx51918",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "HarrySantelises0070@outlook.com",
-              "password": "ydgsd85165",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "DylonSensenich5681@outlook.com",
-              "password": "snkbtd13812",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "ArthurRiethmiller33043@outlook.com",
-              "password": "ipfufy671781",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "AlisaHuntt5237@outlook.com",
-              "password": "yjkqmw60009",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "KearaLorente53261@outlook.com",
-              "password": "utnen71186",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "KeshaGhassemi69626@outlook.com",
-              "password": "eblkhw74531",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "LutieSerene8619@outlook.com",
-              "password": "qddsql476405",
-              "addedAt": 1786840467441
-            },
-            {
-              "email": "ElieLovoy87259@outlook.com",
-              "password": "yqftz38361",
-              "addedAt": 1786840467441
-            }
-          ],
-          "qty": 24,
-          "createdAt": "2026-08-16T01:10:59.651Z"
         }
       ],
       "bulk_active": true,
