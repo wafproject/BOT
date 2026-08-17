@@ -538,10 +538,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "corpeye@powerdea.me|https://generator.email/corpeye@powerdea.me",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "sip240@remahankerupuk.com|https://generator.email/sip240@remahankerupuk.com",
           "addedAt": 1783266949580
         },
@@ -4598,9 +4594,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1015,
+      "stock": 1014,
       "sold": 897,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1786952228280494",
+          "items": [
+            {
+              "email": "corpeye@powerdea.me|https://generator.email/corpeye@powerdea.me",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-17T07:37:08.280Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
