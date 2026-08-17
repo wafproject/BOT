@@ -8646,6 +8646,20 @@
       "items": [],
       "sold": 0,
       "stock": 0
+    },
+    {
+      "code": "OT",
+      "name": "Outlook",
+      "category": "Email Fresh",
+      "type": "akun",
+      "price": 1000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "* NO GARANSI\n• KALO MASIH MAU LOGIN TERUS MERAH BACAAN TERLALU BANYAK PERCOBAAN LOGIN, GANTI BROWSER/GANTI JARINGAN/MASUK KE MODE SAMARAN",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
