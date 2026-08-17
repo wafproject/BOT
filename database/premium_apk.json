@@ -346,7 +346,7 @@
         }
       ],
       "stock": 64,
-      "sold": 747,
+      "sold": 748,
       "reserved": [
         {
           "id": "RSV1779749464287750",
@@ -391,17 +391,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-07-01T07:11:32.822Z"
-        },
-        {
-          "id": "RSV1786998714250247",
-          "items": [
-            {
-              "link": "https://www.canva.com/brand/join?token=qrMoOo_4bhNBXhBkijxAhg&referrer=team-invite",
-              "addedAt": 1786913632790
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-17T20:31:54.250Z"
         }
       ],
       "bulk_active": false,
