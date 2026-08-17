@@ -4595,20 +4595,8 @@
         }
       ],
       "stock": 1014,
-      "sold": 897,
-      "reserved": [
-        {
-          "id": "RSV1786952228280494",
-          "items": [
-            {
-              "email": "corpeye@powerdea.me|https://generator.email/corpeye@powerdea.me",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-17T07:37:08.280Z"
-        }
-      ],
+      "sold": 898,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
