@@ -426,21 +426,8 @@
         }
       ],
       "stock": 3,
-      "sold": 405,
-      "reserved": [
-        {
-          "id": "RSV1786978557432643",
-          "items": [
-            {
-              "email": "SantiagoPla15855@outlook.com",
-              "password": "qppbmq48112",
-              "addedAt": 1786913722193
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-17T14:55:57.432Z"
-        }
-      ],
+      "sold": 406,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
