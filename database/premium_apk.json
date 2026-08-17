@@ -5995,7 +5995,7 @@
           "addedAt": 1787008167837
         }
       ],
-      "sold": 6289,
+      "sold": 6290,
       "stock": 52,
       "reserved": [
         {
@@ -6232,18 +6232,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787008786862745",
-          "items": [
-            {
-              "email": "JobeGurner865835@outlook.com",
-              "password": "zfzfy81712",
-              "addedAt": 1787008135214
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-17T23:19:46.862Z"
         }
       ],
       "bulk_active": true,
