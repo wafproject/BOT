@@ -421,21 +421,8 @@
         }
       ],
       "stock": 2,
-      "sold": 406,
-      "reserved": [
-        {
-          "id": "RSV1786983743611119",
-          "items": [
-            {
-              "email": "WilmerKamble97006@outlook.com",
-              "password": "gvdek75467",
-              "addedAt": 1786913722193
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-17T16:22:23.611Z"
-        }
-      ],
+      "sold": 407,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
