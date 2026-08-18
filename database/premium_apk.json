@@ -5789,7 +5789,7 @@
           "addedAt": 1787090514487
         }
       ],
-      "sold": 6336,
+      "sold": 6356,
       "stock": 17,
       "reserved": [
         {
@@ -6026,113 +6026,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787096433186743",
-          "items": [
-            {
-              "email": "cedodo57750@xvsexv.web.id",
-              "password": "masuk123",
-              "addedAt": 1787008167837
-            },
-            {
-              "email": "siliso38202@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787008167837
-            },
-            {
-              "email": "nikmog@myrepu.my.id",
-              "password": "masuk123",
-              "addedAt": 1787008167837
-            },
-            {
-              "email": "zirlih@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787008167837
-            },
-            {
-              "email": "jeomoi@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1787008167837
-            },
-            {
-              "email": "secbur@okeaja.my.id",
-              "password": "masuk123",
-              "addedAt": 1787008167837
-            },
-            {
-              "email": "MellieBudway1091@hotmail.com",
-              "password": "zvdvgg331057",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "RudolfDankert250609@hotmail.com",
-              "password": "hqoxjc91764",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "ShirleyFa522582@hotmail.com",
-              "password": "ozcnwd268974",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "PhoenixMineau166287@hotmail.com",
-              "password": "uabkk97235",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "RandallKruckow23063@hotmail.com",
-              "password": "zguhm139214",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "BarnieGohl454333@hotmail.com",
-              "password": "pakin622736",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "ColieDyar765845@hotmail.com",
-              "password": "seioz19024",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "OrvalBoutcher7070@hotmail.com",
-              "password": "agdch40062",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "EmaGysin58071@hotmail.com",
-              "password": "mtngtc15678",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "BraedenSoria024255@hotmail.com",
-              "password": "kksqgi050141",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "TatianaHarabedian3419@hotmail.com",
-              "password": "cvjpu281752",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "VeldaGarritson2459@hotmail.com",
-              "password": "zunptv90854",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "EmmyAdkerson9052@hotmail.com",
-              "password": "ovvwyr05395",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "PatsyOdenweller10549@hotmail.com",
-              "password": "gtnnw516083",
-              "addedAt": 1787090514487
-            }
-          ],
-          "qty": 20,
-          "createdAt": "2026-08-18T23:40:33.186Z"
         }
       ],
       "bulk_active": true,
