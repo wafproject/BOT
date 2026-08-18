@@ -5739,7 +5739,7 @@
           "addedAt": 1787090514487
         }
       ],
-      "sold": 6356,
+      "sold": 6366,
       "stock": 7,
       "reserved": [
         {
@@ -5976,63 +5976,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV178709665367899",
-          "items": [
-            {
-              "email": "LiaReeh302333@hotmail.com",
-              "password": "hbgpel40292",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "ArmandoRebolloso9182@hotmail.com",
-              "password": "lzhme086223",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "PricillaWiszowaty35231@hotmail.com",
-              "password": "ksctb66650",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "GilbertoEschenburg2827@hotmail.com",
-              "password": "ujqst824650",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "LesiaStuto85388@hotmail.com",
-              "password": "klusg712248",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "RuthanneTannenbaum0134@hotmail.com",
-              "password": "puuboq54119",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "KatharynDigre689436@hotmail.com",
-              "password": "xgwag414088",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "AylaJamel9027@hotmail.com",
-              "password": "vtatr35315",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "EdithSchlinsog03919@hotmail.com",
-              "password": "bcrjlw27668",
-              "addedAt": 1787090514487
-            },
-            {
-              "email": "MossieKundel899632@hotmail.com",
-              "password": "uhxwr677483",
-              "addedAt": 1787090514487
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-08-18T23:44:13.678Z"
         }
       ],
       "bulk_active": true,
