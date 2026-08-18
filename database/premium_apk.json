@@ -493,10 +493,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "mikepj21@emailuae.com|https://generator.email/mikepj21@emailuae.com",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "sophiakwong@aircourriel.com|https://generator.email/sophiakwong@aircourriel.com",
           "addedAt": 1783266949580
         },
@@ -4545,8 +4541,8 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1013,
-      "sold": 899,
+      "stock": 1012,
+      "sold": 900,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
