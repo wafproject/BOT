@@ -412,21 +412,8 @@
         }
       ],
       "stock": 1,
-      "sold": 407,
-      "reserved": [
-        {
-          "id": "RSV1787019539890726",
-          "items": [
-            {
-              "email": "MadeleineRaid3310@outlook.com",
-              "password": "zefhfc26587",
-              "addedAt": 1786913722193
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-18T02:18:59.890Z"
-        }
-      ],
+      "sold": 408,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
