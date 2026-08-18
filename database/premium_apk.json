@@ -4546,20 +4546,8 @@
         }
       ],
       "stock": 1013,
-      "sold": 898,
-      "reserved": [
-        {
-          "id": "RSV1787071063960919",
-          "items": [
-            {
-              "email": "sip240@remahankerupuk.com|https://generator.email/sip240@remahankerupuk.com",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-18T16:37:43.960Z"
-        }
-      ],
+      "sold": 899,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
