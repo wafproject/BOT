@@ -8808,22 +8808,9 @@
           "addedAt": 1787008100003
         }
       ],
-      "sold": 658,
+      "sold": 659,
       "stock": 36,
-      "reserved": [
-        {
-          "id": "RSV1787080622911267",
-          "items": [
-            {
-              "email": "JalynnAllbrook4035@outlook.com",
-              "password": "imwxt83758",
-              "addedAt": 1787008100003
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-18T19:17:02.911Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "HT",
