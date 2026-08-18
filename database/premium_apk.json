@@ -493,10 +493,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "sip240@remahankerupuk.com|https://generator.email/sip240@remahankerupuk.com",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "mikepj21@emailuae.com|https://generator.email/mikepj21@emailuae.com",
           "addedAt": 1783266949580
         },
@@ -4549,9 +4545,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1014,
+      "stock": 1013,
       "sold": 898,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1787071063960919",
+          "items": [
+            {
+              "email": "sip240@remahankerupuk.com|https://generator.email/sip240@remahankerupuk.com",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-18T16:37:43.960Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
