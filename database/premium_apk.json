@@ -5985,7 +5985,7 @@
           "addedAt": 1787008167837
         }
       ],
-      "sold": 6291,
+      "sold": 6292,
       "stock": 50,
       "reserved": [
         {
@@ -6222,18 +6222,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV178701523613379",
-          "items": [
-            {
-              "email": "LucretiaBurdine073678@outlook.com",
-              "password": "vpock408342",
-              "addedAt": 1787008135214
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-18T01:07:16.133Z"
         }
       ],
       "bulk_active": true,
