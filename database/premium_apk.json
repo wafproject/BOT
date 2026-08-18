@@ -5990,7 +5990,7 @@
           "addedAt": 1787008167837
         }
       ],
-      "sold": 6290,
+      "sold": 6291,
       "stock": 51,
       "reserved": [
         {
@@ -6227,18 +6227,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787011725568678",
-          "items": [
-            {
-              "email": "SamKutzler79640@outlook.com",
-              "password": "mttwd764260",
-              "addedAt": 1787008135214
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-18T00:08:45.568Z"
         }
       ],
       "bulk_active": true,
