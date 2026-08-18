@@ -5704,21 +5704,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "qinado21241@gxrevsx.web.id",
-          "password": "masuk123",
-          "addedAt": 1787008167837
-        },
-        {
-          "email": "nupute73784@myrowsx.web.id",
-          "password": "masuk123",
-          "addedAt": 1787008167837
-        },
-        {
-          "email": "gelela83014@oxygov.biz.id",
-          "password": "masuk123",
-          "addedAt": 1787008167837
-        },
-        {
           "email": "cedodo57750@xvsexv.web.id",
           "password": "masuk123",
           "addedAt": 1787008167837
@@ -5750,7 +5735,7 @@
         }
       ],
       "sold": 6333,
-      "stock": 9,
+      "stock": 6,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5986,6 +5971,28 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV178708193022162",
+          "items": [
+            {
+              "email": "qinado21241@gxrevsx.web.id",
+              "password": "masuk123",
+              "addedAt": 1787008167837
+            },
+            {
+              "email": "nupute73784@myrowsx.web.id",
+              "password": "masuk123",
+              "addedAt": 1787008167837
+            },
+            {
+              "email": "gelela83014@oxygov.biz.id",
+              "password": "masuk123",
+              "addedAt": 1787008167837
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-08-18T19:38:50.221Z"
         }
       ],
       "bulk_active": true,
