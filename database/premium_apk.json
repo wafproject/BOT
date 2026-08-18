@@ -406,21 +406,8 @@
       "snk": "* Garansi login \n• Bisa invite 100 member via link\n\nOutlook: \nhttps://outlook.live.com/mail/\n(masukkan email dan password diatas)\n\nHarap gunakan akun dengan bijak.\n\nTerima kasih atas pembelian Anda 🙏\nJika Anda membutuhkan bantuan, silakan hubungi admin.",
       "items": [],
       "stock": 0,
-      "sold": 408,
-      "reserved": [
-        {
-          "id": "RSV1787030520532958",
-          "items": [
-            {
-              "email": "MaryTraglia604846@outlook.com",
-              "password": "qwrax826526",
-              "addedAt": 1786913722193
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-18T05:22:00.532Z"
-        }
-      ],
+      "sold": 409,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
