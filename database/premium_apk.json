@@ -4530,20 +4530,8 @@
         }
       ],
       "stock": 1011,
-      "sold": 900,
-      "reserved": [
-        {
-          "id": "RSV1787143931426466",
-          "items": [
-            {
-              "email": "sophiakwong@aircourriel.com|https://generator.email/sophiakwong@aircourriel.com",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-19T12:52:11.426Z"
-        }
-      ],
+      "sold": 901,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
