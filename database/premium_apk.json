@@ -5719,7 +5719,7 @@
           "addedAt": 1787090514487
         }
       ],
-      "sold": 6369,
+      "sold": 6370,
       "stock": 3,
       "reserved": [
         {
@@ -5956,18 +5956,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787105909430399",
-          "items": [
-            {
-              "email": "WiltonRuppelt41739@hotmail.com",
-              "password": "ozsges92171",
-              "addedAt": 1787090514487
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-19T02:18:29.430Z"
         }
       ],
       "bulk_active": true,
