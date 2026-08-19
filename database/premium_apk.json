@@ -8598,26 +8598,6 @@
       "snk": "* NO GARANSI\n• KALO MASIH MAU LOGIN TERUS MERAH BACAAN TERLALU BANYAK PERCOBAAN LOGIN, GANTI BROWSER/GANTI JARINGAN/MASUK KE MODE SAMARAN",
       "items": [
         {
-          "email": "JalynnAlleshouse9002@outlook.com",
-          "password": "eaiua983650",
-          "addedAt": 1787008100003
-        },
-        {
-          "email": "JalynnAraki161029@outlook.com",
-          "password": "tvbni84025",
-          "addedAt": 1787008100003
-        },
-        {
-          "email": "JalynnArnel0675@outlook.com",
-          "password": "oefnd103103",
-          "addedAt": 1787008100003
-        },
-        {
-          "email": "JalynnBeery0739@outlook.com",
-          "password": "tjnyl98243",
-          "addedAt": 1787008100003
-        },
-        {
           "email": "JalynnBelinski7432@outlook.com",
           "password": "xygeup267061",
           "addedAt": 1787008100003
@@ -8779,8 +8759,36 @@
         }
       ],
       "sold": 659,
-      "stock": 36,
-      "reserved": []
+      "stock": 32,
+      "reserved": [
+        {
+          "id": "RSV1787107246814744",
+          "items": [
+            {
+              "email": "JalynnAlleshouse9002@outlook.com",
+              "password": "eaiua983650",
+              "addedAt": 1787008100003
+            },
+            {
+              "email": "JalynnAraki161029@outlook.com",
+              "password": "tvbni84025",
+              "addedAt": 1787008100003
+            },
+            {
+              "email": "JalynnArnel0675@outlook.com",
+              "password": "oefnd103103",
+              "addedAt": 1787008100003
+            },
+            {
+              "email": "JalynnBeery0739@outlook.com",
+              "password": "tjnyl98243",
+              "addedAt": 1787008100003
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-08-19T02:40:46.814Z"
+        }
+      ]
     },
     {
       "code": "HT",
