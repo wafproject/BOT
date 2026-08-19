@@ -5704,11 +5704,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "WiltonRuppelt41739@hotmail.com",
-          "password": "ozsges92171",
-          "addedAt": 1787090514487
-        },
-        {
           "email": "EvonneKirvin328094@hotmail.com",
           "password": "kmraz63702",
           "addedAt": 1787090514487
@@ -5725,7 +5720,7 @@
         }
       ],
       "sold": 6369,
-      "stock": 4,
+      "stock": 3,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5961,6 +5956,18 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1787105909430399",
+          "items": [
+            {
+              "email": "WiltonRuppelt41739@hotmail.com",
+              "password": "ozsges92171",
+              "addedAt": 1787090514487
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-19T02:18:29.430Z"
         }
       ],
       "bulk_active": true,
