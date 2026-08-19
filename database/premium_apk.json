@@ -28,7 +28,7 @@
     },
     {
       "name": "spotify premium",
-      "is_active": false
+      "is_active": true
     },
     {
       "name": "Youtube"
