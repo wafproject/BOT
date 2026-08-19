@@ -5710,7 +5710,7 @@
           "addedAt": 1787090514487
         }
       ],
-      "sold": 6370,
+      "sold": 6371,
       "stock": 2,
       "reserved": [
         {
@@ -5947,18 +5947,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787113445109173",
-          "items": [
-            {
-              "email": "EvonneKirvin328094@hotmail.com",
-              "password": "kmraz63702",
-              "addedAt": 1787090514487
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-19T04:24:05.109Z"
         }
       ],
       "bulk_active": true,
