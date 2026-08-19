@@ -5521,18 +5521,27 @@
       "snk": " * Produk ini no garansi * Akun strong full awet, paid legal * Akun dari seller , tidak bisa akun buyer",
       "items": [
         {
-          "text": "wuetuz@okeaja.my.id|masuk12345",
-          "addedAt": 1787172228174
-        },
-        {
           "text": "ciesam@asikinaja.my.id|masuk12345",
           "addedAt": 1787172228174
         }
       ],
-      "stock": 2,
+      "stock": 1,
       "sold": 245,
       "bulk_active": false,
-      "bulk_prices": []
+      "bulk_prices": [],
+      "reserved": [
+        {
+          "id": "RSV1787181836577296",
+          "items": [
+            {
+              "text": "wuetuz@okeaja.my.id|masuk12345",
+              "addedAt": 1787172228174
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-19T23:23:56.577Z"
+        }
+      ]
     },
     {
       "code": "SPO1BFULLGAR",
