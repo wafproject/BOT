@@ -5705,7 +5705,7 @@
           "addedAt": 1787090514487
         }
       ],
-      "sold": 6371,
+      "sold": 6372,
       "stock": 1,
       "reserved": [
         {
@@ -5942,18 +5942,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787119379928609",
-          "items": [
-            {
-              "email": "DemonteAlby94170@hotmail.com",
-              "password": "rpbabe63621",
-              "addedAt": 1787090514487
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-19T06:02:59.928Z"
         }
       ],
       "bulk_active": true,
