@@ -485,10 +485,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "sophiakwong@aircourriel.com|https://generator.email/sophiakwong@aircourriel.com",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "buffon76@reestore.site|https://generator.email/buffon76@reestore.site",
           "addedAt": 1783266949580
         },
@@ -4533,9 +4529,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1012,
+      "stock": 1011,
       "sold": 900,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1787143931426466",
+          "items": [
+            {
+              "email": "sophiakwong@aircourriel.com|https://generator.email/sophiakwong@aircourriel.com",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-19T12:52:11.426Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
