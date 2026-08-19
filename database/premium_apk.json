@@ -5702,106 +5702,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "LuciusMenold162157@outlook.com",
-          "password": "wxiszx94986",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusOstiguin101681@outlook.com",
-          "password": "ubjla82332",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusPahlke0131@outlook.com",
-          "password": "twsad228947",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusRege417890@outlook.com",
-          "password": "hekshi508655",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusRicafort4625@outlook.com",
-          "password": "nilyef140113",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusRubira265583@outlook.com",
-          "password": "yzcxi60271",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusRuggles51505@outlook.com",
-          "password": "crdwk581778",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusRuis15542@outlook.com",
-          "password": "bviuvq321646",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusSiack32343@outlook.com",
-          "password": "oshywm747189",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusStasch3912@outlook.com",
-          "password": "cbmakf96063",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusSteinmeier315679@outlook.com",
-          "password": "vgyeo208402",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusStephanson176765@outlook.com",
-          "password": "whlcip772296",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusTascione81239@outlook.com",
-          "password": "pbtpay06136",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusVenton322905@outlook.com",
-          "password": "smodeq61289",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LuciusZiolko7668@outlook.com",
-          "password": "kcknsq210932",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "LucKanavel50271@outlook.com",
-          "password": "eeblil448000",
-          "addedAt": 1787177115258
-        },
-        {
-          "email": "rowuso89869@gwprems.biz.id",
-          "password": "masuk123",
-          "addedAt": 1787177138223
-        },
-        {
-          "email": "haboye49242@gwprems.biz.id",
-          "password": "masuk123",
-          "addedAt": 1787177138223
-        },
-        {
-          "email": "xozile61394@mysexvs.biz.id",
-          "password": "masuk123",
-          "addedAt": 1787177138223
-        },
-        {
-          "email": "konira73875@brexyv.biz.id",
-          "password": "masuk123",
-          "addedAt": 1787177138223
-        },
-        {
           "email": "bivove12230@mysexvs.biz.id",
           "password": "masuk123",
           "addedAt": 1787177138223
@@ -5833,7 +5733,7 @@
         }
       ],
       "sold": 6374,
-      "stock": 26,
+      "stock": 6,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6069,6 +5969,113 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1787180084400453",
+          "items": [
+            {
+              "email": "LuciusMenold162157@outlook.com",
+              "password": "wxiszx94986",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusOstiguin101681@outlook.com",
+              "password": "ubjla82332",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusPahlke0131@outlook.com",
+              "password": "twsad228947",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusRege417890@outlook.com",
+              "password": "hekshi508655",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusRicafort4625@outlook.com",
+              "password": "nilyef140113",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusRubira265583@outlook.com",
+              "password": "yzcxi60271",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusRuggles51505@outlook.com",
+              "password": "crdwk581778",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusRuis15542@outlook.com",
+              "password": "bviuvq321646",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusSiack32343@outlook.com",
+              "password": "oshywm747189",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusStasch3912@outlook.com",
+              "password": "cbmakf96063",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusSteinmeier315679@outlook.com",
+              "password": "vgyeo208402",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusStephanson176765@outlook.com",
+              "password": "whlcip772296",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusTascione81239@outlook.com",
+              "password": "pbtpay06136",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusVenton322905@outlook.com",
+              "password": "smodeq61289",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LuciusZiolko7668@outlook.com",
+              "password": "kcknsq210932",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "LucKanavel50271@outlook.com",
+              "password": "eeblil448000",
+              "addedAt": 1787177115258
+            },
+            {
+              "email": "rowuso89869@gwprems.biz.id",
+              "password": "masuk123",
+              "addedAt": 1787177138223
+            },
+            {
+              "email": "haboye49242@gwprems.biz.id",
+              "password": "masuk123",
+              "addedAt": 1787177138223
+            },
+            {
+              "email": "xozile61394@mysexvs.biz.id",
+              "password": "masuk123",
+              "addedAt": 1787177138223
+            },
+            {
+              "email": "konira73875@brexyv.biz.id",
+              "password": "masuk123",
+              "addedAt": 1787177138223
+            }
+          ],
+          "qty": 20,
+          "createdAt": "2026-08-19T22:54:44.400Z"
         }
       ],
       "bulk_active": true,
