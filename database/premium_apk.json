@@ -5680,9 +5680,20 @@
       "price": 3000,
       "descShort": "Full Garansi",
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
-      "items": [],
+      "items": [
+        {
+          "email": "noawup@premaja.online",
+          "password": "login pake kode akses dibawah",
+          "addedAt": 1787262290453
+        },
+        {
+          "email": "nogzaa@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1787262290453
+        }
+      ],
       "sold": 6410,
-      "stock": 0,
+      "stock": 2,
       "reserved": [
         {
           "id": "RSV1780362536090628",
