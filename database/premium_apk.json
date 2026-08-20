@@ -6223,22 +6223,9 @@
           "addedAt": 1787262310718
         }
       ],
-      "sold": 156,
+      "sold": 157,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV1787269230548479",
-          "items": [
-            {
-              "email": "noawup@premaja.online",
-              "password": "login pake kode akses dibawah",
-              "addedAt": 1787262310718
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-20T23:40:30.548Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "WINK",
