@@ -5722,7 +5722,7 @@
           "addedAt": 1787220739978
         }
       ],
-      "sold": 6401,
+      "sold": 6402,
       "stock": 8,
       "reserved": [
         {
@@ -5959,18 +5959,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787221810430539",
-          "items": [
-            {
-              "email": "yipovo61711@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787220739978
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-20T10:30:10.430Z"
         }
       ],
       "bulk_active": true,
