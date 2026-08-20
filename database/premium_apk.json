@@ -5681,7 +5681,7 @@
       "descShort": "Full Garansi",
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [],
-      "sold": 6409,
+      "sold": 6410,
       "stock": 0,
       "reserved": [
         {
@@ -5918,18 +5918,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787235079533103",
-          "items": [
-            {
-              "email": "damruj@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787220739978
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-20T14:11:19.533Z"
         }
       ],
       "bulk_active": true,
