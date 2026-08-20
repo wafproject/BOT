@@ -5712,7 +5712,7 @@
           "addedAt": 1787220739978
         }
       ],
-      "sold": 6403,
+      "sold": 6404,
       "stock": 6,
       "reserved": [
         {
@@ -5949,18 +5949,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787225557763896",
-          "items": [
-            {
-              "email": "vinoxi4570@myrowsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1787220739978
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-20T11:32:37.763Z"
         }
       ],
       "bulk_active": true,
