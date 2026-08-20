@@ -6148,11 +6148,6 @@
       "snk": "* No garansi.\n• Wajib pakai VPN Hongkong. Jika tidak, tidak akan bisa nonton. Bebas mau pakai VPN apa saja.\n• Akun kamu pegang = tanggung jawab kamu.\n• Jangan pencet tombol Cancel Membership.\n• Akses: mailkita.my.id\n• Silakan change email + password.",
       "items": [
         {
-          "email": "zaitid@gsuite.biz.id",
-          "password": "masuk123",
-          "addedAt": 1787172297099
-        },
-        {
           "email": "kiajuc@kulipremium.web.id",
           "password": "masuk123",
           "addedAt": 1787172297099
@@ -6164,8 +6159,21 @@
         }
       ],
       "sold": 153,
-      "stock": 3,
-      "reserved": []
+      "stock": 2,
+      "reserved": [
+        {
+          "id": "RSV1787223663491436",
+          "items": [
+            {
+              "email": "zaitid@gsuite.biz.id",
+              "password": "masuk123",
+              "addedAt": 1787172297099
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-20T11:01:03.491Z"
+        }
+      ]
     },
     {
       "code": "WINK",
