@@ -6116,16 +6116,23 @@
       ],
       "descShort": "No Garansi",
       "snk": "* No garansi.\n• Wajib pakai VPN Hongkong. Jika tidak, tidak akan bisa nonton. Bebas mau pakai VPN apa saja.\n• Akun kamu pegang = tanggung jawab kamu.\n• Jangan pencet tombol Cancel Membership.\n• Akses: mailkita.my.id\n• Silakan change email + password.",
-      "items": [
-        {
-          "email": "dooful@kedaiku.biz.id",
-          "password": "masuk123",
-          "addedAt": 1787172297099
-        }
-      ],
+      "items": [],
       "sold": 155,
-      "stock": 1,
-      "reserved": []
+      "stock": 0,
+      "reserved": [
+        {
+          "id": "RSV1787232597451301",
+          "items": [
+            {
+              "email": "dooful@kedaiku.biz.id",
+              "password": "masuk123",
+              "addedAt": 1787172297099
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-20T13:29:57.451Z"
+        }
+      ]
     },
     {
       "code": "WINK",
