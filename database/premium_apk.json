@@ -5714,7 +5714,7 @@
           "addedAt": 1787220739978
         }
       ],
-      "sold": 6404,
+      "sold": 6405,
       "stock": 5,
       "reserved": [
         {
@@ -5951,18 +5951,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787226439194367",
-          "items": [
-            {
-              "email": "kodufi77151@matakaw.web.id",
-              "password": "masuk123",
-              "addedAt": 1787220739978
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-20T11:47:19.195Z"
         }
       ],
       "bulk_active": true,
