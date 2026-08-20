@@ -5685,15 +5685,10 @@
           "email": "noawup@premaja.online",
           "password": "login pake kode akses dibawah",
           "addedAt": 1787262290453
-        },
-        {
-          "email": "nogzaa@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1787262290453
         }
       ],
       "sold": 6410,
-      "stock": 2,
+      "stock": 1,
       "reserved": [
         {
           "id": "RSV1780362536090628",
