@@ -6151,22 +6151,9 @@
           "addedAt": 1787172297099
         }
       ],
-      "sold": 152,
+      "sold": 153,
       "stock": 3,
-      "reserved": [
-        {
-          "id": "RSV1787186943631422",
-          "items": [
-            {
-              "email": "nunmur@kedaiku.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787172297099
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-20T00:49:03.631Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "WINK",
