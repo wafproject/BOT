@@ -5701,7 +5701,7 @@
           "addedAt": 1787177138223
         }
       ],
-      "sold": 6397,
+      "sold": 6398,
       "stock": 2,
       "reserved": [
         {
@@ -5938,18 +5938,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787189754684431",
-          "items": [
-            {
-              "email": "sutaxe84147@oxygov.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787177138223
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-20T01:35:54.684Z"
         }
       ],
       "bulk_active": true,
