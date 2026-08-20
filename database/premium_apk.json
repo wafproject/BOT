@@ -6125,10 +6125,6 @@
       "bulk_prices": [
         {
           "minQty": 10,
-          "price": 2800
-        },
-        {
-          "minQty": 20,
           "price": 2500
         }
       ]
