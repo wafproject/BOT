@@ -8759,22 +8759,9 @@
           "addedAt": 1787008100003
         }
       ],
-      "sold": 663,
+      "sold": 664,
       "stock": 31,
-      "reserved": [
-        {
-          "id": "RSV1787226360983672",
-          "items": [
-            {
-              "email": "JalynnBelinski7432@outlook.com",
-              "password": "xygeup267061",
-              "addedAt": 1787008100003
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-20T11:46:00.983Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "HT",
