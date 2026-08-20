@@ -5717,7 +5717,7 @@
           "addedAt": 1787220739978
         }
       ],
-      "sold": 6402,
+      "sold": 6403,
       "stock": 7,
       "reserved": [
         {
@@ -5954,18 +5954,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787225044158995",
-          "items": [
-            {
-              "email": "hemoko79870@brexyv.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787220739978
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-20T11:24:04.158Z"
         }
       ],
       "bulk_active": true,
