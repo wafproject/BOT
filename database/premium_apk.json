@@ -5507,14 +5507,9 @@
       "price": 6000,
       "descShort": "Garansi 1x24 jam",
       "snk": " * Produk ini no garansi * Akun strong full awet, paid legal * Akun dari seller , tidak bisa akun buyer",
-      "items": [
-        {
-          "text": "ciesam@asikinaja.my.id|masuk12345",
-          "addedAt": 1787172228174
-        }
-      ],
-      "stock": 1,
-      "sold": 246,
+      "items": [],
+      "stock": 0,
+      "sold": 247,
       "bulk_active": false,
       "bulk_prices": [],
       "reserved": []
