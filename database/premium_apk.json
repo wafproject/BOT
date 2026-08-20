@@ -6095,7 +6095,7 @@
       "name": "Netflix Private 1 Bulan Use VPN",
       "category": "Netflix Premium UHD",
       "type": "akun",
-      "price": 15000,
+      "price": 10000,
       "bulk_active": false,
       "bulk_prices": [
         {
