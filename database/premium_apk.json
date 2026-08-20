@@ -6143,22 +6143,9 @@
           "addedAt": 1787172297099
         }
       ],
-      "sold": 154,
+      "sold": 155,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV1787225635211762",
-          "items": [
-            {
-              "email": "kiajuc@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1787172297099
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-20T11:33:55.211Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "WINK",
