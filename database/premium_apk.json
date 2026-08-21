@@ -6468,7 +6468,7 @@
           "addedAt": 1787349382891
         }
       ],
-      "sold": 6450,
+      "sold": 6451,
       "stock": 21,
       "reserved": [
         {
@@ -6705,18 +6705,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787350846804355",
-          "items": [
-            {
-              "email": "LucKastan3395@outlook.com",
-              "password": "qmetr422933",
-              "addedAt": 1787346034922
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-21T22:20:46.804Z"
         }
       ],
       "bulk_active": true,
