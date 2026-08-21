@@ -5747,7 +5747,7 @@
           "addedAt": 1787269448445
         }
       ],
-      "sold": 6436,
+      "sold": 6437,
       "stock": 13,
       "reserved": [
         {
@@ -5984,18 +5984,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787288285050664",
-          "items": [
-            {
-              "email": "dezifu84816@brexyv.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787269448444
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-21T04:58:05.050Z"
         }
       ],
       "bulk_active": true,
