@@ -6183,22 +6183,9 @@
       "descShort": "No Garansi",
       "snk": "* No garansi.\n• Wajib pakai VPN Hongkong. Jika tidak, tidak akan bisa nonton. Bebas mau pakai VPN apa saja.\n• Akun kamu pegang = tanggung jawab kamu.\n• Jangan pencet tombol Cancel Membership.\n• Akses: mailkita.my.id\n• Silakan change email + password.",
       "items": [],
-      "sold": 157,
+      "sold": 158,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV178727904984264",
-          "items": [
-            {
-              "email": "nogzaa@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1787262310718
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-21T02:24:09.842Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "WINK",
