@@ -5762,7 +5762,7 @@
           "addedAt": 1787269448445
         }
       ],
-      "sold": 6424,
+      "sold": 6434,
       "stock": 16,
       "reserved": [
         {
@@ -5999,63 +5999,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787277819320304",
-          "items": [
-            {
-              "email": "hikobu55916@gxrevsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1787262351879
-            },
-            {
-              "email": "rugaxu77888@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787262351879
-            },
-            {
-              "email": "razipi35229@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787262351879
-            },
-            {
-              "email": "razido16294@premisxv.web.id",
-              "password": "masuk123",
-              "addedAt": 1787262351879
-            },
-            {
-              "email": "seudim@kedaiku.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787262351879
-            },
-            {
-              "email": "vuslub@okeaja.my.id",
-              "password": "masuk123",
-              "addedAt": 1787262351879
-            },
-            {
-              "email": "ridsop@kulipremium.web.id",
-              "password": "masuk123",
-              "addedAt": 1787262351879
-            },
-            {
-              "email": "gunran@okeaja.my.id",
-              "password": "masuk123",
-              "addedAt": 1787262351879
-            },
-            {
-              "email": "maculo22479@brexyv.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787269448444
-            },
-            {
-              "email": "yidafu72665@xvsexv.web.id",
-              "password": "masuk123",
-              "addedAt": 1787269448444
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-08-21T02:03:39.320Z"
         }
       ],
       "bulk_active": true,
