@@ -6363,56 +6363,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "LucLiveoak1297@outlook.com",
-          "password": "dvukgh57877",
-          "addedAt": 1787346034922
-        },
-        {
-          "email": "LucLombardi7947@outlook.com",
-          "password": "cmasv73549",
-          "addedAt": 1787346034922
-        },
-        {
-          "email": "LucMarthaler030451@outlook.com",
-          "password": "sbmyc59417",
-          "addedAt": 1787346034922
-        },
-        {
-          "email": "LucNkwocha38347@outlook.com",
-          "password": "pbztjz840290",
-          "addedAt": 1787346034922
-        },
-        {
-          "email": "LuCohea1350@outlook.com",
-          "password": "qebrp99149",
-          "addedAt": 1787346034922
-        },
-        {
-          "email": "LucParkhill652684@outlook.com",
-          "password": "uonhga51803",
-          "addedAt": 1787346034922
-        },
-        {
-          "email": "LucPaston7315@outlook.com",
-          "password": "vgygw322828",
-          "addedAt": 1787346034922
-        },
-        {
-          "email": "LucPerrizo994731@outlook.com",
-          "password": "tgkvwq324155",
-          "addedAt": 1787346034922
-        },
-        {
-          "email": "LucPetkoff8972@outlook.com",
-          "password": "pzuvl115319",
-          "addedAt": 1787346034922
-        },
-        {
-          "email": "LucPittaluga38019@outlook.com",
-          "password": "puyyv649758",
-          "addedAt": 1787346034922
-        },
-        {
           "email": "LucPomponi401416@outlook.com",
           "password": "ojspuq79144",
           "addedAt": 1787346034922
@@ -6599,7 +6549,7 @@
         }
       ],
       "sold": 6453,
-      "stock": 47,
+      "stock": 37,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6835,6 +6785,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1787355883106717",
+          "items": [
+            {
+              "email": "LucLiveoak1297@outlook.com",
+              "password": "dvukgh57877",
+              "addedAt": 1787346034922
+            },
+            {
+              "email": "LucLombardi7947@outlook.com",
+              "password": "cmasv73549",
+              "addedAt": 1787346034922
+            },
+            {
+              "email": "LucMarthaler030451@outlook.com",
+              "password": "sbmyc59417",
+              "addedAt": 1787346034922
+            },
+            {
+              "email": "LucNkwocha38347@outlook.com",
+              "password": "pbztjz840290",
+              "addedAt": 1787346034922
+            },
+            {
+              "email": "LuCohea1350@outlook.com",
+              "password": "qebrp99149",
+              "addedAt": 1787346034922
+            },
+            {
+              "email": "LucParkhill652684@outlook.com",
+              "password": "uonhga51803",
+              "addedAt": 1787346034922
+            },
+            {
+              "email": "LucPaston7315@outlook.com",
+              "password": "vgygw322828",
+              "addedAt": 1787346034922
+            },
+            {
+              "email": "LucPerrizo994731@outlook.com",
+              "password": "tgkvwq324155",
+              "addedAt": 1787346034922
+            },
+            {
+              "email": "LucPetkoff8972@outlook.com",
+              "password": "pzuvl115319",
+              "addedAt": 1787346034922
+            },
+            {
+              "email": "LucPittaluga38019@outlook.com",
+              "password": "puyyv649758",
+              "addedAt": 1787346034922
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-08-21T23:44:43.106Z"
         }
       ],
       "bulk_active": true,
