@@ -6456,10 +6456,25 @@
           "email": "RollinWoinarowicz36546@hotmail.com",
           "password": "nemgq13248",
           "addedAt": 1787346034922
+        },
+        {
+          "email": "fakmec@kulipremium.biz.id",
+          "password": "masuk123",
+          "addedAt": 1787349382891
+        },
+        {
+          "email": "selwel@kulipremium.web.id",
+          "password": "masuk123",
+          "addedAt": 1787349382891
+        },
+        {
+          "email": "zevbev@premaja.online",
+          "password": "masuk123",
+          "addedAt": 1787349382891
         }
       ],
       "sold": 6450,
-      "stock": 19,
+      "stock": 22,
       "reserved": [
         {
           "id": "RSV1780362536090628",
