@@ -388,14 +388,9 @@
       "price": 3000,
       "descShort": "Via invite email",
       "snk": "SILAHKAN KIRIM EMAIL KE ADMIN @asyik05",
-      "items": [
-        {
-          "text": "kirim email ke admin @enziwaf",
-          "addedAt": 1787320640330
-        }
-      ],
-      "stock": 1,
-      "sold": 141,
+      "items": [],
+      "stock": 0,
+      "sold": 142,
       "reserved": [
         {
           "id": "RSV1779882154946780",
