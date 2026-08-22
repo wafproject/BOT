@@ -6384,7 +6384,7 @@
           "addedAt": 1787352373146
         }
       ],
-      "sold": 6493,
+      "sold": 6495,
       "stock": 5,
       "reserved": [
         {
@@ -6621,23 +6621,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787371420413925",
-          "items": [
-            {
-              "email": "jonihi6671@matakaw.web.id",
-              "password": "masuk123",
-              "addedAt": 1787352373146
-            },
-            {
-              "email": "yaneto31304@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787352373146
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-08-22T04:03:40.413Z"
         }
       ],
       "bulk_active": true,
