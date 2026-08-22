@@ -6840,22 +6840,9 @@
           "addedAt": 1787349404959
         }
       ],
-      "sold": 158,
+      "sold": 159,
       "stock": 4,
-      "reserved": [
-        {
-          "id": "RSV1787370356546794",
-          "items": [
-            {
-              "email": "serros@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787349404959
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-22T03:45:56.546Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "WINK",
