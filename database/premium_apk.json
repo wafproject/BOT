@@ -6775,22 +6775,9 @@
           "addedAt": 1787349404959
         }
       ],
-      "sold": 161,
+      "sold": 162,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV178746636632032",
-          "items": [
-            {
-              "email": "tahjiz@premaja.online",
-              "password": "masuk123",
-              "addedAt": 1787349404959
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-23T06:26:06.320Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "WINK",
