@@ -6504,7 +6504,7 @@
           "addedAt": 1787518364856
         }
       ],
-      "sold": 6508,
+      "sold": 6509,
       "stock": 31,
       "reserved": [
         {
@@ -6741,18 +6741,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787518944013126",
-          "items": [
-            {
-              "email": "tesepa24564@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787518364856
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-23T21:02:24.013Z"
         }
       ],
       "bulk_active": true,
