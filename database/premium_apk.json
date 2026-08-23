@@ -6349,46 +6349,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "sovuqe7496@matakaw.web.id",
-          "password": "masuk123",
-          "addedAt": 1787518364856
-        },
-        {
-          "email": "fakaxa57385@matakaw.web.id",
-          "password": "masuk123",
-          "addedAt": 1787518364856
-        },
-        {
-          "email": "sofaga49978@gxrevsx.web.id",
-          "password": "masuk123",
-          "addedAt": 1787518364856
-        },
-        {
-          "email": "kaniru70716@matakaw.web.id",
-          "password": "masuk123",
-          "addedAt": 1787518364856
-        },
-        {
-          "email": "qoxiyo23825@gxrevsx.web.id",
-          "password": "masuk123",
-          "addedAt": 1787518364856
-        },
-        {
-          "email": "gijibe11540@premisxv.web.id",
-          "password": "masuk123",
-          "addedAt": 1787518364856
-        },
-        {
-          "email": "vuviqe18631@brexyv.biz.id",
-          "password": "masuk123",
-          "addedAt": 1787518364856
-        },
-        {
-          "email": "huhusa37461@xvsexv.web.id",
-          "password": "masuk123",
-          "addedAt": 1787518364856
-        },
-        {
           "email": "tesepa24564@gwprems.biz.id",
           "password": "masuk123",
           "addedAt": 1787518364856
@@ -6550,7 +6510,7 @@
         }
       ],
       "sold": 6500,
-      "stock": 40,
+      "stock": 32,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6786,6 +6746,53 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1787518495806638",
+          "items": [
+            {
+              "email": "sovuqe7496@matakaw.web.id",
+              "password": "masuk123",
+              "addedAt": 1787518364856
+            },
+            {
+              "email": "fakaxa57385@matakaw.web.id",
+              "password": "masuk123",
+              "addedAt": 1787518364856
+            },
+            {
+              "email": "sofaga49978@gxrevsx.web.id",
+              "password": "masuk123",
+              "addedAt": 1787518364856
+            },
+            {
+              "email": "kaniru70716@matakaw.web.id",
+              "password": "masuk123",
+              "addedAt": 1787518364856
+            },
+            {
+              "email": "qoxiyo23825@gxrevsx.web.id",
+              "password": "masuk123",
+              "addedAt": 1787518364856
+            },
+            {
+              "email": "gijibe11540@premisxv.web.id",
+              "password": "masuk123",
+              "addedAt": 1787518364856
+            },
+            {
+              "email": "vuviqe18631@brexyv.biz.id",
+              "password": "masuk123",
+              "addedAt": 1787518364856
+            },
+            {
+              "email": "huhusa37461@xvsexv.web.id",
+              "password": "masuk123",
+              "addedAt": 1787518364856
+            }
+          ],
+          "qty": 8,
+          "createdAt": "2026-08-23T20:54:55.806Z"
         }
       ],
       "bulk_active": true,
