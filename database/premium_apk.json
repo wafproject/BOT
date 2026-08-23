@@ -6770,19 +6770,27 @@
       "snk": "* No garansi.\n• Wajib pakai VPN Hongkong. Jika tidak, tidak akan bisa nonton. Bebas mau pakai VPN apa saja.\n• Nyalakan VPN sebelum login akun biar awet (akun region Hongkong jika terdeteksi login selain Hongkong bakal kena backfree)\n• Akun kamu pegang = tanggung jawab kamu.\n• Jangan pencet tombol Cancel Membership.\n• Akses: mailkita.my.id\n• Silakan change email + password.",
       "items": [
         {
-          "email": "tahjiz@premaja.online",
-          "password": "masuk123",
-          "addedAt": 1787349404959
-        },
-        {
           "email": "herdak@kedaiku.biz.id",
           "password": "masuk123",
           "addedAt": 1787349404959
         }
       ],
       "sold": 161,
-      "stock": 2,
-      "reserved": []
+      "stock": 1,
+      "reserved": [
+        {
+          "id": "RSV178746636632032",
+          "items": [
+            {
+              "email": "tahjiz@premaja.online",
+              "password": "masuk123",
+              "addedAt": 1787349404959
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-23T06:26:06.320Z"
+        }
+      ]
     },
     {
       "code": "WINK",
