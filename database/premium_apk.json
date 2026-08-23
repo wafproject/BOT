@@ -6780,22 +6780,9 @@
           "addedAt": 1787349404959
         }
       ],
-      "sold": 160,
+      "sold": 161,
       "stock": 2,
-      "reserved": [
-        {
-          "id": "RSV1787465109235317",
-          "items": [
-            {
-              "email": "deppou@asikinaja.my.id",
-              "password": "masuk123",
-              "addedAt": 1787349404959
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-23T06:05:09.237Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "WINK",
