@@ -6348,7 +6348,7 @@
       "descShort": "Full Garansi",
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [],
-      "sold": 6530,
+      "sold": 6540,
       "stock": 0,
       "reserved": [
         {
@@ -6585,63 +6585,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787525849046231",
-          "items": [
-            {
-              "email": "seneja40488@gwprems.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787518364856
-            },
-            {
-              "email": "riwede15775@myrowsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1787518364856
-            },
-            {
-              "email": "pemeli23309@brexyv.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787518364856
-            },
-            {
-              "email": "nogopi72153@gxrevsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1787518364856
-            },
-            {
-              "email": "tocida81629@brexyv.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787518364856
-            },
-            {
-              "email": "suxeja16628@myrowsx.web.id",
-              "password": "masuk123",
-              "addedAt": 1787518364856
-            },
-            {
-              "email": "bozevu13652@xvsexv.web.id",
-              "password": "masuk123",
-              "addedAt": 1787518364856
-            },
-            {
-              "email": "vijeyu72460@premisxv.web.id",
-              "password": "masuk123",
-              "addedAt": 1787518364856
-            },
-            {
-              "email": "figupe2049@mysexvs.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787518364856
-            },
-            {
-              "email": "libhau@okeaja.my.id",
-              "password": "masuk123",
-              "addedAt": 1787518364856
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-08-23T22:57:29.046Z"
         }
       ],
       "bulk_active": true,
