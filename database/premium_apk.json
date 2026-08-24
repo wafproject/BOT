@@ -6341,56 +6341,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "edl6vsxu@5wnt.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "ptm8ftac@ekaq.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "4n2clu1g@jcjb.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "cdre76po@bndf.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "1tzwqjjl@5wnt.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "5hf6vujd@531v.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "4ttbiuuu@1a07.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "dbpnsev0@jcjb.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "be6l2gzk@i3gx.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "jdmvv6lt@6euo.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
           "email": "ddtms782@2rqf.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1787613337323
@@ -6542,7 +6492,7 @@
         }
       ],
       "sold": 6540,
-      "stock": 40,
+      "stock": 30,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6778,6 +6728,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1787613439286688",
+          "items": [
+            {
+              "email": "edl6vsxu@5wnt.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "ptm8ftac@ekaq.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "4n2clu1g@jcjb.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "cdre76po@bndf.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "1tzwqjjl@5wnt.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "5hf6vujd@531v.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "4ttbiuuu@1a07.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "dbpnsev0@jcjb.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "be6l2gzk@i3gx.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "jdmvv6lt@6euo.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-08-24T23:17:19.288Z"
         }
       ],
       "bulk_active": true,
