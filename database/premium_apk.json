@@ -6441,7 +6441,7 @@
           "addedAt": 1787613337323
         }
       ],
-      "sold": 6550,
+      "sold": 6560,
       "stock": 20,
       "reserved": [
         {
@@ -6678,63 +6678,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787614012098165",
-          "items": [
-            {
-              "email": "ddtms782@2rqf.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            },
-            {
-              "email": "sfqksofo@ylwk.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            },
-            {
-              "email": "3uzqcdqi@czjn.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            },
-            {
-              "email": "wlm8etm4@2rqf.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            },
-            {
-              "email": "sgwtmrdi@uus7.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            },
-            {
-              "email": "t970qa35@3gr2.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            },
-            {
-              "email": "ikn7xqy2@3gr2.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            },
-            {
-              "email": "u04hf2nm@pabu.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            },
-            {
-              "email": "ea44jpfx@d1pz.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            },
-            {
-              "email": "vh4ydumq@mrpw.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-08-24T23:26:52.098Z"
         }
       ],
       "bulk_active": true,
