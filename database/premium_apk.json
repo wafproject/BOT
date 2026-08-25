@@ -6366,7 +6366,7 @@
           "addedAt": 1787613337323
         }
       ],
-      "sold": 6574,
+      "sold": 6575,
       "stock": 5,
       "reserved": [
         {
@@ -6603,18 +6603,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787637190305223",
-          "items": [
-            {
-              "email": "pq8sldtn@goapple.web.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-25T05:53:10.305Z"
         }
       ],
       "bulk_active": true,
