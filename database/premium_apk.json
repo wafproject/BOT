@@ -6356,7 +6356,7 @@
           "addedAt": 1787613337323
         }
       ],
-      "sold": 6576,
+      "sold": 6577,
       "stock": 3,
       "reserved": [
         {
@@ -6593,18 +6593,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787638239640179",
-          "items": [
-            {
-              "email": "tajnah@okeaja.my.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-25T06:10:39.641Z"
         }
       ],
       "bulk_active": true,
