@@ -6341,56 +6341,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "wgsyzzai@nq1h.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "4s3017lc@3gr2.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "1fdnhevi@uus7.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "kleudjrf@uus7.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "27dhe186@czjn.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "0kj55a5q@uus7.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "bbfcuf4k@pabu.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "t1rx4f3k@goapple.web.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "7e343prt@pabu.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
-          "email": "gnvcjykt@d1pz.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1787613337323
-        },
-        {
           "email": "oxab9mij@6euo.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1787613337323
@@ -6437,7 +6387,7 @@
         }
       ],
       "sold": 6561,
-      "stock": 19,
+      "stock": 9,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6673,6 +6623,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV178762656012310",
+          "items": [
+            {
+              "email": "wgsyzzai@nq1h.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "4s3017lc@3gr2.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "1fdnhevi@uus7.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "kleudjrf@uus7.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "27dhe186@czjn.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "0kj55a5q@uus7.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "bbfcuf4k@pabu.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "t1rx4f3k@goapple.web.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "7e343prt@pabu.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            },
+            {
+              "email": "gnvcjykt@d1pz.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1787613337323
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-08-25T02:56:00.123Z"
         }
       ],
       "bulk_active": true,
