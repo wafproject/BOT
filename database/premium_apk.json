@@ -1143,14 +1143,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "buffon76@reestore.site|https://generator.email/buffon76@reestore.site",
-          "addedAt": 1783266949580
-        },
-        {
-          "email": "cadcam@mailfirefly.com|https://generator.email/cadcam@mailfirefly.com",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "jonathan1677@reclameaqui.services|https://generator.email/jonathan1677@reclameaqui.services",
           "addedAt": 1783266949580
         },
@@ -5187,8 +5179,8 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1011,
-      "sold": 901,
+      "stock": 1009,
+      "sold": 903,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
