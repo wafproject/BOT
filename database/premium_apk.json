@@ -6346,7 +6346,7 @@
           "addedAt": 1787613337323
         }
       ],
-      "sold": 6578,
+      "sold": 6579,
       "stock": 1,
       "reserved": [
         {
@@ -6583,18 +6583,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787642601989639",
-          "items": [
-            {
-              "email": "fomgop@kulipremium.biz.id",
-              "password": "masuk123",
-              "addedAt": 1787613337323
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-25T07:23:21.989Z"
         }
       ],
       "bulk_active": true,
