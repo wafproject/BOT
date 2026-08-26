@@ -6329,86 +6329,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "nichelelaiyahf@outlook.com",
-          "password": "cpwpmlzkt3",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "qiaravhqtrishia@outlook.com",
-          "password": "gqbvytymx1",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "malyguiliana472@outlook.com",
-          "password": "wmrivqiyi3",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "augustineatzin7483@outlook.com",
-          "password": "ecrwpcbku6",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "awildameryem9617@outlook.com",
-          "password": "xdxjnnrzm2",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "endyngina312@outlook.com",
-          "password": "qfkybwsum1",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "jalaiyajayko21091992@outlook.com",
-          "password": "xrhqquxac1",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "shoshannaswhhalo@outlook.com",
-          "password": "fssptnhfu7",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "danyaelkgzavonna@outlook.com",
-          "password": "ukboopvfc3",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "niels6524051994@outlook.com",
-          "password": "qibeuoxmm4",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "surinashaddai3905@outlook.com",
-          "password": "urgyxmfij2",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "layniewilhelmina439@outlook.com",
-          "password": "qhtdlkchb0",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "trevellcherise448@outlook.com",
-          "password": "wstncrbgz1",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "haneef8218021992@outlook.com",
-          "password": "tyiwujvmf5",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "faisal4522011990@outlook.com",
-          "password": "zxzkrjren1",
-          "addedAt": 1787780204518
-        },
-        {
-          "email": "ramataeriko959@outlook.com",
-          "password": "gxczyatua0",
-          "addedAt": 1787780204518
-        },
-        {
           "email": "kadyncesarahgrace20091998@outlook.com",
           "password": "hckhvmftl3",
           "addedAt": 1787780204518
@@ -6565,7 +6485,7 @@
         }
       ],
       "sold": 6580,
-      "stock": 47,
+      "stock": 31,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6801,6 +6721,93 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1787784060589170",
+          "items": [
+            {
+              "email": "nichelelaiyahf@outlook.com",
+              "password": "cpwpmlzkt3",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "qiaravhqtrishia@outlook.com",
+              "password": "gqbvytymx1",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "malyguiliana472@outlook.com",
+              "password": "wmrivqiyi3",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "augustineatzin7483@outlook.com",
+              "password": "ecrwpcbku6",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "awildameryem9617@outlook.com",
+              "password": "xdxjnnrzm2",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "endyngina312@outlook.com",
+              "password": "qfkybwsum1",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "jalaiyajayko21091992@outlook.com",
+              "password": "xrhqquxac1",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "shoshannaswhhalo@outlook.com",
+              "password": "fssptnhfu7",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "danyaelkgzavonna@outlook.com",
+              "password": "ukboopvfc3",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "niels6524051994@outlook.com",
+              "password": "qibeuoxmm4",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "surinashaddai3905@outlook.com",
+              "password": "urgyxmfij2",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "layniewilhelmina439@outlook.com",
+              "password": "qhtdlkchb0",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "trevellcherise448@outlook.com",
+              "password": "wstncrbgz1",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "haneef8218021992@outlook.com",
+              "password": "tyiwujvmf5",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "faisal4522011990@outlook.com",
+              "password": "zxzkrjren1",
+              "addedAt": 1787780204518
+            },
+            {
+              "email": "ramataeriko959@outlook.com",
+              "password": "gxczyatua0",
+              "addedAt": 1787780204518
+            }
+          ],
+          "qty": 16,
+          "createdAt": "2026-08-26T22:41:00.589Z"
         }
       ],
       "bulk_active": true,
