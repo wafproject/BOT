@@ -6552,10 +6552,20 @@
           "email": "hoqiqfkd@oxoz.jutjutsu.my.id",
           "password": "1234567",
           "addedAt": 1787780322167
+        },
+        {
+          "email": "hamfin@asikinaja.my.id",
+          "password": "masuk123",
+          "addedAt": 1787780411940
+        },
+        {
+          "email": "jebfod@myrepu.my.id",
+          "password": "masuk123",
+          "addedAt": 1787780411940
         }
       ],
       "sold": 6580,
-      "stock": 45,
+      "stock": 47,
       "reserved": [
         {
           "id": "RSV1780362536090628",
