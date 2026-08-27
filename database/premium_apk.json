@@ -6328,7 +6328,7 @@
       "descShort": "Full Garansi",
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [],
-      "sold": 6607,
+      "sold": 6627,
       "stock": 0,
       "reserved": [
         {
@@ -6565,113 +6565,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787794278917950",
-          "items": [
-            {
-              "email": "ots07ss3@5jmu.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780306390
-            },
-            {
-              "email": "qsuwm9ec@8dm0.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780306390
-            },
-            {
-              "email": "ifrn6k0c@gerako.web.id",
-              "password": "1234567",
-              "addedAt": 1787780306390
-            },
-            {
-              "email": "tydha3w7@8dm0.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780306390
-            },
-            {
-              "email": "gw27sgmk@8dm0.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780306390
-            },
-            {
-              "email": "ehcgl4at@piyora.my.id",
-              "password": "1234567",
-              "addedAt": 1787780306390
-            },
-            {
-              "email": "xqqenw5c@wyfl.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780306390
-            },
-            {
-              "email": "txkz292e@piyora.my.id",
-              "password": "1234567",
-              "addedAt": 1787780306390
-            },
-            {
-              "email": "tgax6ujm@m1yt.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780306390
-            },
-            {
-              "email": "vmhv38ms@ub3s.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780322167
-            },
-            {
-              "email": "db0e2bdu@8dm0.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780322167
-            },
-            {
-              "email": "rhz5f3xq@rgyc.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780322167
-            },
-            {
-              "email": "8lsq60c8@ou0l.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780322167
-            },
-            {
-              "email": "2x2imfjh@5jmu.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780322167
-            },
-            {
-              "email": "jlw358lo@piyora.my.id",
-              "password": "1234567",
-              "addedAt": 1787780322167
-            },
-            {
-              "email": "zjaup430@5jmu.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780322167
-            },
-            {
-              "email": "31b6lzxz@y9ec.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780322167
-            },
-            {
-              "email": "hoqiqfkd@oxoz.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787780322167
-            },
-            {
-              "email": "hamfin@asikinaja.my.id",
-              "password": "masuk123",
-              "addedAt": 1787780411940
-            },
-            {
-              "email": "jebfod@myrepu.my.id",
-              "password": "masuk123",
-              "addedAt": 1787780411940
-            }
-          ],
-          "qty": 20,
-          "createdAt": "2026-08-27T01:31:18.917Z"
         }
       ],
       "bulk_active": true,
