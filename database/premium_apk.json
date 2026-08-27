@@ -6469,7 +6469,7 @@
           "addedAt": 1787780411940
         }
       ],
-      "sold": 6598,
+      "sold": 6599,
       "stock": 28,
       "reserved": [
         {
@@ -6706,18 +6706,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787790434941378",
-          "items": [
-            {
-              "email": "jaselynmnxm795@outlook.com",
-              "password": "pmkjnnupk5",
-              "addedAt": 1787780204518
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-27T00:27:14.942Z"
         }
       ],
       "bulk_active": true,
