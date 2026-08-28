@@ -6321,46 +6321,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "pa4u8c1r@4prw.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1787903508480
-        },
-        {
-          "email": "dzkhoaoh@h3q5.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1787903508480
-        },
-        {
-          "email": "ymatz1ut@0iv2.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1787903508480
-        },
-        {
-          "email": "cw06nki0@0iv2.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1787903508480
-        },
-        {
-          "email": "y9kiubvv@0iv2.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1787903508480
-        },
-        {
-          "email": "htw8ibn9@h3q5.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1787903508480
-        },
-        {
-          "email": "8mrxt00y@pr88.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1787903508480
-        },
-        {
-          "email": "73tedadq@a4uk.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1787903508480
-        },
-        {
           "email": "37qh4moa@pr88.jutjutsu.my.id",
           "password": "1234567",
           "addedAt": 1787903508480
@@ -6402,7 +6362,7 @@
         }
       ],
       "sold": 6631,
-      "stock": 16,
+      "stock": 8,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6638,6 +6598,53 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1787913216870553",
+          "items": [
+            {
+              "email": "pa4u8c1r@4prw.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1787903508480
+            },
+            {
+              "email": "dzkhoaoh@h3q5.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1787903508480
+            },
+            {
+              "email": "ymatz1ut@0iv2.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1787903508480
+            },
+            {
+              "email": "cw06nki0@0iv2.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1787903508480
+            },
+            {
+              "email": "y9kiubvv@0iv2.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1787903508480
+            },
+            {
+              "email": "htw8ibn9@h3q5.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1787903508480
+            },
+            {
+              "email": "8mrxt00y@pr88.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1787903508480
+            },
+            {
+              "email": "73tedadq@a4uk.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1787903508480
+            }
+          ],
+          "qty": 8,
+          "createdAt": "2026-08-28T10:33:36.870Z"
         }
       ],
       "bulk_active": true,
