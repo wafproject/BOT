@@ -5168,20 +5168,8 @@
         }
       ],
       "stock": 1008,
-      "sold": 903,
-      "reserved": [
-        {
-          "id": "RSV1787884200520124",
-          "items": [
-            {
-              "email": "jonathan1677@reclameaqui.services|https://generator.email/jonathan1677@reclameaqui.services",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-28T02:30:00.521Z"
-        }
-      ],
+      "sold": 904,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
