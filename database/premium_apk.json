@@ -1135,10 +1135,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "jonathan1677@reclameaqui.services|https://generator.email/jonathan1677@reclameaqui.services",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "avieira@cuscuscuspen.life|https://generator.email/avieira@cuscuscuspen.life",
           "addedAt": 1783266949580
         },
@@ -5171,9 +5167,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1009,
+      "stock": 1008,
       "sold": 903,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1787884200520124",
+          "items": [
+            {
+              "email": "jonathan1677@reclameaqui.services|https://generator.email/jonathan1677@reclameaqui.services",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-08-28T02:30:00.521Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
