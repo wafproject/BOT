@@ -6361,7 +6361,7 @@
           "addedAt": 1787903508480
         }
       ],
-      "sold": 6631,
+      "sold": 6639,
       "stock": 8,
       "reserved": [
         {
@@ -6598,53 +6598,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787913216870553",
-          "items": [
-            {
-              "email": "pa4u8c1r@4prw.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787903508480
-            },
-            {
-              "email": "dzkhoaoh@h3q5.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787903508480
-            },
-            {
-              "email": "ymatz1ut@0iv2.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787903508480
-            },
-            {
-              "email": "cw06nki0@0iv2.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787903508480
-            },
-            {
-              "email": "y9kiubvv@0iv2.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787903508480
-            },
-            {
-              "email": "htw8ibn9@h3q5.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787903508480
-            },
-            {
-              "email": "8mrxt00y@pr88.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787903508480
-            },
-            {
-              "email": "73tedadq@a4uk.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787903508480
-            }
-          ],
-          "qty": 8,
-          "createdAt": "2026-08-28T10:33:36.870Z"
         }
       ],
       "bulk_active": true,
