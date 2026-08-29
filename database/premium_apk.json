@@ -6346,7 +6346,7 @@
           "addedAt": 1787989456208
         }
       ],
-      "sold": 6687,
+      "sold": 6688,
       "stock": 9,
       "reserved": [
         {
@@ -6583,18 +6583,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1788000687912276",
-          "items": [
-            {
-              "email": "f2b5zi25@icse.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787989443082
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-29T10:51:27.912Z"
         }
       ],
       "bulk_active": true,
