@@ -6324,7 +6324,7 @@
           "addedAt": 1787961802793
         }
       ],
-      "sold": 6664,
+      "sold": 6684,
       "stock": 3,
       "reserved": [
         {
@@ -6561,113 +6561,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV178796863051897",
-          "items": [
-            {
-              "email": "3ts4c0lm@q0tb.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "nox0hvms@uyz2.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "d8mmqboo@mrpw.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "26f0zmk4@szcw.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "elma1off@aqys.feycupz.biz.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "104v9yai@aqys.feycupz.biz.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "1do4ub7r@e17y.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "a0rs9q8g@ht6g.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "onjavy0l@sk0o.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "l25hnmcb@szcw.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "coalesceaffair@maildropy.com",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "adonis@maildropy.com",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "faithfulcat723@maildropy.com",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "obw52k5v@64cl.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787961792752
-            },
-            {
-              "email": "9t78wrgm@ddim.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787961792752
-            },
-            {
-              "email": "zdajpa9r@ht6g.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787961792752
-            },
-            {
-              "email": "phur26br@xqa8.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787961792752
-            },
-            {
-              "email": "9yp7lfi3@ddim.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787961792752
-            },
-            {
-              "email": "6s3uj732@ht6g.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787961792752
-            },
-            {
-              "email": "qi5gpzbc@bvfn.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787961792752
-            }
-          ],
-          "qty": 20,
-          "createdAt": "2026-08-29T01:57:10.518Z"
         }
       ],
       "bulk_active": true,
