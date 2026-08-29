@@ -579,10 +579,6 @@
         },
         {
           "text": "baca snk",
-          "addedAt": 1787320788302
-        },
-        {
-          "text": "baca snk",
           "addedAt": 1787320800446
         },
         {
@@ -1038,8 +1034,8 @@
           "addedAt": 1787320808186
         }
       ],
-      "stock": 171,
-      "sold": 142,
+      "stock": 170,
+      "sold": 143,
       "reserved": [
         {
           "id": "RSV1779882154946780",
