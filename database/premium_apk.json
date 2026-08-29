@@ -6494,10 +6494,15 @@
           "email": "foaf9jea@z9rz.jutjutsu.my.id",
           "password": "1234567",
           "addedAt": 1788043148084
+        },
+        {
+          "email": "newmusicbox@maildropy.com",
+          "password": "1234567",
+          "addedAt": 1788043161146
         }
       ],
       "sold": 6697,
-      "stock": 39,
+      "stock": 40,
       "reserved": [
         {
           "id": "RSV1780362536090628",
