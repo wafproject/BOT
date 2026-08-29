@@ -6469,7 +6469,7 @@
           "addedAt": 1787961802793
         }
       ],
-      "sold": 6648,
+      "sold": 6658,
       "stock": 29,
       "reserved": [
         {
@@ -6706,63 +6706,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787962455336165",
-          "items": [
-            {
-              "email": "1g9bafwy@u4yo.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785842
-            },
-            {
-              "email": "g6n5e4lg@ybv9.capskuy.eu.cc",
-              "password": "1234567",
-              "addedAt": 1787953785842
-            },
-            {
-              "email": "exud2by9@np8d.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785842
-            },
-            {
-              "email": "l1mgbwpe@u4yo.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785842
-            },
-            {
-              "email": "vnec5hcc@1cop.capskuy.eu.cc",
-              "password": "1234567",
-              "addedAt": 1787953785842
-            },
-            {
-              "email": "e9lv9xmd@e4jz.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785842
-            },
-            {
-              "email": "1o15lemj@np8d.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "nrjf2gfp@yfl1.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "pf1xa81s@p5av.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            },
-            {
-              "email": "9edpoggd@lwhv.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1787953785843
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-08-29T00:14:15.337Z"
         }
       ],
       "bulk_active": true,
