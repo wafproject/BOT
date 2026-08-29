@@ -6288,27 +6288,9 @@
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 25 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [],
-      "sold": 566,
+      "sold": 568,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV1787968187631220",
-          "items": [
-            {
-              "email": "karinadare@maildropy.com",
-              "password": "1234567",
-              "addedAt": 1787953805738
-            },
-            {
-              "email": "damon@maildropy.com",
-              "password": "1234567",
-              "addedAt": 1787953805738
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-08-29T01:49:47.631Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
