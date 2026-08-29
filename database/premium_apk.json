@@ -6348,10 +6348,15 @@
           "email": "u03gmhah@5huj.jutjutsu.my.id",
           "password": "1234567",
           "addedAt": 1787989443082
+        },
+        {
+          "email": "marahahn@maildropy.com",
+          "password": "1234567",
+          "addedAt": 1787989456208
         }
       ],
       "sold": 6687,
-      "stock": 9,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1780362536090628",
