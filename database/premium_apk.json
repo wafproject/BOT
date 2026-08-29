@@ -6310,7 +6310,7 @@
           "addedAt": 1787961802793
         }
       ],
-      "sold": 6685,
+      "sold": 6686,
       "stock": 1,
       "reserved": [
         {
@@ -6547,18 +6547,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1787970089865594",
-          "items": [
-            {
-              "email": "1qsumh0v@dxtram.fun",
-              "password": "1234567",
-              "addedAt": 1787961792752
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-29T02:21:29.865Z"
         }
       ],
       "bulk_active": true,
