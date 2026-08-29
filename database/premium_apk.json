@@ -6512,10 +6512,15 @@
           "email": "1qsumh0v@dxtram.fun",
           "password": "1234567",
           "addedAt": 1787961792752
+        },
+        {
+          "email": "lauren43@maildropy.com",
+          "password": "1234567",
+          "addedAt": 1787961802793
         }
       ],
       "sold": 6648,
-      "stock": 38,
+      "stock": 39,
       "reserved": [
         {
           "id": "RSV1780362536090628",
