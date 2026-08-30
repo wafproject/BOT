@@ -6299,60 +6299,9 @@
       "price": 3000,
       "descShort": "Full Garansi",
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
-      "items": [
-        {
-          "email": "grhkbw56@ou0l.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1788043148084
-        },
-        {
-          "email": "kqdx8c1i@ou0l.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1788043148084
-        },
-        {
-          "email": "xq61by5u@gohaneon.web.id",
-          "password": "1234567",
-          "addedAt": 1788043148084
-        },
-        {
-          "email": "0o1gpbl9@7bjw.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1788043148084
-        },
-        {
-          "email": "90xog2qh@9m0z.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1788043148084
-        },
-        {
-          "email": "meob7du2@z9rz.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1788043148084
-        },
-        {
-          "email": "tf2barsd@7hhu.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1788043148084
-        },
-        {
-          "email": "harbx5fx@ou0l.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1788043148084
-        },
-        {
-          "email": "foaf9jea@z9rz.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1788043148084
-        },
-        {
-          "email": "newmusicbox@maildropy.com",
-          "password": "1234567",
-          "addedAt": 1788043161146
-        }
-      ],
+      "items": [],
       "sold": 6727,
-      "stock": 10,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6588,6 +6537,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1788055666566329",
+          "items": [
+            {
+              "email": "grhkbw56@ou0l.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1788043148084
+            },
+            {
+              "email": "kqdx8c1i@ou0l.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1788043148084
+            },
+            {
+              "email": "xq61by5u@gohaneon.web.id",
+              "password": "1234567",
+              "addedAt": 1788043148084
+            },
+            {
+              "email": "0o1gpbl9@7bjw.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1788043148084
+            },
+            {
+              "email": "90xog2qh@9m0z.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1788043148084
+            },
+            {
+              "email": "meob7du2@z9rz.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1788043148084
+            },
+            {
+              "email": "tf2barsd@7hhu.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1788043148084
+            },
+            {
+              "email": "harbx5fx@ou0l.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1788043148084
+            },
+            {
+              "email": "foaf9jea@z9rz.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1788043148084
+            },
+            {
+              "email": "newmusicbox@maildropy.com",
+              "password": "1234567",
+              "addedAt": 1788043161146
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-08-30T02:07:46.566Z"
         }
       ],
       "bulk_active": true,
