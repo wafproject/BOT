@@ -5144,20 +5144,8 @@
         }
       ],
       "stock": 1007,
-      "sold": 904,
-      "reserved": [
-        {
-          "id": "RSV178805743688655",
-          "items": [
-            {
-              "email": "avieira@cuscuscuspen.life|https://generator.email/avieira@cuscuscuspen.life",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-08-30T02:37:16.886Z"
-        }
-      ],
+      "sold": 905,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
