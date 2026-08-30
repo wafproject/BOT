@@ -6351,7 +6351,7 @@
           "addedAt": 1788043161146
         }
       ],
-      "sold": 6717,
+      "sold": 6727,
       "stock": 10,
       "reserved": [
         {
@@ -6588,63 +6588,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1788051659389593",
-          "items": [
-            {
-              "email": "cqdqo2m5@iqzh.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1788040352041
-            },
-            {
-              "email": "edmwtkjt@39ym.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1788040352041
-            },
-            {
-              "email": "lkm505zt@e4jz.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1788040352041
-            },
-            {
-              "email": "snsh7vln@ylwk.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1788040352041
-            },
-            {
-              "email": "tn191je6@zv8j.jutjutsu.my.id",
-              "password": "1234567",
-              "addedAt": 1788040352041
-            },
-            {
-              "email": "p03wqmfy@arfyyt.biz.id",
-              "password": "1234567",
-              "addedAt": 1788040352041
-            },
-            {
-              "email": "9wugh9d8@arfyyt.biz.id",
-              "password": "1234567",
-              "addedAt": 1788040352041
-            },
-            {
-              "email": "ethicalhorse@maildropy.com",
-              "password": "1234567",
-              "addedAt": 1788040352041
-            },
-            {
-              "email": "slimcow@maildropy.com",
-              "password": "1234567",
-              "addedAt": 1788040352041
-            },
-            {
-              "email": "estella38@maildropy.com",
-              "password": "1234567",
-              "addedAt": 1788040352041
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-08-30T01:00:59.389Z"
         }
       ],
       "bulk_active": true,
