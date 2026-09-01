@@ -6112,31 +6112,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "esqep9fr@vckf.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1788301396076
-        },
-        {
-          "email": "b99cv1qn@acmizs.com",
-          "password": "1234567",
-          "addedAt": 1788301396076
-        },
-        {
-          "email": "djtd53ax@49vc.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1788301396076
-        },
-        {
-          "email": "w1o2kqpi@yxyb.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1788301396076
-        },
-        {
-          "email": "8eggirtr@0iv2.jutjutsu.my.id",
-          "password": "1234567",
-          "addedAt": 1788301396076
-        },
-        {
           "email": "0ga9200w@gz5q.capskuy.eu.cc",
           "password": "1234567",
           "addedAt": 1788301396076
@@ -6263,7 +6238,7 @@
         }
       ],
       "sold": 6797,
-      "stock": 30,
+      "stock": 25,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6499,6 +6474,38 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1788302908395819",
+          "items": [
+            {
+              "email": "esqep9fr@vckf.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1788301396076
+            },
+            {
+              "email": "b99cv1qn@acmizs.com",
+              "password": "1234567",
+              "addedAt": 1788301396076
+            },
+            {
+              "email": "djtd53ax@49vc.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1788301396076
+            },
+            {
+              "email": "w1o2kqpi@yxyb.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1788301396076
+            },
+            {
+              "email": "8eggirtr@0iv2.jutjutsu.my.id",
+              "password": "1234567",
+              "addedAt": 1788301396076
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-09-01T22:48:28.395Z"
         }
       ],
       "bulk_active": true,
