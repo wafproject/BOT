@@ -6388,7 +6388,7 @@
           "addedAt": 1788228813014
         }
       ],
-      "sold": 6777,
+      "sold": 6778,
       "stock": 19,
       "reserved": [
         {
@@ -6625,18 +6625,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1788228855248230",
-          "items": [
-            {
-              "email": "p39n8esu@bmjo.feycupz.biz.id",
-              "password": "1234567",
-              "addedAt": 1788228813014
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-01T02:14:15.248Z"
         }
       ],
       "bulk_active": true,
