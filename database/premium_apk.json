@@ -9033,16 +9033,12 @@
       "snk": "No Garansi",
       "items": [
         {
-          "text": "hagzoa@kulipremium.web.id|1234567",
-          "addedAt": 1788305299117
-        },
-        {
           "text": "profitablefish@maildropy.com|1234567",
           "addedAt": 1788305299117
         }
       ],
       "sold": 0,
-      "stock": 2
+      "stock": 1
     },
     {
       "code": "OT",
