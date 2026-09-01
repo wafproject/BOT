@@ -9081,9 +9081,18 @@
       "bulk_prices": [],
       "descShort": "",
       "snk": "No Garansi",
-      "items": [],
+      "items": [
+        {
+          "text": "hagzoa@kulipremium.web.id|1234567",
+          "addedAt": 1788305299117
+        },
+        {
+          "text": "profitablefish@maildropy.com|1234567",
+          "addedAt": 1788305299117
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 2
     },
     {
       "code": "OT",
