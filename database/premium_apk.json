@@ -6130,7 +6130,7 @@
           "addedAt": 1788308262691
         }
       ],
-      "sold": 6830,
+      "sold": 6831,
       "stock": 6,
       "reserved": [
         {
@@ -6367,18 +6367,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1788351692903107",
-          "items": [
-            {
-              "email": "dataro45217@sinon.edu.pl",
-              "password": "masuk123",
-              "addedAt": 1788308245914
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-02T12:21:32.903Z"
         }
       ],
       "bulk_active": true,
