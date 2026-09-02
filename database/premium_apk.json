@@ -4955,20 +4955,8 @@
         }
       ],
       "stock": 1006,
-      "sold": 905,
-      "reserved": [
-        {
-          "id": "RSV1788321910922570",
-          "items": [
-            {
-              "email": "aleatrix@kawneha.site|https://generator.email/aleatrix@kawneha.site",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-02T04:05:10.922Z"
-        }
-      ],
+      "sold": 906,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
