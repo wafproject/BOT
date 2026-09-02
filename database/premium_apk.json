@@ -386,10 +386,6 @@
         },
         {
           "text": "baca snk",
-          "addedAt": 1787320788302
-        },
-        {
-          "text": "baca snk",
           "addedAt": 1787320800446
         },
         {
@@ -845,7 +841,7 @@
           "addedAt": 1787320808186
         }
       ],
-      "stock": 170,
+      "stock": 169,
       "sold": 143,
       "reserved": [
         {
@@ -857,6 +853,17 @@
           ],
           "qty": 1,
           "createdAt": "2026-05-27T11:42:34.946Z"
+        },
+        {
+          "id": "RSV1788333167882719",
+          "items": [
+            {
+              "text": "baca snk",
+              "addedAt": 1787320788302
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-02T07:12:47.883Z"
         }
       ],
       "bulk_active": false,
