@@ -4951,20 +4951,8 @@
         }
       ],
       "stock": 1005,
-      "sold": 906,
-      "reserved": [
-        {
-          "id": "RSV1788327242639272",
-          "items": [
-            {
-              "email": "jnehjd@xsnipersquad.com|https://generator.email/jnehjd@xsnipersquad.com",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-02T05:34:02.639Z"
-        }
-      ],
+      "sold": 907,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
