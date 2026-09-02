@@ -9125,22 +9125,9 @@
           "addedAt": 1787008100003
         }
       ],
-      "sold": 667,
+      "sold": 668,
       "stock": 27,
-      "reserved": [
-        {
-          "id": "RSV178835858068434",
-          "items": [
-            {
-              "email": "JalynnBurson48029@outlook.com",
-              "password": "veegr740005",
-              "addedAt": 1787008100003
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-02T14:16:20.684Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "HT",
