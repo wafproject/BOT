@@ -6230,10 +6230,15 @@
           "email": "robire37164@sinon.edu.pl",
           "password": "masuk123",
           "addedAt": 1788308245914
+        },
+        {
+          "email": "hagzoa@kulipremium.web.id",
+          "password": "1234567",
+          "addedAt": 1788308262691
         }
       ],
       "sold": 6812,
-      "stock": 24,
+      "stock": 25,
       "reserved": [
         {
           "id": "RSV1780362536090628",
