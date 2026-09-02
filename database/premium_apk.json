@@ -8998,14 +8998,9 @@
       "bulk_prices": [],
       "descShort": "",
       "snk": "No Garansi",
-      "items": [
-        {
-          "text": "profitablefish@maildropy.com|1234567",
-          "addedAt": 1788305299117
-        }
-      ],
-      "sold": 0,
-      "stock": 1
+      "items": [],
+      "sold": 1,
+      "stock": 0
     },
     {
       "code": "OT",
