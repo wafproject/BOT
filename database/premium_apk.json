@@ -6111,106 +6111,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "dofuja40949@sinon.edu.pl",
-          "password": "masuk123",
-          "addedAt": 1788308245914
-        },
-        {
-          "email": "rofoso15466@sinon.edu.pl",
-          "password": "masuk123",
-          "addedAt": 1788308245914
-        },
-        {
-          "email": "robire37164@sinon.edu.pl",
-          "password": "masuk123",
-          "addedAt": 1788308245914
-        },
-        {
-          "email": "hagzoa@kulipremium.web.id",
-          "password": "1234567",
-          "addedAt": 1788308262691
-        },
-        {
-          "email": "hdnov760@vcdw.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "vje1zqcb@70dr.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "15kd15ux@acmizs.com",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "lk6amnz2@fatc.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "f31bf3ey@wgry.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "b9nlxvj6@azwv.feycupz.biz.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "90spziks@px00.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "mcp68mut@acmizs.com",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "vgev3a13@wgry.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "ekv4549h@y9ec.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "8r6sozux@y9ec.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "pt8d7usl@vcdw.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "kvtawqm3@y9ec.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "crs2ph44@4prw.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "umej3ypz@9y7d.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "b8cfuq6k@acmizs.com",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
           "email": "l24lhseq@fatc.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1788374281946
@@ -6282,7 +6182,7 @@
         }
       ],
       "sold": 6833,
-      "stock": 34,
+      "stock": 14,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6518,6 +6418,113 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1788391982669783",
+          "items": [
+            {
+              "email": "dofuja40949@sinon.edu.pl",
+              "password": "masuk123",
+              "addedAt": 1788308245914
+            },
+            {
+              "email": "rofoso15466@sinon.edu.pl",
+              "password": "masuk123",
+              "addedAt": 1788308245914
+            },
+            {
+              "email": "robire37164@sinon.edu.pl",
+              "password": "masuk123",
+              "addedAt": 1788308245914
+            },
+            {
+              "email": "hagzoa@kulipremium.web.id",
+              "password": "1234567",
+              "addedAt": 1788308262691
+            },
+            {
+              "email": "hdnov760@vcdw.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "vje1zqcb@70dr.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "15kd15ux@acmizs.com",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "lk6amnz2@fatc.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "f31bf3ey@wgry.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "b9nlxvj6@azwv.feycupz.biz.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "90spziks@px00.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "mcp68mut@acmizs.com",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "vgev3a13@wgry.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "ekv4549h@y9ec.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "8r6sozux@y9ec.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "pt8d7usl@vcdw.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "kvtawqm3@y9ec.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "crs2ph44@4prw.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "umej3ypz@9y7d.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "b8cfuq6k@acmizs.com",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            }
+          ],
+          "qty": 20,
+          "createdAt": "2026-09-02T23:33:02.669Z"
         }
       ],
       "bulk_active": true,
