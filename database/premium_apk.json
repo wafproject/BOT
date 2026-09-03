@@ -8955,21 +8955,6 @@
       "snk": "* NO GARANSI\n• KALO MASIH MAU LOGIN TERUS MERAH BACAAN TERLALU BANYAK PERCOBAAN LOGIN, GANTI BROWSER/GANTI JARINGAN/MASUK KE MODE SAMARAN",
       "items": [
         {
-          "email": "JalynnCampiglia590713@outlook.com",
-          "password": "edvpmm57627",
-          "addedAt": 1787008100003
-        },
-        {
-          "email": "JalynnCanant91800@outlook.com",
-          "password": "gwnwd889500",
-          "addedAt": 1787008100003
-        },
-        {
-          "email": "JalynnCarrizo640985@outlook.com",
-          "password": "ssdltv28040",
-          "addedAt": 1787008100003
-        },
-        {
           "email": "JalynnChitwood43048@outlook.com",
           "password": "veqyh008084",
           "addedAt": 1787008100003
@@ -9091,8 +9076,31 @@
         }
       ],
       "sold": 668,
-      "stock": 27,
-      "reserved": []
+      "stock": 24,
+      "reserved": [
+        {
+          "id": "RSV1788448330140232",
+          "items": [
+            {
+              "email": "JalynnCampiglia590713@outlook.com",
+              "password": "edvpmm57627",
+              "addedAt": 1787008100003
+            },
+            {
+              "email": "JalynnCanant91800@outlook.com",
+              "password": "gwnwd889500",
+              "addedAt": 1787008100003
+            },
+            {
+              "email": "JalynnCarrizo640985@outlook.com",
+              "password": "ssdltv28040",
+              "addedAt": 1787008100003
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-09-03T15:12:10.140Z"
+        }
+      ]
     },
     {
       "code": "HT",
