@@ -4943,20 +4943,8 @@
         }
       ],
       "stock": 1004,
-      "sold": 907,
-      "reserved": [
-        {
-          "id": "RSV1788442210261847",
-          "items": [
-            {
-              "email": "sangitha86@makeraura.online|https://generator.email/sangitha86@makeraura.online",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-03T13:30:10.262Z"
-        }
-      ],
+      "sold": 908,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
