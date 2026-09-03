@@ -926,10 +926,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "sangitha86@makeraura.online|https://generator.email/sangitha86@makeraura.online",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "johnyjq@paratrabajar.xyz|https://generator.email/johnyjq@paratrabajar.xyz",
           "addedAt": 1783266949580
         },
@@ -4946,9 +4942,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1005,
+      "stock": 1004,
       "sold": 907,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1788399446292440",
+          "items": [
+            {
+              "email": "sangitha86@makeraura.online|https://generator.email/sangitha86@makeraura.online",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-03T01:37:26.292Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
