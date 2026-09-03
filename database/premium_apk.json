@@ -6111,56 +6111,6 @@
       "snk": "* AKUN REAL PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR",
       "items": [
         {
-          "email": "l24lhseq@fatc.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "81pjgloo@wgry.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "b52vg6dj@y9ec.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "jsghfcec@zu5y.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "wu958e4x@czjn.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "tbj8vn0e@acmizs.com",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "ul1yqubj@y9ec.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "yj2y9s0c@9y7d.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "omuxwyud@wgry.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
-          "email": "royii6ja@4prw.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788374281946
-        },
-        {
           "email": "nax7b2pe@azwv.feycupz.biz.id",
           "password": "masuk123",
           "addedAt": 1788374281946
@@ -6182,7 +6132,7 @@
         }
       ],
       "sold": 6853,
-      "stock": 14,
+      "stock": 4,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6418,6 +6368,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1788400076297118",
+          "items": [
+            {
+              "email": "l24lhseq@fatc.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "81pjgloo@wgry.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "b52vg6dj@y9ec.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "jsghfcec@zu5y.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "wu958e4x@czjn.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "tbj8vn0e@acmizs.com",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "ul1yqubj@y9ec.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "yj2y9s0c@9y7d.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "omuxwyud@wgry.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            },
+            {
+              "email": "royii6ja@4prw.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788374281946
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-09-03T01:47:56.297Z"
         }
       ],
       "bulk_active": true,
