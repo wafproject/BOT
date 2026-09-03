@@ -6229,10 +6229,25 @@
           "email": "pqrdp1wb@azwv.feycupz.biz.id",
           "password": "masuk123",
           "addedAt": 1788459335206
+        },
+        {
+          "email": "lostlimestone@maildropy.com",
+          "password": "masuk123",
+          "addedAt": 1788459353908
+        },
+        {
+          "email": "marcellus@maildropy.com",
+          "password": "masuk123",
+          "addedAt": 1788459353908
+        },
+        {
+          "email": "hollieskiles@maildropy.com",
+          "password": "masuk123",
+          "addedAt": 1788459353908
         }
       ],
       "sold": 6867,
-      "stock": 27,
+      "stock": 30,
       "reserved": [
         {
           "id": "RSV1780362536090628",
