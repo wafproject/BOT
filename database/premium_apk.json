@@ -6085,22 +6085,9 @@
           "addedAt": 1788374312045
         }
       ],
-      "sold": 568,
+      "sold": 569,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV1788404887163406",
-          "items": [
-            {
-              "email": "ryleighsimonis@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1788374312045
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-03T03:08:07.163Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
