@@ -6126,7 +6126,7 @@
           "addedAt": 1788374333284
         }
       ],
-      "sold": 6863,
+      "sold": 6864,
       "stock": 3,
       "reserved": [
         {
@@ -6363,18 +6363,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1788400785748914",
-          "items": [
-            {
-              "email": "nax7b2pe@azwv.feycupz.biz.id",
-              "password": "masuk123",
-              "addedAt": 1788374281946
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-03T01:59:45.748Z"
         }
       ],
       "bulk_active": true,
