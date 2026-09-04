@@ -6121,7 +6121,7 @@
           "addedAt": 1788459353908
         }
       ],
-      "sold": 6891,
+      "sold": 6892,
       "stock": 5,
       "reserved": [
         {
@@ -6358,18 +6358,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1788525971491163",
-          "items": [
-            {
-              "email": "563donak@lepi.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1788459335206
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-04T12:46:11.491Z"
         }
       ],
       "bulk_active": true,
