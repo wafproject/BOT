@@ -6151,7 +6151,7 @@
           "addedAt": 1788459353908
         }
       ],
-      "sold": 6885,
+      "sold": 6886,
       "stock": 11,
       "reserved": [
         {
@@ -6388,18 +6388,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1788510153287235",
-          "items": [
-            {
-              "email": "cbkscwkd@sukuna.biz.id",
-              "password": "masuk123",
-              "addedAt": 1788459335206
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-04T08:22:33.287Z"
         }
       ],
       "bulk_active": true,
