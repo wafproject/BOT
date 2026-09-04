@@ -9211,22 +9211,9 @@
           "addedAt": 1787008100003
         }
       ],
-      "sold": 671,
+      "sold": 672,
       "stock": 23,
-      "reserved": [
-        {
-          "id": "RSV1788496039956421",
-          "items": [
-            {
-              "email": "JalynnChitwood43048@outlook.com",
-              "password": "veqyh008084",
-              "addedAt": 1787008100003
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-04T04:27:19.956Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "HT",
