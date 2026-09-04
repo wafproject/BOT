@@ -6106,7 +6106,7 @@
           "addedAt": 1788459353908
         }
       ],
-      "sold": 6894,
+      "sold": 6895,
       "stock": 2,
       "reserved": [
         {
@@ -6343,18 +6343,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1788539748039325",
-          "items": [
-            {
-              "email": "lostlimestone@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1788459353908
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-04T16:35:48.039Z"
         }
       ],
       "bulk_active": true,
