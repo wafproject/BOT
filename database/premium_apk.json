@@ -6284,10 +6284,25 @@
           "email": "36qtqxzn@uyz2.jutjutsu.my.id",
           "password": "masukin123",
           "addedAt": 1788558132782
+        },
+        {
+          "email": "darronstrosin@maildropy.com",
+          "password": "masukin123",
+          "addedAt": 1788558161408
+        },
+        {
+          "email": "quaintladle461@maildropy.com",
+          "password": "masukin123",
+          "addedAt": 1788558161408
+        },
+        {
+          "email": "commentatevisual@maildropy.com",
+          "password": "masukin123",
+          "addedAt": 1788558161408
         }
       ],
       "sold": 6895,
-      "stock": 38,
+      "stock": 41,
       "reserved": [
         {
           "id": "RSV1780362536090628",
