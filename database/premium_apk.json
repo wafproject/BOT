@@ -5998,20 +5998,8 @@
         }
       ],
       "stock": 11,
-      "sold": 12,
-      "reserved": [
-        {
-          "id": "RSV1788606596179902",
-          "items": [
-            {
-              "text": "Kirim data ke admin @asyik05",
-              "addedAt": 1784535545167
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-05T11:09:56.179Z"
-        }
-      ],
+      "sold": 13,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
