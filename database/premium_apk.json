@@ -6092,48 +6092,13 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "mstr07ui@bqwc.feycupz.biz.id",
-          "password": "masuk123",
-          "addedAt": 1788647414401
-        },
-        {
-          "email": "0w1dhfh0@gz5q.capskuy.eu.cc",
-          "password": "masuk123",
-          "addedAt": 1788647414401
-        },
-        {
-          "email": "gbasg1yq@krv4.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788647414401
-        },
-        {
-          "email": "k3455krx@7m7k.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1788647414401
-        },
-        {
-          "email": "sparklinghorse@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1788647414401
-        },
-        {
-          "email": "idealbonding628@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1788647414401
-        },
-        {
-          "email": "fleshinvasion@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1788647414401
-        },
-        {
           "email": "centralizeportion@maildropy.com",
           "password": "masuk123",
           "addedAt": 1788647414401
         }
       ],
       "sold": 6989,
-      "stock": 8,
+      "stock": 1,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6369,6 +6334,48 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1788664935592445",
+          "items": [
+            {
+              "email": "mstr07ui@bqwc.feycupz.biz.id",
+              "password": "masuk123",
+              "addedAt": 1788647414401
+            },
+            {
+              "email": "0w1dhfh0@gz5q.capskuy.eu.cc",
+              "password": "masuk123",
+              "addedAt": 1788647414401
+            },
+            {
+              "email": "gbasg1yq@krv4.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788647414401
+            },
+            {
+              "email": "k3455krx@7m7k.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1788647414401
+            },
+            {
+              "email": "sparklinghorse@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1788647414401
+            },
+            {
+              "email": "idealbonding628@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1788647414401
+            },
+            {
+              "email": "fleshinvasion@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1788647414401
+            }
+          ],
+          "qty": 7,
+          "createdAt": "2026-09-06T03:22:15.592Z"
         }
       ],
       "bulk_active": true,
