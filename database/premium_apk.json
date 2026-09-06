@@ -6137,7 +6137,7 @@
           "addedAt": 1788647414401
         }
       ],
-      "sold": 6973,
+      "sold": 6988,
       "stock": 9,
       "reserved": [
         {
@@ -6374,88 +6374,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1788660802907770",
-          "items": [
-            {
-              "email": "drt5385y@bqwc.feycupz.biz.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "1ujiqdm3@krv4.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "tvs4o7ap@bqwc.feycupz.biz.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "xxoaosbf@7hhu.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "4zpwriiu@sqvh.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "sbs1txlg@sqvh.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "f6mmheaf@ok39.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "kr4nndcu@gz5q.capskuy.eu.cc",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "hthmk6iv@piyodev.web.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "12g8ob3y@krv4.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "er9w7wij@gz5q.capskuy.eu.cc",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "3zho6zs2@piyodev.web.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "e8l62wb9@7m7k.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "yeur3edo@t9ph.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            },
-            {
-              "email": "kv640ali@0ccw.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1788647414401
-            }
-          ],
-          "qty": 15,
-          "createdAt": "2026-09-06T02:13:22.907Z"
         }
       ],
       "bulk_active": true,
