@@ -6315,10 +6315,35 @@
           "email": "l01muklp@f1ud.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1788722194514
+        },
+        {
+          "email": "nosediveplane@maildropy.com",
+          "password": "masuk123",
+          "addedAt": 1788722211435
+        },
+        {
+          "email": "angie55@maildropy.com",
+          "password": "masuk123",
+          "addedAt": 1788722211435
+        },
+        {
+          "email": "electa@maildropy.com",
+          "password": "masuk123",
+          "addedAt": 1788722211435
+        },
+        {
+          "email": "susanadoyle@maildropy.com",
+          "password": "masuk123",
+          "addedAt": 1788722211435
+        },
+        {
+          "email": "dappersum736@maildropy.com",
+          "password": "masuk123",
+          "addedAt": 1788722211435
         }
       ],
       "sold": 6997,
-      "stock": 45,
+      "stock": 50,
       "reserved": [
         {
           "id": "RSV1780362536090628",
