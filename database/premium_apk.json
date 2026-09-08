@@ -55,7 +55,7 @@
     },
     {
       "name": "WETV PREMIUM",
-      "is_active": false
+      "is_active": true
     },
     {
       "name": "Netflix Premium UHD",
