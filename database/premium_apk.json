@@ -9059,6 +9059,20 @@
       "items": [],
       "sold": 482,
       "stock": 0
+    },
+    {
+      "code": "MEITU",
+      "name": "Meitu VIP 7 Days All Device",
+      "category": "Meitu Vip",
+      "type": "akun",
+      "price": 2000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "Garansi 5 Hari",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
