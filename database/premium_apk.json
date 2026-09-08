@@ -9273,9 +9273,55 @@
       "bulk_prices": [],
       "descShort": "All Device",
       "snk": "Garansi 5 Hari",
-      "items": [],
+      "items": [
+        {
+          "email": "layla13@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897391234
+        },
+        {
+          "email": "adrienne@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897391234
+        },
+        {
+          "email": "angeliccow@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897391234
+        },
+        {
+          "email": "kaylee92@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897391234
+        },
+        {
+          "email": "elizabeth50@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897391234
+        },
+        {
+          "email": "lenna32@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897391234
+        },
+        {
+          "email": "guiseppe48@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897391234
+        },
+        {
+          "email": "dustinhomenick@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897391234
+        },
+        {
+          "email": "edgardo@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897391234
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 9
     }
   ],
   "meta": {
