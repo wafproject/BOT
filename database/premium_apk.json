@@ -6674,9 +6674,55 @@
       "bulk_prices": [],
       "descShort": "All Device",
       "snk": "Support All Device",
-      "items": [],
+      "items": [
+        {
+          "email": "hairysnake@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897375950
+        },
+        {
+          "email": "aggregateprizefight@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897375950
+        },
+        {
+          "email": "lumpyhutch748@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897375950
+        },
+        {
+          "email": "clamambition@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897375950
+        },
+        {
+          "email": "pristinedegree612@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897375950
+        },
+        {
+          "email": "ronkuvalis@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897375950
+        },
+        {
+          "email": "rejoicebirdhouse@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897375950
+        },
+        {
+          "email": "runnycontour@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897375950
+        },
+        {
+          "email": "offshorebride@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897375950
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 9
     },
     {
       "code": "VIULIFE",
