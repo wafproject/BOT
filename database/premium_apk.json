@@ -5923,8 +5923,33 @@
       "price": 11500,
       "descShort": "Full Garansi",
       "snk": "* Full Garansi 20 Hari.\n• Dilarang change email, password, alamat, dll.\n• Akun awet sesuai pemakaian (selama ini belum pernah backfree).\n• Jika ada kendala hubungi admin",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "text": "jensenjerde@maildropy.com|biru123456",
+          "addedAt": 1788900506585
+        },
+        {
+          "text": "cooannual@maildropy.com|biru123456",
+          "addedAt": 1788900506585
+        },
+        {
+          "text": "harmfulcat@maildropy.com|biru123456",
+          "addedAt": 1788900506585
+        },
+        {
+          "text": "harveyfeeney@maildropy.com|biru123456",
+          "addedAt": 1788900506585
+        },
+        {
+          "text": "maximus11@maildropy.com|biru123456",
+          "addedAt": 1788900506585
+        },
+        {
+          "text": "xasa_maluda29@icloud.com|biru123456",
+          "addedAt": 1788900506585
+        }
+      ],
+      "stock": 6,
       "sold": 150,
       "reserved": [],
       "bulk_active": false,
