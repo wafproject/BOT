@@ -9322,6 +9322,20 @@
       ],
       "sold": 0,
       "stock": 9
+    },
+    {
+      "code": "WETV3U",
+      "name": "WeTV Anlim 1 Bulan Sharing 3U",
+      "category": "WETV PREMIUM",
+      "type": "akun",
+      "price": 10000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "nanti",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
