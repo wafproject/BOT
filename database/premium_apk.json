@@ -78,6 +78,10 @@
     {
       "name": "Email Fresh",
       "is_active": true
+    },
+    {
+      "name": "Meitu Vip",
+      "is_active": true
     }
   ],
   "products": [
