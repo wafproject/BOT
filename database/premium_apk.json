@@ -922,6 +922,10 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
+          "email": "johnyjq@paratrabajar.xyz|https://generator.email/johnyjq@paratrabajar.xyz",
+          "addedAt": 1783266949580
+        },
+        {
           "email": "mgk64net@waroengpremium.com|https://generator.email/mgk64net@waroengpremium.com",
           "addedAt": 1783266949580
         },
@@ -4934,21 +4938,9 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1003,
+      "stock": 1004,
       "sold": 908,
-      "reserved": [
-        {
-          "id": "RSV1788833045213821",
-          "items": [
-            {
-              "email": "johnyjq@paratrabajar.xyz|https://generator.email/johnyjq@paratrabajar.xyz",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-08T02:04:05.213Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
