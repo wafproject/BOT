@@ -9109,22 +9109,9 @@
           "addedAt": 1787008100003
         }
       ],
-      "sold": 676,
+      "sold": 677,
       "stock": 18,
-      "reserved": [
-        {
-          "id": "RSV1788941012944806",
-          "items": [
-            {
-              "email": "JalynnDelmedico9003@outlook.com",
-              "password": "otlves57354",
-              "addedAt": 1787008100003
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-09T08:03:32.944Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "HT",
