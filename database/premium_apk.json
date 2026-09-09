@@ -5929,20 +5929,8 @@
         }
       ],
       "stock": 3,
-      "sold": 452,
-      "reserved": [
-        {
-          "id": "RSV1788969777261507",
-          "items": [
-            {
-              "text": "harmfulcat@maildropy.com|biru123456",
-              "addedAt": 1788900506585
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-09T16:02:57.261Z"
-        }
-      ],
+      "sold": 453,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
