@@ -6519,11 +6519,6 @@
       "snk": "Support All Device",
       "items": [
         {
-          "email": "hairysnake@maildropy.com",
-          "password": "Masuk123@",
-          "addedAt": 1788897375950
-        },
-        {
           "email": "aggregateprizefight@maildropy.com",
           "password": "Masuk123@",
           "addedAt": 1788897375950
@@ -6565,7 +6560,21 @@
         }
       ],
       "sold": 389,
-      "stock": 9
+      "stock": 8,
+      "reserved": [
+        {
+          "id": "RSV1788960346013335",
+          "items": [
+            {
+              "email": "hairysnake@maildropy.com",
+              "password": "Masuk123@",
+              "addedAt": 1788897375950
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-09T13:25:46.013Z"
+        }
+      ]
     },
     {
       "code": "VIULIFE",
