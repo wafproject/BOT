@@ -8938,22 +8938,9 @@
           "addedAt": 1784612836136
         }
       ],
-      "sold": 1040,
+      "sold": 1041,
       "stock": 470,
-      "reserved": [
-        {
-          "id": "RSV1788958599171385",
-          "items": [
-            {
-              "email": "6285912219076",
-              "password": "masuk123",
-              "addedAt": 1784466025282
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-09T12:56:39.171Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "PRIME1B",
