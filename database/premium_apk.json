@@ -5989,15 +5989,23 @@
         {
           "text": "Kirim data ke admin @asyik05",
           "addedAt": 1784535545167
-        },
-        {
-          "text": "Kirim data ke admin @asyik05",
-          "addedAt": 1784535545167
         }
       ],
-      "stock": 11,
+      "stock": 10,
       "sold": 13,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1788933802014877",
+          "items": [
+            {
+              "text": "Kirim data ke admin @asyik05",
+              "addedAt": 1784535545167
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-09T06:03:22.014Z"
+        }
+      ],
       "bulk_active": false,
       "bulk_prices": []
     },
