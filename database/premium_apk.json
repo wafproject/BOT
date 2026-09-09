@@ -6449,15 +6449,10 @@
           "email": "LuciusStephanson176765@outlook.com",
           "password": "masuk123",
           "addedAt": 1788900169334
-        },
-        {
-          "email": "LuciusStephanson176765@outlook.com",
-          "password": "masuk123",
-          "addedAt": 1788900169334
         }
       ],
       "sold": 561,
-      "stock": 6,
+      "stock": 5,
       "reserved": []
     },
     {
