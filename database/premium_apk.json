@@ -6559,22 +6559,9 @@
           "addedAt": 1788897375950
         }
       ],
-      "sold": 389,
+      "sold": 390,
       "stock": 8,
-      "reserved": [
-        {
-          "id": "RSV1788960346013335",
-          "items": [
-            {
-              "email": "hairysnake@maildropy.com",
-              "password": "Masuk123@",
-              "addedAt": 1788897375950
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-09T13:25:46.013Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "VIULIFE",
