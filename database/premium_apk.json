@@ -154,8 +154,109 @@
       "price": 3000,
       "descShort": "Bisa inv 100 member",
       "snk": "* Garansi login \n• Bisa invite 100 member\n• Akses email https://dipremin.com/",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "email": "design.721rn@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865742
+        },
+        {
+          "email": "member.y79bi@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865742
+        },
+        {
+          "email": "user.7o3yq@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865742
+        },
+        {
+          "email": "member.t9iat@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865742
+        },
+        {
+          "email": "creator.vqbly@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865742
+        },
+        {
+          "email": "creator.mi4fp@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865742
+        },
+        {
+          "email": "user.9svl1@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865742
+        },
+        {
+          "email": "user.0alj2@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865742
+        },
+        {
+          "email": "user.o5fix@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865743
+        },
+        {
+          "email": "user.q53ml@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865743
+        },
+        {
+          "email": "user.4yz9g@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865743
+        },
+        {
+          "email": "user.uwuh3@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865743
+        },
+        {
+          "email": "pro.u116h@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865743
+        },
+        {
+          "email": "creator.57mae@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865743
+        },
+        {
+          "email": "design.eeyw9@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865743
+        },
+        {
+          "email": "member.0rpg9@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865743
+        },
+        {
+          "email": "pro.j9cki@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865743
+        },
+        {
+          "email": "member.ptrg3@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865743
+        },
+        {
+          "email": "member.ncmfg@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865743
+        },
+        {
+          "email": "design.2cagc@dipremin.com",
+          "password": "pakai kode akses di snk",
+          "addedAt": 1788986865743
+        }
+      ],
+      "stock": 20,
       "sold": 410,
       "reserved": [],
       "bulk_active": false,
