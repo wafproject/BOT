@@ -5946,20 +5946,8 @@
         }
       ],
       "stock": 5,
-      "sold": 450,
-      "reserved": [
-        {
-          "id": "RSV1788931121091608",
-          "items": [
-            {
-              "text": "jensenjerde@maildropy.com|biru123456",
-              "addedAt": 1788900506585
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-09T05:18:41.092Z"
-        }
-      ],
+      "sold": 451,
+      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
