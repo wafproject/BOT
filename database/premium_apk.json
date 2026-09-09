@@ -9019,11 +9019,6 @@
       "snk": "* NO GARANSI\n• KALO MASIH MAU LOGIN TERUS MERAH BACAAN TERLALU BANYAK PERCOBAAN LOGIN, GANTI BROWSER/GANTI JARINGAN/MASUK KE MODE SAMARAN",
       "items": [
         {
-          "email": "JalynnDelmedico9003@outlook.com",
-          "password": "otlves57354",
-          "addedAt": 1787008100003
-        },
-        {
           "email": "JalynnDominey468333@outlook.com",
           "password": "ejaodz787244",
           "addedAt": 1787008100003
@@ -9115,8 +9110,21 @@
         }
       ],
       "sold": 676,
-      "stock": 19,
-      "reserved": []
+      "stock": 18,
+      "reserved": [
+        {
+          "id": "RSV1788941012944806",
+          "items": [
+            {
+              "email": "JalynnDelmedico9003@outlook.com",
+              "password": "otlves57354",
+              "addedAt": 1787008100003
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-09T08:03:32.944Z"
+        }
+      ]
     },
     {
       "code": "HT",
