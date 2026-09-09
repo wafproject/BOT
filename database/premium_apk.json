@@ -5916,10 +5916,6 @@
       "snk": "* Full Garansi 20 Hari.\n• Dilarang change email, password, alamat, dll.\n• Akun awet sesuai pemakaian (selama ini belum pernah backfree).\n• Jika ada kendala hubungi admin",
       "items": [
         {
-          "text": "cooannual@maildropy.com|biru123456",
-          "addedAt": 1788900506585
-        },
-        {
           "text": "harmfulcat@maildropy.com|biru123456",
           "addedAt": 1788900506585
         },
@@ -5936,8 +5932,8 @@
           "addedAt": 1788900506585
         }
       ],
-      "stock": 5,
-      "sold": 451,
+      "stock": 4,
+      "sold": 452,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
