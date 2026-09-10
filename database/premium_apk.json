@@ -339,7 +339,7 @@
       "stock": 36,
       "sold": 414,
       "reserved": [],
-      "bulk_active": false,
+      "bulk_active": true,
       "bulk_prices": [
         {
           "minQty": 5,
