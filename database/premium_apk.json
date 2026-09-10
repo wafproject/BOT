@@ -6599,6 +6599,16 @@
       "snk": "Support All Device",
       "items": [
         {
+          "email": "aggregateprizefight@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897375950
+        },
+        {
+          "email": "lumpyhutch748@maildropy.com",
+          "password": "Masuk123@",
+          "addedAt": 1788897375950
+        },
+        {
           "email": "clamambition@maildropy.com",
           "password": "Masuk123@",
           "addedAt": 1788897375950
@@ -6630,26 +6640,8 @@
         }
       ],
       "sold": 390,
-      "stock": 6,
-      "reserved": [
-        {
-          "id": "RSV1789034605919473",
-          "items": [
-            {
-              "email": "aggregateprizefight@maildropy.com",
-              "password": "Masuk123@",
-              "addedAt": 1788897375950
-            },
-            {
-              "email": "lumpyhutch748@maildropy.com",
-              "password": "Masuk123@",
-              "addedAt": 1788897375950
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-09-10T10:03:25.919Z"
-        }
-      ]
+      "stock": 8,
+      "reserved": []
     },
     {
       "code": "VIULIFE",
