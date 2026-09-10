@@ -9144,11 +9144,6 @@
       "snk": "Garansi 5 Hari",
       "items": [
         {
-          "email": "layla13@maildropy.com",
-          "password": "Masuk123@",
-          "addedAt": 1788897391234
-        },
-        {
           "email": "adrienne@maildropy.com",
           "password": "Masuk123@",
           "addedAt": 1788897391234
@@ -9190,7 +9185,21 @@
         }
       ],
       "sold": 377,
-      "stock": 9
+      "stock": 8,
+      "reserved": [
+        {
+          "id": "RSV1789038520933547",
+          "items": [
+            {
+              "email": "layla13@maildropy.com",
+              "password": "Masuk123@",
+              "addedAt": 1788897391234
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-10T11:08:40.933Z"
+        }
+      ]
     },
     {
       "code": "WETV3U",
