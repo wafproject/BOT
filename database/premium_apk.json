@@ -6634,22 +6634,9 @@
           "addedAt": 1788897375950
         }
       ],
-      "sold": 390,
+      "sold": 391,
       "stock": 7,
-      "reserved": [
-        {
-          "id": "RSV1789034647024404",
-          "items": [
-            {
-              "email": "aggregateprizefight@maildropy.com",
-              "password": "Masuk123@",
-              "addedAt": 1788897375950
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-10T10:04:07.024Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "VIULIFE",
