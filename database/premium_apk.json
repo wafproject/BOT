@@ -9276,15 +9276,10 @@
           "email": "adrienne@maildropy.com",
           "password": "Masuk123@",
           "addedAt": 1788897391234
-        },
-        {
-          "email": "angeliccow@maildropy.com",
-          "password": "Masuk123@",
-          "addedAt": 1788897391234
         }
       ],
       "sold": 378,
-      "stock": 2,
+      "stock": 1,
       "reserved": []
     },
     {
