@@ -9134,22 +9134,9 @@
           "addedAt": 1787008100003
         }
       ],
-      "sold": 679,
+      "sold": 680,
       "stock": 15,
-      "reserved": [
-        {
-          "id": "RSV1789020799108820",
-          "items": [
-            {
-              "email": "JalynnEsarey179428@outlook.com",
-              "password": "jjsyfc26298",
-              "addedAt": 1787008100003
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-10T06:13:19.108Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "HT",
