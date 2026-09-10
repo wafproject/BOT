@@ -6159,21 +6159,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "alycia75@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1788986933795
-        },
-        {
-          "email": "‎kaybartell@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1788986933795
-        },
-        {
-          "email": "‎singleinsect@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1788986933795
-        },
-        {
           "email": "‎edisonweimann@maildropy.com",
           "password": "masuk123",
           "addedAt": 1788986933795
@@ -6185,7 +6170,7 @@
         }
       ],
       "sold": 7119,
-      "stock": 5,
+      "stock": 2,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6433,6 +6418,28 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-10T02:14:26.707Z"
+        },
+        {
+          "id": "RSV1789006535219315",
+          "items": [
+            {
+              "email": "alycia75@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1788986933795
+            },
+            {
+              "email": "‎kaybartell@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1788986933795
+            },
+            {
+              "email": "‎singleinsect@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1788986933795
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-09-10T02:15:35.219Z"
         }
       ],
       "bulk_active": true,
