@@ -60,7 +60,7 @@
     },
     {
       "name": "Netflix Premium UHD",
-      "is_active": true
+      "is_active": false
     },
     {
       "name": "BSTATION PREMIUM",
