@@ -6726,15 +6726,9 @@
       "bulk_prices": [],
       "descShort": "All Device",
       "snk": "Support All Device",
-      "items": [
-        {
-          "email": "lumpyhutch748@maildropy.com",
-          "password": "Masuk123@",
-          "addedAt": 1788897375950
-        }
-      ],
+      "items": [],
       "sold": 391,
-      "stock": 1,
+      "stock": 0,
       "reserved": []
     },
     {
