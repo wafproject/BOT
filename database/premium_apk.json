@@ -6015,15 +6015,22 @@
       "price": 11500,
       "descShort": "Full Garansi",
       "snk": "* Full Garansi 20 Hari.\n• Dilarang change email, password, alamat, dll.\n• Akun awet sesuai pemakaian (selama ini belum pernah backfree).\n• Jika ada kendala hubungi admin",
-      "items": [
+      "items": [],
+      "stock": 0,
+      "sold": 455,
+      "reserved": [
         {
-          "text": "xasa_maluda29@icloud.com|biru123456",
-          "addedAt": 1788900506585
+          "id": "RSV1789004626313357",
+          "items": [
+            {
+              "text": "xasa_maluda29@icloud.com|biru123456",
+              "addedAt": 1788900506585
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-10T01:43:46.313Z"
         }
       ],
-      "stock": 1,
-      "sold": 455,
-      "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
     },
