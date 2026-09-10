@@ -74,7 +74,8 @@
       "name": "prime video"
     },
     {
-      "name": "Capcut Pro Head"
+      "name": "Capcut Pro Head",
+      "is_active": false
     },
     {
       "name": "Email Fresh",
