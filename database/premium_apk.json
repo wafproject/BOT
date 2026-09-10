@@ -9271,15 +9271,9 @@
       "bulk_prices": [],
       "descShort": "All Device",
       "snk": "Garansi 5 Hari",
-      "items": [
-        {
-          "email": "adrienne@maildropy.com",
-          "password": "Masuk123@",
-          "addedAt": 1788897391234
-        }
-      ],
+      "items": [],
       "sold": 378,
-      "stock": 1,
+      "stock": 0,
       "reserved": []
     },
     {
