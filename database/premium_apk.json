@@ -340,7 +340,12 @@
       "sold": 414,
       "reserved": [],
       "bulk_active": false,
-      "bulk_prices": []
+      "bulk_prices": [
+        {
+          "minQty": 5,
+          "price": 1000
+        }
+      ]
     },
     {
       "code": "CANEDU",
