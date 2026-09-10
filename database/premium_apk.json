@@ -6091,8 +6091,57 @@
       "price": 11500,
       "descShort": "Full Garansi",
       "snk": "* Full Garansi 20 Hari.\n• Dilarang change email, password, alamat, dll.\n• Akun awet sesuai pemakaian (selama ini belum pernah backfree).\n• Jika ada kendala hubungi admin",
-      "items": [],
-      "stock": 0,
+      "items": [
+        {
+          "text": "lexi12@maildropy.com|biru123456",
+          "addedAt": 1789067160131
+        },
+        {
+          "text": "linwoodrowe@maildropy.com|biru123456",
+          "addedAt": 1789067160131
+        },
+        {
+          "text": "deebeier@maildropy.com|biru123456",
+          "addedAt": 1789067160131
+        },
+        {
+          "text": "silencetote@maildropy.com|biru123456",
+          "addedAt": 1789067160131
+        },
+        {
+          "text": "shybird@maildropy.com|biru123456",
+          "addedAt": 1789067160131
+        },
+        {
+          "text": "violetparticular@maildropy.com|biru123456",
+          "addedAt": 1789067160131
+        },
+        {
+          "text": "destiny@maildropy.com|biru123456",
+          "addedAt": 1789067160131
+        },
+        {
+          "text": "emory@maildropy.com|biru123456",
+          "addedAt": 1789067160131
+        },
+        {
+          "text": "curtis@maildropy.com|biru123456",
+          "addedAt": 1789067160131
+        },
+        {
+          "text": "guzzlechili@maildropy.com|biru123456",
+          "addedAt": 1789067160131
+        },
+        {
+          "text": "jasebi-danu86@icloud.com|biru123456",
+          "addedAt": 1789067160131
+        },
+        {
+          "text": "bogupe_sepo75@icloud.com|biru123456",
+          "addedAt": 1789067160131
+        }
+      ],
+      "stock": 12,
       "sold": 456,
       "reserved": [],
       "bulk_active": false,
