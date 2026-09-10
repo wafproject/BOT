@@ -5038,20 +5038,8 @@
         }
       ],
       "stock": 1003,
-      "sold": 908,
-      "reserved": [
-        {
-          "id": "RSV1789005542095921",
-          "items": [
-            {
-              "email": "johnyjq@paratrabajar.xyz|https://generator.email/johnyjq@paratrabajar.xyz",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-10T01:59:02.095Z"
-        }
-      ],
+      "sold": 909,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
