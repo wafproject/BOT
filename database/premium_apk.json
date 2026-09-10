@@ -85,7 +85,7 @@
     },
     {
       "name": "Meitu Vip",
-      "is_active": true
+      "is_active": false
     }
   ],
   "products": [
