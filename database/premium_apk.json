@@ -6243,16 +6243,23 @@
       "price": 22000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 25 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
-      "items": [
+      "items": [],
+      "sold": 585,
+      "stock": 0,
+      "reserved": [
         {
-          "email": "sw9vuc65@ftac.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789068894945
+          "id": "RSV1789135974808743",
+          "items": [
+            {
+              "email": "sw9vuc65@ftac.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1789068894945
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-11T14:12:54.809Z"
         }
       ],
-      "sold": 585,
-      "stock": 1,
-      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
