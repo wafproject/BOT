@@ -6527,10 +6527,20 @@
           "email": "sarn4374@maildropy.com",
           "password": "masuk123",
           "addedAt": 1789168929658
+        },
+        {
+          "email": "pelon78@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1789169588866
+        },
+        {
+          "email": "txoleg1@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1789169588866
         }
       ],
       "sold": 7192,
-      "stock": 52,
+      "stock": 54,
       "reserved": [
         {
           "id": "RSV1780362536090628",
