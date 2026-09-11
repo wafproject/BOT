@@ -6312,7 +6312,7 @@
       "descShort": "Full Garansi",
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [],
-      "sold": 7180,
+      "sold": 7186,
       "stock": 0,
       "reserved": [
         {
@@ -6549,43 +6549,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789092690210427",
-          "items": [
-            {
-              "email": "jacinto@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1789069000423
-            },
-            {
-              "email": "crookeyrie@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1789069000423
-            },
-            {
-              "email": "soldiercrib@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1789069000423
-            },
-            {
-              "email": "tepidquart@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1789069000423
-            },
-            {
-              "email": "maximus76@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1789069000423
-            },
-            {
-              "email": "cumbersomeinsight760@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1789069000423
-            }
-          ],
-          "qty": 6,
-          "createdAt": "2026-09-11T02:11:30.211Z"
         }
       ],
       "bulk_active": true,
