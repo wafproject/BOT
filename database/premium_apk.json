@@ -6145,7 +6145,12 @@
       "sold": 456,
       "reserved": [],
       "bulk_active": false,
-      "bulk_prices": []
+      "bulk_prices": [
+        {
+          "minQty": 5,
+          "price": 10000
+        }
+      ]
     },
     {
       "code": "YTJASPAY",
