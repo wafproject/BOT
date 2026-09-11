@@ -6288,67 +6288,9 @@
           "addedAt": 1789068894945
         }
       ],
-      "sold": 572,
+      "sold": 582,
       "stock": 4,
-      "reserved": [
-        {
-          "id": "RSV178909259889810",
-          "items": [
-            {
-              "email": "brandi77@53uz.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789068894945
-            },
-            {
-              "email": "linedbear@12rl.capskuy.eu.cc",
-              "password": "masuk123",
-              "addedAt": 1789068894945
-            },
-            {
-              "email": "hfzoaqym@4irf.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789068894945
-            },
-            {
-              "email": "ece3hlfd@h3q5.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789068894945
-            },
-            {
-              "email": "d2mmo6n1@wgry.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789068894945
-            },
-            {
-              "email": "4y8k58bq@72ay.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789068894945
-            },
-            {
-              "email": "gfpjkikn@1p66.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789068894945
-            },
-            {
-              "email": "78dg7k5u@uus7.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789068894945
-            },
-            {
-              "email": "u52vno77@mcny.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789068894945
-            },
-            {
-              "email": "so2ujzut@mcny.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789068894945
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-09-11T02:09:58.898Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
