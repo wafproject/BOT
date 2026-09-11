@@ -6243,9 +6243,45 @@
       "price": 22000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 25 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
-      "items": [],
+      "items": [
+        {
+          "email": "dirtyflea@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1789170150958
+        },
+        {
+          "email": "daenika@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1789170150958
+        },
+        {
+          "email": "hossbaker@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1789170150958
+        },
+        {
+          "email": "davewendenssm@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1789170150958
+        },
+        {
+          "email": "hsmazd0@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1789170150958
+        },
+        {
+          "email": "sachok906@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1789170150958
+        },
+        {
+          "email": "rtveler@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1789170150958
+        }
+      ],
       "sold": 586,
-      "stock": 0,
+      "stock": 7,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
