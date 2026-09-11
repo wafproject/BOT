@@ -6138,20 +6138,8 @@
         }
       ],
       "stock": 11,
-      "sold": 456,
-      "reserved": [
-        {
-          "id": "RSV1789109583760647",
-          "items": [
-            {
-              "text": "lexi12@maildropy.com|biru123456",
-              "addedAt": 1789067160131
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-11T06:53:03.760Z"
-        }
-      ],
+      "sold": 457,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
