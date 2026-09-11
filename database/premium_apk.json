@@ -5118,20 +5118,8 @@
         }
       ],
       "stock": 1002,
-      "sold": 909,
-      "reserved": [
-        {
-          "id": "RSV1789089724169890",
-          "items": [
-            {
-              "email": "mgk64net@waroengpremium.com|https://generator.email/mgk64net@waroengpremium.com",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-11T01:22:04.169Z"
-        }
-      ],
+      "sold": 910,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
