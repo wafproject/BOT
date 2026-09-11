@@ -6144,7 +6144,7 @@
       "stock": 12,
       "sold": 456,
       "reserved": [],
-      "bulk_active": false,
+      "bulk_active": true,
       "bulk_prices": [
         {
           "minQty": 5,
