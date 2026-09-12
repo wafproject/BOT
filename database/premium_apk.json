@@ -6261,11 +6261,6 @@
           "addedAt": 1789170150958
         },
         {
-          "email": "hsmazd0@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1789170150958
-        },
-        {
           "email": "sachok906@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1789170150958
@@ -6277,7 +6272,7 @@
         }
       ],
       "sold": 1586,
-      "stock": 7,
+      "stock": 6,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
