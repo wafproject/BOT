@@ -6304,7 +6304,7 @@
       "descShort": "Full Garansi",
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [],
-      "sold": 7245,
+      "sold": 7246,
       "stock": 0,
       "reserved": [
         {
@@ -6541,18 +6541,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789176352429438",
-          "items": [
-            {
-              "email": "txoleg1@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1789169588866
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-12T01:25:52.429Z"
         }
       ],
       "bulk_active": true,
