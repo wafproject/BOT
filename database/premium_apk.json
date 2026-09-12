@@ -311,21 +311,8 @@
         }
       ],
       "stock": 30,
-      "sold": 419,
-      "reserved": [
-        {
-          "id": "RSV1789182351872372",
-          "items": [
-            {
-              "email": "user.q53ml@dipremin.com",
-              "password": "pakai kode akses di snk",
-              "addedAt": 1788986865743
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-12T03:05:51.872Z"
-        }
-      ],
+      "sold": 420,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
