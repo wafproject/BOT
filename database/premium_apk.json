@@ -9278,10 +9278,15 @@
           "email": "hsmazd0@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1789179828100
+        },
+        {
+          "email": "hsmazd0@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1789179848018
         }
       ],
       "sold": 1290,
-      "stock": 1
+      "stock": 2
     }
   ],
   "meta": {
