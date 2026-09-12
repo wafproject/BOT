@@ -6283,7 +6283,7 @@
       "bulk_prices": [
         {
           "minQty": 5,
-          "price": 21000
+          "price": 20500
         },
         {
           "minQty": 10,
