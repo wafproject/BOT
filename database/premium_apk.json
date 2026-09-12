@@ -6266,22 +6266,9 @@
           "addedAt": 1789170150958
         }
       ],
-      "sold": 1586,
+      "sold": 1587,
       "stock": 5,
-      "reserved": [
-        {
-          "id": "RSV1789180107123698",
-          "items": [
-            {
-              "email": "dirtyflea@furewa.my.id",
-              "password": "masuk123",
-              "addedAt": 1789170150958
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-12T02:28:27.124Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
