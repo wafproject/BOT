@@ -9267,6 +9267,20 @@
       ],
       "sold": 516,
       "stock": 3
+    },
+    {
+      "code": "CC1BSHAR",
+      "name": "Capcut Pro 30D Sharing No Renew",
+      "category": "capcut pro",
+      "type": "akun",
+      "price": 11000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "* FULL GARANSI BACKFREE\n• LOGIN HANYA 1 DEVICE , DILARANG KERAS LOGIN LEBIH DARI 1 DEVICE\n• DILARANG GANTI EMAIL & PASSWORD \n• WAJIB SEND SCREENSHOT BUKTI LOGIN ke @enziwaf",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
