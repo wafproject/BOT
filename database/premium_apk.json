@@ -6110,20 +6110,8 @@
         }
       ],
       "stock": 10,
-      "sold": 457,
-      "reserved": [
-        {
-          "id": "RSV1789179057481698",
-          "items": [
-            {
-              "text": "linwoodrowe@maildropy.com|biru123456",
-              "addedAt": 1789067160131
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-12T02:10:57.481Z"
-        }
-      ],
+      "sold": 458,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
