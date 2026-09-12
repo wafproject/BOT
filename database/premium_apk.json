@@ -1159,10 +1159,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "speedptofi@waroengpremium.com|https://generator.email/speedptofi@waroengpremium.com",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "whiterabbitkai@powerdea.me|https://generator.email/whiterabbitkai@powerdea.me",
           "addedAt": 1783266949580
         },
@@ -5163,8 +5159,8 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1001,
-      "sold": 911,
+      "stock": 1000,
+      "sold": 912,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
