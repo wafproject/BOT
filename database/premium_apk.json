@@ -9273,9 +9273,15 @@
       "bulk_prices": [],
       "descShort": "Full Durasi",
       "snk": "* FULL GARANSI BACKFREE\n• LOGIN HANYA 1 DEVICE , DILARANG KERAS LOGIN LEBIH DARI 1 DEVICE\n• DILARANG GANTI EMAIL & PASSWORD \n• WAJIB SEND SCREENSHOT BUKTI LOGIN ke @enziwaf",
-      "items": [],
+      "items": [
+        {
+          "email": "hsmazd0@furewa.my.id",
+          "password": "masuk123",
+          "addedAt": 1789179828100
+        }
+      ],
       "sold": 1290,
-      "stock": 0
+      "stock": 1
     }
   ],
   "meta": {
