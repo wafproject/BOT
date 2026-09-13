@@ -331,21 +331,8 @@
         }
       ],
       "stock": 34,
-      "sold": 421,
-      "reserved": [
-        {
-          "id": "RSV1789281506532198",
-          "items": [
-            {
-              "email": "member.nqzie@dipremin.com",
-              "password": "pakai kode akses di snk",
-              "addedAt": 1789055018294
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-13T06:38:26.532Z"
-        }
-      ],
+      "sold": 422,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
