@@ -6352,11 +6352,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "6sfndj57@vlwk.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789246516216
-        },
-        {
           "email": "8ne3vjk8@rac.my.id",
           "password": "masuk123",
           "addedAt": 1789246516216
@@ -6492,8 +6487,8 @@
           "addedAt": 1789246516216
         }
       ],
-      "sold": 7248,
-      "stock": 28,
+      "sold": 7249,
+      "stock": 27,
       "reserved": [
         {
           "id": "RSV1780362536090628",
