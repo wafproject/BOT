@@ -190,11 +190,6 @@
           "addedAt": 1788986865743
         },
         {
-          "email": "member.ptrg3@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1788986865743
-        },
-        {
           "email": "member.nqzie@dipremin.com",
           "password": "pakai kode akses di snk",
           "addedAt": 1789055018294
@@ -370,7 +365,7 @@
           "addedAt": 1789211532820
         }
       ],
-      "stock": 42,
+      "stock": 41,
       "sold": 421,
       "reserved": [],
       "bulk_active": true,
