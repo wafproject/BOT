@@ -6302,11 +6302,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 25 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "daenika@furewa.my.id",
-          "password": "masuk123",
-          "addedAt": 1789170150958
-        },
-        {
           "email": "hossbaker@furewa.my.id",
           "password": "masuk123",
           "addedAt": 1789170150958
@@ -6328,8 +6323,21 @@
         }
       ],
       "sold": 1587,
-      "stock": 5,
-      "reserved": [],
+      "stock": 4,
+      "reserved": [
+        {
+          "id": "RSV1789272175405912",
+          "items": [
+            {
+              "email": "daenika@furewa.my.id",
+              "password": "masuk123",
+              "addedAt": 1789170150958
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-13T04:02:55.405Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
