@@ -6437,7 +6437,7 @@
           "addedAt": 1789246516216
         }
       ],
-      "sold": 7249,
+      "sold": 7259,
       "stock": 17,
       "reserved": [
         {
@@ -6674,63 +6674,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789263666972367",
-          "items": [
-            {
-              "email": "8ne3vjk8@rac.my.id",
-              "password": "masuk123",
-              "addedAt": 1789246516216
-            },
-            {
-              "email": "3o39ayub@7mgz.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789246516216
-            },
-            {
-              "email": "2mnv94jh@a4uk.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789246516216
-            },
-            {
-              "email": "f08a7thg@gohaneon.web.id",
-              "password": "masuk123",
-              "addedAt": 1789246516216
-            },
-            {
-              "email": "r3l7t27m@cc5.ldtzy.com",
-              "password": "masuk123",
-              "addedAt": 1789246516216
-            },
-            {
-              "email": "ck11xej9@gohaneon.web.id",
-              "password": "masuk123",
-              "addedAt": 1789246516216
-            },
-            {
-              "email": "si3duilb@gohaneon.web.id",
-              "password": "masuk123",
-              "addedAt": 1789246516216
-            },
-            {
-              "email": "lghxr4gr@acmizs.com",
-              "password": "masuk123",
-              "addedAt": 1789246516216
-            },
-            {
-              "email": "ijpxy438@rac.my.id",
-              "password": "masuk123",
-              "addedAt": 1789246516216
-            },
-            {
-              "email": "6fx8hrhr@3g5z.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789246516216
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-09-13T01:41:06.972Z"
         }
       ],
       "bulk_active": true,
