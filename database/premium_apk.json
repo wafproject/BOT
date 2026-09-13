@@ -1099,14 +1099,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "whiterabbitkai@powerdea.me|https://generator.email/whiterabbitkai@powerdea.me",
-          "addedAt": 1783266949580
-        },
-        {
-          "email": "sanderge@kawneha.site|https://generator.email/sanderge@kawneha.site",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "nachfins@sentra-premium.com|https://generator.email/nachfins@sentra-premium.com",
           "addedAt": 1783266949580
         },
@@ -5099,9 +5091,25 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 1000,
+      "stock": 998,
       "sold": 912,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1789296179899272",
+          "items": [
+            {
+              "email": "whiterabbitkai@powerdea.me|https://generator.email/whiterabbitkai@powerdea.me",
+              "addedAt": 1783266949580
+            },
+            {
+              "email": "sanderge@kawneha.site|https://generator.email/sanderge@kawneha.site",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-09-13T10:42:59.900Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
