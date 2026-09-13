@@ -5092,24 +5092,8 @@
         }
       ],
       "stock": 998,
-      "sold": 912,
-      "reserved": [
-        {
-          "id": "RSV1789296179899272",
-          "items": [
-            {
-              "email": "whiterabbitkai@powerdea.me|https://generator.email/whiterabbitkai@powerdea.me",
-              "addedAt": 1783266949580
-            },
-            {
-              "email": "sanderge@kawneha.site|https://generator.email/sanderge@kawneha.site",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 2,
-          "createdAt": "2026-09-13T10:42:59.900Z"
-        }
-      ],
+      "sold": 914,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
