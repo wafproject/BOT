@@ -160,11 +160,6 @@
       "snk": "* Garansi login \n• Bisa invite 100 member\n• Akses email https://dipremin.com/",
       "items": [
         {
-          "email": "creator.pd7yu@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789055018294
-        },
-        {
           "email": "user.qzwa0@dipremin.com",
           "password": "pakai kode akses di snk",
           "addedAt": 1789055018294
@@ -310,8 +305,8 @@
           "addedAt": 1789211532820
         }
       ],
-      "stock": 30,
-      "sold": 426,
+      "stock": 29,
+      "sold": 427,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
