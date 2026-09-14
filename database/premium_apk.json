@@ -263,14 +263,9 @@
           "email": "creator.ocyi9@dipremin.com",
           "password": "pakai kode akses di snk",
           "addedAt": 1789211532820
-        },
-        {
-          "email": "user.h7ivs@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789211532820
         }
       ],
-      "stock": 22,
+      "stock": 21,
       "sold": 427,
       "reserved": [],
       "bulk_active": true,
