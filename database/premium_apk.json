@@ -6368,15 +6368,10 @@
           "email": "p84vbpwm@gv2h.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1789354140753
-        },
-        {
-          "email": "ixmm7p40@39ym.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789354140753
         }
       ],
       "sold": 7277,
-      "stock": 23,
+      "stock": 22,
       "reserved": [
         {
           "id": "RSV1780362536090628",
