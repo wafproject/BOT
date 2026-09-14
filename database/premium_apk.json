@@ -6343,15 +6343,10 @@
           "email": "hbiq7spm@jck7.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1789349085141
-        },
-        {
-          "email": "muffledcrocodilia@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1789349085141
         }
       ],
       "sold": 7277,
-      "stock": 18,
+      "stock": 17,
       "reserved": [
         {
           "id": "RSV1780362536090628",
