@@ -268,14 +268,9 @@
           "email": "user.h7ivs@dipremin.com",
           "password": "pakai kode akses di snk",
           "addedAt": 1789211532820
-        },
-        {
-          "email": "pro.8792n@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789211532820
         }
       ],
-      "stock": 23,
+      "stock": 22,
       "sold": 427,
       "reserved": [],
       "bulk_active": true,
