@@ -6062,10 +6062,6 @@
       "snk": "* Full Garansi 20 Hari.\n• Dilarang change email, password, alamat, dll.\n• Akun awet sesuai pemakaian (selama ini belum pernah backfree).\n• Jika ada kendala hubungi admin",
       "items": [
         {
-          "text": "silencetote@maildropy.com|biru123456",
-          "addedAt": 1789067160131
-        },
-        {
           "text": "shybird@maildropy.com|biru123456",
           "addedAt": 1789067160131
         },
@@ -6098,9 +6094,21 @@
           "addedAt": 1789067160131
         }
       ],
-      "stock": 9,
+      "stock": 8,
       "sold": 459,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1789354870496378",
+          "items": [
+            {
+              "text": "silencetote@maildropy.com|biru123456",
+              "addedAt": 1789067160131
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-14T03:01:10.497Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
