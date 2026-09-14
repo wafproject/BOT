@@ -6271,7 +6271,7 @@
           "addedAt": 1789355332079
         }
       ],
-      "sold": 7330,
+      "sold": 7331,
       "stock": 6,
       "reserved": [
         {
@@ -6508,18 +6508,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789371210838566",
-          "items": [
-            {
-              "email": "sucdluvh@gohaneon.web.id",
-              "password": "masuk123",
-              "addedAt": 1789355313547
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-14T07:33:30.838Z"
         }
       ],
       "bulk_active": true,
