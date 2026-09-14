@@ -188,14 +188,9 @@
           "email": "user.hlzsw@dipremin.com",
           "password": "pakai kode akses di snk",
           "addedAt": 1789055018294
-        },
-        {
-          "email": "design.86mhx@resaiakun.my.id",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789055018294
         }
       ],
-      "stock": 7,
+      "stock": 6,
       "sold": 427,
       "reserved": [],
       "bulk_active": true,
