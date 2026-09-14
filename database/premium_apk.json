@@ -253,14 +253,9 @@
           "email": "member.gmhy7@dipremin.com",
           "password": "pakai kode akses di snk",
           "addedAt": 1789211532820
-        },
-        {
-          "email": "user.okr0i@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789211532820
         }
       ],
-      "stock": 20,
+      "stock": 19,
       "sold": 427,
       "reserved": [],
       "bulk_active": true,
