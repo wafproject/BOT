@@ -6086,20 +6086,8 @@
         }
       ],
       "stock": 7,
-      "sold": 460,
-      "reserved": [
-        {
-          "id": "RSV1789368258969689",
-          "items": [
-            {
-              "text": "shybird@maildropy.com|biru123456",
-              "addedAt": 1789067160131
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-14T06:44:18.969Z"
-        }
-      ],
+      "sold": 461,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
