@@ -6256,26 +6256,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "sgh9nted@ht6g.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789355313546
-        },
-        {
-          "email": "ea9gum3d@yojb.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789355313546
-        },
-        {
-          "email": "dytlq4zr@uge9.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789355313546
-        },
-        {
-          "email": "vedv5nvd@gohaneon.web.id",
-          "password": "masuk123",
-          "addedAt": 1789355313546
-        },
-        {
           "email": "w80oay55@531v.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1789355313547
@@ -6507,7 +6487,7 @@
         }
       ],
       "sold": 7277,
-      "stock": 50,
+      "stock": 46,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6800,6 +6780,33 @@
           ],
           "qty": 10,
           "createdAt": "2026-09-14T03:14:38.147Z"
+        },
+        {
+          "id": "RSV1789355699494978",
+          "items": [
+            {
+              "email": "sgh9nted@ht6g.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1789355313546
+            },
+            {
+              "email": "ea9gum3d@yojb.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1789355313546
+            },
+            {
+              "email": "dytlq4zr@uge9.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1789355313546
+            },
+            {
+              "email": "vedv5nvd@gohaneon.web.id",
+              "password": "masuk123",
+              "addedAt": 1789355313546
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-09-14T03:14:59.494Z"
         }
       ],
       "bulk_active": true,
