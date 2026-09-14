@@ -238,14 +238,9 @@
           "email": "design.sk7ck@dipremin.com",
           "password": "pakai kode akses di snk",
           "addedAt": 1789211532820
-        },
-        {
-          "email": "pro.774ij@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789211532820
         }
       ],
-      "stock": 17,
+      "stock": 16,
       "sold": 427,
       "reserved": [],
       "bulk_active": true,
