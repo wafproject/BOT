@@ -6358,15 +6358,10 @@
           "email": "1ju89x31@70dr.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1789354140753
-        },
-        {
-          "email": "cf188wdk@zdud.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789354140753
         }
       ],
       "sold": 7277,
-      "stock": 21,
+      "stock": 20,
       "reserved": [
         {
           "id": "RSV1780362536090628",
