@@ -183,14 +183,9 @@
           "email": "creator.ap26z@dipremin.com",
           "password": "pakai kode akses di snk",
           "addedAt": 1789055018294
-        },
-        {
-          "email": "user.hlzsw@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789055018294
         }
       ],
-      "stock": 6,
+      "stock": 5,
       "sold": 427,
       "reserved": [],
       "bulk_active": true,
