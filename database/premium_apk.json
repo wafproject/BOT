@@ -193,14 +193,9 @@
           "email": "design.86mhx@resaiakun.my.id",
           "password": "pakai kode akses di snk",
           "addedAt": 1789055018294
-        },
-        {
-          "email": "creator.bdp28@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789055018294
         }
       ],
-      "stock": 8,
+      "stock": 7,
       "sold": 427,
       "reserved": [],
       "bulk_active": true,
