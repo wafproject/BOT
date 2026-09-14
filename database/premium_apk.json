@@ -6373,15 +6373,10 @@
           "email": "ixmm7p40@39ym.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1789354140753
-        },
-        {
-          "email": "kmbv95li@u6vu.capskuy.eu.cc",
-          "password": "masuk123",
-          "addedAt": 1789354140753
         }
       ],
       "sold": 7277,
-      "stock": 24,
+      "stock": 23,
       "reserved": [
         {
           "id": "RSV1780362536090628",
