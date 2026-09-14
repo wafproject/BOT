@@ -203,14 +203,9 @@
           "email": "design.io4xs@dipremin.com",
           "password": "pakai kode akses di snk",
           "addedAt": 1789055018294
-        },
-        {
-          "email": "pro.dx0ek@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789055018294
         }
       ],
-      "stock": 10,
+      "stock": 9,
       "sold": 427,
       "reserved": [],
       "bulk_active": true,
