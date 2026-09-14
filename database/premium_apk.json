@@ -6303,15 +6303,10 @@
           "email": "muffledcrocodilia@maildropy.com",
           "password": "masuk123wjmyxjls@70dr.jutjutsu.my.id",
           "addedAt": 1789349085141
-        },
-        {
-          "email": "1ju89x31@70dr.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789349085141
         }
       ],
       "sold": 7277,
-      "stock": 10,
+      "stock": 9,
       "reserved": [
         {
           "id": "RSV1780362536090628",
