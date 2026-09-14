@@ -293,14 +293,9 @@
           "email": "design.auh40@dipremin.com",
           "password": "pakai kode akses di snk",
           "addedAt": 1789211532820
-        },
-        {
-          "email": "user.s5jk5@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789211532820
         }
       ],
-      "stock": 28,
+      "stock": 27,
       "sold": 427,
       "reserved": [],
       "bulk_active": true,
