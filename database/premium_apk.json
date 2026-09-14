@@ -6333,15 +6333,10 @@
           "email": "w9tsw09z@jck7.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1789349085141
-        },
-        {
-          "email": "g4lmbfxw@pwtl.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789349085141
         }
       ],
       "sold": 7277,
-      "stock": 16,
+      "stock": 15,
       "reserved": [
         {
           "id": "RSV1780362536090628",
