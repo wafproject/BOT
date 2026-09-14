@@ -9016,22 +9016,9 @@
           "addedAt": 1788951820590
         }
       ],
-      "sold": 516,
+      "sold": 517,
       "stock": 2,
-      "reserved": [
-        {
-          "id": "RSV1789408742406692",
-          "items": [
-            {
-              "email": "LuciusStephanson176765@outlook.com",
-              "password": "masuk123",
-              "addedAt": 1788951820590
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-14T17:59:02.407Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "CC1BSHAR",
