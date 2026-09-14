@@ -213,14 +213,9 @@
           "email": "pro.5oa68@dipremin.com",
           "password": "pakai kode akses di snk",
           "addedAt": 1789055018294
-        },
-        {
-          "email": "member.ygrmp@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789055018294
         }
       ],
-      "stock": 12,
+      "stock": 11,
       "sold": 427,
       "reserved": [],
       "bulk_active": true,
