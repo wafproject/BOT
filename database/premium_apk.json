@@ -223,14 +223,9 @@
           "email": "member.0qdsz@dipremin.com",
           "password": "pakai kode akses di snk",
           "addedAt": 1789055018294
-        },
-        {
-          "email": "creator.0tkut@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789055018294
         }
       ],
-      "stock": 14,
+      "stock": 13,
       "sold": 427,
       "reserved": [],
       "bulk_active": true,
