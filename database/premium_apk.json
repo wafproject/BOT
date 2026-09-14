@@ -158,14 +158,8 @@
       "price": 1500,
       "descShort": "Bisa inv 100 member",
       "snk": "* Garansi login \n• Bisa invite 100 member\n• Akses email https://dipremin.com/",
-      "items": [
-        {
-          "email": "user.qzwa0@dipremin.com",
-          "password": "pakai kode akses di snk",
-          "addedAt": 1789055018294
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 427,
       "reserved": [],
       "bulk_active": true,
