@@ -5908,20 +5908,8 @@
         }
       ],
       "stock": 5,
-      "sold": 462,
-      "reserved": [
-        {
-          "id": "RSV1789444288192110",
-          "items": [
-            {
-              "text": "destiny@maildropy.com|biru123456",
-              "addedAt": 1789067160131
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-15T03:51:28.192Z"
-        }
-      ],
+      "sold": 463,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
