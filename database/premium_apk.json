@@ -6073,7 +6073,7 @@
           "addedAt": 1789418174377
         }
       ],
-      "sold": 7364,
+      "sold": 7365,
       "stock": 2,
       "reserved": [
         {
@@ -6310,18 +6310,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789481285038456",
-          "items": [
-            {
-              "email": "michelerobel@fatc.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789418174377
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-15T14:08:05.039Z"
         }
       ],
       "bulk_active": true,
