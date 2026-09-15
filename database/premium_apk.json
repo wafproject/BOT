@@ -6147,7 +6147,7 @@
           "addedAt": 1789418174377
         }
       ],
-      "sold": 7350,
+      "sold": 7351,
       "stock": 16,
       "reserved": [
         {
@@ -6384,18 +6384,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789439187208148",
-          "items": [
-            {
-              "email": "9cos5umh@1cop.capskuy.eu.cc",
-              "password": "masuk123",
-              "addedAt": 1789418174377
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-15T02:26:27.208Z"
         }
       ],
       "bulk_active": true,
