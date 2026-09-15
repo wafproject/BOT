@@ -6142,7 +6142,7 @@
           "addedAt": 1789418174377
         }
       ],
-      "sold": 7351,
+      "sold": 7352,
       "stock": 15,
       "reserved": [
         {
@@ -6379,18 +6379,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789441703968134",
-          "items": [
-            {
-              "email": "k2b5sopp@xqa8.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789418174377
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-15T03:08:23.968Z"
         }
       ],
       "bulk_active": true,
