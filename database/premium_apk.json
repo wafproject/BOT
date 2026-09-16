@@ -9002,11 +9002,6 @@
       "snk": "* Garansi 24 Jam setelah tanggal pembelian",
       "items": [
         {
-          "email": "curtis@maildropy.com",
-          "password": "biru123456",
-          "addedAt": 1789523964362
-        },
-        {
           "email": "guzzlechili@maildropy.com",
           "password": "biru123456",
           "addedAt": 1789523964362
@@ -9022,8 +9017,8 @@
           "addedAt": 1789523964362
         }
       ],
-      "sold": 393,
-      "stock": 4
+      "sold": 394,
+      "stock": 3
     }
   ],
   "meta": {
