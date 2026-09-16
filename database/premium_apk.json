@@ -9032,9 +9032,30 @@
       "bulk_prices": [],
       "descShort": "Garansi 1x24 jam",
       "snk": "* Garansi 24 Jam setelah tanggal pembelian",
-      "items": [],
+      "items": [
+        {
+          "email": "curtis@maildropy.com",
+          "password": "biru123456",
+          "addedAt": 1789523964362
+        },
+        {
+          "email": "guzzlechili@maildropy.com",
+          "password": "biru123456",
+          "addedAt": 1789523964362
+        },
+        {
+          "email": "jasebi-danu86@icloud.com",
+          "password": "biru123456",
+          "addedAt": 1789523964362
+        },
+        {
+          "email": "bogupe_sepo75@icloud.com",
+          "password": "biru123456",
+          "addedAt": 1789523964362
+        }
+      ],
       "sold": 393,
-      "stock": 0
+      "stock": 4
     }
   ],
   "meta": {
