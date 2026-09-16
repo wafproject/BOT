@@ -9005,15 +9005,10 @@
           "email": "jasebi-danu86@icloud.com",
           "password": "biru123456",
           "addedAt": 1789523964362
-        },
-        {
-          "email": "bogupe_sepo75@icloud.com",
-          "password": "biru123456",
-          "addedAt": 1789523964362
         }
       ],
       "sold": 395,
-      "stock": 2
+      "stock": 1
     }
   ],
   "meta": {
