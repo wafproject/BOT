@@ -8986,16 +8986,24 @@
           "email": "LuciusStephanson176765@outlook.com",
           "password": "masuk123",
           "addedAt": 1788951820590
-        },
-        {
-          "email": "LuciusStephanson176765@outlook.com",
-          "password": "masuk123",
-          "addedAt": 1788951820590
         }
       ],
       "sold": 517,
-      "stock": 2,
-      "reserved": []
+      "stock": 1,
+      "reserved": [
+        {
+          "id": "RSV1789550530262985",
+          "items": [
+            {
+              "email": "LuciusStephanson176765@outlook.com",
+              "password": "masuk123",
+              "addedAt": 1788951820590
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-16T09:22:10.263Z"
+        }
+      ]
     },
     {
       "code": "CC1BSHAR",
