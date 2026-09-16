@@ -5904,20 +5904,8 @@
         }
       ],
       "stock": 4,
-      "sold": 463,
-      "reserved": [
-        {
-          "id": "RSV1789517504977293",
-          "items": [
-            {
-              "text": "emory@maildropy.com|biru123456",
-              "addedAt": 1789067160131
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-16T00:11:44.977Z"
-        }
-      ],
+      "sold": 464,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
