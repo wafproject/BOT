@@ -6523,11 +6523,6 @@
       "snk": "Garansi 3 Bulan",
       "items": [
         {
-          "email": "6286217837349",
-          "password": "masuk123",
-          "addedAt": 1784466025282
-        },
-        {
           "email": "6283759649719",
           "password": "masuk123",
           "addedAt": 1784466025282
@@ -8863,8 +8858,8 @@
           "addedAt": 1784612836136
         }
       ],
-      "sold": 1043,
-      "stock": 468,
+      "sold": 1044,
+      "stock": 467,
       "reserved": []
     },
     {
