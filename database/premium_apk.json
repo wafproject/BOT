@@ -5880,13 +5880,8 @@
       "price": 11000,
       "descShort": "Full Garansi",
       "snk": "* Full Garansi 20 Hari.\n• Dilarang change email, password, alamat, dll.\n• Akun awet sesuai pemakaian (selama ini belum pernah backfree).\n• Jika ada kendala hubungi admin",
-      "items": [
-        {
-          "text": "curtis@maildropy.com|biru123456",
-          "addedAt": 1789067160131
-        }
-      ],
-      "stock": 1,
+      "items": [],
+      "stock": 0,
       "sold": 464,
       "reserved": [],
       "bulk_active": true,
