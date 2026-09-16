@@ -6046,15 +6046,10 @@
           "email": "corbin63@yxyb.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1789601118597
-        },
-        {
-          "email": "chyna11@eb6w.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789602994832
         }
       ],
       "sold": 1594,
-      "stock": 8,
+      "stock": 7,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
