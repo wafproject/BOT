@@ -929,10 +929,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "nachfins@sentra-premium.com|https://generator.email/nachfins@sentra-premium.com",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "jkot100@banri.xyz|https://generator.email/jkot100@banri.xyz",
           "addedAt": 1783266949580
         },
@@ -4921,9 +4917,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 998,
+      "stock": 997,
       "sold": 914,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1789576381788414",
+          "items": [
+            {
+              "email": "nachfins@sentra-premium.com|https://generator.email/nachfins@sentra-premium.com",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-16T16:33:01.789Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
