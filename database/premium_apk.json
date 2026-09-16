@@ -6058,7 +6058,7 @@
       "descShort": "Full Garansi",
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [],
-      "sold": 7377,
+      "sold": 7397,
       "stock": 0,
       "reserved": [
         {
@@ -6295,113 +6295,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789525217934196",
-          "items": [
-            {
-              "email": "sny6l3ct@e17y.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "7lr5rshu@gohaneon.web.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "bht04d13@piyohub.web.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "v9vcfber@z3xb.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "5shvxt9q@pxuq.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "2ui38d3m@i3gx.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "b8176wup@4sry.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "lfzlrveo@ht6g.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "9cxgwjih@piyohub.web.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "2nv6r37s@z3xb.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "nppxte8r@e17y.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "e1mwu4k5@q0tb.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "lr9bkcpm@ht6g.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "v3ce1kn1@z3xb.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "rpj2gd52@e17y.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "z2kucou6@px00.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "avrmvkla@4sry.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "lempi@gzr5.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "louie34@gv2h.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            },
-            {
-              "email": "brauliomohr@gv2h.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789524034079
-            }
-          ],
-          "qty": 20,
-          "createdAt": "2026-09-16T02:20:17.934Z"
         }
       ],
       "bulk_active": true,
