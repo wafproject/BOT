@@ -5884,13 +5884,9 @@
         {
           "text": "curtis@maildropy.com|biru123456",
           "addedAt": 1789067160131
-        },
-        {
-          "text": "guzzlechili@maildropy.com|biru123456",
-          "addedAt": 1789067160131
         }
       ],
-      "stock": 2,
+      "stock": 1,
       "sold": 464,
       "reserved": [],
       "bulk_active": true,
