@@ -9000,15 +9000,9 @@
       "bulk_prices": [],
       "descShort": "Garansi 1x24 jam",
       "snk": "* Garansi 24 Jam setelah tanggal pembelian",
-      "items": [
-        {
-          "email": "jasebi-danu86@icloud.com",
-          "password": "biru123456",
-          "addedAt": 1789523964362
-        }
-      ],
+      "items": [],
       "sold": 395,
-      "stock": 1
+      "stock": 0
     }
   ],
   "meta": {
