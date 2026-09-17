@@ -9028,11 +9028,6 @@
           "addedAt": 1789601133791
         },
         {
-          "email": "6kxymr9p@6jim.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789601133791
-        },
-        {
           "email": "chyna11@eb6w.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1789603050738
@@ -9044,8 +9039,21 @@
         }
       ],
       "sold": 1292,
-      "stock": 4,
-      "reserved": []
+      "stock": 3,
+      "reserved": [
+        {
+          "id": "RSV1789613952414471",
+          "items": [
+            {
+              "email": "6kxymr9p@6jim.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1789601133791
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-17T02:59:12.415Z"
+        }
+      ]
     },
     {
       "code": "SPO1BMURAH",
