@@ -4922,20 +4922,8 @@
         }
       ],
       "stock": 997,
-      "sold": 914,
-      "reserved": [
-        {
-          "id": "RSV1789648593948320",
-          "items": [
-            {
-              "email": "nachfins@sentra-premium.com|https://generator.email/nachfins@sentra-premium.com",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-17T12:36:33.949Z"
-        }
-      ],
+      "sold": 915,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
