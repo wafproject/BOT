@@ -9488,10 +9488,6 @@
       "snk": "Masukkan kode aktivasi diatas ke aplikasi HMA VPN",
       "items": [
         {
-          "text": "LRMS8K-FBBZA2-5UCJSE",
-          "addedAt": 1789623605100
-        },
-        {
           "text": "KJZPTS-K9HV92-5UCJJJ",
           "addedAt": 1789623605100
         },
@@ -9505,7 +9501,20 @@
         }
       ],
       "sold": 0,
-      "stock": 4
+      "stock": 3,
+      "reserved": [
+        {
+          "id": "RSV1789635450815253",
+          "items": [
+            {
+              "text": "LRMS8K-FBBZA2-5UCJSE",
+              "addedAt": 1789623605100
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-17T08:57:30.815Z"
+        }
+      ]
     }
   ],
   "meta": {
