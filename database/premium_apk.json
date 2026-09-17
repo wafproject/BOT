@@ -9085,6 +9085,20 @@
       "items": [],
       "sold": 395,
       "stock": 0
+    },
+    {
+      "code": "HMA",
+      "name": "HMA VPN 1 Bulan",
+      "category": "VPN Premium",
+      "type": "link",
+      "price": 3000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "Masukkan kode aktivasi diatas ke aplikasi HMA VPN",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
