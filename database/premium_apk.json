@@ -9447,16 +9447,23 @@
       "bulk_prices": [],
       "descShort": "Full Durasi",
       "snk": "* FULL GARANSI BACKFREE\n• LOGIN HANYA 1 DEVICE , DILARANG KERAS LOGIN LEBIH DARI 1 DEVICE\n• DILARANG GANTI EMAIL & PASSWORD \n• WAJIB SEND SCREENSHOT BUKTI LOGIN ke @enziwaf",
-      "items": [
-        {
-          "email": "chyna11@eb6w.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789603050738
-        }
-      ],
+      "items": [],
       "sold": 1295,
-      "stock": 1,
-      "reserved": []
+      "stock": 0,
+      "reserved": [
+        {
+          "id": "RSV1789668231781746",
+          "items": [
+            {
+              "email": "chyna11@eb6w.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1789603050738
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-17T18:03:51.781Z"
+        }
+      ]
     },
     {
       "code": "SPO1BMURAH",
