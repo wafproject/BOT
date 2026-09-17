@@ -87,6 +87,10 @@
     {
       "name": "Meitu Vip",
       "is_active": true
+    },
+    {
+      "name": "VPN Premium",
+      "is_active": true
     }
   ],
   "products": [
