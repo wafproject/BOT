@@ -6511,9 +6511,15 @@
       "bulk_prices": [],
       "descShort": "All Device",
       "snk": "Support All Device",
-      "items": [],
+      "items": [
+        {
+          "email": "jollyraven38@rumahweb.site",
+          "password": "masuk123",
+          "addedAt": 1789620536264
+        }
+      ],
       "sold": 391,
-      "stock": 0,
+      "stock": 1,
       "reserved": []
     },
     {
