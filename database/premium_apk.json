@@ -6536,10 +6536,15 @@
           "email": "ameliadrive12@hajar.tech",
           "password": "Masuk123@",
           "addedAt": 1789623033768
+        },
+        {
+          "email": "jungletundra01@rith.me",
+          "password": "Masuk123@",
+          "addedAt": 1789623289752
         }
       ],
       "sold": 391,
-      "stock": 5,
+      "stock": 6,
       "reserved": []
     },
     {
