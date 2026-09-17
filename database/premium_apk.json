@@ -9500,21 +9500,9 @@
           "addedAt": 1789623605100
         }
       ],
-      "sold": 0,
+      "sold": 1,
       "stock": 3,
-      "reserved": [
-        {
-          "id": "RSV1789635450815253",
-          "items": [
-            {
-              "text": "LRMS8K-FBBZA2-5UCJSE",
-              "addedAt": 1789623605100
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-17T08:57:30.815Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
