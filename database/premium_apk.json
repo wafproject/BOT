@@ -9447,9 +9447,20 @@
       "bulk_prices": [],
       "descShort": "Full Durasi",
       "snk": "* FULL GARANSI BACKFREE\n• LOGIN HANYA 1 DEVICE , DILARANG KERAS LOGIN LEBIH DARI 1 DEVICE\n• DILARANG GANTI EMAIL & PASSWORD \n• WAJIB SEND SCREENSHOT BUKTI LOGIN ke @enziwaf",
-      "items": [],
+      "items": [
+        {
+          "email": "8kmnjs28@0iv2.jutjutsu.my.id",
+          "password": "masuk123",
+          "addedAt": 1789670577827
+        },
+        {
+          "email": "8kmnjs28@0iv2.jutjutsu.my.id",
+          "password": "masuk123",
+          "addedAt": 1789670577827
+        }
+      ],
       "sold": 1296,
-      "stock": 0,
+      "stock": 2,
       "reserved": []
     },
     {
