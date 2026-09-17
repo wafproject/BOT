@@ -6531,10 +6531,15 @@
           "email": "crimsoncipheryjb8@leotechlab1.com",
           "password": "Masuk123@",
           "addedAt": 1789622163423
+        },
+        {
+          "email": "ameliadrive12@hajar.tech",
+          "password": "Masuk123@",
+          "addedAt": 1789623033768
         }
       ],
       "sold": 391,
-      "stock": 4,
+      "stock": 5,
       "reserved": []
     },
     {
