@@ -6521,10 +6521,15 @@
           "email": "emberowl02yg@pemiyum.net",
           "password": "Masuk123@",
           "addedAt": 1789620765884
+        },
+        {
+          "email": "raceplanet45@leotechlab.site",
+          "password": "Masuk123@",
+          "addedAt": 1789621697815
         }
       ],
       "sold": 391,
-      "stock": 2,
+      "stock": 3,
       "reserved": []
     },
     {
