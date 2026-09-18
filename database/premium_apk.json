@@ -6907,22 +6907,9 @@
           "addedAt": 1789623289752
         }
       ],
-      "sold": 391,
+      "sold": 392,
       "stock": 5,
-      "reserved": [
-        {
-          "id": "RSV1789699793284921",
-          "items": [
-            {
-              "email": "jollyraven38@rumahweb.site",
-              "password": "Masuk123@",
-              "addedAt": 1789620715188
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-18T02:49:53.284Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "VIULIFE",
