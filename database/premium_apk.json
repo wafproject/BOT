@@ -9515,22 +9515,9 @@
           "addedAt": 1789670577827
         }
       ],
-      "sold": 1296,
+      "sold": 1297,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV1789702860477841",
-          "items": [
-            {
-              "email": "8kmnjs28@0iv2.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789670577827
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-18T03:41:00.477Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "SPO1BMURAH",
