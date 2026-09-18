@@ -6893,22 +6893,9 @@
           "addedAt": 1789623289752
         }
       ],
-      "sold": 393,
+      "sold": 394,
       "stock": 3,
-      "reserved": [
-        {
-          "id": "RSV1789736823497982",
-          "items": [
-            {
-              "email": "raceplanet45@leotechlab.site",
-              "password": "Masuk123@",
-              "addedAt": 1789621697815
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-18T13:07:03.498Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "VIULIFE",
