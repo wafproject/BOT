@@ -933,10 +933,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "jkot100@banri.xyz|https://generator.email/jkot100@banri.xyz",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "lefout@rexornge.net|https://generator.email/lefout@rexornge.net",
           "addedAt": 1783266949580
         },
@@ -4921,9 +4917,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 997,
+      "stock": 996,
       "sold": 915,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV178972977697389",
+          "items": [
+            {
+              "email": "jkot100@banri.xyz|https://generator.email/jkot100@banri.xyz",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-18T11:09:36.973Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
