@@ -6882,11 +6882,6 @@
       "snk": "Support All Device",
       "items": [
         {
-          "email": "jollyraven38@rumahweb.site",
-          "password": "Masuk123@",
-          "addedAt": 1789620715188
-        },
-        {
           "email": "emberowl02yg@pemiyum.net",
           "password": "Masuk123@",
           "addedAt": 1789620765884
@@ -6913,8 +6908,21 @@
         }
       ],
       "sold": 391,
-      "stock": 6,
-      "reserved": []
+      "stock": 5,
+      "reserved": [
+        {
+          "id": "RSV1789699793284921",
+          "items": [
+            {
+              "email": "jollyraven38@rumahweb.site",
+              "password": "Masuk123@",
+              "addedAt": 1789620715188
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-18T02:49:53.284Z"
+        }
+      ]
     },
     {
       "code": "VIULIFE",
