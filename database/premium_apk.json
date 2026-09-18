@@ -6878,11 +6878,6 @@
       "snk": "Support All Device",
       "items": [
         {
-          "email": "crimsoncipheryjb8@leotechlab1.com",
-          "password": "Masuk123@",
-          "addedAt": 1789622163423
-        },
-        {
           "email": "ameliadrive12@hajar.tech",
           "password": "Masuk123@",
           "addedAt": 1789623033768
@@ -6894,8 +6889,21 @@
         }
       ],
       "sold": 394,
-      "stock": 3,
-      "reserved": []
+      "stock": 2,
+      "reserved": [
+        {
+          "id": "RSV1789760811993637",
+          "items": [
+            {
+              "email": "crimsoncipheryjb8@leotechlab1.com",
+              "password": "Masuk123@",
+              "addedAt": 1789622163423
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-18T19:46:51.993Z"
+        }
+      ]
     },
     {
       "code": "VIULIFE",
