@@ -6042,7 +6042,7 @@
           "addedAt": 1789702308683
         }
       ],
-      "sold": 7455,
+      "sold": 7456,
       "stock": 1,
       "reserved": [
         {
@@ -6279,18 +6279,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789715133259967",
-          "items": [
-            {
-              "email": "lelalang@gzr5.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789702308683
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-18T07:05:33.259Z"
         }
       ],
       "bulk_active": true,
