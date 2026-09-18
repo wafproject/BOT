@@ -9421,15 +9421,10 @@
           "email": "azg6vj5z@0iv2.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1789670628768
-        },
-        {
-          "email": "azg6vj5z@0iv2.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1789670628768
         }
       ],
       "sold": 1296,
-      "stock": 4,
+      "stock": 3,
       "reserved": []
     },
     {
