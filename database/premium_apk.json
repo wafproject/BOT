@@ -9383,22 +9383,9 @@
       "descShort": "Full Durasi",
       "snk": "* FULL GARANSI BACKFREE\n• LOGIN HANYA 1 DEVICE , DILARANG KERAS LOGIN LEBIH DARI 1 DEVICE\n• DILARANG GANTI EMAIL & PASSWORD \n• WAJIB SEND SCREENSHOT BUKTI LOGIN ke @enziwaf",
       "items": [],
-      "sold": 1297,
+      "sold": 1298,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV1789814539158286",
-          "items": [
-            {
-              "email": "8kmnjs28@0iv2.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1789670577827
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-19T10:42:19.159Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "SPO1BMURAH",
