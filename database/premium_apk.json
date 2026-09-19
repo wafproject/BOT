@@ -9361,16 +9361,23 @@
       "bulk_prices": [],
       "descShort": "Anti limit Sharing 3 U",
       "snk": "SNK DISINI WAJIB BACA https://t.me/premiummin/29",
-      "items": [
-        {
-          "email": "LuciusStephanson176765@outlook.com",
-          "password": "masuk123",
-          "addedAt": 1788951820590
-        }
-      ],
+      "items": [],
       "sold": 518,
-      "stock": 1,
-      "reserved": []
+      "stock": 0,
+      "reserved": [
+        {
+          "id": "RSV1789824438122923",
+          "items": [
+            {
+              "email": "LuciusStephanson176765@outlook.com",
+              "password": "masuk123",
+              "addedAt": 1788951820590
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-19T13:27:18.122Z"
+        }
+      ]
     },
     {
       "code": "CC1BSHAR",
