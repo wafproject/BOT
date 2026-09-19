@@ -6183,7 +6183,7 @@
           "addedAt": 1789859577324
         }
       ],
-      "sold": 7467,
+      "sold": 7477,
       "stock": 30,
       "reserved": [
         {
@@ -6420,63 +6420,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789860315313674",
-          "items": [
-            {
-              "email": "3ds9wxnl@mxwp.zolud.app",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            },
-            {
-              "email": "qegtr52g@nfff.crev.me",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            },
-            {
-              "email": "o03odq4t@zand.crev.me",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            },
-            {
-              "email": "60ojyx4c@jqbwt.zotet.app",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            },
-            {
-              "email": "vq9ft6gp@gajgm.zotet.app",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            },
-            {
-              "email": "qs2a7iap@jqbwt.zotet.app",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            },
-            {
-              "email": "6rv8rlzw@gajgm.zotet.app",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            },
-            {
-              "email": "hgkdl75i@jqbwt.zotet.app",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            },
-            {
-              "email": "qq8mplwu@zand.crev.me",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            },
-            {
-              "email": "8eyhkwhi@ybnz.greda.app",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-09-19T23:25:15.313Z"
         }
       ],
       "bulk_active": true,
