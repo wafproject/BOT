@@ -6059,7 +6059,7 @@
           "addedAt": 1789859577324
         }
       ],
-      "sold": 7497,
+      "sold": 7501,
       "stock": 6,
       "reserved": [
         {
@@ -6296,33 +6296,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789875625581794",
-          "items": [
-            {
-              "email": "z883xhav@edu.bhupm.app",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            },
-            {
-              "email": "50hdxjyf@ybag.zibon.app",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            },
-            {
-              "email": "3qj42w4s@wink-leviosaly.my.id",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            },
-            {
-              "email": "sg89cn6f@zabrj.qqv.me",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            }
-          ],
-          "qty": 4,
-          "createdAt": "2026-09-20T03:40:25.581Z"
         }
       ],
       "bulk_active": true,
