@@ -6899,22 +6899,9 @@
       "descShort": "All Device",
       "snk": "Support All Device",
       "items": [],
-      "sold": 396,
+      "sold": 397,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV1789884096452996",
-          "items": [
-            {
-              "email": "jungletundra01@rith.me",
-              "password": "Masuk123@",
-              "addedAt": 1789623289752
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-20T06:01:36.452Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "VIULIFE",
