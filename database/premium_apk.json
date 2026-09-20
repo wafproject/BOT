@@ -6033,56 +6033,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://emailqu.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "jn4lx6h2@delot.dev",
-          "password": "masuk123",
-          "addedAt": 1789859577324
-        },
-        {
-          "email": "s2qh1edo@evzix.rils.me",
-          "password": "masuk123",
-          "addedAt": 1789859577324
-        },
-        {
-          "email": "hq59xefp@flobati.space",
-          "password": "masuk123",
-          "addedAt": 1789859577324
-        },
-        {
-          "email": "itcx228o@hgth.suve.me",
-          "password": "masuk123",
-          "addedAt": 1789859577324
-        },
-        {
-          "email": "no5hm1e5@appcloudmurah.works",
-          "password": "masuk123",
-          "addedAt": 1789859577324
-        },
-        {
-          "email": "rgywjui1@utab.poj.me",
-          "password": "masuk123",
-          "addedAt": 1789859577324
-        },
-        {
-          "email": "4vty31qu@rgoh.greda.app",
-          "password": "masuk123",
-          "addedAt": 1789859577324
-        },
-        {
-          "email": "rfgl5c10@rgoh.greda.app",
-          "password": "masuk123",
-          "addedAt": 1789859577324
-        },
-        {
-          "email": "cwikycde@rgoh.greda.app",
-          "password": "masuk123",
-          "addedAt": 1789859577324
-        },
-        {
-          "email": "u7ujez2v@semut.me",
-          "password": "masuk123",
-          "addedAt": 1789859577324
-        },
-        {
           "email": "mlb4qi4i@tshg.greda.app",
           "password": "masuk123",
           "addedAt": 1789859577324
@@ -6169,7 +6119,7 @@
         }
       ],
       "sold": 7480,
-      "stock": 27,
+      "stock": 17,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6405,6 +6355,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1789866314425130",
+          "items": [
+            {
+              "email": "jn4lx6h2@delot.dev",
+              "password": "masuk123",
+              "addedAt": 1789859577324
+            },
+            {
+              "email": "s2qh1edo@evzix.rils.me",
+              "password": "masuk123",
+              "addedAt": 1789859577324
+            },
+            {
+              "email": "hq59xefp@flobati.space",
+              "password": "masuk123",
+              "addedAt": 1789859577324
+            },
+            {
+              "email": "itcx228o@hgth.suve.me",
+              "password": "masuk123",
+              "addedAt": 1789859577324
+            },
+            {
+              "email": "no5hm1e5@appcloudmurah.works",
+              "password": "masuk123",
+              "addedAt": 1789859577324
+            },
+            {
+              "email": "rgywjui1@utab.poj.me",
+              "password": "masuk123",
+              "addedAt": 1789859577324
+            },
+            {
+              "email": "4vty31qu@rgoh.greda.app",
+              "password": "masuk123",
+              "addedAt": 1789859577324
+            },
+            {
+              "email": "rfgl5c10@rgoh.greda.app",
+              "password": "masuk123",
+              "addedAt": 1789859577324
+            },
+            {
+              "email": "cwikycde@rgoh.greda.app",
+              "password": "masuk123",
+              "addedAt": 1789859577324
+            },
+            {
+              "email": "u7ujez2v@semut.me",
+              "password": "masuk123",
+              "addedAt": 1789859577324
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-09-20T01:05:14.425Z"
         }
       ],
       "bulk_active": true,
