@@ -6898,16 +6898,23 @@
       "bulk_prices": [],
       "descShort": "All Device",
       "snk": "Support All Device",
-      "items": [
-        {
-          "email": "jungletundra01@rith.me",
-          "password": "Masuk123@",
-          "addedAt": 1789623289752
-        }
-      ],
+      "items": [],
       "sold": 396,
-      "stock": 1,
-      "reserved": []
+      "stock": 0,
+      "reserved": [
+        {
+          "id": "RSV1789884096452996",
+          "items": [
+            {
+              "email": "jungletundra01@rith.me",
+              "password": "Masuk123@",
+              "addedAt": 1789623289752
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-20T06:01:36.452Z"
+        }
+      ]
     },
     {
       "code": "VIULIFE",
