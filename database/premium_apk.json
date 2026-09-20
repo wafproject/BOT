@@ -6054,7 +6054,7 @@
           "addedAt": 1789859577324
         }
       ],
-      "sold": 7501,
+      "sold": 7502,
       "stock": 5,
       "reserved": [
         {
@@ -6291,18 +6291,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789878364968612",
-          "items": [
-            {
-              "email": "7c9iu65l@cherryimups.web.id",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-20T04:26:04.968Z"
         }
       ],
       "bulk_active": true,
