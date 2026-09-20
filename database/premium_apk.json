@@ -6168,7 +6168,7 @@
           "addedAt": 1789859577324
         }
       ],
-      "sold": 7479,
+      "sold": 7480,
       "stock": 27,
       "reserved": [
         {
@@ -6405,18 +6405,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789864229317245",
-          "items": [
-            {
-              "email": "y34hmd0e@pkdigitalmart.online",
-              "password": "masuk123",
-              "addedAt": 1789859577324
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-20T00:30:29.317Z"
         }
       ],
       "bulk_active": true,
