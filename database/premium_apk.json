@@ -6033,16 +6033,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://emailqu.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "7o6hp1h9@ztzx.poj.me",
-          "password": "masuk123",
-          "addedAt": 1789859577324
-        },
-        {
-          "email": "plvrwypy@hgth.suve.me",
-          "password": "masuk123",
-          "addedAt": 1789859577324
-        },
-        {
           "email": "y34hmd0e@pkdigitalmart.online",
           "password": "masuk123",
           "addedAt": 1789859577324
@@ -6184,7 +6174,7 @@
         }
       ],
       "sold": 7477,
-      "stock": 30,
+      "stock": 28,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6420,6 +6410,23 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1789862419087335",
+          "items": [
+            {
+              "email": "7o6hp1h9@ztzx.poj.me",
+              "password": "masuk123",
+              "addedAt": 1789859577324
+            },
+            {
+              "email": "plvrwypy@hgth.suve.me",
+              "password": "masuk123",
+              "addedAt": 1789859577324
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-09-20T00:00:19.087Z"
         }
       ],
       "bulk_active": true,
