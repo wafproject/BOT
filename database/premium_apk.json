@@ -6025,56 +6025,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://emailqu.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "pqm5es4d@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "uk4zl2a0@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "i3u9as8b@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "rmj0g290@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "30plg6q2@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "yofwko2n@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "d6c8fob7@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "k83wdehq@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "wr2wj8px@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "es7771ri@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
           "email": "a5elttst@zimpura.my.id",
           "password": "masuk123",
           "addedAt": 1789937824521
@@ -6161,7 +6111,7 @@
         }
       ],
       "sold": 7520,
-      "stock": 27,
+      "stock": 17,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6397,6 +6347,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1789952717393418",
+          "items": [
+            {
+              "email": "pqm5es4d@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "uk4zl2a0@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "i3u9as8b@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "rmj0g290@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "30plg6q2@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "yofwko2n@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "d6c8fob7@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "k83wdehq@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "wr2wj8px@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "es7771ri@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-09-21T01:05:17.393Z"
         }
       ],
       "bulk_active": true,
