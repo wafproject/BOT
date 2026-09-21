@@ -9288,7 +9288,7 @@
       "code": "OT",
       "name": "Outlook",
       "category": "Email Fresh",
-      "type": "akun",
+      "type": "info",
       "price": 1000,
       "bulk_active": false,
       "bulk_prices": [],
