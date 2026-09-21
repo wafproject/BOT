@@ -6060,7 +6060,7 @@
           "addedAt": 1789937824521
         }
       ],
-      "sold": 7536,
+      "sold": 7540,
       "stock": 7,
       "reserved": [
         {
@@ -6297,33 +6297,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789972906094360",
-          "items": [
-            {
-              "email": "tdcr3fxs@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1789937824521
-            },
-            {
-              "email": "8u8l366l@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1789937824521
-            },
-            {
-              "email": "raap63j7@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1789937824521
-            },
-            {
-              "email": "05qai0tv@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1789937824521
-            }
-          ],
-          "qty": 4,
-          "createdAt": "2026-09-21T06:41:46.094Z"
         }
       ],
       "bulk_active": true,
