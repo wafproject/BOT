@@ -6025,26 +6025,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://emailqu.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "tdcr3fxs@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "8u8l366l@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "raap63j7@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "05qai0tv@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
           "email": "iuzga57y@zimpura.my.id",
           "password": "masuk123",
           "addedAt": 1789937824521
@@ -6081,7 +6061,7 @@
         }
       ],
       "sold": 7536,
-      "stock": 11,
+      "stock": 7,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6317,6 +6297,33 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1789972906094360",
+          "items": [
+            {
+              "email": "tdcr3fxs@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "8u8l366l@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "raap63j7@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "05qai0tv@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-09-21T06:41:46.094Z"
         }
       ],
       "bulk_active": true,
