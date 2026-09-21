@@ -6085,7 +6085,7 @@
           "addedAt": 1789937824521
         }
       ],
-      "sold": 7534,
+      "sold": 7535,
       "stock": 12,
       "reserved": [
         {
@@ -6322,18 +6322,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1789969955738733",
-          "items": [
-            {
-              "email": "s5367dmt@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1789937824521
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-21T05:52:35.738Z"
         }
       ],
       "bulk_active": true,
