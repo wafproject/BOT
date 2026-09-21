@@ -6023,40 +6023,9 @@
       "price": 2500,
       "descShort": "Full Garansi",
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://emailqu.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
-      "items": [
-        {
-          "email": "q2rbts9d@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "k1wvmn0g@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "icyputri96@corbun.fun",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "stellarnina61eq@galileos.dev",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "goldenplanet310@ahbvx.app",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
-          "email": "jasonspark470@zeystair.sbs",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        }
-      ],
+      "items": [],
       "sold": 7541,
-      "stock": 6,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6292,6 +6261,43 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1789993204049367",
+          "items": [
+            {
+              "email": "q2rbts9d@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "k1wvmn0g@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "icyputri96@corbun.fun",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "stellarnina61eq@galileos.dev",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "goldenplanet310@ahbvx.app",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            },
+            {
+              "email": "jasonspark470@zeystair.sbs",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            }
+          ],
+          "qty": 6,
+          "createdAt": "2026-09-21T12:20:04.049Z"
         }
       ],
       "bulk_active": true,
