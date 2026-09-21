@@ -6025,11 +6025,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://emailqu.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "s5367dmt@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1789937824521
-        },
-        {
           "email": "qrr62isq@zimpura.my.id",
           "password": "masuk123",
           "addedAt": 1789937824521
@@ -6091,7 +6086,7 @@
         }
       ],
       "sold": 7534,
-      "stock": 13,
+      "stock": 12,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6327,6 +6322,18 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1789969955738733",
+          "items": [
+            {
+              "email": "s5367dmt@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1789937824521
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-21T05:52:35.738Z"
         }
       ],
       "bulk_active": true,
