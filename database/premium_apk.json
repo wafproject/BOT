@@ -9511,7 +9511,7 @@
       "category": "Email Fresh",
       "type": "info",
       "price": 1000,
-      "bulk_active": false,
+      "bulk_active": true,
       "bulk_prices": [
         {
           "minQty": 20,
