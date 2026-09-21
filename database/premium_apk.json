@@ -9365,22 +9365,9 @@
           "addedAt": 1787008100003
         }
       ],
-      "sold": 688,
+      "sold": 689,
       "stock": 6,
-      "reserved": [
-        {
-          "id": "RSV1789967606727820",
-          "items": [
-            {
-              "email": "JalynnKalai04712@outlook.com",
-              "password": "bhonsc60534",
-              "addedAt": 1787008100003
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-21T05:13:26.727Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "HT",
