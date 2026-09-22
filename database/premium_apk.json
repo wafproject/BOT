@@ -4902,20 +4902,8 @@
         }
       ],
       "stock": 994,
-      "sold": 917,
-      "reserved": [
-        {
-          "id": "RSV1790100159167489",
-          "items": [
-            {
-              "email": "spudram11@herilev.top|https://generator.email/spudram11@herilev.top",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-22T18:02:39.175Z"
-        }
-      ],
+      "sold": 918,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
