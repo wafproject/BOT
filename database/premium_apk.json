@@ -6129,10 +6129,15 @@
           "email": "faserpocue76@zimpura.my.id",
           "password": "masuk123",
           "addedAt": 1790025456333
+        },
+        {
+          "email": "rodrikuapo7y@zimpura.my.id",
+          "password": "masuk123",
+          "addedAt": 1790056221869
         }
       ],
       "sold": 7564,
-      "stock": 22,
+      "stock": 23,
       "reserved": [
         {
           "id": "RSV1780362536090628",
