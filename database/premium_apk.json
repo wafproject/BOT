@@ -925,10 +925,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "lefout@rexornge.net|https://generator.email/lefout@rexornge.net",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "spudram11@herilev.top|https://generator.email/spudram11@herilev.top",
           "addedAt": 1783266949580
         },
@@ -4909,9 +4905,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 996,
+      "stock": 995,
       "sold": 916,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1790053126190694",
+          "items": [
+            {
+              "email": "lefout@rexornge.net|https://generator.email/lefout@rexornge.net",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-22T04:58:46.190Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
