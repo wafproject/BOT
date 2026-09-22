@@ -4906,20 +4906,8 @@
         }
       ],
       "stock": 995,
-      "sold": 916,
-      "reserved": [
-        {
-          "id": "RSV1790053126190694",
-          "items": [
-            {
-              "email": "lefout@rexornge.net|https://generator.email/lefout@rexornge.net",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-22T04:58:46.190Z"
-        }
-      ],
+      "sold": 917,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
