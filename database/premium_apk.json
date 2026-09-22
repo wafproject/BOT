@@ -5991,9 +5991,20 @@
       "price": 21000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 25 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
-      "items": [],
+      "items": [
+        {
+          "email": "rayforge67sb@meflo.site",
+          "password": "masuk123",
+          "addedAt": 1790112973675
+        },
+        {
+          "email": "canvastokyo942@premixie.net",
+          "password": "masuk123",
+          "addedAt": 1790112973675
+        }
+      ],
       "sold": 1600,
-      "stock": 0,
+      "stock": 2,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
