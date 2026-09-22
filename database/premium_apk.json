@@ -925,10 +925,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "spudram11@herilev.top|https://generator.email/spudram11@herilev.top",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "antonovgeorgi@agencysq.store|https://generator.email/antonovgeorgi@agencysq.store",
           "addedAt": 1783266949580
         },
@@ -4905,9 +4901,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 995,
+      "stock": 994,
       "sold": 917,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1790100159167489",
+          "items": [
+            {
+              "email": "spudram11@herilev.top|https://generator.email/spudram11@herilev.top",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-22T18:02:39.175Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
