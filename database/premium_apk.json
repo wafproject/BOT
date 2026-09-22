@@ -9789,21 +9789,9 @@
           "addedAt": 1789974011312
         }
       ],
-      "sold": 483,
+      "sold": 484,
       "stock": 49,
-      "reserved": [
-        {
-          "id": "RSV1790060518715537",
-          "items": [
-            {
-              "text": "2. DwainBroich9583@hotmail.com|czgfws609154|M.C544_BL2.0.U.MsaArtifacts.-CvjP0HlvyZKvOfOeflh7!w7VSL!yzDSTLGXlAqXNIcvBsVRdsPnIZxjbCS1ep0WkGr2O9t4FkY*Oqk6udReStU34RoNR0COTexGyjtsiU8yb!SGrqpA2ISsbm76vOG59ITU*!!i9JwkCu0F!s!taCFPcKbXFjZ7iNEeUgKR7nUnSEpUmLZSc6Qlkxj1GA8Yx0hLyalRUOLZx9YK0K6w2K8I3touyN29Rfk!fRaL0smaXCleJrd9sc1jwtmkyvIOqki1aXQKQ5BhO2iATDpaUoqFEHimbpF09t4FVsQxNbskiFEJe8Z3k4mEtjLwukXWLmYJuKuWgJqA4LlLssKVhzpicQSbnBCfCRrY25TpDNQD*sL*AD!QetVP6GLIW8dQAv82TpaA0RBkvTKkTrao*CtCmZCRIY5TwBNMHJE04fzxD|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
-              "addedAt": 1789973399037
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-22T07:01:58.715Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "MEITU",
