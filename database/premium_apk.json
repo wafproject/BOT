@@ -6549,14 +6549,10 @@
         {
           "text": "kirim email ke admin @enziwaf",
           "addedAt": 1789625488423
-        },
-        {
-          "text": "kirim email ke admin @enziwaf",
-          "addedAt": 1789625488423
         }
       ],
       "sold": 9,
-      "stock": 57,
+      "stock": 56,
       "reserved": [
         {
           "id": "RSV1781539597787255",
