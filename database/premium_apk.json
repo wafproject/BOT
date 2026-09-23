@@ -6192,15 +6192,10 @@
           "email": "9mzpv2el@zimpura.my.id",
           "password": "masuk123",
           "addedAt": 1790198650331
-        },
-        {
-          "email": "1gcx0og3@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790198650331
         }
       ],
       "sold": 7597,
-      "stock": 32,
+      "stock": 31,
       "reserved": [
         {
           "id": "RSV1780362536090628",
