@@ -6325,14 +6325,9 @@
       "price": 1000,
       "descShort": "Email buyer",
       "snk": "* Kirim email kamu ke admin: @enziwaf atau wa.me/6287731282876\n• Garansi 1 Bulan.\n• Wajib stay saat proses aktivasi",
-      "items": [
-        {
-          "text": "kirim email ke admin @enziwaf",
-          "addedAt": 1789625387931
-        }
-      ],
+      "items": [],
       "sold": 9,
-      "stock": 1,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1781539597787255",
