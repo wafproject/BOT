@@ -6232,15 +6232,10 @@
           "email": "raniwave14bn@zimpura.my.id",
           "password": "masuk123",
           "addedAt": 1790198650331
-        },
-        {
-          "email": "goldenlion95@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790198650331
         }
       ],
       "sold": 7597,
-      "stock": 40,
+      "stock": 39,
       "reserved": [
         {
           "id": "RSV1780362536090628",
