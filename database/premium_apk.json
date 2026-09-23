@@ -6127,15 +6127,10 @@
           "email": "fju3korp@zimpura.my.id",
           "password": "masuk123",
           "addedAt": 1790198650331
-        },
-        {
-          "email": "moodd4r0@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790198650331
         }
       ],
       "sold": 7597,
-      "stock": 19,
+      "stock": 18,
       "reserved": [
         {
           "id": "RSV1780362536090628",
