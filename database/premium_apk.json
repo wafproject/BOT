@@ -6072,15 +6072,10 @@
           "email": "sc5442wo@zimpura.my.id",
           "password": "masuk123",
           "addedAt": 1790198650331
-        },
-        {
-          "email": "whu3na2g@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790198650331
         }
       ],
       "sold": 7597,
-      "stock": 8,
+      "stock": 7,
       "reserved": [
         {
           "id": "RSV1780362536090628",
