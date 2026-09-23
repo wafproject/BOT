@@ -6365,14 +6365,10 @@
         {
           "text": "kirim email ke admin @enziwaf",
           "addedAt": 1789625488423
-        },
-        {
-          "text": "kirim email ke admin @enziwaf",
-          "addedAt": 1789625488423
         }
       ],
       "sold": 9,
-      "stock": 11,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1781539597787255",
