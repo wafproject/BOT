@@ -6227,15 +6227,10 @@
           "email": "parrotorbit022@zimpura.my.id",
           "password": "masuk123",
           "addedAt": 1790198650331
-        },
-        {
-          "email": "raniwave14bn@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790198650331
         }
       ],
       "sold": 7597,
-      "stock": 39,
+      "stock": 38,
       "reserved": [
         {
           "id": "RSV1780362536090628",
