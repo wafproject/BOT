@@ -6217,15 +6217,10 @@
           "email": "0d6v6tpa@zimpura.my.id",
           "password": "masuk123",
           "addedAt": 1790198650331
-        },
-        {
-          "email": "bearharborsn24@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790198650331
         }
       ],
       "sold": 7597,
-      "stock": 37,
+      "stock": 36,
       "reserved": [
         {
           "id": "RSV1780362536090628",
