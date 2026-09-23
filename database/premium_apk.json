@@ -6063,7 +6063,7 @@
           "addedAt": 1790118043394
         }
       ],
-      "sold": 7580,
+      "sold": 7590,
       "stock": 7,
       "reserved": [
         {
@@ -6300,63 +6300,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1790122954817494",
-          "items": [
-            {
-              "email": "lgv7tym1@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790025456333
-            },
-            {
-              "email": "bgfyhuze@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790025456333
-            },
-            {
-              "email": "7q72677g@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790025456333
-            },
-            {
-              "email": "gurdsearg76@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790025456333
-            },
-            {
-              "email": "pogdaas@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790025456333
-            },
-            {
-              "email": "faserpocue76@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790025456333
-            },
-            {
-              "email": "rodrikuapo7y@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790056221869
-            },
-            {
-              "email": "58fl3fte@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790118043394
-            },
-            {
-              "email": "z9uf0w5u@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790118043394
-            },
-            {
-              "email": "hwk5901s@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790118043394
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-09-23T00:22:34.817Z"
         }
       ],
       "bulk_active": true,
