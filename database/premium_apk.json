@@ -6172,15 +6172,10 @@
           "email": "rsc2ylxs@zimpura.my.id",
           "password": "masuk123",
           "addedAt": 1790198650331
-        },
-        {
-          "email": "e63nhbgc@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790198650331
         }
       ],
       "sold": 7597,
-      "stock": 28,
+      "stock": 27,
       "reserved": [
         {
           "id": "RSV1780362536090628",
