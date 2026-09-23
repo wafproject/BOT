@@ -5998,22 +5998,9 @@
           "addedAt": 1790112973675
         }
       ],
-      "sold": 1600,
+      "sold": 1601,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV1790151509182259",
-          "items": [
-            {
-              "email": "rayforge67sb@meflo.site",
-              "password": "masuk123",
-              "addedAt": 1790112973675
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-23T08:18:29.182Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
