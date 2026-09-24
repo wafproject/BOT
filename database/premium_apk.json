@@ -6032,135 +6032,9 @@
       "price": 2500,
       "descShort": "Full Garansi",
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://emailqu.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
-      "items": [
-        {
-          "email": "97pe7gzw@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "sghof8ix@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "fju3korp@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "moodd4r0@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "awj58cu8@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "42rmyqc5@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "nzjpcciu@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "ipe9yvvv@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "kje6yos9@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "9tj0sv67@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "l12ayead@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "rsc2ylxs@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "e63nhbgc@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "y7g6tojj@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "9xtds93v@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "9mzpv2el@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "1gcx0og3@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "zlidbse4@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "55xox56i@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "wpmaa1di@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "0d6v6tpa@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "bearharborsn24@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "parrotorbit022@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "raniwave14bn@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        },
-        {
-          "email": "goldenlion95@zimpura.my.id",
-          "password": "masuk123",
-          "addedAt": 1790207564413
-        }
-      ],
+      "items": [],
       "sold": 7617,
-      "stock": 25,
+      "stock": 0,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6396,6 +6270,138 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV1790211508370530",
+          "items": [
+            {
+              "email": "97pe7gzw@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "sghof8ix@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "fju3korp@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "moodd4r0@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "awj58cu8@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "42rmyqc5@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "nzjpcciu@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "ipe9yvvv@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "kje6yos9@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "9tj0sv67@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "l12ayead@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "rsc2ylxs@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "e63nhbgc@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "y7g6tojj@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "9xtds93v@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "9mzpv2el@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "1gcx0og3@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "zlidbse4@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "55xox56i@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "wpmaa1di@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "0d6v6tpa@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "bearharborsn24@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "parrotorbit022@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "raniwave14bn@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            },
+            {
+              "email": "goldenlion95@zimpura.my.id",
+              "password": "masuk123",
+              "addedAt": 1790207564413
+            }
+          ],
+          "qty": 25,
+          "createdAt": "2026-09-24T00:58:28.370Z"
         }
       ],
       "bulk_active": true,
