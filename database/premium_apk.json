@@ -9327,6 +9327,20 @@
       "sold": 1,
       "stock": 3,
       "reserved": []
+    },
+    {
+      "code": "CANEDUHEAD",
+      "name": "Canva Education Head Lifetime",
+      "category": "canva pro",
+      "type": "akun",
+      "price": 20000,
+      "bulk_active": false,
+      "bulk_prices": [],
+      "descShort": "",
+      "snk": "*No Garansi\n• Bisa invite 500 member \n• Akses kode login ke outlook pakai email dan password diatas",
+      "items": [],
+      "sold": 0,
+      "stock": 0
     }
   ],
   "meta": {
