@@ -9338,9 +9338,30 @@
       "bulk_prices": [],
       "descShort": "No Garansi",
       "snk": "*No Garansi\n• Bisa invite 500 member \n• Akses kode login ke outlook pakai email dan password diatas",
-      "items": [],
+      "items": [
+        {
+          "email": "VenieLibecap077993@outlook.com",
+          "password": "ydsvpf85710",
+          "addedAt": 1790268907102
+        },
+        {
+          "email": "EloisaCuttone53315@outlook.com",
+          "password": "antdpf193745",
+          "addedAt": 1790268907102
+        },
+        {
+          "email": "SelinaCasavan50354@outlook.com",
+          "password": "iymfg576679",
+          "addedAt": 1790268907102
+        },
+        {
+          "email": "JulisaRimbach819602@outlook.com",
+          "password": "xnriqg584676",
+          "addedAt": 1790268907102
+        }
+      ],
       "sold": 0,
-      "stock": 0
+      "stock": 4
     }
   ],
   "meta": {
