@@ -6402,7 +6402,7 @@
           "addedAt": 1790378166832
         }
       ],
-      "sold": 7694,
+      "sold": 7695,
       "stock": 79,
       "reserved": [
         {
@@ -6639,18 +6639,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1790380069823431",
-          "items": [
-            {
-              "email": "ewz5n8uq@shannonku.web.id",
-              "password": "masuk123",
-              "addedAt": 1790378166831
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-25T23:47:49.823Z"
         }
       ],
       "bulk_active": true,
