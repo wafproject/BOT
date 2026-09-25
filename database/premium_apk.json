@@ -4890,20 +4890,8 @@
         }
       ],
       "stock": 993,
-      "sold": 918,
-      "reserved": [
-        {
-          "id": "RSV1790316965346879",
-          "items": [
-            {
-              "email": "antonovgeorgi@agencysq.store|https://generator.email/antonovgeorgi@agencysq.store",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-25T06:16:05.346Z"
-        }
-      ],
+      "sold": 919,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
