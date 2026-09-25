@@ -6195,7 +6195,7 @@
           "addedAt": 1790298211719
         }
       ],
-      "sold": 7642,
+      "sold": 7657,
       "stock": 35,
       "reserved": [
         {
@@ -6432,88 +6432,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1790299104177586",
-          "items": [
-            {
-              "email": "7t13w8ip@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "mwi94e0w@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "prlpxjig@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "8py43wph@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "yusw42g4@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "dirdvvex@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "8lcppney@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "w779v9kb@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "c5tn54vb@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "9e9e7lpi@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "b8ruxksc@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "qk2km6tb@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "hrjmqayr@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "pqpe04ak@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            },
-            {
-              "email": "cm7qur08@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790298211719
-            }
-          ],
-          "qty": 15,
-          "createdAt": "2026-09-25T01:18:24.177Z"
         }
       ],
       "bulk_active": true,
