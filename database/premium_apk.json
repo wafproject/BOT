@@ -9342,22 +9342,9 @@
           "addedAt": 1790268907102
         }
       ],
-      "sold": 73,
+      "sold": 74,
       "stock": 3,
-      "reserved": [
-        {
-          "id": "RSV179032377274565",
-          "items": [
-            {
-              "email": "VenieLibecap077993@outlook.com",
-              "password": "ydsvpf85710",
-              "addedAt": 1790268907102
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-25T08:09:32.745Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
