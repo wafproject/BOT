@@ -917,10 +917,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "antonovgeorgi@agencysq.store|https://generator.email/antonovgeorgi@agencysq.store",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "ujasa@gmailxsn.com|https://generator.email/ujasa@gmailxsn.com",
           "addedAt": 1783266949580
         },
@@ -4893,9 +4889,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 994,
+      "stock": 993,
       "sold": 918,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1790316965346879",
+          "items": [
+            {
+              "email": "antonovgeorgi@agencysq.store|https://generator.email/antonovgeorgi@agencysq.store",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-25T06:16:05.346Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
