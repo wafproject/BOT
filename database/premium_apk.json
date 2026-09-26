@@ -6249,15 +6249,10 @@
           "email": "knyuf8nf@arthurze.biz.id",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "grztk1qc@110926.eljawir.com",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 51,
+      "stock": 50,
       "reserved": [
         {
           "id": "RSV1780362536090628",
