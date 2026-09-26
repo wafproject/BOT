@@ -6124,10 +6124,15 @@
           "email": "thornyinsect@9e77.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1790378166832
+        },
+        {
+          "email": "bbp5hwiy@u4yo.jutjutsu.my.id",
+          "password": "masuk123",
+          "addedAt": 1790405031476
         }
       ],
       "sold": 7722,
-      "stock": 25,
+      "stock": 26,
       "reserved": [
         {
           "id": "RSV1780362536090628",
