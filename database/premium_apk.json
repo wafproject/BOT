@@ -6189,15 +6189,10 @@
           "email": "y7f55pxq@uyz2.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "uukoeimi@3g5z.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 39,
+      "stock": 38,
       "reserved": [
         {
           "id": "RSV1780362536090628",
