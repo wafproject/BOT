@@ -6184,15 +6184,10 @@
           "email": "n5kgmza4@shannonbot.web.id",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "y7f55pxq@uyz2.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 38,
+      "stock": 37,
       "reserved": [
         {
           "id": "RSV1780362536090628",
