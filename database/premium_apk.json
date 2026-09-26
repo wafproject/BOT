@@ -6021,7 +6021,7 @@
           "addedAt": 1790405031476
         }
       ],
-      "sold": 7738,
+      "sold": 7741,
       "stock": 4,
       "reserved": [
         {
@@ -6258,28 +6258,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1790416325568432",
-          "items": [
-            {
-              "email": "leo.nix82@dimas.meituy.com",
-              "password": "masuk123",
-              "addedAt": 1790378166832
-            },
-            {
-              "email": "omar.bay47@sgvi.meituy.com",
-              "password": "masuk123",
-              "addedAt": 1790378166832
-            },
-            {
-              "email": "zoe.ham15@wyar.meituy.com",
-              "password": "masuk123",
-              "addedAt": 1790378166832
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-09-26T09:52:05.568Z"
         }
       ],
       "bulk_active": true,
