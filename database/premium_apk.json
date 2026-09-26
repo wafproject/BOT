@@ -6174,15 +6174,10 @@
           "email": "thornyinsect@9e77.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "voincfjc@arthurze.biz.id",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 36,
+      "stock": 35,
       "reserved": [
         {
           "id": "RSV1780362536090628",
