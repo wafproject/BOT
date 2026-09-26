@@ -5976,22 +5976,9 @@
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 25 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [],
-      "sold": 1608,
+      "sold": 1609,
       "stock": 0,
-      "reserved": [
-        {
-          "id": "RSV1790393425870119",
-          "items": [
-            {
-              "email": "blazealpine03h8@zimpura.my.id",
-              "password": "masuk123",
-              "addedAt": 1790199617724
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-26T03:30:25.870Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
