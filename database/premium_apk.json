@@ -6204,15 +6204,10 @@
           "email": "zjcvb15v@rac.my.id",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "atptcryp@arcuteesy.kawneha.com",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 42,
+      "stock": 41,
       "reserved": [
         {
           "id": "RSV1780362536090628",
