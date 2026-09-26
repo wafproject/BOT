@@ -6001,18 +6001,13 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://emailqu.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "stickybear@8qyp.capskuy.eu.cc",
-          "password": "masuk123",
-          "addedAt": 1790378166832
-        },
-        {
           "email": "bbp5hwiy@u4yo.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1790405031476
         }
       ],
       "sold": 7743,
-      "stock": 2,
+      "stock": 1,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6248,6 +6243,18 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
+        },
+        {
+          "id": "RSV179042751907040",
+          "items": [
+            {
+              "email": "stickybear@8qyp.capskuy.eu.cc",
+              "password": "masuk123",
+              "addedAt": 1790378166832
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-26T12:58:39.070Z"
         }
       ],
       "bulk_active": true,
