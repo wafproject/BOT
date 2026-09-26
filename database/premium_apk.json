@@ -6234,15 +6234,10 @@
           "email": "8r1mkl01@shannonbot.web.id",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "b6rs01vv@110926.eljawir.com",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 48,
+      "stock": 47,
       "reserved": [
         {
           "id": "RSV1780362536090628",
