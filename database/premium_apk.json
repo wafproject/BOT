@@ -6392,7 +6392,7 @@
           "addedAt": 1790378166832
         }
       ],
-      "sold": 7696,
+      "sold": 7697,
       "stock": 77,
       "reserved": [
         {
@@ -6629,18 +6629,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1790388380752136",
-          "items": [
-            {
-              "email": "trg51zn5@alekke.biz.id",
-              "password": "masuk123",
-              "addedAt": 1790378166831
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-26T02:06:20.752Z"
         }
       ],
       "bulk_active": true,
