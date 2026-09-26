@@ -6259,15 +6259,10 @@
           "email": "2yugkj21@rac.my.id",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "x1o526u7@uyz2.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 53,
+      "stock": 52,
       "reserved": [
         {
           "id": "RSV1780362536090628",
