@@ -5996,7 +5996,7 @@
       "descShort": "Full Garansi",
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://emailqu.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [],
-      "sold": 7744,
+      "sold": 7745,
       "stock": 0,
       "reserved": [
         {
@@ -6233,18 +6233,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1790431634280324",
-          "items": [
-            {
-              "email": "bbp5hwiy@u4yo.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1790405031476
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-26T14:07:14.280Z"
         }
       ],
       "bulk_active": true,
