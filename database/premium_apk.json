@@ -6219,15 +6219,10 @@
           "email": "4179ffy8@110926.eljawir.com",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "chg5ajrb@8qyp.capskuy.eu.cc",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 45,
+      "stock": 44,
       "reserved": [
         {
           "id": "RSV1780362536090628",
