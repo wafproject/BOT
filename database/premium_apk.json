@@ -9049,10 +9049,6 @@
       "snk": "* No Garansi\n• Mail format : Email|Password|Refresh_token|Client_id\n• Silahkan copy semua format akun masukan ke @outlookreaderr_bot tools untuk baca mailbox outlook/hotmail tanpa login",
       "items": [
         {
-          "text": "6. EdrieTeff4407@hotmail.com|kyfkri530528|M.C517_BAY.0.U.MsaArtifacts.-CuoBW21KJ1cJPCTHHXm8GOXQQeIddBFw5A2L6aL1z3QPHjQMH!8qGcWQo9tD!bGd3HNTj4LAxv8FMst7uPTBeEfiNi8H49VBPTyve76EVaNRlnbrerkKs561FelEdhEfXu8x73GyoP501cz7R2BKGCgbTD09lQlHziU1RpcIGuAaWqWRRaTYuf*deKdmJTnzg5k6rie9rJ9M7yGWH*0gsHlFQ6Zfj56fAsK4B6D5t9ifW4qGBTVzBrQs90DzeERpupv7C4HJCw5*VCVs1XssBjppsbwrB01CoLMP6IniM8mZT!2GQOPHydy7!gznuLffke9ebu1fIBcxJDGNCoqEz68X4iDyEpuacfOgJUN8BdXJEq6aAOjR8MexRq5bhB5WJ0Z*dwNejYQDss2WVWAJQuJO*1RGSGmabJn3rz!6bb1r|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
-          "addedAt": 1789973399037
-        },
-        {
           "text": "7. KyleighHaahr612471@hotmail.com|bjason418143|M.C513_SN1.0.U.MsaArtifacts.-CnznLIn*gm1hauA8hWliJmj7plAlQ*OhxJlNf74VHtrsFcHJqj06ozq0kHpIQt17TLhlADnYqf!oNbwBlVe*GczPvtxzkUzgCglflOWRUDeIE2cNLg8zS8hfXaAidR170ZcCDFzoZDjpDeFeBYKaMQbowdn!!vy2xB9eRtDuJQivQVLNHgL3imVTU7VNsBnp9de*GY4Ze5EJpzebMecsdk9eBTFOyOlbnmt1ZcYlL3ypi82DivLcQUH63YFxAMk4vCQi6XIPfkh7atyMQWBjSbP3BqCOwwlfKlYXTonNvLU4tG3zcq3nBQPM8JlocLtgBqjA1gCWe1rdmXp6dYy3rAdvmCampUxhSIQzM5LU2x1utiGx!HaSZOb*wVMdZlI9OYTMqcFMFZc8m5wUpfRQ828ZYtW!EMOPZSg3*NGpcELo|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
           "addedAt": 1789973399037
         },
@@ -9234,8 +9230,20 @@
         }
       ],
       "sold": 487,
-      "stock": 46,
-      "reserved": []
+      "stock": 45,
+      "reserved": [
+        {
+          "id": "RSV1790409190567354",
+          "items": [
+            {
+              "text": "6. EdrieTeff4407@hotmail.com|kyfkri530528|M.C517_BAY.0.U.MsaArtifacts.-CuoBW21KJ1cJPCTHHXm8GOXQQeIddBFw5A2L6aL1z3QPHjQMH!8qGcWQo9tD!bGd3HNTj4LAxv8FMst7uPTBeEfiNi8H49VBPTyve76EVaNRlnbrerkKs561FelEdhEfXu8x73GyoP501cz7R2BKGCgbTD09lQlHziU1RpcIGuAaWqWRRaTYuf*deKdmJTnzg5k6rie9rJ9M7yGWH*0gsHlFQ6Zfj56fAsK4B6D5t9ifW4qGBTVzBrQs90DzeERpupv7C4HJCw5*VCVs1XssBjppsbwrB01CoLMP6IniM8mZT!2GQOPHydy7!gznuLffke9ebu1fIBcxJDGNCoqEz68X4iDyEpuacfOgJUN8BdXJEq6aAOjR8MexRq5bhB5WJ0Z*dwNejYQDss2WVWAJQuJO*1RGSGmabJn3rz!6bb1r|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
+              "addedAt": 1789973399037
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-26T07:53:10.568Z"
+        }
+      ]
     },
     {
       "code": "MEITU",
