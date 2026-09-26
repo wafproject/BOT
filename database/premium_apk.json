@@ -6269,15 +6269,10 @@
           "email": "9846p0dt@ltpy.capskuy.eu.cc",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "btaovxk7@capskuy.eu.cc",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 55,
+      "stock": 54,
       "reserved": [
         {
           "id": "RSV1780362536090628",
