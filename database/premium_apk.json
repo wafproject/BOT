@@ -6304,15 +6304,10 @@
           "email": "eu3ylt5n@e4jz.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "vx7mu930@capskuy.eu.cc",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 62,
+      "stock": 61,
       "reserved": [
         {
           "id": "RSV1780362536090628",
