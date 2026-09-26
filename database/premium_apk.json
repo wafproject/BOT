@@ -6289,15 +6289,10 @@
           "email": "b6i9qj25@u7i8.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "9nst6tej@ltpy.capskuy.eu.cc",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 59,
+      "stock": 58,
       "reserved": [
         {
           "id": "RSV1780362536090628",
