@@ -6214,15 +6214,10 @@
           "email": "hmrf3pum@shannonbot.web.id",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "4179ffy8@110926.eljawir.com",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 44,
+      "stock": 43,
       "reserved": [
         {
           "id": "RSV1780362536090628",
