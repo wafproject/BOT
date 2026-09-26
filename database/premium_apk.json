@@ -6229,15 +6229,10 @@
           "email": "b0001uf4@arcuteesy.kawneha.com",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "8r1mkl01@shannonbot.web.id",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 47,
+      "stock": 46,
       "reserved": [
         {
           "id": "RSV1780362536090628",
