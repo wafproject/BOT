@@ -6239,15 +6239,10 @@
           "email": "b6rs01vv@110926.eljawir.com",
           "password": "masuk123",
           "addedAt": 1790378166832
-        },
-        {
-          "email": "tta4e7u6@mrpw.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1790378166832
         }
       ],
       "sold": 7712,
-      "stock": 49,
+      "stock": 48,
       "reserved": [
         {
           "id": "RSV1780362536090628",
