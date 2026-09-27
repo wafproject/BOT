@@ -5945,9 +5945,35 @@
       "price": 21000,
       "descShort": "Full Garansi",
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 25 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
-      "items": [],
+      "items": [
+        {
+          "email": "unfoldedcow@genrako.web.id",
+          "password": "masuk123",
+          "addedAt": 1790537422091
+        },
+        {
+          "email": "fw6rlyju@maildropy.com",
+          "password": "masuk123",
+          "addedAt": 1790537422091
+        },
+        {
+          "email": "xdr4burn@mcny.jutjutsu.my.id",
+          "password": "masuk123",
+          "addedAt": 1790537422091
+        },
+        {
+          "email": "xxcqv3a1@i2sn.jutjutsu.my.id",
+          "password": "masuk123",
+          "addedAt": 1790537422091
+        },
+        {
+          "email": "j071bb6k@mcny.jutjutsu.my.id",
+          "password": "masuk123",
+          "addedAt": 1790537422091
+        }
+      ],
       "sold": 1609,
-      "stock": 0,
+      "stock": 5,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
