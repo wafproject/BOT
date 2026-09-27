@@ -5988,7 +5988,7 @@
       "descShort": "Full Garansi",
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://emailqu.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [],
-      "sold": 7777,
+      "sold": 7785,
       "stock": 0,
       "reserved": [
         {
@@ -6225,53 +6225,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1790499224415535",
-          "items": [
-            {
-              "email": "ho7i8gsl@mldd.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1790468663590
-            },
-            {
-              "email": "e1qgtj2n@arthurze.biz.id",
-              "password": "masuk123",
-              "addedAt": 1790468663590
-            },
-            {
-              "email": "z61e7wgt@piyohub.web.id",
-              "password": "masuk123",
-              "addedAt": 1790468663590
-            },
-            {
-              "email": "2cktd9lm@mcny.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1790468663590
-            },
-            {
-              "email": "chynawalsh@genrako.web.id",
-              "password": "masuk123",
-              "addedAt": 1790468663590
-            },
-            {
-              "email": "carson12@genrako.web.id",
-              "password": "masuk123",
-              "addedAt": 1790468663590
-            },
-            {
-              "email": "haskell@genrako.web.id",
-              "password": "masuk123",
-              "addedAt": 1790468663592
-            },
-            {
-              "email": "trickychaplain@genrako.web.id",
-              "password": "masuk123",
-              "addedAt": 1790468663592
-            }
-          ],
-          "qty": 8,
-          "createdAt": "2026-09-27T08:53:44.415Z"
         }
       ],
       "bulk_active": true,
