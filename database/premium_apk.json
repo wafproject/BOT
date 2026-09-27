@@ -6038,7 +6038,7 @@
           "addedAt": 1790468663592
         }
       ],
-      "sold": 7775,
+      "sold": 7776,
       "stock": 9,
       "reserved": [
         {
@@ -6275,18 +6275,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1790488223535272",
-          "items": [
-            {
-              "email": "6vr4hx2b@arthurze.biz.id",
-              "password": "masuk123",
-              "addedAt": 1790468663590
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-27T05:50:23.535Z"
         }
       ],
       "bulk_active": true,
