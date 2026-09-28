@@ -6102,7 +6102,7 @@
           "addedAt": 1790569689086
         }
       ],
-      "sold": 7787,
+      "sold": 7802,
       "stock": 23,
       "reserved": [
         {
@@ -6408,88 +6408,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-28T04:28:32.136Z"
-        },
-        {
-          "id": "RSV1790569778914399",
-          "items": [
-            {
-              "email": "7v9y5oxj@ub3s.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "tkw1r14y@t2vg.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "xc0khdg8@assb.feycupz.biz.id",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "d6wscfq8@t2vg.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "l7c8us83@goapple.web.id",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "eefdmaue@qycv.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "yuc6sybg@gohaneon.web.id",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "30qmtvcp@gohaneon.web.id",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "qs1o0k75@sukuna.my.id",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "iy4qh1vo@qycv.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "v2ce7hko@alhasani.web.id",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "8wjt9462@miaw.kawneha.com",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "js9k5d4s@miaw.kawneha.com",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "edh788d1@alhasani.web.id",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            },
-            {
-              "email": "84u07dby@miaw.kawneha.com",
-              "password": "masuk123",
-              "addedAt": 1790569284366
-            }
-          ],
-          "qty": 15,
-          "createdAt": "2026-09-28T04:29:38.914Z"
         }
       ],
       "bulk_active": true,
