@@ -5947,11 +5947,6 @@
       "snk": "* Akun private (bukan sharing)\n• Full Garansi 25 Hari\n• Boleh ganti password\n• Dilarang ganti email\n• Change email = garansi hangus / no garansi\n• Maksimal login 2 device\n• Tidak ada garansi jika terkena limit login\n• Dijual sharing? Resiko ditanggung sendiri\n• Ketahuan otak-atik member gw sikat + blacklist + denda",
       "items": [
         {
-          "email": "xdr4burn@mcny.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1790537422091
-        },
-        {
           "email": "xxcqv3a1@i2sn.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1790537422091
@@ -5963,8 +5958,21 @@
         }
       ],
       "sold": 1611,
-      "stock": 3,
-      "reserved": [],
+      "stock": 2,
+      "reserved": [
+        {
+          "id": "RSV1790570256797388",
+          "items": [
+            {
+              "email": "xdr4burn@mcny.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1790537422091
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-09-28T04:37:36.797Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
