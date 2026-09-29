@@ -6054,7 +6054,7 @@
           "addedAt": 1790659767043
         }
       ],
-      "sold": 7856,
+      "sold": 7857,
       "stock": 19,
       "reserved": [
         {
@@ -6291,18 +6291,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-08-15T10:10:58.593Z"
-        },
-        {
-          "id": "RSV1790689886889417",
-          "items": [
-            {
-              "email": "2fzshqdi@ree.kawneha.com",
-              "password": "masuk123",
-              "addedAt": 1790659767043
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-29T13:51:26.889Z"
         }
       ],
       "bulk_active": true,
