@@ -8773,6 +8773,10 @@
       "snk": "* No Garansi\n• Mail format : Email|Password|Refresh_token|Client_id\n• Silahkan copy semua format akun masukan ke @outlookreaderr_bot tools untuk baca mailbox outlook/hotmail tanpa login",
       "items": [
         {
+          "text": "11. SallySoaper828846@outlook.com|lglfl117296|M.C535_SN1.0.U.MsaArtifacts.-CmB5ZIxnxNw2mpDg05og!zr*9kxHbUjL6w!0sOiYvMBwoXuZjmE5I2ee!3YsAFr76iYW8oOHtTbIy*4*HddrsyeB0Mwigy!jhVRbEu*6Yjzipoe6lcPtiOw8xNaPwKm1F7HCSn*YH0Kr**nQcQ93AU99S1OmhAi!rdKh27B55J3itVInavEihJgZL9LX2NyMtGbXl40PLoyd680F4tkzWBzH81A!SRyUUdWA!iMqWn20LqU8ZKGLF5dU9FL61TApTCPksv*bIEZstcIuEhQZ86pwZjhLFGfSOMRCD9qKyR*ng0D!LMzJnp9!pekigRzb!np*4ByVIwz8AQ1XdWZ2zW*H22z6Xhw14Bkbf4vnRsY*qaOWs05UdQn8EfuUjikspRfFMircqLRBus8fJ57*iqk$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
+          "addedAt": 1789973823518
+        },
+        {
           "text": "12. OphaJeanmarie927561@outlook.com|xtzhj540950|M.C542_BL2.0.U.MsaArtifacts.-Chim8rtDNVDwTLd3oUz5JuzhHxnTyP0VZQEP!a8zNidRvkrWzjuiHogYkL3Omybdlyo1Uh5T8ruiLq6iBHuGWRJ0kkLWlmrWtZL2abPP0DLBIDjZ6aaXzpe2ivotZsdrL03FsbGIHjAiK!notqflyVCROsKAzRZ56*AxiRqFyQ9IccBxZ6LabvB9H1WyOeGZhdp315j2LthkCB2kW1IBnu9aGZNRtSG4ZmXrQM9bilIQ55CVLCcHzdxk3SI4V0!4ubH8KoLAAVvOArvaMibAjTZ8XcfaRGMnXem6pHKdbMy*GCZO9*FOgtZG5lCpszau*3Pzkgj!B8w84OZWq5Qv7LDWwb0qtlvZqu2pGROhOvpz2COynthfcBKwsgMLVOWojXPgMd2RPwaWfarZ2NRx6lY$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
           "addedAt": 1789973823518
         },
@@ -8930,20 +8934,8 @@
         }
       ],
       "sold": 700,
-      "stock": 39,
-      "reserved": [
-        {
-          "id": "RSV1790648237850779",
-          "items": [
-            {
-              "text": "11. SallySoaper828846@outlook.com|lglfl117296|M.C535_SN1.0.U.MsaArtifacts.-CmB5ZIxnxNw2mpDg05og!zr*9kxHbUjL6w!0sOiYvMBwoXuZjmE5I2ee!3YsAFr76iYW8oOHtTbIy*4*HddrsyeB0Mwigy!jhVRbEu*6Yjzipoe6lcPtiOw8xNaPwKm1F7HCSn*YH0Kr**nQcQ93AU99S1OmhAi!rdKh27B55J3itVInavEihJgZL9LX2NyMtGbXl40PLoyd680F4tkzWBzH81A!SRyUUdWA!iMqWn20LqU8ZKGLF5dU9FL61TApTCPksv*bIEZstcIuEhQZ86pwZjhLFGfSOMRCD9qKyR*ng0D!LMzJnp9!pekigRzb!np*4ByVIwz8AQ1XdWZ2zW*H22z6Xhw14Bkbf4vnRsY*qaOWs05UdQn8EfuUjikspRfFMircqLRBus8fJ57*iqk$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
-              "addedAt": 1789973823518
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-29T02:17:17.850Z"
-        }
-      ]
+      "stock": 40,
+      "reserved": []
     },
     {
       "code": "HT",
