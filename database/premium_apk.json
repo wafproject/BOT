@@ -5956,7 +5956,7 @@
           "addedAt": 1790723406594
         }
       ],
-      "sold": 7893,
+      "sold": 7894,
       "stock": 1,
       "reserved": [
         {
@@ -6205,18 +6205,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1790746332522788",
-          "items": [
-            {
-              "email": "delayedthief@genrako.web.id",
-              "password": "masuk123",
-              "addedAt": 1790723406594
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-09-30T05:32:12.522Z"
         }
       ],
       "bulk_active": true,
