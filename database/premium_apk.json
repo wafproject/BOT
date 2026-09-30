@@ -6287,14 +6287,9 @@
       "price": 4000,
       "descShort": "Garansi 12 Jam",
       "snk": "* Garansi 12 Jam\n• Durasi Random\n• Beli = Tau cara pakai\n• Tutor Login https://t.me/tutorloginnetfcrack/2",
-      "items": [
-        {
-          "text": "tes",
-          "addedAt": 1790767119211
-        }
-      ],
-      "sold": 223,
-      "stock": 1,
+      "items": [],
+      "sold": 224,
+      "stock": 0,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
