@@ -6280,8 +6280,8 @@
       "bulk_prices": []
     },
     {
-      "code": "NETC",
-      "name": "Netflix Crack Plan Premium",
+      "code": "NETPREM",
+      "name": "Crack Plan Premium",
       "category": "Netflix Crack",
       "type": "info",
       "price": 4000,
