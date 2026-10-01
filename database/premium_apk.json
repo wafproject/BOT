@@ -9323,22 +9323,9 @@
           "addedAt": 1790610097020
         }
       ],
-      "sold": 74,
+      "sold": 75,
       "stock": 5,
-      "reserved": [
-        {
-          "id": "RSV179086784203316",
-          "items": [
-            {
-              "email": "EloisaCuttone53315@outlook.com",
-              "password": "antdpf193745",
-              "addedAt": 1790268907102
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-01T15:17:22.033Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
