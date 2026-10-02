@@ -4834,20 +4834,8 @@
         }
       ],
       "stock": 992,
-      "sold": 919,
-      "reserved": [
-        {
-          "id": "RSV1790930564801357",
-          "items": [
-            {
-              "email": "ujasa@gmailxsn.com|https://generator.email/ujasa@gmailxsn.com",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-02T08:42:44.802Z"
-        }
-      ],
+      "sold": 920,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
