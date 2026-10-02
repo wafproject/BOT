@@ -5934,22 +5934,9 @@
           "addedAt": 1790897537029
         }
       ],
-      "sold": 1616,
+      "sold": 1617,
       "stock": 4,
-      "reserved": [
-        {
-          "id": "RSV17909076472253",
-          "items": [
-            {
-              "email": "wilburnmills@pwtl.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1790897537029
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-02T02:20:47.225Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
