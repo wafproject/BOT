@@ -865,10 +865,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "ujasa@gmailxsn.com|https://generator.email/ujasa@gmailxsn.com",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "tridi7@gmail-xsniper.space|https://generator.email/tridi7@gmail-xsniper.space",
           "addedAt": 1783266949580
         },
@@ -4837,9 +4833,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 993,
+      "stock": 992,
       "sold": 919,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1790930564801357",
+          "items": [
+            {
+              "email": "ujasa@gmailxsn.com|https://generator.email/ujasa@gmailxsn.com",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-10-02T08:42:44.802Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
