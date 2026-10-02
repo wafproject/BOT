@@ -6089,7 +6089,7 @@
           "addedAt": 1790897048765
         }
       ],
-      "sold": 7918,
+      "sold": 7919,
       "stock": 26,
       "reserved": [
         {
@@ -6338,18 +6338,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1790912542919604",
-          "items": [
-            {
-              "email": "lg7vs889@alekke.biz.id",
-              "password": "masuk123",
-              "addedAt": 1790897048765
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-02T03:42:22.919Z"
         }
       ],
       "bulk_active": true,
