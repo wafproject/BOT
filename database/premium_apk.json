@@ -4830,20 +4830,8 @@
         }
       ],
       "stock": 991,
-      "sold": 920,
-      "reserved": [
-        {
-          "id": "RSV1790933995133489",
-          "items": [
-            {
-              "email": "tridi7@gmail-xsniper.space|https://generator.email/tridi7@gmail-xsniper.space",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-02T09:39:55.133Z"
-        }
-      ],
+      "sold": 921,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
