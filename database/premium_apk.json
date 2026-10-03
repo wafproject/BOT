@@ -5936,7 +5936,7 @@
           "addedAt": 1790994219723
         }
       ],
-      "sold": 7973,
+      "sold": 7974,
       "stock": 1,
       "reserved": [
         {
@@ -6185,18 +6185,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1791011412443479",
-          "items": [
-            {
-              "email": "worrisomerocket@shannonbot.web.id",
-              "password": "masuk123",
-              "addedAt": 1790994219723
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-03T07:10:12.443Z"
         }
       ],
       "bulk_active": true,
