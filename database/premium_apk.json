@@ -5901,22 +5901,9 @@
           "addedAt": 1790994283696
         }
       ],
-      "sold": 1623,
+      "sold": 1624,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV179101347601255",
-          "items": [
-            {
-              "email": "r2yhlhck@ree.kawneha.com",
-              "password": "masuk123",
-              "addedAt": 1790994283696
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-03T07:44:36.012Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
