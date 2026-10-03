@@ -1,6 +1,6 @@
 {
   "product": "wafproject-topup-zapo",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "zip_url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-topup/WAFPROJECT-TOPUP-v1.1.1.zip",
   "sha256": "0218aa09e1c15a4858e12df79e5ec13a1b4cf66e67550cbfa91de36087cb0469",
   "notes": [
