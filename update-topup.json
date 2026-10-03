@@ -1,0 +1,11 @@
+{
+  "version": "1.1.1",
+  "url": "https://raw.githubusercontent.com/wafproject/BOT/main/WAFPROJECT-TOPUP-v1.1.1.zip",
+  "sha256": "6d321f6e6412144d82d01334fe6b1c36ad67dd3cc8f6a4456c5d171b5c58f73b",
+  "changelog": [
+    "Menambahkan sistem update otomatis",
+    "Menambahkan multi order",
+    "Menambahkan order quantity",
+    "Perbaikan sistem licence"
+  ]
+}
