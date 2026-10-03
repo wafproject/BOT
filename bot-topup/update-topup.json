@@ -1,7 +1,7 @@
 {
   "version": "1.1.1",
   "url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-topup/WAFPROJECT-TOPUP-v1.1.1.zip",
-  "sha256": "6d321f6e6412144d82d01334fe6b1c36ad67dd3cc8f6a4456c5d171b5c58f73b",
+  "sha256": "0218aa09e1c15a4858e12df79e5ec13a1b4cf66e67550cbfa91de36087cb0469",
   "changelog": [
     "Menambahkan sistem update otomatis",
     "Menambahkan multi order",
