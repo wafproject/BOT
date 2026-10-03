@@ -865,14 +865,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "autoleet@emailuae.com|https://generator.email/autoleet@emailuae.com",
-          "addedAt": 1783266949580
-        },
-        {
-          "email": "stephine@vothanhtuan.shop|https://generator.email/stephine@vothanhtuan.shop",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "denis78n@tidylifehub.com|https://generator.email/denis78n@tidylifehub.com",
           "addedAt": 1783266949580
         },
@@ -4829,8 +4821,8 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 991,
-      "sold": 921,
+      "stock": 989,
+      "sold": 923,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
