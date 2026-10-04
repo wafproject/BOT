@@ -1,13 +1,12 @@
 {
   "product": "wafproject-topup-zapo",
-  "version": "1.1.4",
-  "zip_url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-topup/WAFPROJECT-TOPUP-v1.1.4.zip",
-  "sha256": "de732ea6abfc4f5264ea614e9630910668290dc8351cf6492cb7aee8c42e3feb",
+  "version": "1.1.5",
+  "zip_url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-topup/WAFPROJECT-TOPUP-v1.1.5.zip",
+  "sha256": "40f6c505f39c3b11cf6ff278e87c8c157a7dbd964eca6736e61a56799f6e9b68",
   "notes": [
-    "Memperbaiki event Zapo kosong agar tidak memblokir event lengkap dengan message ID yang sama",
-    "Menambahkan recovery payload pesan dari content/decrypted/payload",
-    "Menormalisasi timestamp pesan lebih awal di adapter",
-    "Mempertahankan parser wrapper-safe dan metadata grup non-blocking"
+    "Memperbaiki monitor Digiflazz yang bisa macet setelah bulk order",
+    "Membersihkan entry pending zombie agar order baru tetap ter-polling",
+    "Mencegah pending bulk tercipta ulang setelah invoice selesai"
   ],
   "delete": []
 }
