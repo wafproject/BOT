@@ -2,7 +2,7 @@
   "product": "wafproject-store-zapo",
   "version": "1.1.1",
   "zip_url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-store/WAFPROJECT-STORE-v1.1.1.zip",
-  "sha256": "923174469f8d69660add2cbb47d472805360f4bae4d3eb9a06a8daba236aca08",
+  "sha256": "a21bd2c445ee2a3b39f2c9ae771ecca58e425993d42965b0c9f85d0fcbb8e186",
   "notes": [
     "Perbaikan penerimaan pesan Zapo",
     "Perbaikan timestamp console",
