@@ -9140,14 +9140,9 @@
       "bulk_prices": [],
       "descShort": "-",
       "snk": "Masukkan kode aktivasi diatas ke aplikasi HMA VPN",
-      "items": [
-        {
-          "text": "TLDCUM-3FLMJJ-5UCJZS",
-          "addedAt": 1789623605100
-        }
-      ],
+      "items": [],
       "sold": 2,
-      "stock": 1,
+      "stock": 0,
       "reserved": []
     },
     {
