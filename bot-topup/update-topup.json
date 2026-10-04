@@ -1,11 +1,13 @@
 {
   "product": "wafproject-topup-zapo",
-  "version": "1.1.2",
-  "zip_url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-topup/WAFPROJECT-TOPUP-v1.1.2.zip",
-  "sha256": "f4e771eb62ef3c40fedfb0106f13261505fbab85877bfbedb1fe26c17f9a8cfa",
+  "version": "1.1.3",
+  "zip_url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-topup/WAFPROJECT-TOPUP-v1.1.3.zip",
+  "sha256": "5514d26ee29507427ac6444eb871ea36fb2aa039c78ac1760ffeca9b6db44b75",
   "notes": [
-    "Invoice bulk sekarang digabung menjadi 1 pesan",
-    "Order bulk tidak menggunakan gambar invoice"
+    "Perbaikan penerimaan pesan Zapo agar lebih responsif",
+    "Perbaikan parser pesan wrapper dan pesan kosong",
+    "Perbaikan timestamp WIB di console",
+    "Paket update memuat seluruh source kecuali data yang dilindungi"
   ],
   "delete": []
 }
