@@ -8896,21 +8896,9 @@
           "addedAt": 1789973823519
         }
       ],
-      "sold": 701,
+      "sold": 702,
       "stock": 38,
-      "reserved": [
-        {
-          "id": "RSV1791119033466466",
-          "items": [
-            {
-              "text": "12. OphaJeanmarie927561@outlook.com|xtzhj540950|M.C542_BL2.0.U.MsaArtifacts.-Chim8rtDNVDwTLd3oUz5JuzhHxnTyP0VZQEP!a8zNidRvkrWzjuiHogYkL3Omybdlyo1Uh5T8ruiLq6iBHuGWRJ0kkLWlmrWtZL2abPP0DLBIDjZ6aaXzpe2ivotZsdrL03FsbGIHjAiK!notqflyVCROsKAzRZ56*AxiRqFyQ9IccBxZ6LabvB9H1WyOeGZhdp315j2LthkCB2kW1IBnu9aGZNRtSG4ZmXrQM9bilIQ55CVLCcHzdxk3SI4V0!4ubH8KoLAAVvOArvaMibAjTZ8XcfaRGMnXem6pHKdbMy*GCZO9*FOgtZG5lCpszau*3Pzkgj!B8w84OZWq5Qv7LDWwb0qtlvZqu2pGROhOvpz2COynthfcBKwsgMLVOWojXPgMd2RPwaWfarZ2NRx6lY$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
-              "addedAt": 1789973823518
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-04T13:03:53.467Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "HT",
