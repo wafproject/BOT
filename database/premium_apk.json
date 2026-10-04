@@ -8744,10 +8744,6 @@
       "snk": "* No Garansi\n• Mail format : Email|Password|Refresh_token|Client_id\n• Silahkan copy semua format akun masukan ke @outlookreaderr_bot tools untuk baca mailbox outlook/hotmail tanpa login",
       "items": [
         {
-          "text": "12. OphaJeanmarie927561@outlook.com|xtzhj540950|M.C542_BL2.0.U.MsaArtifacts.-Chim8rtDNVDwTLd3oUz5JuzhHxnTyP0VZQEP!a8zNidRvkrWzjuiHogYkL3Omybdlyo1Uh5T8ruiLq6iBHuGWRJ0kkLWlmrWtZL2abPP0DLBIDjZ6aaXzpe2ivotZsdrL03FsbGIHjAiK!notqflyVCROsKAzRZ56*AxiRqFyQ9IccBxZ6LabvB9H1WyOeGZhdp315j2LthkCB2kW1IBnu9aGZNRtSG4ZmXrQM9bilIQ55CVLCcHzdxk3SI4V0!4ubH8KoLAAVvOArvaMibAjTZ8XcfaRGMnXem6pHKdbMy*GCZO9*FOgtZG5lCpszau*3Pzkgj!B8w84OZWq5Qv7LDWwb0qtlvZqu2pGROhOvpz2COynthfcBKwsgMLVOWojXPgMd2RPwaWfarZ2NRx6lY$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
-          "addedAt": 1789973823518
-        },
-        {
           "text": "13. MoseMelhem217981@outlook.com|ofgwjg183806|M.C528_SN1.0.U.MsaArtifacts.-CjCH9aEHolJg95tH8hMfMSMCbm2mWMfYp2dtq14Dhz3Z5BSSw2jI!2wxD*TGJ0oSV8Ff!*N0Z4N2SIXwNlgCTOlANyQPYtonI8IFLYDc5qR5Vgm!439rEXD1z852gL2J0lm8NUmiDx!DmmKQROk8xGjzwrvNVBsR7oNsnp4irIDrmbCaU5HtArihtCrrfyem4L2rjcl4ib8f7CVbFea17UVRib*2WYRxd1oXuBoHfq092TZA7DDWmif!UvQesmokg0i2kvKmKFgWG1z3E*rYNR9iOUEjUTKFJc5YOBc3ZTtmaOwY4ih7cJQAzPj*hK3v9J5*22Rue60H2VWub8n6vE45w3GtIXuj3rDWgRmmE8!VwDgOa!NCEIlGf0BGLXPtjOlY9WPEXRcp7068nVd3*Ec$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
           "addedAt": 1789973823518
         },
@@ -8901,8 +8897,20 @@
         }
       ],
       "sold": 701,
-      "stock": 39,
-      "reserved": []
+      "stock": 38,
+      "reserved": [
+        {
+          "id": "RSV1791113748134161",
+          "items": [
+            {
+              "text": "12. OphaJeanmarie927561@outlook.com|xtzhj540950|M.C542_BL2.0.U.MsaArtifacts.-Chim8rtDNVDwTLd3oUz5JuzhHxnTyP0VZQEP!a8zNidRvkrWzjuiHogYkL3Omybdlyo1Uh5T8ruiLq6iBHuGWRJ0kkLWlmrWtZL2abPP0DLBIDjZ6aaXzpe2ivotZsdrL03FsbGIHjAiK!notqflyVCROsKAzRZ56*AxiRqFyQ9IccBxZ6LabvB9H1WyOeGZhdp315j2LthkCB2kW1IBnu9aGZNRtSG4ZmXrQM9bilIQ55CVLCcHzdxk3SI4V0!4ubH8KoLAAVvOArvaMibAjTZ8XcfaRGMnXem6pHKdbMy*GCZO9*FOgtZG5lCpszau*3Pzkgj!B8w84OZWq5Qv7LDWwb0qtlvZqu2pGROhOvpz2COynthfcBKwsgMLVOWojXPgMd2RPwaWfarZ2NRx6lY$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
+              "addedAt": 1789973823518
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-10-04T11:35:48.136Z"
+        }
+      ]
     },
     {
       "code": "HT",
