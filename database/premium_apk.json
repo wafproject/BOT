@@ -6246,14 +6246,10 @@
         {
           "text": "NetflixId=v%3D3%26ct%3DBgjHlOvcAxKyA5GKvsWeEGAi9jlrAEbBOWqjvWEocL6YlxlEgrkrpeRdPZPsD2drO2-_SqGZGgig1P94xuIZYlsTXpuw5d4gFM_1N7mkvSGCmvp-cKJ-XE5j3hGtWm9HPq6si3PkG7-53FEtiLIgcJbcpiGxq7EpVMIOJ26r8HwCbH1Y7WDBNAkFCRLci1hOuE-PatWyiuz04-97P3k5hTJYHRNLo3RpHJWkdmdB3CACXwpOblf3EbX2zO1lLZjmtn1Z68XegL_2pk7VJmn2haVF4GfUSOsADdqfPPj-cy0boo8KfvjbuAsPtrasF4E-eAG6Qtf4vsant6m_VBsRozzXRZuo87ZEnwpJfyRNYHu3law4D3ch_yqC3KgZc2pLc1zwkvr85WwyWscYYLodacOHDvKS-ouRNQ3T7YadZEzN6lGafLF1t86V-yZ8rVZkJi9EaJwTdotLjP-oOIAIMpzC3swWpxJSm7dPjbihTW7j-9jd4KwCBgdRIHLvU7zKp2O6szJxv_C0J4beW35hNSvU2w9Nduf_dazw02T2ZRcHDh5OmIQanyfbVkRn8-9G3ULA3UrBsGmTm4MsGAYiDgoMXPl5U4A-PsGetdgy%26pg%3DMRGJFXF4JNDPXGATNA2EYJDHAU%26ch%3DAQEAEAABABSpYzBLT_u-DK7Ui93FqGNrfIMZr1lQxxU.; SecureNetflixId=v%3D3%26mac%3DAQEAEQABABSxj9IGxbTLPI4JxBIlRbpHsXZz1INH_vg.%26dt%3D1790995073482",
           "addedAt": 1790995120468
-        },
-        {
-          "text": "NetflixId=v%3D3%26ct%3DBgjHlOvcAxK2A_s0SQuQKDJqlyUCPm1J9sAzubremhfkUgCz9sSy8_ZA21StiCLZT9YyqLCJeOwIoilCx7nQRdE11oJq-fpE-xXroAmPgPa5_fuqrVBSVv3ir8LSe_za_ufNNeBiVwW3LMoLuyioN13JAE6wiHG3i-x2yPcn73zXVXMhs4IepLvXpbECvMk86-yD52F168zMjbilDv-PltberdcVHfPBfUMv0_P-G7VSlbhcUExFlaIRJZ9SJSVvaHMuEU1tPiSzE8_-IWErXf_hrNn6xuIwsbkCM25Z57i4ptEIw0D2JL3u-N6HJbpyE8R30iZqKSPqOhUCo2Deq-NI7FU9XrBR0JiNBtLJ01hGxfNQjIBrSdLDbgBaipjQmc_oOYZZeJetidz6X8DOQ2hhd9S3at3rLhml2EiKMLH3n1gb_aWg5Pefe4r4q9Lnl9FEHXYA-a2HUOhp7wq-Gx__HieywU0fI6dwwJEEOFXhG-Kf-AQohaQ2bYA8DxVqK6ynG-3AF7NQrB2cb5dHWrtSasYR2xd_BWUWHtwc5A4hymVz3qIZIx6QfUEJURG2O0Ro5VNG5Kuuf7-hhBMh7BgGIg4KDAzqqQRdzpdIC-l3kw..%26pg%3DSH72MRLT6NFDLPG4I2TXK6Y7LA%26ch%3DAQEAEAABABTKON65nRbT-CbH6l-D2Uy-AB4PCi4n6UM.; SecureNetflixId=v%3D3%26mac%3DAQEAEQABABQRCpxR7HVEAD3I_DUwguDD5I0uGaXge20.%26dt%3D1790995073908",
-          "addedAt": 1790995134977
         }
       ],
       "sold": 232,
-      "stock": 2,
+      "stock": 1,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
