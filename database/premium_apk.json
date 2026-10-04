@@ -9176,10 +9176,6 @@
       "snk": "Masukkan kode aktivasi diatas ke aplikasi HMA VPN",
       "items": [
         {
-          "text": "KJZPTS-K9HV92-5UCJJJ",
-          "addedAt": 1789623605100
-        },
-        {
           "text": "TLDCUM-3FLMJJ-5UCJZS",
           "addedAt": 1789623605100
         },
@@ -9189,8 +9185,20 @@
         }
       ],
       "sold": 1,
-      "stock": 3,
-      "reserved": []
+      "stock": 2,
+      "reserved": [
+        {
+          "id": "RSV1791104215823175",
+          "items": [
+            {
+              "text": "KJZPTS-K9HV92-5UCJJJ",
+              "addedAt": 1789623605100
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-10-04T08:56:55.823Z"
+        }
+      ]
     },
     {
       "code": "CANEDUHEAD",
