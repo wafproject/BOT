@@ -5951,7 +5951,7 @@
           "addedAt": 1791152973713
         }
       ],
-      "sold": 8013,
+      "sold": 8014,
       "stock": 11,
       "reserved": [
         {
@@ -6200,18 +6200,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1791215299023649",
-          "items": [
-            {
-              "email": "dexnuwld@boyboystr.biz.id",
-              "password": "masuk123",
-              "addedAt": 1791152973713
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-05T15:48:19.023Z"
         }
       ],
       "bulk_active": true,
