@@ -4798,20 +4798,8 @@
         }
       ],
       "stock": 988,
-      "sold": 923,
-      "reserved": [
-        {
-          "id": "RSV1791287918128844",
-          "items": [
-            {
-              "email": "denis78n@tidylifehub.com|https://generator.email/denis78n@tidylifehub.com",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-06T11:58:38.128Z"
-        }
-      ],
+      "sold": 924,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
