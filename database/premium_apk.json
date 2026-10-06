@@ -845,10 +845,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "denis78n@tidylifehub.com|https://generator.email/denis78n@tidylifehub.com",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "kawon1@agencysq.store|https://generator.email/kawon1@agencysq.store",
           "addedAt": 1783266949580
         },
@@ -4801,9 +4797,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 989,
+      "stock": 988,
       "sold": 923,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1791287918128844",
+          "items": [
+            {
+              "email": "denis78n@tidylifehub.com|https://generator.email/denis78n@tidylifehub.com",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-10-06T11:58:38.128Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
