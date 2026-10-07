@@ -1,12 +1,13 @@
 {
   "product": "wafproject-store-zapo",
-  "version": "1.1.4",
-  "zip_url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-store/WAFPROJECT-STORE-v1.1.4.zip",
-  "sha256": "919db0cf28a666c96a2b0cf9c07c7eb8e46deaef0c91b4f88e88fbff692b5d6e",
+  "version": "1.1.5",
+  "zip_url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-store/WAFPROJECT-STORE-v1.1.5.zip",
+  "sha256": "1cdfecf4578b5631680bd4288ded560f3af2201f53ee2fd0bbdf748f37c2966e",
   "notes": [
-    "Perbaikan deteksi admin grup setelah promote/demote",
-    "Sinkronisasi cache metadata grup",
-    "Refresh metadata grup dilakukan di background"
+    "Perbaikan deteksi admin grup untuk JID nomor, @lid, senderPn, dan phone number",
+    "Perbaikan mapping participant Zapo",
+    "Command admin melakukan fresh metadata check sebelum menolak akses",
+    "Perbaikan deteksi admin berlaku untuk seluruh command admin Bot Store"
   ],
   "delete": []
 }
