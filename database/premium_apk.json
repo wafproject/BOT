@@ -4786,20 +4786,8 @@
         }
       ],
       "stock": 986,
-      "sold": 925,
-      "reserved": [
-        {
-          "id": "RSV1791403839861578",
-          "items": [
-            {
-              "email": "nelsonjh@mailfirefly.com|https://generator.email/nelsonjh@mailfirefly.com",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-07T20:10:39.861Z"
-        }
-      ],
+      "sold": 926,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
