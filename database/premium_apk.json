@@ -841,10 +841,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "nelsonjh@mailfirefly.com|https://generator.email/nelsonjh@mailfirefly.com",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "dxjlmalder2002@dailynutria.com|https://generator.email/dxjlmalder2002@dailynutria.com",
           "addedAt": 1783266949580
         },
@@ -4789,9 +4785,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 987,
+      "stock": 986,
       "sold": 925,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1791403839861578",
+          "items": [
+            {
+              "email": "nelsonjh@mailfirefly.com|https://generator.email/nelsonjh@mailfirefly.com",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-10-07T20:10:39.861Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
