@@ -4790,20 +4790,8 @@
         }
       ],
       "stock": 987,
-      "sold": 924,
-      "reserved": [
-        {
-          "id": "RSV1791384292965853",
-          "items": [
-            {
-              "email": "kawon1@agencysq.store|https://generator.email/kawon1@agencysq.store",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-07T14:44:52.965Z"
-        }
-      ],
+      "sold": 925,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
