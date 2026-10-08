@@ -5989,7 +5989,7 @@
           "addedAt": 1791484088945
         }
       ],
-      "sold": 8135,
+      "sold": 8136,
       "stock": 29,
       "reserved": [
         {
@@ -6238,18 +6238,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1791503438964673",
-          "items": [
-            {
-              "email": "ix1eq4zq@undanganfiqrielsya.web.id",
-              "password": "masuk123",
-              "addedAt": 1791484088945
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-08T23:50:38.964Z"
         }
       ],
       "bulk_active": true,
