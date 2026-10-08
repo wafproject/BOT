@@ -5976,7 +5976,7 @@
           "addedAt": 1791402737514
         }
       ],
-      "sold": 8101,
+      "sold": 8102,
       "stock": 23,
       "reserved": [
         {
@@ -6225,18 +6225,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1791422748046147",
-          "items": [
-            {
-              "email": "y6zkgbk8@110926.eljawir.com",
-              "password": "masuk123",
-              "addedAt": 1791402737514
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-08T01:25:48.046Z"
         }
       ],
       "bulk_active": true,
