@@ -8914,14 +8914,6 @@
       "snk": "* No Garansi\n• Mail format : Email|Password|Refresh_token|Client_id\n• Silahkan copy semua format akun masukan ke @outlookreaderr_bot tools untuk baca mailbox outlook/hotmail tanpa login",
       "items": [
         {
-          "text": "13. MoseMelhem217981@outlook.com|ofgwjg183806|M.C528_SN1.0.U.MsaArtifacts.-CjCH9aEHolJg95tH8hMfMSMCbm2mWMfYp2dtq14Dhz3Z5BSSw2jI!2wxD*TGJ0oSV8Ff!*N0Z4N2SIXwNlgCTOlANyQPYtonI8IFLYDc5qR5Vgm!439rEXD1z852gL2J0lm8NUmiDx!DmmKQROk8xGjzwrvNVBsR7oNsnp4irIDrmbCaU5HtArihtCrrfyem4L2rjcl4ib8f7CVbFea17UVRib*2WYRxd1oXuBoHfq092TZA7DDWmif!UvQesmokg0i2kvKmKFgWG1z3E*rYNR9iOUEjUTKFJc5YOBc3ZTtmaOwY4ih7cJQAzPj*hK3v9J5*22Rue60H2VWub8n6vE45w3GtIXuj3rDWgRmmE8!VwDgOa!NCEIlGf0BGLXPtjOlY9WPEXRcp7068nVd3*Ec$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
-          "addedAt": 1789973823518
-        },
-        {
-          "text": "14. ChetPheneger744497@outlook.com|pmrnbb978785|M.C523_BL2.0.U.MsaArtifacts.-Co!gY*uB0G7CR4gUSChMbT4*0lo8Z3*EN*s*7GBdLbpuMy58ePjwtperLuz4C!y!SNpTL!*KZFpcdnLkmbpOd4HbVhTwMn17dyjAX90Xwdbula!FZPMoVZI0QjUOl9jiyjJRXXJo6UTl1exF38kZYp1dOgr*H1d6BIOT4RcFCuxPF7O6dKApk2pHTdGPaXJO12u85O1L5TSFc0yw3jYL9KCFCNoin5F!GPrl0cL7qFbjBnyXE1xwW6TMCagovyQr12NJdx!4Qc3uc9w9m0IWo1*zop9wrsRan*MeXf7GIEHAdbnNnVA77jhB2sVwS8zbqeVeDi51223WoyrQQlSSjzn7U6fZokuSt86XXqiXvHRdCWxaFFbRXJ9exH2ZJHsXtXnNlxR!jl*IbBxqWNHf4FY$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
-          "addedAt": 1789973823518
-        },
-        {
           "text": "15. BerryFromer44656@outlook.com|jqgopx536217|M.C544_BAY.0.U.MsaArtifacts.-CoFaW2gG6i4!MZcp63cw*WbI!kV7BDLjTqHShr5UHVRsld2NxM1TSdMcH0VspxfDG6ojWkzSDMwLRw8klW5adnyObNk4j1thqo!oFD0mdgpSBVtl0J0cCA1nXvJqPMa2WkXVscaO6SbIPe8Gs2GalGWszFGiBfID6*katB7yBhY1fWQ0V7ZA8rLxgstqEifprHWZFJ6YwWXSPNaiNmJQVfwr!X0Ss9am1l695GHAvjkORgcZSfHmwCiwtEbAdX0xKo8WgUt8cjOxFroJMugP8uFduvbUDjBOxFH5PM77evtMxK3xHJ61fGWidD6BL7zQvKTRRPC7Sv3LT0H572IvOxx7XARvct4fSXEEgRBtUFp7*EkKjYQH!QReyj0XK!PnJmnYHokwDrScG66z98GuT6A$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
           "addedAt": 1789973823518
         },
@@ -9067,8 +9059,24 @@
         }
       ],
       "sold": 702,
-      "stock": 38,
-      "reserved": []
+      "stock": 36,
+      "reserved": [
+        {
+          "id": "RSV1791418849286256",
+          "items": [
+            {
+              "text": "13. MoseMelhem217981@outlook.com|ofgwjg183806|M.C528_SN1.0.U.MsaArtifacts.-CjCH9aEHolJg95tH8hMfMSMCbm2mWMfYp2dtq14Dhz3Z5BSSw2jI!2wxD*TGJ0oSV8Ff!*N0Z4N2SIXwNlgCTOlANyQPYtonI8IFLYDc5qR5Vgm!439rEXD1z852gL2J0lm8NUmiDx!DmmKQROk8xGjzwrvNVBsR7oNsnp4irIDrmbCaU5HtArihtCrrfyem4L2rjcl4ib8f7CVbFea17UVRib*2WYRxd1oXuBoHfq092TZA7DDWmif!UvQesmokg0i2kvKmKFgWG1z3E*rYNR9iOUEjUTKFJc5YOBc3ZTtmaOwY4ih7cJQAzPj*hK3v9J5*22Rue60H2VWub8n6vE45w3GtIXuj3rDWgRmmE8!VwDgOa!NCEIlGf0BGLXPtjOlY9WPEXRcp7068nVd3*Ec$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
+              "addedAt": 1789973823518
+            },
+            {
+              "text": "14. ChetPheneger744497@outlook.com|pmrnbb978785|M.C523_BL2.0.U.MsaArtifacts.-Co!gY*uB0G7CR4gUSChMbT4*0lo8Z3*EN*s*7GBdLbpuMy58ePjwtperLuz4C!y!SNpTL!*KZFpcdnLkmbpOd4HbVhTwMn17dyjAX90Xwdbula!FZPMoVZI0QjUOl9jiyjJRXXJo6UTl1exF38kZYp1dOgr*H1d6BIOT4RcFCuxPF7O6dKApk2pHTdGPaXJO12u85O1L5TSFc0yw3jYL9KCFCNoin5F!GPrl0cL7qFbjBnyXE1xwW6TMCagovyQr12NJdx!4Qc3uc9w9m0IWo1*zop9wrsRan*MeXf7GIEHAdbnNnVA77jhB2sVwS8zbqeVeDi51223WoyrQQlSSjzn7U6fZokuSt86XXqiXvHRdCWxaFFbRXJ9exH2ZJHsXtXnNlxR!jl*IbBxqWNHf4FY$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
+              "addedAt": 1789973823518
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-10-08T00:20:49.286Z"
+        }
+      ]
     },
     {
       "code": "HT",
