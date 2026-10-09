@@ -816,10 +816,20 @@
           "email": "lowbird@maildropy.com",
           "password": "Masuk1234@",
           "addedAt": 1791581983624
+        },
+        {
+          "email": "wingedmean355@maildropy.com",
+          "password": "Masuk1234@",
+          "addedAt": 1791582246277
+        },
+        {
+          "email": "raggedfish@maildropy.com",
+          "password": "Masuk1234@",
+          "addedAt": 1791582246277
         }
       ],
       "sold": 117,
-      "stock": 3,
+      "stock": 5,
       "reserved": [],
       "bulk_active": false,
       "bulk_prices": []
