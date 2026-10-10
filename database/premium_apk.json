@@ -6030,7 +6030,7 @@
           "addedAt": 1791581270877
         }
       ],
-      "sold": 8166,
+      "sold": 8167,
       "stock": 38,
       "reserved": [
         {
@@ -6279,18 +6279,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1791591487624280",
-          "items": [
-            {
-              "email": "mogqc85i@marvella.bbroot.com",
-              "password": "masuk123",
-              "addedAt": 1791581270877
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-10T00:18:07.624Z"
         }
       ],
       "bulk_active": true,
