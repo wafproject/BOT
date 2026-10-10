@@ -5845,7 +5845,7 @@
           "addedAt": 1791581270877
         }
       ],
-      "sold": 8203,
+      "sold": 8204,
       "stock": 1,
       "reserved": [
         {
@@ -6094,18 +6094,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1791596077304967",
-          "items": [
-            {
-              "email": "deadlyhorse@atnexo.biz.id",
-              "password": "masuk123",
-              "addedAt": 1791581270877
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-10T01:34:37.304Z"
         }
       ],
       "bulk_active": true,
