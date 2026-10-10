@@ -4832,56 +4832,6 @@
       "snk": "* Viu private disarankan tetap 1 device / max 2 device\n• Garansi 1 bulan\n• Akun terblokir = NOGAR \n• Dilarang ubah pass / DENDA 5x lipat\n• Akun tidak include paket viu+",
       "items": [
         {
-          "email": "6281778958357",
-          "password": "masuk123",
-          "addedAt": 1784277248259
-        },
-        {
-          "email": "6287815376237",
-          "password": "masuk123",
-          "addedAt": 1784277248259
-        },
-        {
-          "email": "6289296823156",
-          "password": "masuk123",
-          "addedAt": 1784277248259
-        },
-        {
-          "email": "6281526940399",
-          "password": "masuk123",
-          "addedAt": 1784277248259
-        },
-        {
-          "email": "6288746363940",
-          "password": "masuk123",
-          "addedAt": 1784277248259
-        },
-        {
-          "email": "6283566683266",
-          "password": "masuk123",
-          "addedAt": 1784277248259
-        },
-        {
-          "email": "6287686724502",
-          "password": "masuk123",
-          "addedAt": 1784277248259
-        },
-        {
-          "email": "6287666051010",
-          "password": "masuk123",
-          "addedAt": 1784277248259
-        },
-        {
-          "email": "6283213240056",
-          "password": "masuk123",
-          "addedAt": 1784277248259
-        },
-        {
-          "email": "6286728577058",
-          "password": "masuk123",
-          "addedAt": 1784277248259
-        },
-        {
           "email": "6287833529029",
           "password": "masuk123",
           "addedAt": 1784277248259
@@ -5617,7 +5567,7 @@
           "addedAt": 1784286977865
         }
       ],
-      "stock": 157,
+      "stock": 147,
       "sold": 2915,
       "reserved": [
         {
@@ -5631,6 +5581,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-05-20T17:59:38.691Z"
+        },
+        {
+          "id": "RSV1791638692187653",
+          "items": [
+            {
+              "email": "6281778958357",
+              "password": "masuk123",
+              "addedAt": 1784277248259
+            },
+            {
+              "email": "6287815376237",
+              "password": "masuk123",
+              "addedAt": 1784277248259
+            },
+            {
+              "email": "6289296823156",
+              "password": "masuk123",
+              "addedAt": 1784277248259
+            },
+            {
+              "email": "6281526940399",
+              "password": "masuk123",
+              "addedAt": 1784277248259
+            },
+            {
+              "email": "6288746363940",
+              "password": "masuk123",
+              "addedAt": 1784277248259
+            },
+            {
+              "email": "6283566683266",
+              "password": "masuk123",
+              "addedAt": 1784277248259
+            },
+            {
+              "email": "6287686724502",
+              "password": "masuk123",
+              "addedAt": 1784277248259
+            },
+            {
+              "email": "6287666051010",
+              "password": "masuk123",
+              "addedAt": 1784277248259
+            },
+            {
+              "email": "6283213240056",
+              "password": "masuk123",
+              "addedAt": 1784277248259
+            },
+            {
+              "email": "6286728577058",
+              "password": "masuk123",
+              "addedAt": 1784277248259
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-10-10T13:24:52.187Z"
         }
       ],
       "bulk_active": true,
