@@ -6020,7 +6020,7 @@
           "addedAt": 1791581270877
         }
       ],
-      "sold": 8168,
+      "sold": 8169,
       "stock": 36,
       "reserved": [
         {
@@ -6269,18 +6269,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1791592223403871",
-          "items": [
-            {
-              "email": "ej1fvlv0@vandelio.us.ci",
-              "password": "masuk123",
-              "addedAt": 1791581270877
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-10T00:30:23.403Z"
         }
       ],
       "bulk_active": true,
