@@ -5775,56 +5775,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "m6tl8ek7@npfr.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1791674632538
-        },
-        {
-          "email": "mm9v8i2k@40qb.capskuy.eu.cc",
-          "password": "masuk123",
-          "addedAt": 1791674632538
-        },
-        {
-          "email": "7f2ppz1w@e4in.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1791674632538
-        },
-        {
-          "email": "iad3u64j@npfr.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1791674632538
-        },
-        {
-          "email": "okn9j31w@k5eq.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1791674632538
-        },
-        {
-          "email": "mhglii7s@k5eq.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1791674632538
-        },
-        {
-          "email": "qyl5ozuy@j7q2.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1791674632538
-        },
-        {
-          "email": "qr2wy9go@sukuna.my.id",
-          "password": "masuk123",
-          "addedAt": 1791674632538
-        },
-        {
-          "email": "a10umrn7@k5eq.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1791674632538
-        },
-        {
-          "email": "wtuq3jtr@iu8j.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1791674632538
-        },
-        {
           "email": "3doh0li3@cf05.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1791674632538
@@ -5866,7 +5816,7 @@
         }
       ],
       "sold": 8237,
-      "stock": 18,
+      "stock": 8,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6114,6 +6064,63 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV1791676009705879",
+          "items": [
+            {
+              "email": "m6tl8ek7@npfr.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1791674632538
+            },
+            {
+              "email": "mm9v8i2k@40qb.capskuy.eu.cc",
+              "password": "masuk123",
+              "addedAt": 1791674632538
+            },
+            {
+              "email": "7f2ppz1w@e4in.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1791674632538
+            },
+            {
+              "email": "iad3u64j@npfr.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1791674632538
+            },
+            {
+              "email": "okn9j31w@k5eq.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1791674632538
+            },
+            {
+              "email": "mhglii7s@k5eq.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1791674632538
+            },
+            {
+              "email": "qyl5ozuy@j7q2.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1791674632538
+            },
+            {
+              "email": "qr2wy9go@sukuna.my.id",
+              "password": "masuk123",
+              "addedAt": 1791674632538
+            },
+            {
+              "email": "a10umrn7@k5eq.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1791674632538
+            },
+            {
+              "email": "wtuq3jtr@iu8j.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1791674632538
+            }
+          ],
+          "qty": 10,
+          "createdAt": "2026-10-10T23:46:49.705Z"
         }
       ],
       "bulk_active": true,
