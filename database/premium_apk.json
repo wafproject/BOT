@@ -5795,7 +5795,7 @@
           "addedAt": 1791674632538
         }
       ],
-      "sold": 8250,
+      "sold": 8251,
       "stock": 4,
       "reserved": [
         {
@@ -6044,18 +6044,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1791679325009590",
-          "items": [
-            {
-              "email": "esmeralda@pwtl.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1791674632538
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-11T00:42:05.009Z"
         }
       ],
       "bulk_active": true,
