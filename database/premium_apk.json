@@ -5775,16 +5775,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "t0qec8yb@48vt.capskuy.eu.cc",
-          "password": "masuk123",
-          "addedAt": 1791674632538
-        },
-        {
-          "email": "jq2cdc1h@npfr.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1791674632538
-        },
-        {
           "email": "esmeralda@pwtl.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1791674632538
@@ -5811,7 +5801,7 @@
         }
       ],
       "sold": 8248,
-      "stock": 7,
+      "stock": 5,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6059,6 +6049,23 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV1791677696936900",
+          "items": [
+            {
+              "email": "t0qec8yb@48vt.capskuy.eu.cc",
+              "password": "masuk123",
+              "addedAt": 1791674632538
+            },
+            {
+              "email": "jq2cdc1h@npfr.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1791674632538
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-10-11T00:14:56.936Z"
         }
       ],
       "bulk_active": true,
