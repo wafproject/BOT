@@ -5960,10 +5960,35 @@
           "email": "j4m69l97@030926.eljawir.com",
           "password": "masuk123",
           "addedAt": 1791774773769
+        },
+        {
+          "email": "kiel57@070926.eljawir.com",
+          "password": "masuk123",
+          "addedAt": 1791775053544
+        },
+        {
+          "email": "growlingdog@070926.eljawir.com",
+          "password": "masuk123",
+          "addedAt": 1791775053544
+        },
+        {
+          "email": "loudhorse@070926.eljawir.com",
+          "password": "masuk123",
+          "addedAt": 1791775053544
+        },
+        {
+          "email": "arden@070926.eljawir.com",
+          "password": "masuk123",
+          "addedAt": 1791775053544
+        },
+        {
+          "email": "shaylee48@070926.eljawir.com",
+          "password": "masuk123",
+          "addedAt": 1791775053544
         }
       ],
       "sold": 8260,
-      "stock": 39,
+      "stock": 44,
       "reserved": [
         {
           "id": "RSV1780362536090628",
