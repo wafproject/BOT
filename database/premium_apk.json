@@ -5967,7 +5967,7 @@
           "addedAt": 1791775053544
         }
       ],
-      "sold": 8260,
+      "sold": 8263,
       "stock": 40,
       "reserved": [
         {
@@ -6228,28 +6228,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-10-12T03:17:51.822Z"
-        },
-        {
-          "id": "RSV1791775093640245",
-          "items": [
-            {
-              "email": "mkf69pej@e4jz.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1791774773766
-            },
-            {
-              "email": "k0snxa7p@fwec.jutjutsu.my.id",
-              "password": "masuk123",
-              "addedAt": 1791774773766
-            },
-            {
-              "email": "kwrewxkc@080926.eljawir.com",
-              "password": "masuk123",
-              "addedAt": 1791774773766
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-10-12T03:18:13.640Z"
         }
       ],
       "bulk_active": true,
