@@ -6231,11 +6231,6 @@
       "snk": "Garansi 3 Bulan",
       "items": [
         {
-          "email": "6283083199761",
-          "password": "masuk123",
-          "addedAt": 1784466025282
-        },
-        {
           "email": "6281351179555",
           "password": "masuk123",
           "addedAt": 1784466025282
@@ -8517,8 +8512,21 @@
         }
       ],
       "sold": 1054,
-      "stock": 457,
-      "reserved": []
+      "stock": 456,
+      "reserved": [
+        {
+          "id": "RSV1791818197180908",
+          "items": [
+            {
+              "email": "6283083199761",
+              "password": "masuk123",
+              "addedAt": 1784466025282
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-10-12T15:16:37.180Z"
+        }
+      ]
     },
     {
       "code": "PRIME1B",
