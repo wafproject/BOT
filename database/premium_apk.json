@@ -5880,7 +5880,7 @@
           "addedAt": 1791956922094
         }
       ],
-      "sold": 8309,
+      "sold": 8310,
       "stock": 25,
       "reserved": [
         {
@@ -6129,18 +6129,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1791958541391741",
-          "items": [
-            {
-              "email": "1d6csgzl@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1791956922094
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-14T06:15:41.391Z"
         }
       ],
       "bulk_active": true,
