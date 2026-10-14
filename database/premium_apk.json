@@ -5755,26 +5755,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "avn6dft9@sikamba.id",
-          "password": "masuk123",
-          "addedAt": 1791956922094
-        },
-        {
-          "email": "5fc0hznm@sikamba.id",
-          "password": "masuk123",
-          "addedAt": 1791956922094
-        },
-        {
-          "email": "4q5mv4oh@sikamba.id",
-          "password": "masuk123",
-          "addedAt": 1791956922094
-        },
-        {
-          "email": "slfji87q@sikamba.id",
-          "password": "masuk123",
-          "addedAt": 1791956922094
-        },
-        {
           "email": "ojt9702s@sikamba.id",
           "password": "masuk123",
           "addedAt": 1791956922094
@@ -5826,7 +5806,7 @@
         }
       ],
       "sold": 8321,
-      "stock": 14,
+      "stock": 10,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6074,6 +6054,33 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV1791966625400666",
+          "items": [
+            {
+              "email": "avn6dft9@sikamba.id",
+              "password": "masuk123",
+              "addedAt": 1791956922094
+            },
+            {
+              "email": "5fc0hznm@sikamba.id",
+              "password": "masuk123",
+              "addedAt": 1791956922094
+            },
+            {
+              "email": "4q5mv4oh@sikamba.id",
+              "password": "masuk123",
+              "addedAt": 1791956922094
+            },
+            {
+              "email": "slfji87q@sikamba.id",
+              "password": "masuk123",
+              "addedAt": 1791956922094
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-10-14T08:30:25.400Z"
         }
       ],
       "bulk_active": true,
