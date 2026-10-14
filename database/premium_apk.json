@@ -5755,31 +5755,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "oivg1wwi@sikamba.id",
-          "password": "masuk123",
-          "addedAt": 1791956922094
-        },
-        {
-          "email": "5upr96yv@sikamba.id",
-          "password": "masuk123",
-          "addedAt": 1791956922094
-        },
-        {
-          "email": "2rt4edaq@sikamba.id",
-          "password": "masuk123",
-          "addedAt": 1791956922094
-        },
-        {
-          "email": "23chx4ub@sikamba.id",
-          "password": "masuk123",
-          "addedAt": 1791956922094
-        },
-        {
-          "email": "aka08m82@sikamba.id",
-          "password": "masuk123",
-          "addedAt": 1791956922094
-        },
-        {
           "email": "culturedlookout643@sikamba.id",
           "password": "masuk123",
           "addedAt": 1791956922094
@@ -5796,7 +5771,7 @@
         }
       ],
       "sold": 8327,
-      "stock": 8,
+      "stock": 3,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6044,6 +6019,38 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV1791973414751149",
+          "items": [
+            {
+              "email": "oivg1wwi@sikamba.id",
+              "password": "masuk123",
+              "addedAt": 1791956922094
+            },
+            {
+              "email": "5upr96yv@sikamba.id",
+              "password": "masuk123",
+              "addedAt": 1791956922094
+            },
+            {
+              "email": "2rt4edaq@sikamba.id",
+              "password": "masuk123",
+              "addedAt": 1791956922094
+            },
+            {
+              "email": "23chx4ub@sikamba.id",
+              "password": "masuk123",
+              "addedAt": 1791956922094
+            },
+            {
+              "email": "aka08m82@sikamba.id",
+              "password": "masuk123",
+              "addedAt": 1791956922094
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-10-14T10:23:34.751Z"
         }
       ],
       "bulk_active": true,
