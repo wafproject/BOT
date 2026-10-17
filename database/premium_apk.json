@@ -5765,7 +5765,7 @@
           "addedAt": 1792218835037
         }
       ],
-      "sold": 8379,
+      "sold": 8384,
       "stock": 11,
       "reserved": [
         {
@@ -6014,38 +6014,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1792222987801977",
-          "items": [
-            {
-              "email": "fpr8ecdo@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1792218835037
-            },
-            {
-              "email": "lqn36go4@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1792218835037
-            },
-            {
-              "email": "cq2o7tff@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1792218835037
-            },
-            {
-              "email": "8o4gstxa@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1792218835037
-            },
-            {
-              "email": "029jesp4@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1792218835037
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-10-17T07:43:07.801Z"
         }
       ],
       "bulk_active": true,
