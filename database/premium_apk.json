@@ -5710,16 +5710,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "tcuz6ba4@sikamba.id",
-          "password": "masuk123",
-          "addedAt": 1792218835037
-        },
-        {
-          "email": "u46ac3eu@sikamba.id",
-          "password": "masuk123",
-          "addedAt": 1792218835037
-        },
-        {
           "email": "bu345o8y@sikamba.id",
           "password": "masuk123",
           "addedAt": 1792218835037
@@ -5811,7 +5801,7 @@
         }
       ],
       "sold": 8375,
-      "stock": 20,
+      "stock": 18,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6059,6 +6049,23 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV1792218936694674",
+          "items": [
+            {
+              "email": "tcuz6ba4@sikamba.id",
+              "password": "masuk123",
+              "addedAt": 1792218835037
+            },
+            {
+              "email": "u46ac3eu@sikamba.id",
+              "password": "masuk123",
+              "addedAt": 1792218835037
+            }
+          ],
+          "qty": 2,
+          "createdAt": "2026-10-17T06:35:36.694Z"
         }
       ],
       "bulk_active": false,
