@@ -5710,31 +5710,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• TIDAK ADA GARANSI JIKA TERKENA LIMIT LOGIN\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "‎alekfahey@sikamba.id",
-          "password": "masuk123",
-          "addedAt": 1792352127378
-        },
-        {
-          "email": "iszx8yy8@vmd9.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1792352127379
-        },
-        {
-          "email": "gmrgqwr9@4irf.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1792352127379
-        },
-        {
-          "email": "bej0ft5w@728c.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1792352127379
-        },
-        {
-          "email": "sy9n5les@yk4n.jutjutsu.my.id",
-          "password": "masuk123",
-          "addedAt": 1792352127379
-        },
-        {
           "email": "ru9pipoq@t9pi.jutjutsu.my.id",
           "password": "masuk123",
           "addedAt": 1792352127379
@@ -5916,7 +5891,7 @@
         }
       ],
       "sold": 8396,
-      "stock": 41,
+      "stock": 36,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6164,6 +6139,38 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV1792364345544867",
+          "items": [
+            {
+              "email": "‎alekfahey@sikamba.id",
+              "password": "masuk123",
+              "addedAt": 1792352127378
+            },
+            {
+              "email": "iszx8yy8@vmd9.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1792352127379
+            },
+            {
+              "email": "gmrgqwr9@4irf.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1792352127379
+            },
+            {
+              "email": "bej0ft5w@728c.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1792352127379
+            },
+            {
+              "email": "sy9n5les@yk4n.jutjutsu.my.id",
+              "password": "masuk123",
+              "addedAt": 1792352127379
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-10-18T22:59:05.545Z"
         }
       ],
       "bulk_active": true,
