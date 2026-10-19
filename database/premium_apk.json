@@ -4738,20 +4738,8 @@
         }
       ],
       "stock": 984,
-      "sold": 927,
-      "reserved": [
-        {
-          "id": "RSV1792411648128276",
-          "items": [
-            {
-              "email": "drenvil@gmail-xsniper.site|https://generator.email/drenvil@gmail-xsniper.site",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-19T12:07:28.128Z"
-        }
-      ],
+      "sold": 928,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
