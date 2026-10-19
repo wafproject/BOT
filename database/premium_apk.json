@@ -801,10 +801,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "rotonda82@saovangtiles.site|https://generator.email/rotonda82@saovangtiles.site",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "g09greend@jiangwy.one|https://generator.email/g09greend@jiangwy.one",
           "addedAt": 1783266949580
         },
@@ -4737,9 +4733,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 984,
+      "stock": 983,
       "sold": 928,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1792417352834845",
+          "items": [
+            {
+              "email": "rotonda82@saovangtiles.site|https://generator.email/rotonda82@saovangtiles.site",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-10-19T13:42:32.835Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
