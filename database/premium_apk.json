@@ -8925,22 +8925,9 @@
           "addedAt": 1790610097020
         }
       ],
-      "sold": 75,
+      "sold": 76,
       "stock": 4,
-      "reserved": [
-        {
-          "id": "RSV1792380220130344",
-          "items": [
-            {
-              "email": "SelinaCasavan50354@outlook.com",
-              "password": "iymfg576679",
-              "addedAt": 1790268907102
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-19T03:23:40.131Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
