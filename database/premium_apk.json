@@ -4734,20 +4734,8 @@
         }
       ],
       "stock": 983,
-      "sold": 928,
-      "reserved": [
-        {
-          "id": "RSV1792417352834845",
-          "items": [
-            {
-              "email": "rotonda82@saovangtiles.site|https://generator.email/rotonda82@saovangtiles.site",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-19T13:42:32.835Z"
-        }
-      ],
+      "sold": 929,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
