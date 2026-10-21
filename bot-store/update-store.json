@@ -1,14 +1,13 @@
 {
   "product": "wafproject-store-zapo",
-  "version": "1.1.6",
-  "zip_url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-store/WAFPROJECT-STORE-v1.1.6.zip",
-  "sha256": "02b5cce965b5539bd1cd33565aa822271870befe6f858f082ae2dbef16ae3331",
+  "version": "1.1.7",
+  "zip_url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-store/WAFPROJECT-STORE-v1.1.7.zip",
+  "sha256": "375d4dd4266e5caa446a0c07e5200c80bd253e48849a03cf7fa5408a0ee06065",
   "notes": [
-    "Perbaikan addsewa untuk flow join grup Zapo",
-    "Mencegah penyimpanan sewa dengan ID grup kosong",
-    "Perbaikan delsewa berdasarkan nomor urut listsewa",
-    "Perbaikan delsewa menggunakan link grup",
-    "Perbaikan tambahsewa agar mengikuti urutan listsewa"
+    "TikTok Downloader FIX V2: endpoint JagoanProject /api/downloader/tiktok sebagai utama",
+    "Fallback /api/downloader/tiktokdl lalu TikWM ketika video/audio tidak tersedia",
+    "Perbaikan video, audio TikTok dan foto slide otomatis (.tt, .tiktok, .ttslide, .tikmp3)",
+    "Download media memakai Buffer, percobaan ulang, dan pesan progres dengan edit"
   ],
   "delete": []
 }
