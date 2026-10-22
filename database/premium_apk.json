@@ -5759,7 +5759,7 @@
           "addedAt": 1792645094983
         }
       ],
-      "sold": 8487,
+      "sold": 8492,
       "stock": 15,
       "reserved": [
         {
@@ -6008,38 +6008,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1792655444642958",
-          "items": [
-            {
-              "email": "m36rrjoh@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792645094983
-            },
-            {
-              "email": "toj1lh65@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792645094983
-            },
-            {
-              "email": "o7ct11ke@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792645094983
-            },
-            {
-              "email": "gj4atpat@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792645094983
-            },
-            {
-              "email": "wvd221kb@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792645094983
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-10-22T07:50:44.642Z"
         }
       ],
       "bulk_active": true,
