@@ -8954,22 +8954,9 @@
           "addedAt": 1790610097020
         }
       ],
-      "sold": 77,
+      "sold": 78,
       "stock": 2,
-      "reserved": [
-        {
-          "id": "RSV1792766837388166",
-          "items": [
-            {
-              "email": "JamyaTeboe7891@hotmail.com",
-              "password": "lbseas544702",
-              "addedAt": 1790394688987
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-23T14:47:17.388Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
