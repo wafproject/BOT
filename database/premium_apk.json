@@ -8989,22 +8989,9 @@
           "addedAt": 1790610097020
         }
       ],
-      "sold": 76,
+      "sold": 77,
       "stock": 3,
-      "reserved": [
-        {
-          "id": "RSV1792744073930764",
-          "items": [
-            {
-              "email": "JulisaRimbach819602@outlook.com",
-              "password": "xnriqg584676",
-              "addedAt": 1790268907102
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-23T08:27:53.930Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
