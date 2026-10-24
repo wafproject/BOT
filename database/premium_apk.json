@@ -5702,15 +5702,10 @@
           "email": "aeratepuggle@maildropy.com",
           "password": "masuk123",
           "addedAt": 1792708426658
-        },
-        {
-          "email": "helplessrabbit@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1792708426658
         }
       ],
       "sold": 8542,
-      "stock": 5,
+      "stock": 4,
       "reserved": [
         {
           "id": "RSV1780362536090628",
