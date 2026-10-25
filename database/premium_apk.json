@@ -8869,15 +8869,9 @@
       "bulk_prices": [],
       "descShort": "No Garansi",
       "snk": "*No Garansi\n• Bisa invite 500 member \n• Akses kode login ke outlook pakai email dan password diatas",
-      "items": [
-        {
-          "email": "DebbiCau101095@outlook.com",
-          "password": "jjvwew882004",
-          "addedAt": 1790610097020
-        }
-      ],
+      "items": [],
       "sold": 79,
-      "stock": 1,
+      "stock": 0,
       "reserved": []
     }
   ],
