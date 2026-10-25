@@ -8880,22 +8880,9 @@
           "addedAt": 1790610097020
         }
       ],
-      "sold": 78,
+      "sold": 79,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV1792902345672760",
-          "items": [
-            {
-              "email": "SheilaKeester74254@outlook.com",
-              "password": "tccwjq63559",
-              "addedAt": 1790427584344
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-25T04:25:45.672Z"
-        }
-      ]
+      "reserved": []
     }
   ],
   "meta": {
