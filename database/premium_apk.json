@@ -8875,19 +8875,27 @@
       "snk": "*No Garansi\n• Bisa invite 500 member \n• Akses kode login ke outlook pakai email dan password diatas",
       "items": [
         {
-          "email": "SheilaKeester74254@outlook.com",
-          "password": "tccwjq63559",
-          "addedAt": 1790427584344
-        },
-        {
           "email": "DebbiCau101095@outlook.com",
           "password": "jjvwew882004",
           "addedAt": 1790610097020
         }
       ],
       "sold": 78,
-      "stock": 2,
-      "reserved": []
+      "stock": 1,
+      "reserved": [
+        {
+          "id": "RSV1792902345672760",
+          "items": [
+            {
+              "email": "SheilaKeester74254@outlook.com",
+              "password": "tccwjq63559",
+              "addedAt": 1790427584344
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-10-25T04:25:45.672Z"
+        }
+      ]
     }
   ],
   "meta": {
