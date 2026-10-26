@@ -5967,7 +5967,7 @@
           "addedAt": 1793051809635
         }
       ],
-      "sold": 8596,
+      "sold": 8597,
       "stock": 55,
       "reserved": [
         {
@@ -6216,18 +6216,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793051990810701",
-          "items": [
-            {
-              "email": "snickerreclamation@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-26T21:59:50.810Z"
         }
       ],
       "bulk_active": true,
