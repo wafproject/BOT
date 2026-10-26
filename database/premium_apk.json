@@ -5676,31 +5676,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "xo9fsyux@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1792972901099
-        },
-        {
-          "email": "vdvd7yz4@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1792972901099
-        },
-        {
-          "email": "ip2wwcut@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1792972901099
-        },
-        {
-          "email": "3xhvhldr@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1792972901099
-        },
-        {
-          "email": "ctif26a9@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1792972901099
-        },
-        {
           "email": "snickerreclamation@maildropy.com",
           "password": "masuk123",
           "addedAt": 1792972901099
@@ -5732,7 +5707,7 @@
         }
       ],
       "sold": 8591,
-      "stock": 11,
+      "stock": 6,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5980,6 +5955,38 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV179302931639332",
+          "items": [
+            {
+              "email": "xo9fsyux@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1792972901099
+            },
+            {
+              "email": "vdvd7yz4@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1792972901099
+            },
+            {
+              "email": "ip2wwcut@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1792972901099
+            },
+            {
+              "email": "3xhvhldr@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1792972901099
+            },
+            {
+              "email": "ctif26a9@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1792972901099
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-10-26T15:41:56.393Z"
         }
       ],
       "bulk_active": true,
