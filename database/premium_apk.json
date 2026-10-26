@@ -5855,7 +5855,7 @@
           "addedAt": 1792972901099
         }
       ],
-      "sold": 8566,
+      "sold": 8567,
       "stock": 35,
       "reserved": [
         {
@@ -6104,18 +6104,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1792978658124615",
-          "items": [
-            {
-              "email": "aezmrj9v@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-26T01:37:38.124Z"
         }
       ],
       "bulk_active": true,
