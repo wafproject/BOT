@@ -5980,11 +5980,6 @@
           "addedAt": 1792972901099
         },
         {
-          "email": "88x8akb4@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1792972901099
-        },
-        {
           "email": "snickerreclamation@maildropy.com",
           "password": "masuk123",
           "addedAt": 1792972901099
@@ -6021,7 +6016,7 @@
         }
       ],
       "sold": 8543,
-      "stock": 68,
+      "stock": 67,
       "reserved": [
         {
           "id": "RSV1780362536090628",
