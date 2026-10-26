@@ -5870,7 +5870,7 @@
           "addedAt": 1792972901099
         }
       ],
-      "sold": 8549,
+      "sold": 8564,
       "stock": 38,
       "reserved": [
         {
@@ -6119,88 +6119,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1792977555838915",
-          "items": [
-            {
-              "email": "bcp8l9o1@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "jgawifti@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "ks039cqv@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "k480n4tf@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "2ja6v39h@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "0sj5x6i2@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "bzqs9zjs@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "fkbh2lp2@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "sqe8qqp7@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "ck09aee1@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "t8vrsf69@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "jf7d5cxe@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "63rdt0k1@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "ywleqmf0@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "5d5s5981@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            }
-          ],
-          "qty": 15,
-          "createdAt": "2026-10-26T01:19:15.838Z"
         }
       ],
       "bulk_active": true,
