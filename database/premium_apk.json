@@ -797,10 +797,6 @@
       "snk": "Akses email ada di samping email di file txt diatas",
       "items": [
         {
-          "email": "g09greend@jiangwy.one|https://generator.email/g09greend@jiangwy.one",
-          "addedAt": 1783266949580
-        },
-        {
           "email": "imnotcool@ichecker.tech|https://generator.email/imnotcool@ichecker.tech",
           "addedAt": 1783266949580
         },
@@ -4729,9 +4725,21 @@
           "addedAt": 1783320889316
         }
       ],
-      "stock": 983,
+      "stock": 982,
       "sold": 929,
-      "reserved": [],
+      "reserved": [
+        {
+          "id": "RSV1793001467276277",
+          "items": [
+            {
+              "email": "g09greend@jiangwy.one|https://generator.email/g09greend@jiangwy.one",
+              "addedAt": 1783266949580
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-10-26T07:57:47.276Z"
+        }
+      ],
       "bulk_active": true,
       "bulk_prices": [
         {
