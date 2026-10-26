@@ -5785,7 +5785,7 @@
           "addedAt": 1792972901099
         }
       ],
-      "sold": 8571,
+      "sold": 8581,
       "stock": 21,
       "reserved": [
         {
@@ -6034,63 +6034,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1792989396773307",
-          "items": [
-            {
-              "email": "cgogfiyz@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "bb32bf4z@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "ujousk0y@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "g6r7ujf7@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "yikagw6u@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "ck4aik0k@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "aczx7mpr@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "sgl6wecs@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "padxyd3r@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            },
-            {
-              "email": "woaasmnc@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1792972901099
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-10-26T04:36:36.773Z"
         }
       ],
       "bulk_active": true,
