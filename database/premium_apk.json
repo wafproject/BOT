@@ -5973,15 +5973,10 @@
           "email": "tailidentification@maildropy.com",
           "password": "masuk123",
           "addedAt": 1792972901099
-        },
-        {
-          "email": "hightailartichoke@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1792972901099
         }
       ],
       "sold": 8543,
-      "stock": 60,
+      "stock": 59,
       "reserved": [
         {
           "id": "RSV1780362536090628",
