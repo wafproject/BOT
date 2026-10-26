@@ -5680,26 +5680,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "4l5u0e0e@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1792972901099
-        },
-        {
-          "email": "cp8wng8k@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1792972901099
-        },
-        {
-          "email": "oga6u0u0@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1792972901099
-        },
-        {
-          "email": "034fu8kb@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1792972901099
-        },
-        {
           "email": "bcp8l9o1@maildropy.com",
           "password": "masuk123",
           "addedAt": 1792972901099
@@ -5976,7 +5956,7 @@
         }
       ],
       "sold": 8543,
-      "stock": 59,
+      "stock": 55,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6224,6 +6204,33 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV179297485738418",
+          "items": [
+            {
+              "email": "4l5u0e0e@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1792972901099
+            },
+            {
+              "email": "cp8wng8k@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1792972901099
+            },
+            {
+              "email": "oga6u0u0@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1792972901099
+            },
+            {
+              "email": "034fu8kb@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1792972901099
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-10-26T00:34:17.384Z"
         }
       ],
       "bulk_active": true,
