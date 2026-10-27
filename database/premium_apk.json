@@ -5861,7 +5861,7 @@
           "addedAt": 1793133817194
         }
       ],
-      "sold": 8655,
+      "sold": 8675,
       "stock": 37,
       "reserved": [
         {
@@ -6110,113 +6110,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793144500101713",
-          "items": [
-            {
-              "email": "vf5t8mo5@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "h98hzf77@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "q3z8dw6y@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "r7j8sncl@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "epvp6u56@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "k4ml9v1x@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "7k5n4b9c@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "dcaw8m7w@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "vbj4n048@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "gqq4l9a5@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "mehxs1xe@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "aznseukl@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "fey5o0k3@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "vf1ugdxk@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "12azb41v@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "1da138fj@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "pykbcpg7@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "odwvx6o2@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "qqdj68z4@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            },
-            {
-              "email": "zd0y20wc@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793133817193
-            }
-          ],
-          "qty": 20,
-          "createdAt": "2026-10-27T23:41:40.101Z"
         }
       ],
       "bulk_active": true,
