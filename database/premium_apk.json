@@ -5691,7 +5691,7 @@
           "addedAt": 1793051809635
         }
       ],
-      "sold": 8648,
+      "sold": 8649,
       "stock": 3,
       "reserved": [
         {
@@ -5940,18 +5940,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793106063554580",
-          "items": [
-            {
-              "email": "aggravateforte@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793051809635
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-27T13:01:03.554Z"
         }
       ],
       "bulk_active": true,
