@@ -5676,11 +5676,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "aggravateforte@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1793051809635
-        },
-        {
           "email": "stronginsect@maildropy.com",
           "password": "masuk123",
           "addedAt": 1793051809635
@@ -5697,7 +5692,7 @@
         }
       ],
       "sold": 8648,
-      "stock": 4,
+      "stock": 3,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5945,6 +5940,18 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV1793106063554580",
+          "items": [
+            {
+              "email": "aggravateforte@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1793051809635
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-10-27T13:01:03.554Z"
         }
       ],
       "bulk_active": true,
