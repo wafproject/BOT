@@ -8447,9 +8447,35 @@
       "bulk_prices": [],
       "descShort": "Full Garansi",
       "snk": "* 20 - 25 Hari terhitung 1 bulan\n• Login max 2 device \n• Jual sharing tanggung jawab sendiri",
-      "items": [],
+      "items": [
+        {
+          "email": "margot@gohaneon.web.id",
+          "password": "Masuk123",
+          "addedAt": 1793118711150
+        },
+        {
+          "email": "norma31@gohaneon.web.id",
+          "password": "Masuk123",
+          "addedAt": 1793118711150
+        },
+        {
+          "email": "joellelockman@gohaneon.web.id",
+          "password": "Masuk123",
+          "addedAt": 1793118711150
+        },
+        {
+          "email": "flaviehills@gohaneon.web.id",
+          "password": "Masuk123",
+          "addedAt": 1793118711150
+        },
+        {
+          "email": "limpphysics850@gohaneon.web.id",
+          "password": "Masuk123",
+          "addedAt": 1793118711150
+        }
+      ],
       "sold": 395,
-      "stock": 0,
+      "stock": 5,
       "reserved": []
     },
     {
