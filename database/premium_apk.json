@@ -5686,7 +5686,7 @@
           "addedAt": 1793051809635
         }
       ],
-      "sold": 8649,
+      "sold": 8650,
       "stock": 2,
       "reserved": [
         {
@@ -5935,18 +5935,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793108042632854",
-          "items": [
-            {
-              "email": "stronginsect@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793051809635
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-27T13:34:02.632Z"
         }
       ],
       "bulk_active": true,
