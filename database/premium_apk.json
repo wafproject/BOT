@@ -5696,7 +5696,7 @@
           "addedAt": 1793051809635
         }
       ],
-      "sold": 8647,
+      "sold": 8648,
       "stock": 4,
       "reserved": [
         {
@@ -5945,18 +5945,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793105318771555",
-          "items": [
-            {
-              "email": "meredithpagac@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793051809635
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-27T12:48:38.771Z"
         }
       ],
       "bulk_active": true,
