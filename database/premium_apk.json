@@ -4718,20 +4718,8 @@
         }
       ],
       "stock": 981,
-      "sold": 930,
-      "reserved": [
-        {
-          "id": "RSV1793158583621498",
-          "items": [
-            {
-              "email": "imnotcool@ichecker.tech|https://generator.email/imnotcool@ichecker.tech",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-28T03:36:23.621Z"
-        }
-      ],
+      "sold": 931,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
