@@ -8614,21 +8614,9 @@
           "addedAt": 1789973823519
         }
       ],
-      "sold": 707,
+      "sold": 708,
       "stock": 32,
-      "reserved": [
-        {
-          "id": "RSV179329676179811",
-          "items": [
-            {
-              "text": "18. DenishaMiehl855179@outlook.com|woeuwf34463|M.C529_BL2.0.U.MsaArtifacts.-CtNHd!kzQSNx6oAIBrnfM!qgbkOX2eWy6mhHB*JIJDGbMhAx4EW0pOBLuj5JDgF4PIb4i0FZXCixpleuokkKiMATuVr68kMS6C*IRmN2EN26kyVrOqGFUPMANTCbp7nytgwivKFQ*DmDTFL45fFaRG*!QqzUlmr6291Ne1sEsNJV*k1RTdGBEj1SA2Zsyswnxy5ZbQ5qxlfzgl4o6J9xf7ztqycpXqiMQPZhjBUishbWq1yqij19FYRmizt!Ws0P3*GoI0zOHZjgSVw5KfeDE3Yly31flkp2ly0Cnc4FetoFYsp1uKuPVwQD9*2woQqYXTlO5ZuWldhIo5U!!k26G0Lr9uqZE2qKKxDPPoR7yoyudLZiPXvhMpoKRhlGvwJyF5WAROeaQR4E2dOs16m8WU4$|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
-              "addedAt": 1789973823518
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-29T17:59:21.798Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "HT",
