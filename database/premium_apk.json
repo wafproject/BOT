@@ -5672,11 +5672,7 @@
       "bulk_prices": [
         {
           "minQty": 5,
-          "price": 20500
-        },
-        {
-          "minQty": 10,
-          "price": 20000
+          "price": 19000
         }
       ]
     },
