@@ -8416,15 +8416,9 @@
       "bulk_prices": [],
       "descShort": "Full Garansi",
       "snk": "* 20 - 25 Hari terhitung 1 bulan\n• Login max 2 device \n• Jual sharing tanggung jawab sendiri",
-      "items": [
-        {
-          "email": "limpphysics850@gohaneon.web.id",
-          "password": "Masuk123",
-          "addedAt": 1793118711150
-        }
-      ],
-      "sold": 399,
-      "stock": 1,
+      "items": [],
+      "sold": 400,
+      "stock": 0,
       "reserved": []
     },
     {
