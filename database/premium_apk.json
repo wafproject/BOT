@@ -8418,19 +8418,27 @@
       "snk": "* 20 - 25 Hari terhitung 1 bulan\n• Login max 2 device \n• Jual sharing tanggung jawab sendiri",
       "items": [
         {
-          "email": "flaviehills@gohaneon.web.id",
-          "password": "Masuk123",
-          "addedAt": 1793118711150
-        },
-        {
           "email": "limpphysics850@gohaneon.web.id",
           "password": "Masuk123",
           "addedAt": 1793118711150
         }
       ],
       "sold": 398,
-      "stock": 2,
-      "reserved": []
+      "stock": 1,
+      "reserved": [
+        {
+          "id": "RSV1793374016270688",
+          "items": [
+            {
+              "email": "flaviehills@gohaneon.web.id",
+              "password": "Masuk123",
+              "addedAt": 1793118711150
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-10-30T15:26:56.270Z"
+        }
+      ]
     },
     {
       "code": "CCHEAD",
