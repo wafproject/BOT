@@ -8472,22 +8472,9 @@
           "addedAt": 1793118711150
         }
       ],
-      "sold": 395,
+      "sold": 396,
       "stock": 4,
-      "reserved": [
-        {
-          "id": "RSV1793324352674542",
-          "items": [
-            {
-              "email": "margot@gohaneon.web.id",
-              "password": "Masuk123",
-              "addedAt": 1793118711150
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-30T01:39:12.675Z"
-        }
-      ]
+      "reserved": []
     },
     {
       "code": "CCHEAD",
