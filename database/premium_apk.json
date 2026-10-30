@@ -8418,11 +8418,6 @@
       "snk": "* 20 - 25 Hari terhitung 1 bulan\n• Login max 2 device \n• Jual sharing tanggung jawab sendiri",
       "items": [
         {
-          "email": "joellelockman@gohaneon.web.id",
-          "password": "Masuk123",
-          "addedAt": 1793118711150
-        },
-        {
           "email": "flaviehills@gohaneon.web.id",
           "password": "Masuk123",
           "addedAt": 1793118711150
@@ -8433,8 +8428,8 @@
           "addedAt": 1793118711150
         }
       ],
-      "sold": 397,
-      "stock": 3,
+      "sold": 398,
+      "stock": 2,
       "reserved": []
     },
     {
