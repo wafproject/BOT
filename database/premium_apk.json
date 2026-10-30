@@ -5655,22 +5655,9 @@
           "addedAt": 1793314065376
         }
       ],
-      "sold": 1631,
+      "sold": 1632,
       "stock": 3,
-      "reserved": [
-        {
-          "id": "RSV1793336304000384",
-          "items": [
-            {
-              "email": "nelliekutch9662@omail.id",
-              "password": "Masuk123@",
-              "addedAt": 1793314065376
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-10-30T04:58:24.000Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
