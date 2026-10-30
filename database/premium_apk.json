@@ -8418,11 +8418,6 @@
       "snk": "* 20 - 25 Hari terhitung 1 bulan\n• Login max 2 device \n• Jual sharing tanggung jawab sendiri",
       "items": [
         {
-          "email": "norma31@gohaneon.web.id",
-          "password": "Masuk123",
-          "addedAt": 1793118711150
-        },
-        {
           "email": "joellelockman@gohaneon.web.id",
           "password": "Masuk123",
           "addedAt": 1793118711150
@@ -8439,8 +8434,21 @@
         }
       ],
       "sold": 396,
-      "stock": 4,
-      "reserved": []
+      "stock": 3,
+      "reserved": [
+        {
+          "id": "RSV1793348719960787",
+          "items": [
+            {
+              "email": "norma31@gohaneon.web.id",
+              "password": "Masuk123",
+              "addedAt": 1793118711150
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-10-30T08:25:19.961Z"
+        }
+      ]
     },
     {
       "code": "CCHEAD",
