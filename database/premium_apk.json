@@ -8667,9 +8667,35 @@
       "bulk_prices": [],
       "descShort": "Full Garansi",
       "snk": "* 20 - 25 Hari terhitung 1 bulan\n• Login max 2 device \n• Jual sharing tanggung jawab sendiri",
-      "items": [],
+      "items": [
+        {
+          "email": "metaschultz7178@omail.id",
+          "password": "masuk123",
+          "addedAt": 1793390957048
+        },
+        {
+          "email": "annieschroeder4545@omail.id",
+          "password": "masuk123",
+          "addedAt": 1793390957048
+        },
+        {
+          "email": "colinjast4379@omail.id",
+          "password": "masuk123",
+          "addedAt": 1793390957048
+        },
+        {
+          "email": "emielittel7224@gsmail.id",
+          "password": "masuk123",
+          "addedAt": 1793390957048
+        },
+        {
+          "email": "enolamoen6580@gsmail.id",
+          "password": "masuk123",
+          "addedAt": 1793390957048
+        }
+      ],
       "sold": 400,
-      "stock": 0,
+      "stock": 5,
       "reserved": []
     },
     {
