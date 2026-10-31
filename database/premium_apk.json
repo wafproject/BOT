@@ -5787,7 +5787,7 @@
           "addedAt": 1793390939880
         }
       ],
-      "sold": 8765,
+      "sold": 8775,
       "stock": 27,
       "reserved": [
         {
@@ -6036,63 +6036,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793428102846537",
-          "items": [
-            {
-              "email": "6zguofg9@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793390939880
-            },
-            {
-              "email": "4ypl6kka@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793390939880
-            },
-            {
-              "email": "pn88qoit@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793390939880
-            },
-            {
-              "email": "y7yu2a4a@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793390939880
-            },
-            {
-              "email": "5ssmmbi0@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793390939880
-            },
-            {
-              "email": "dvp15gxd@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793390939880
-            },
-            {
-              "email": "a2am3maq@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793390939880
-            },
-            {
-              "email": "r1a5wnec@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793390939880
-            },
-            {
-              "email": "7dokqqyn@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793390939880
-            },
-            {
-              "email": "yzp7pq1x@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793390939880
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-10-31T06:28:22.846Z"
         }
       ],
       "bulk_active": true,
