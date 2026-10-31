@@ -8503,15 +8503,9 @@
       "bulk_prices": [],
       "descShort": "Full Garansi",
       "snk": "* 20 - 25 Hari terhitung 1 bulan\n• Login max 2 device \n• Jual sharing tanggung jawab sendiri",
-      "items": [
-        {
-          "email": "colinjast4379@omail.id",
-          "password": "masuk123",
-          "addedAt": 1793390957048
-        }
-      ],
+      "items": [],
       "sold": 402,
-      "stock": 1,
+      "stock": 0,
       "reserved": []
     },
     {
