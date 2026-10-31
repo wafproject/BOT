@@ -8513,15 +8513,10 @@
           "email": "emielittel7224@gsmail.id",
           "password": "masuk123",
           "addedAt": 1793390957048
-        },
-        {
-          "email": "enolamoen6580@gsmail.id",
-          "password": "masuk123",
-          "addedAt": 1793390957048
         }
       ],
       "sold": 402,
-      "stock": 3,
+      "stock": 2,
       "reserved": []
     },
     {
