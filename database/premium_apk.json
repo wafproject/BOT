@@ -8508,15 +8508,10 @@
           "email": "colinjast4379@omail.id",
           "password": "masuk123",
           "addedAt": 1793390957048
-        },
-        {
-          "email": "emielittel7224@gsmail.id",
-          "password": "masuk123",
-          "addedAt": 1793390957048
         }
       ],
       "sold": 402,
-      "stock": 2,
+      "stock": 1,
       "reserved": []
     },
     {
