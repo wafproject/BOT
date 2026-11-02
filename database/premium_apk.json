@@ -5641,7 +5641,7 @@
           "addedAt": 1793577372716
         }
       ],
-      "sold": 8850,
+      "sold": 8851,
       "stock": 1,
       "reserved": [
         {
@@ -5890,18 +5890,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793634807958569",
-          "items": [
-            {
-              "email": "draftycrystallograph@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-02T15:53:27.958Z"
         }
       ],
       "bulk_active": true,
