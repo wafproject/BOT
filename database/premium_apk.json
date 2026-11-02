@@ -5729,7 +5729,7 @@
           "addedAt": 1793577372716
         }
       ],
-      "sold": 8832,
+      "sold": 8835,
       "stock": 17,
       "reserved": [
         {
@@ -5978,28 +5978,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793587243653977",
-          "items": [
-            {
-              "email": "user90476398@ccpro.buzz",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            },
-            {
-              "email": "user54867432@seakris.fun",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            },
-            {
-              "email": "user45673351@apimza.store",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-11-02T02:40:43.653Z"
         }
       ],
       "bulk_active": true,
