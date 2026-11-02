@@ -5650,7 +5650,7 @@
           "addedAt": 1793577372716
         }
       ],
-      "sold": 8849,
+      "sold": 8850,
       "stock": 2,
       "reserved": [
         {
@@ -5899,18 +5899,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793612582994441",
-          "items": [
-            {
-              "email": "ccuser87345925@kacung.dev",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-02T09:43:02.994Z"
         }
       ],
       "bulk_active": true,
