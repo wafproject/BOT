@@ -5644,11 +5644,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "pro06503132@dontol.cfd",
-          "password": "masuk123",
-          "addedAt": 1793577372716
-        },
-        {
           "email": "vip32521846@substoretools.com",
           "password": "masuk123",
           "addedAt": 1793577372716
@@ -5675,7 +5670,7 @@
         }
       ],
       "sold": 8846,
-      "stock": 6,
+      "stock": 5,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5923,6 +5918,18 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV1793599494333208",
+          "items": [
+            {
+              "email": "pro06503132@dontol.cfd",
+              "password": "masuk123",
+              "addedAt": 1793577372716
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-11-02T06:04:54.333Z"
         }
       ],
       "bulk_active": true,
