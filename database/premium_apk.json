@@ -5644,11 +5644,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "vip82705178@malfoy.cyou",
-          "password": "masuk123",
-          "addedAt": 1793577372716
-        },
-        {
           "email": "vip61156958@kilua.app",
           "password": "masuk123",
           "addedAt": 1793577372716
@@ -5685,7 +5680,7 @@
         }
       ],
       "sold": 8844,
-      "stock": 8,
+      "stock": 7,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5933,6 +5928,18 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV1793591411297765",
+          "items": [
+            {
+              "email": "vip82705178@malfoy.cyou",
+              "password": "masuk123",
+              "addedAt": 1793577372716
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-11-02T03:50:11.298Z"
         }
       ],
       "bulk_active": true,
