@@ -5674,7 +5674,7 @@
           "addedAt": 1793577372716
         }
       ],
-      "sold": 8845,
+      "sold": 8846,
       "stock": 6,
       "reserved": [
         {
@@ -5923,18 +5923,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793594057127148",
-          "items": [
-            {
-              "email": "vip61156958@kilua.app",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-02T04:34:17.127Z"
         }
       ],
       "bulk_active": true,
