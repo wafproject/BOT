@@ -5804,10 +5804,20 @@
           "email": "alexiscorkery9094@ezmail.id",
           "password": "Masuk123@",
           "addedAt": 1793655773902
+        },
+        {
+          "email": "friedrichward7709@ezmail.id",
+          "password": "Masuk123@",
+          "addedAt": 1793656583024
+        },
+        {
+          "email": "everettbernhard3442@gsmail.id",
+          "password": "Masuk123@",
+          "addedAt": 1793656583024
         }
       ],
       "sold": 1635,
-      "stock": 1,
+      "stock": 3,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
