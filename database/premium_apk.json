@@ -5644,21 +5644,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "user90476398@ccpro.buzz",
-          "password": "masuk123",
-          "addedAt": 1793577372716
-        },
-        {
-          "email": "user54867432@seakris.fun",
-          "password": "masuk123",
-          "addedAt": 1793577372716
-        },
-        {
-          "email": "user45673351@apimza.store",
-          "password": "masuk123",
-          "addedAt": 1793577372716
-        },
-        {
           "email": "cap00859378@ccpro.buzz",
           "password": "masuk123",
           "addedAt": 1793577372716
@@ -5745,7 +5730,7 @@
         }
       ],
       "sold": 8832,
-      "stock": 20,
+      "stock": 17,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -5993,6 +5978,28 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV1793587243653977",
+          "items": [
+            {
+              "email": "user90476398@ccpro.buzz",
+              "password": "masuk123",
+              "addedAt": 1793577372716
+            },
+            {
+              "email": "user54867432@seakris.fun",
+              "password": "masuk123",
+              "addedAt": 1793577372716
+            },
+            {
+              "email": "user45673351@apimza.store",
+              "password": "masuk123",
+              "addedAt": 1793577372716
+            }
+          ],
+          "qty": 3,
+          "createdAt": "2026-11-02T02:40:43.653Z"
         }
       ],
       "bulk_active": true,
