@@ -5669,7 +5669,7 @@
           "addedAt": 1793577372716
         }
       ],
-      "sold": 8846,
+      "sold": 8847,
       "stock": 5,
       "reserved": [
         {
@@ -5918,18 +5918,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793599494333208",
-          "items": [
-            {
-              "email": "pro06503132@dontol.cfd",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-02T06:04:54.333Z"
         }
       ],
       "bulk_active": true,
