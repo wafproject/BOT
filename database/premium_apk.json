@@ -5864,10 +5864,15 @@
           "email": "similarfrown711@maildropy.com",
           "password": "masuk123",
           "addedAt": 1793651453459
+        },
+        {
+          "email": "user89252492@tokodigipedia.com",
+          "password": "masuk123",
+          "addedAt": 1793651572583
         }
       ],
       "sold": 8851,
-      "stock": 46,
+      "stock": 47,
       "reserved": [
         {
           "id": "RSV1780362536090628",
