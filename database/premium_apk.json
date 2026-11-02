@@ -5689,7 +5689,7 @@
           "addedAt": 1793577372716
         }
       ],
-      "sold": 8835,
+      "sold": 8843,
       "stock": 9,
       "reserved": [
         {
@@ -5938,53 +5938,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793587909647632",
-          "items": [
-            {
-              "email": "cap00859378@ccpro.buzz",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            },
-            {
-              "email": "member25346107@extraku.com",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            },
-            {
-              "email": "cap20723626@aiforlife.tech",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            },
-            {
-              "email": "vip52981943@kilua.app",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            },
-            {
-              "email": "ccuser19341007@scento.cyou",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            },
-            {
-              "email": "cap40351083@digboost.fun",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            },
-            {
-              "email": "pro63425922@aftherrh.site",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            },
-            {
-              "email": "edit59491013@substoretools.com",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            }
-          ],
-          "qty": 8,
-          "createdAt": "2026-11-02T02:51:49.647Z"
         }
       ],
       "bulk_active": true,
