@@ -5967,7 +5967,7 @@
           "addedAt": 1793651572583
         }
       ],
-      "sold": 8851,
+      "sold": 8871,
       "stock": 27,
       "reserved": [
         {
@@ -6216,113 +6216,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793661691144366",
-          "items": [
-            {
-              "email": "‎petrifybuy@sikamba.id",
-              "password": "masuk123",
-              "addedAt": 1793577372716
-            },
-            {
-              "email": "creator35445737@extraku.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "member43538284@roleso.online",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "cap52232886@prembos.online",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "pro59255491@senpro.store",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "creator67906835@dbcapcute.online",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "member76679570@substoretools.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "ccuser84377532@extraku.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "member94654706@extraku.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "member03072733@ccsaku.shop",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "creator33218138@kicaumania.sbs",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "ccuser41865236@picil.store",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "pro50782744@klikdonet.fun",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "edit59743728@dbcapcute.online",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "ccuser66003174@aishfye.site",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "cap72706690@kilua.app",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "cap81275223@kicaumania.sbs",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "vip90352803@premsuppa.best",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "pro97151541@makercapcut.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "vip49126100@saungadaid.pro",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            }
-          ],
-          "qty": 20,
-          "createdAt": "2026-11-02T23:21:31.144Z"
         }
       ],
       "bulk_active": true,
