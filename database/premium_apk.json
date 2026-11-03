@@ -5886,7 +5886,7 @@
           "addedAt": 1793697732777
         }
       ],
-      "sold": 8887,
+      "sold": 8888,
       "stock": 13,
       "reserved": [
         {
@@ -6135,18 +6135,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793701141186249",
-          "items": [
-            {
-              "email": "vip25556111@substoretools.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-03T10:19:01.186Z"
         }
       ],
       "bulk_active": true,
