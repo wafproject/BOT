@@ -5941,7 +5941,7 @@
           "addedAt": 1793651572583
         }
       ],
-      "sold": 8873,
+      "sold": 8874,
       "stock": 24,
       "reserved": [
         {
@@ -6190,18 +6190,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793680150970778",
-          "items": [
-            {
-              "email": "creator95032753@tokodigipedia.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-03T04:29:10.970Z"
         }
       ],
       "bulk_active": true,
