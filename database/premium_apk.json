@@ -5899,7 +5899,7 @@
           "addedAt": 1793697732777
         }
       ],
-      "sold": 8886,
+      "sold": 8887,
       "stock": 14,
       "reserved": [
         {
@@ -6148,18 +6148,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793698495873326",
-          "items": [
-            {
-              "email": "creator19352295@leotechlab1.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-03T09:34:55.873Z"
         }
       ],
       "bulk_active": true,
