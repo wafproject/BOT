@@ -5856,7 +5856,7 @@
           "addedAt": 1793697732777
         }
       ],
-      "sold": 8890,
+      "sold": 8894,
       "stock": 7,
       "reserved": [
         {
@@ -6105,33 +6105,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV179371067018164",
-          "items": [
-            {
-              "email": "vip71057393@serci.app",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "vip80787128@gamepass.games",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "edit94426449@leviosaa-premiums.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "user11326229@itsmecup.sbs",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            }
-          ],
-          "qty": 4,
-          "createdAt": "2026-11-03T12:57:50.181Z"
         }
       ],
       "bulk_active": true,
