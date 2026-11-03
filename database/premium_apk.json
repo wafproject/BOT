@@ -5952,7 +5952,7 @@
           "addedAt": 1793651572583
         }
       ],
-      "sold": 8872,
+      "sold": 8873,
       "stock": 25,
       "reserved": [
         {
@@ -6201,18 +6201,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV179367044184195",
-          "items": [
-            {
-              "email": "ccuser74807400@ilysmdesi.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-03T01:47:21.841Z"
         }
       ],
       "bulk_active": true,
