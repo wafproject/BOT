@@ -5876,7 +5876,7 @@
           "addedAt": 1793697732777
         }
       ],
-      "sold": 8889,
+      "sold": 8890,
       "stock": 11,
       "reserved": [
         {
@@ -6125,18 +6125,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793710172258142",
-          "items": [
-            {
-              "email": "edit63962225@pemiyum.net",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-03T12:49:32.258Z"
         }
       ],
       "bulk_active": true,
