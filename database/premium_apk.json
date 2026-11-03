@@ -5896,7 +5896,7 @@
           "addedAt": 1793651572583
         }
       ],
-      "sold": 8882,
+      "sold": 8883,
       "stock": 15,
       "reserved": [
         {
@@ -6145,18 +6145,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793684539383694",
-          "items": [
-            {
-              "email": "edit65351750@fynxo.sbs",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-03T05:42:19.383Z"
         }
       ],
       "bulk_active": true,
