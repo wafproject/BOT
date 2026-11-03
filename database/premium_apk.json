@@ -5901,7 +5901,7 @@
           "addedAt": 1793651572583
         }
       ],
-      "sold": 8875,
+      "sold": 8882,
       "stock": 16,
       "reserved": [
         {
@@ -6150,48 +6150,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793681865965226",
-          "items": [
-            {
-              "email": "user10332371@ccsaku.shop",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "member18371659@fynxo.sbs",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "cap10778286@malfoy.cyou",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "member19771852@roleso.online",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "marketgrandson@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "showybiology@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "ccuser57372637@broken.best",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            }
-          ],
-          "qty": 7,
-          "createdAt": "2026-11-03T04:57:45.965Z"
         }
       ],
       "bulk_active": true,
