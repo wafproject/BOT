@@ -5886,7 +5886,7 @@
           "addedAt": 1793651572583
         }
       ],
-      "sold": 8884,
+      "sold": 8885,
       "stock": 13,
       "reserved": [
         {
@@ -6135,18 +6135,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793692299615670",
-          "items": [
-            {
-              "email": "user99808634@itsmecup.sbs",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-03T07:51:39.615Z"
         }
       ],
       "bulk_active": true,
