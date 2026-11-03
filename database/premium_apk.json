@@ -5826,7 +5826,7 @@
           "addedAt": 1793697732777
         }
       ],
-      "sold": 8895,
+      "sold": 8900,
       "stock": 1,
       "reserved": [
         {
@@ -6075,38 +6075,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793714856731944",
-          "items": [
-            {
-              "email": "keltonbreitenberg@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "similarfrown711@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            },
-            {
-              "email": "user89252492@tokodigipedia.com",
-              "password": "masuk123",
-              "addedAt": 1793651572583
-            },
-            {
-              "email": "edit66056372@jagakarsa.me",
-              "password": "masuk123",
-              "addedAt": 1793697732777
-            },
-            {
-              "email": "user21133850@ccsaku.shop",
-              "password": "masuk123",
-              "addedAt": 1793697732777
-            }
-          ],
-          "qty": 5,
-          "createdAt": "2026-11-03T14:07:36.731Z"
         }
       ],
       "bulk_active": true,
