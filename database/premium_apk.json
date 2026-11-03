@@ -5879,10 +5879,25 @@
           "email": "user89252492@tokodigipedia.com",
           "password": "masuk123",
           "addedAt": 1793651572583
+        },
+        {
+          "email": "edit66056372@jagakarsa.me",
+          "password": "masuk123",
+          "addedAt": 1793697732777
+        },
+        {
+          "email": "user21133850@ccsaku.shop",
+          "password": "masuk123",
+          "addedAt": 1793697732777
+        },
+        {
+          "email": "creator14366346@broken.best",
+          "password": "masuk12",
+          "addedAt": 1793697732777
         }
       ],
       "sold": 8886,
-      "stock": 12,
+      "stock": 15,
       "reserved": [
         {
           "id": "RSV1780362536090628",
