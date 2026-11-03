@@ -5881,7 +5881,7 @@
           "addedAt": 1793651572583
         }
       ],
-      "sold": 8885,
+      "sold": 8886,
       "stock": 12,
       "reserved": [
         {
@@ -6130,18 +6130,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793692440372604",
-          "items": [
-            {
-              "email": "user09377696@malfoy.cyou",
-              "password": "masuk123",
-              "addedAt": 1793651453459
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-03T07:54:00.372Z"
         }
       ],
       "bulk_active": true,
