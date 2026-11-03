@@ -5821,38 +5821,13 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES https://maildropy.com\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "keltonbreitenberg@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1793651453459
-        },
-        {
-          "email": "similarfrown711@maildropy.com",
-          "password": "masuk123",
-          "addedAt": 1793651453459
-        },
-        {
-          "email": "user89252492@tokodigipedia.com",
-          "password": "masuk123",
-          "addedAt": 1793651572583
-        },
-        {
-          "email": "edit66056372@jagakarsa.me",
-          "password": "masuk123",
-          "addedAt": 1793697732777
-        },
-        {
-          "email": "user21133850@ccsaku.shop",
-          "password": "masuk123",
-          "addedAt": 1793697732777
-        },
-        {
           "email": "creator14366346@broken.best",
           "password": "masuk12",
           "addedAt": 1793697732777
         }
       ],
       "sold": 8895,
-      "stock": 6,
+      "stock": 1,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6100,6 +6075,38 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV1793714856731944",
+          "items": [
+            {
+              "email": "keltonbreitenberg@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1793651453459
+            },
+            {
+              "email": "similarfrown711@maildropy.com",
+              "password": "masuk123",
+              "addedAt": 1793651453459
+            },
+            {
+              "email": "user89252492@tokodigipedia.com",
+              "password": "masuk123",
+              "addedAt": 1793651572583
+            },
+            {
+              "email": "edit66056372@jagakarsa.me",
+              "password": "masuk123",
+              "addedAt": 1793697732777
+            },
+            {
+              "email": "user21133850@ccsaku.shop",
+              "password": "masuk123",
+              "addedAt": 1793697732777
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-11-03T14:07:36.731Z"
         }
       ],
       "bulk_active": true,
