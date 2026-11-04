@@ -6038,7 +6038,7 @@
           "addedAt": 1793822691456
         }
       ],
-      "sold": 8936,
+      "sold": 8945,
       "stock": 46,
       "reserved": [
         {
@@ -6287,58 +6287,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793833721973597",
-          "items": [
-            {
-              "email": "baciyu94@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "gafequ96@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "xuvesi80@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "sagogi91@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "xadomu69@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "pajaha80@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "hukima41@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "bovegi23@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "gofaku67@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            }
-          ],
-          "qty": 9,
-          "createdAt": "2026-11-04T23:08:41.973Z"
         }
       ],
       "bulk_active": true,
