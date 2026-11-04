@@ -5884,11 +5884,6 @@
           "addedAt": 1793754787158
         },
         {
-          "email": "wipiru50@teamcapcut.my.id",
-          "password": "masuk123",
-          "addedAt": 1793754787158
-        },
-        {
           "email": "strollgadget@maildropy.com",
           "password": "masuk123",
           "addedAt": 1793754787159
@@ -5915,7 +5910,7 @@
         }
       ],
       "sold": 8904,
-      "stock": 21,
+      "stock": 20,
       "reserved": [
         {
           "id": "RSV1780362536090628",
