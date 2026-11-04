@@ -6024,7 +6024,7 @@
           "addedAt": 1793756856784
         }
       ],
-      "sold": 8907,
+      "sold": 8908,
       "stock": 43,
       "reserved": [
         {
@@ -6273,18 +6273,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793770912967160",
-          "items": [
-            {
-              "email": "member37043192@ccpro.mom",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-04T05:41:52.967Z"
         }
       ],
       "bulk_active": true,
