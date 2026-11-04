@@ -5938,7 +5938,7 @@
           "addedAt": 1793822691456
         }
       ],
-      "sold": 8945,
+      "sold": 8965,
       "stock": 26,
       "reserved": [
         {
@@ -6187,113 +6187,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV179383481755511",
-          "items": [
-            {
-              "email": "vapigi30@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "nefeyu73@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "bekiyo12@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "fucede35@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "xedoqu81@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "katavu66@teamcapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793756856784
-            },
-            {
-              "email": "hosusi90@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "pecapo44@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "zibube99@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "qiwaqe89@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "nawabe72@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "veposo51@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "buqelo38@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "qejisa43@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "cigesu52@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "xupizi74@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "sajije32@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "tetigu42@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "bidusi80@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "tasolo53@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            }
-          ],
-          "qty": 20,
-          "createdAt": "2026-11-04T23:26:57.555Z"
         }
       ],
       "bulk_active": true,
