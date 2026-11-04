@@ -6029,7 +6029,7 @@
           "addedAt": 1793756856784
         }
       ],
-      "sold": 8906,
+      "sold": 8907,
       "stock": 44,
       "reserved": [
         {
@@ -6278,18 +6278,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793759572293650",
-          "items": [
-            {
-              "email": "ccuser51447664@senpro.store",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-04T02:32:52.293Z"
         }
       ],
       "bulk_active": true,
