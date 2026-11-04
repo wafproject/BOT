@@ -6044,7 +6044,7 @@
           "addedAt": 1793754787159
         }
       ],
-      "sold": 8901,
+      "sold": 8904,
       "stock": 47,
       "reserved": [
         {
@@ -6293,28 +6293,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793754944210731",
-          "items": [
-            {
-              "email": "pro85945307@ilysmdesi.com",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            },
-            {
-              "email": "user72322195@aftherrh.site",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            },
-            {
-              "email": "user36221406@thronebe.sbs",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            }
-          ],
-          "qty": 3,
-          "createdAt": "2026-11-04T01:15:44.211Z"
         }
       ],
       "bulk_active": true,
