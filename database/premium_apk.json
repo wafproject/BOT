@@ -5960,7 +5960,7 @@
           "addedAt": 1793756856784
         }
       ],
-      "sold": 8919,
+      "sold": 8920,
       "stock": 31,
       "reserved": [
         {
@@ -6209,18 +6209,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793779712992283",
-          "items": [
-            {
-              "email": "strollgadget@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793754787159
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-04T08:08:32.992Z"
         }
       ],
       "bulk_active": true,
