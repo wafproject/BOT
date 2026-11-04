@@ -5780,10 +5780,15 @@
           "email": "calebflatley2047@gsmail.id",
           "password": "Masuk123@",
           "addedAt": 1793824110935
+        },
+        {
+          "email": "fayeauer4228@omail.id",
+          "password": "Masuk123@",
+          "addedAt": 1793824591232
         }
       ],
       "sold": 1638,
-      "stock": 1,
+      "stock": 2,
       "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
