@@ -5970,7 +5970,7 @@
           "addedAt": 1793756856784
         }
       ],
-      "sold": 8908,
+      "sold": 8918,
       "stock": 33,
       "reserved": [
         {
@@ -6219,63 +6219,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793772629502390",
-          "items": [
-            {
-              "email": "edit82285176@kayyprem.shop",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            },
-            {
-              "email": "member39061389@seakris.fun",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            },
-            {
-              "email": "edit50678795@kurmandika.de",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            },
-            {
-              "email": "ccuser72522293@keepdev.me",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            },
-            {
-              "email": "pro32853096@seakris.fun",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            },
-            {
-              "email": "pro40619529@deeka.me",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            },
-            {
-              "email": "pro52135216@ccpro.cfd",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            },
-            {
-              "email": "creator99972526@pkdigitalmart.online",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            },
-            {
-              "email": "cap44607651@seakris.fun",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            },
-            {
-              "email": "ccuser57976429@emailqu.com",
-              "password": "masuk123",
-              "addedAt": 1793754787158
-            }
-          ],
-          "qty": 10,
-          "createdAt": "2026-11-04T06:10:29.502Z"
         }
       ],
       "bulk_active": true,
