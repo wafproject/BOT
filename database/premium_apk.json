@@ -4839,20 +4839,8 @@
         }
       ],
       "stock": 979,
-      "sold": 932,
-      "reserved": [
-        {
-          "id": "RSV1793839737241792",
-          "items": [
-            {
-              "email": "loverboy17548@jiangwy.one|https://generator.email/loverboy17548@jiangwy.one",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-05T00:48:57.241Z"
-        }
-      ],
+      "sold": 933,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
