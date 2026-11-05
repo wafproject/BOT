@@ -5784,7 +5784,7 @@
       "descShort": "Full Garansi",
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES http://tmailbersama.my.id\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [],
-      "sold": 8974,
+      "sold": 8991,
       "stock": 0,
       "reserved": [
         {
@@ -6033,98 +6033,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1793849953838792",
-          "items": [
-            {
-              "email": "cevuxa10@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "pepoja72@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "yojuca16@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "rajifi10@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "latutu18@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "wojuci45@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "sinisu74@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "wimizu26@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "fanuke75@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "qureha91@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "cacoga37@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "jeduxo68@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "lalowa23@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "sotheo@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "‎hurepodu@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "‎kinkhpewa@kedaiku.biz.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            },
-            {
-              "email": "‎cucurepase@gsuite.biz.id",
-              "password": "masuk123",
-              "addedAt": 1793822691456
-            }
-          ],
-          "qty": 17,
-          "createdAt": "2026-11-05T03:39:13.838Z"
         }
       ],
       "bulk_active": true,
