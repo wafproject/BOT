@@ -4843,20 +4843,8 @@
         }
       ],
       "stock": 980,
-      "sold": 931,
-      "reserved": [
-        {
-          "id": "RSV1793839501054249",
-          "items": [
-            {
-              "email": "robab1stjlm@kintil.buzz|https://generator.email/robab1stjlm@kintil.buzz",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-05T00:45:01.054Z"
-        }
-      ],
+      "sold": 932,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
