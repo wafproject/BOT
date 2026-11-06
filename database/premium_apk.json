@@ -5770,22 +5770,9 @@
           "addedAt": 1793906895658
         }
       ],
-      "sold": 1640,
+      "sold": 1641,
       "stock": 1,
-      "reserved": [
-        {
-          "id": "RSV1793928927386867",
-          "items": [
-            {
-              "email": "blandoffer@maildropy.com",
-              "password": "masuk123",
-              "addedAt": 1793906895658
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-06T01:35:27.386Z"
-        }
-      ],
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
