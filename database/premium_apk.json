@@ -6000,10 +6000,35 @@
           "email": "podopo54@lovecapcut.my.id",
           "password": "masuk123",
           "addedAt": 1794036847354
+        },
+        {
+          "email": "alex.nix40@euqn.meituy.com",
+          "password": "masuk123",
+          "addedAt": 1794036908703
+        },
+        {
+          "email": "sara.sky68@ugzih6o.kasirmatcha.my.id",
+          "password": "masuk123",
+          "addedAt": 1794036908703
+        },
+        {
+          "email": "mia.cox73@adit.forapps.site",
+          "password": "masuk123",
+          "addedAt": 1794036908703
+        },
+        {
+          "email": "eric.cox59@wiai.meituy.com",
+          "password": "masuk123",
+          "addedAt": 1794036908703
+        },
+        {
+          "email": "eric.sky27@asds.meituy.com",
+          "password": "masuk123",
+          "addedAt": 1794036908703
         }
       ],
       "sold": 9021,
-      "stock": 45,
+      "stock": 50,
       "reserved": [
         {
           "id": "RSV1780362536090628",
