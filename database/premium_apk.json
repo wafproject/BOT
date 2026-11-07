@@ -5773,11 +5773,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES http://tmailbersama.my.id\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "xudufi78@lovecapcut.my.id",
-          "password": "masuk123",
-          "addedAt": 1794036847354
-        },
-        {
           "email": "gaxuco76@lovecapcut.my.id",
           "password": "masuk123",
           "addedAt": 1794036847354
@@ -5934,7 +5929,7 @@
         }
       ],
       "sold": 9039,
-      "stock": 32,
+      "stock": 31,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6182,6 +6177,18 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV179409327877974",
+          "items": [
+            {
+              "email": "xudufi78@lovecapcut.my.id",
+              "password": "masuk123",
+              "addedAt": 1794036847354
+            }
+          ],
+          "qty": 1,
+          "createdAt": "2026-11-07T23:14:38.779Z"
         }
       ],
       "bulk_active": true,
