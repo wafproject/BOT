@@ -4827,20 +4827,8 @@
         }
       ],
       "stock": 977,
-      "sold": 934,
-      "reserved": [
-        {
-          "id": "RSV1794055559395315",
-          "items": [
-            {
-              "email": "ijliou@vothanhtuan.shop|https://generator.email/ijliou@vothanhtuan.shop",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-07T12:45:59.395Z"
-        }
-      ],
+      "sold": 935,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
