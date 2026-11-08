@@ -5923,7 +5923,7 @@
           "addedAt": 1794036908703
         }
       ],
-      "sold": 9040,
+      "sold": 9041,
       "stock": 30,
       "reserved": [
         {
@@ -6172,18 +6172,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV179409822842662",
-          "items": [
-            {
-              "email": "gaxuco76@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1794036847354
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-08T00:37:08.426Z"
         }
       ],
       "bulk_active": true,
