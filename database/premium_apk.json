@@ -5773,38 +5773,13 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES http://tmailbersama.my.id\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "podopo54@lovecapcut.my.id",
-          "password": "masuk123",
-          "addedAt": 1794036847354
-        },
-        {
-          "email": "alex.nix40@euqn.meituy.com",
-          "password": "masuk123",
-          "addedAt": 1794036908703
-        },
-        {
-          "email": "sara.sky68@ugzih6o.kasirmatcha.my.id",
-          "password": "masuk123",
-          "addedAt": 1794036908703
-        },
-        {
-          "email": "mia.cox73@adit.forapps.site",
-          "password": "masuk123",
-          "addedAt": 1794036908703
-        },
-        {
-          "email": "eric.cox59@wiai.meituy.com",
-          "password": "masuk123",
-          "addedAt": 1794036908703
-        },
-        {
           "email": "eric.sky27@asds.meituy.com",
           "password": "masuk123",
           "addedAt": 1794036908703
         }
       ],
       "sold": 9060,
-      "stock": 6,
+      "stock": 1,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6084,6 +6059,38 @@
           ],
           "qty": 5,
           "createdAt": "2026-11-08T04:40:21.078Z"
+        },
+        {
+          "id": "RSV1794112988321926",
+          "items": [
+            {
+              "email": "podopo54@lovecapcut.my.id",
+              "password": "masuk123",
+              "addedAt": 1794036847354
+            },
+            {
+              "email": "alex.nix40@euqn.meituy.com",
+              "password": "masuk123",
+              "addedAt": 1794036908703
+            },
+            {
+              "email": "sara.sky68@ugzih6o.kasirmatcha.my.id",
+              "password": "masuk123",
+              "addedAt": 1794036908703
+            },
+            {
+              "email": "mia.cox73@adit.forapps.site",
+              "password": "masuk123",
+              "addedAt": 1794036908703
+            },
+            {
+              "email": "eric.cox59@wiai.meituy.com",
+              "password": "masuk123",
+              "addedAt": 1794036908703
+            }
+          ],
+          "qty": 5,
+          "createdAt": "2026-11-08T04:43:08.321Z"
         }
       ],
       "bulk_active": true,
