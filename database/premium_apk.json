@@ -5773,26 +5773,6 @@
       "snk": "* AKUN PRIVATE (BUKAN HASIL RESELL)\n• FULL GARANSI 5 HARI\n• MAKSIMAL LOGIN 2 DEVICE\n• DIJUAL SHARING? RESIKO DITANGGUNG SENDIRI\n• BIASAKAN LOGIN JANGAN DITULIS , TAPI DI COPY PASTE BIAR TIDAK KENA LIMIT INCOR\n• BOLEH GANTI PASSWORD, NO CHANGE EMAIL\n• AKSES http://tmailbersama.my.id\n• CAPCUT LAGI SENSI TOLONG PATUHI SNK!",
       "items": [
         {
-          "email": "tizuwa66@lovecapcut.my.id",
-          "password": "masuk123",
-          "addedAt": 1794036847354
-        },
-        {
-          "email": "wurali84@lovecapcut.my.id",
-          "password": "masuk123",
-          "addedAt": 1794036847354
-        },
-        {
-          "email": "yeraqi14@lovecapcut.my.id",
-          "password": "masuk123",
-          "addedAt": 1794036847354
-        },
-        {
-          "email": "kijugo60@lovecapcut.my.id",
-          "password": "masuk123",
-          "addedAt": 1794036847354
-        },
-        {
           "email": "lahaja10@lovecapcut.my.id",
           "password": "masuk123",
           "addedAt": 1794036847354
@@ -5904,7 +5884,7 @@
         }
       ],
       "sold": 9045,
-      "stock": 26,
+      "stock": 22,
       "reserved": [
         {
           "id": "RSV1780362536090628",
@@ -6152,6 +6132,33 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
+        },
+        {
+          "id": "RSV1794101618385848",
+          "items": [
+            {
+              "email": "tizuwa66@lovecapcut.my.id",
+              "password": "masuk123",
+              "addedAt": 1794036847354
+            },
+            {
+              "email": "wurali84@lovecapcut.my.id",
+              "password": "masuk123",
+              "addedAt": 1794036847354
+            },
+            {
+              "email": "yeraqi14@lovecapcut.my.id",
+              "password": "masuk123",
+              "addedAt": 1794036847354
+            },
+            {
+              "email": "kijugo60@lovecapcut.my.id",
+              "password": "masuk123",
+              "addedAt": 1794036847354
+            }
+          ],
+          "qty": 4,
+          "createdAt": "2026-11-08T01:33:38.385Z"
         }
       ],
       "bulk_active": true,
