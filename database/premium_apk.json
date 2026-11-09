@@ -5801,7 +5801,7 @@
           "addedAt": 1794175130901
         }
       ],
-      "sold": 9094,
+      "sold": 9101,
       "stock": 10,
       "reserved": [
         {
@@ -6050,48 +6050,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1794220958559386",
-          "items": [
-            {
-              "email": "tuqufe87@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1794175130901
-            },
-            {
-              "email": "sozixu47@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1794175130901
-            },
-            {
-              "email": "yofeqo17@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1794175130901
-            },
-            {
-              "email": "baloda21@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1794175130901
-            },
-            {
-              "email": "waxipa72@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1794175130901
-            },
-            {
-              "email": "tizita69@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1794175130901
-            },
-            {
-              "email": "godoci35@lovecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1794175130901
-            }
-          ],
-          "qty": 7,
-          "createdAt": "2026-11-09T10:42:38.559Z"
         }
       ],
       "bulk_active": true,
