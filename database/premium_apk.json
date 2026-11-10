@@ -8678,6 +8678,10 @@
       "snk": "* No Garansi\n• Mail format : Email|Password|Refresh_token|Client_id\n• Silahkan copy semua format akun masukan ke @outlookreaderr_bot tools untuk baca mailbox outlook/hotmail tanpa login",
       "items": [
         {
+          "text": "14. TylorThomack625621@hotmail.com|sovav94697|M.C533_SN1.0.U.MsaArtifacts.-CsYo5NHiNovk1tinjPxOEXDXs!FWxYeLrCZNDEXccqeyjURt5psRwGlav!00v0mTSemVgiDEvA0J0vbGwzlZfajhdxRMpO8EgEgFg8!pt4F7ul7*V4UKj4qHIhA2stQvhXApbbvWHEZ3twX16Uo!w!jjXpvKkOnQrPCMiug!dH*aTqkSPGyadxQO96UTWJxlY1mIIBPNkYi9JiyXapPLswC8gVmpXyUr*uDsmjEdAY8U0ZLSyWVM9gguRkc3CD3dTPFc0Y7gVpSIjT8RywLQi6Ne1FvYmRUiNYk8dOqNN97B66YRydnYnpgDh8l*fCLo9Sm9WRo03Bxluxm3wFEtZHuTO1Ed*XnUphsi!3LILQlPvgmM9b1bwNBfz5ePK4YrOF5boFexfOscMNFPcZEW!zoScUKE6tIGOG4IBCBjGX0D|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
+          "addedAt": 1789973399037
+        },
+        {
           "text": "15. StuartBirgen4628@hotmail.com|xfmdcq06557|M.C511_BL2.0.U.MsaArtifacts.-Co7AznYOQ82lU0Z5ha7*wdLhQes!4oF2JQSw6Dyiqfay4*CuoIr0t4xqQo2YnIfaNGMnBMOdrp*5J8dyw3uSOrY6W0wY1tbipdnqxI82i9M67YyHUQU2a9gaGGSZVeCEQhjjTyu17yU8DGY478zx8!DGCFV!k5oiGpUgGhO9cU8!myVTk0mK9RfDdYl39LGwinbqWbvwX25oMVge7QYUo4LDgRZOmOeNPjl5AgY7VoVXXKhhrfz7*qVFA55a8hZ1*u2deGu9ZSKxocb9wwCuRAw0hNx323IA*gYJv1nGCntZDMAbt98O96tEyUQphGrkF6UFz*ZfLf!lC2B*NhY5VeFowRsLxQ8TIouxCjX7oTx4LLdt03PlfWV2ZO*NnfW1Rdl4iqfCBHt*Ms04kLvP*er9IWEPbWu5!YD!LSSAaPWd|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
           "addedAt": 1789973399037
         },
@@ -8827,20 +8831,8 @@
         }
       ],
       "sold": 495,
-      "stock": 37,
-      "reserved": [
-        {
-          "id": "RSV1794277565210637",
-          "items": [
-            {
-              "text": "14. TylorThomack625621@hotmail.com|sovav94697|M.C533_SN1.0.U.MsaArtifacts.-CsYo5NHiNovk1tinjPxOEXDXs!FWxYeLrCZNDEXccqeyjURt5psRwGlav!00v0mTSemVgiDEvA0J0vbGwzlZfajhdxRMpO8EgEgFg8!pt4F7ul7*V4UKj4qHIhA2stQvhXApbbvWHEZ3twX16Uo!w!jjXpvKkOnQrPCMiug!dH*aTqkSPGyadxQO96UTWJxlY1mIIBPNkYi9JiyXapPLswC8gVmpXyUr*uDsmjEdAY8U0ZLSyWVM9gguRkc3CD3dTPFc0Y7gVpSIjT8RywLQi6Ne1FvYmRUiNYk8dOqNN97B66YRydnYnpgDh8l*fCLo9Sm9WRo03Bxluxm3wFEtZHuTO1Ed*XnUphsi!3LILQlPvgmM9b1bwNBfz5ePK4YrOF5boFexfOscMNFPcZEW!zoScUKE6tIGOG4IBCBjGX0D|9e5f94bc-e8a4-4e73-b8be-63364c29d753",
-              "addedAt": 1789973399037
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-10T02:26:05.210Z"
-        }
-      ]
+      "stock": 38,
+      "reserved": []
     },
     {
       "code": "MEITU",
