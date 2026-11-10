@@ -5782,7 +5782,7 @@
           "addedAt": 1794279522526
         }
       ],
-      "sold": 9133,
+      "sold": 9134,
       "stock": 7,
       "reserved": [
         {
@@ -6031,18 +6031,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1794280401193950",
-          "items": [
-            {
-              "email": "wadori63@cutecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1794279522526
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-10T03:13:21.193Z"
         }
       ],
       "bulk_active": true,
