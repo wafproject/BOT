@@ -4795,20 +4795,8 @@
         }
       ],
       "stock": 976,
-      "sold": 935,
-      "reserved": [
-        {
-          "id": "RSV1794382908792737",
-          "items": [
-            {
-              "email": "ferraslav@herilev.top|https://generator.email/ferraslav@herilev.top",
-              "addedAt": 1783266949580
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-11T07:41:48.792Z"
-        }
-      ],
+      "sold": 936,
+      "reserved": [],
       "bulk_active": true,
       "bulk_prices": [
         {
