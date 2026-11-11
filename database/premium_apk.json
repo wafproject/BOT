@@ -5769,7 +5769,7 @@
           "addedAt": 1794367925695
         }
       ],
-      "sold": 9141,
+      "sold": 9142,
       "stock": 6,
       "reserved": [
         {
@@ -6018,18 +6018,6 @@
           ],
           "qty": 1,
           "createdAt": "2026-09-30T04:06:25.538Z"
-        },
-        {
-          "id": "RSV1794367990404896",
-          "items": [
-            {
-              "email": "xigusi31@cutecapcut.my.id",
-              "password": "masuk123",
-              "addedAt": 1794367925694
-            }
-          ],
-          "qty": 1,
-          "createdAt": "2026-11-11T03:33:10.404Z"
         },
         {
           "id": "RSV1794368002514115",
