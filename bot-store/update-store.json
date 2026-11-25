@@ -1,15 +1,16 @@
 {
   "product": "wafproject-store-zapo",
-  "version": "1.2.0",
-  "zip_url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-store/WAF-PROJECT-1.2.0.zip",
-  "sha256": "4ba0678d91260a2e29e97ca570f71efd02d40db9d01acd962d8703541cbdc22e",
+  "version": "1.2.1",
+  "zip_url": "https://raw.githubusercontent.com/wafproject/BOT/main/bot-store/WAF-PROJECT-1.2.1.zip",
+  "sha256": "2ec977f7ae984dc1e272b5a10e226914810e171c8285e67fe556cea422eae6af",
   "notes": [
     "Integrasi BOTCAHX: 480+ fitur baru (downloader, maker, textpro, ephoto, game, islami, dll)",
     "Lepas dari API Jagoan: fitur lama pindah ke botcahx, cek* & roasting jadi offline",
     "Auto AI pakai Gemini langsung (.autoai)",
     "HD: .hd/.remini/.remini2/.remini3/.remini4 + HD lokal (.hdr)",
     "Perbaikan otomatis & log masalah botcahx (.btclog)",
-    "API key emas/topdf/searchdrama dipindah ke settings.js"
+    "API key emas/topdf/searchdrama dipindah ke settings.js",
+    "Tanpa prefix: kata kunci list store tidak lagi dobel dengan perintah (mis. capcut)"
   ],
   "delete": [
     "commands/downloader/github.js",
